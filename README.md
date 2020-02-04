@@ -12,7 +12,9 @@
   <tr>
     <td width=15%><img src=img/icon.png style="width:150px"></td>
     <td>
-    <center>Public Hardware Projects</center>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Public Hardware Projects
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
 </table>
