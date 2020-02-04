@@ -12,7 +12,7 @@
   <tr>
     <td width=15%><img src=img/icon.png style="width:150px"></td>
     <td>
-    Index of Hardware Projects
+    <center>Public Hardware Projects</center>
     </td>
   </tr>
 </table>
