@@ -23,7 +23,7 @@
 
 This is the project index.  Choose a project below
 
-* [printer:](https://github.com/elo-enterprises/hardware/tree/master/printer) Build details for large-format 3d printer, [(manufacturer: Modix)](http://www.modix3d.com/)
+* [printer:](printer/) Build details for large-format 3d printer, [(manufacturer: Modix)](http://www.modix3d.com/)
 
 ## Related Work and References
 

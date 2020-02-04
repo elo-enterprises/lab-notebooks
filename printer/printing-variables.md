@@ -1,5 +1,5 @@
 # PrusaSlicer Plater Variables
-[Printer Variables List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#printing-variables)
+[Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -16,7 +16,7 @@
 | General | scale Z | float | 25 |  | % | not in the INI file;  |
 
 # PrusaSlicer Print Variables
-[Printer Variables List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#printing-variables)
+[Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -126,7 +126,7 @@
 | Notes | notes | text |  |  |  |  |
 
 # PrusaSlicer Filament Variables
-[Printer Variables List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#printing-variables)
+[Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -180,7 +180,7 @@
 | Filament Notes | filament_notes | text |  |  |  |  |
 
 # PrusaSlicer Printer Variables
-[Printer Variables List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#printing-variables)
+[Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -243,7 +243,7 @@
 | Printer Notes | printer_notes |  |  |  |  |  |
 
 # PrusaSlicer Unidentified INI Variables
-[Printer Variables List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#printing-variables)
+[Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -274,14 +274,8 @@
 | wiping_volumes_matrix |  | 0 |  |  |  |
 
 # Marlin Variables
-[Printer Variables List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#printing-variables)
+[Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Parameter Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-------|-------|
 |  |  |  |  |  |  |
-
-
-
-
-
-

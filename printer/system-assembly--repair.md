@@ -1,7 +1,7 @@
 [Modix Customer Zone](https://t.sidekickopen80.com/s1t/c/5/f18dQhb0S7lM8dDMPbW2n0x6l2B9nMJN7t5XWPfhMynN4WJ3rsd7g18W56dHcR3773MR102?te=W3R5hFj26QkHmW4mKDt94hKKYcW49RFxf43PrCxF1VpzckmLXp1&si=8000000001488046&pi=44823df2-2bd3-46d9-997e-65d7bd85908d)
 
 # Structural - Frame & Enclosure
-[Printer Systems List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#system-assembly--repair)
+[Printer Systems List](README.md#system-assembly--repair)
 
 ### Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles
 * fast, easy assembly, no known issues.
@@ -31,17 +31,17 @@
 
 ### Part 1 – Step 13. Assembling the Y Axis
 * fast, easy assembly.
-* when printing test patterns, we noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. We 
+* when printing test patterns, we noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. We
   * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
-  * loosened the front X belt, 
-  * connected the Y axis to the frame using the calibration jigs, 
-  * loosened the screws holding the Y axis profile to the X rails, 
-  * retightened the X belt, 
+  * loosened the front X belt,
+  * connected the Y axis to the frame using the calibration jigs,
+  * loosened the screws holding the Y axis profile to the X rails,
+  * retightened the X belt,
   * retightened the Y axis screws,
-  * retightened the pulley connecting the front X belt to the X shaft and the X idler, 
-  * removed the calibration jigs. 
+  * retightened the pulley connecting the front X belt to the X shaft and the X idler,
+  * removed the calibration jigs.
  This helped, but we also revisited this procedure after retightening the frame screws.
-* [Troubleshooting - Layer Shifts](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#layer-shifts)
+* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
 ### Part 2 – 10. Installing the Support Brackets
 * fast, easy assembly, no known issues.
@@ -68,7 +68,7 @@
 * fast, easy assembly, no known issues.
 
 # Mechanical - Motors Belts & Pulleys
-[Printer Systems List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#system-assembly--repair)
+[Printer Systems List](README.md#system-assembly--repair)
 
 ### Part 1 – Step 2. Assembling the X Idler Pulleys
 * fast, easy assembly, no known issues.
@@ -81,47 +81,47 @@
 * fast assembly, but take extra care to not damage the ball screws.
 * NOTE: did not use glue on screws.
 * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
-* We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench. 
-* [Troubleshooting - Z Motors Binding Up](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#z-motors-binding-up)
+* We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
+* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
 ### Part 1 – Step 12. Installing the X Shaft
 * fast assembly, be careful when installing to not damage any of the gears. No known issues.
-* [Troubleshooting - Layer Shifts](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#layer-shifts)
+* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
 ### Part 1 – Step 14. Installing the Motors
-* We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench. 
+* We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
-* [Troubleshooting - Layer Shifts](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#layer-shifts)
-* [Troubleshooting - Z Motors Binding Up](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#z-motors-binding-up)
+* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
 ### Part 1 – Step 15. Installing the Y Axis Timing Belt
 * fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
-* [Troubleshooting - Layer Shifts](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#layer-shifts)
+* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
-### Part 1 – Step 16. Installing the Timing Belt at the Back X Axis 
+### Part 1 – Step 16. Installing the Timing Belt at the Back X Axis
 * fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
-* [Troubleshooting - Layer Shifts](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#layer-shifts)
+* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
 ### Part 1 – Step 17. Installing the Timing Belt at the Front X Axis
 * fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
-* When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts. 
+* When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
 * When re-tightening the belt, make sure to actually follow the directions and loosen both the screws holding the front X idler pulley and the set screw on the gear. After the belt is hand-tightened, re-tighten the idler bracket and the pulley set screw.
-* [Troubleshooting - Layer Shifts](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#layer-shifts)
+* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
 ### Part 3 – Step 4. Testing X & Y Homing
 * fast, easy to perform the tests.
 * We included testing of Z Home in this step, and discovered a problem with the Z motors binding up. This problem forced us to revisit several steps associated with motors and pulleys.
 
 # Mechanical - Bed & Heater Box
-[Printer Systems List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#system-assembly--repair)
+[Printer Systems List](README.md#system-assembly--repair)
 
 ### Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor
 * fast, easy assembly, no known issues.
@@ -149,12 +149,12 @@
 * fast, easy assembly, no known issues.
 
 # Electrical - Wiring Electronics Box & LCD Screen
-[Printer Systems List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#system-assembly--repair)
+[Printer Systems List](README.md#system-assembly--repair)
 
 ### Part 1 – Step 22. Assembling the LCD Screen
 * fast, easy assembly, though you cannot complete the mounting of this step until after the enclosure is in place.
 * The instructions do not specify which cable goes in which port, so I used blue painter's tape to label one.
-* We had a relatively serious problem with the main button, in that the button would trigger the click action while turning. We removed the plastic cover from the button and have been using the metal knob underneath. 
+* We had a relatively serious problem with the main button, in that the button would trigger the click action while turning. We removed the plastic cover from the button and have been using the metal knob underneath.
 
 ### Part 1 – Step 23. Installing the Electronics Box and Drag Chains
 * fast, easy assembly, no known issues.
@@ -163,21 +163,21 @@
 
 ### Part 2 – Step 1. Wiring the Motors and End Stops
 * slow assembly, take the time to get this right.
-* NOTE: did not use glue when screwing in screws. 
-* When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time. 
-* [Troubleshooting - Z Motors Binding Up](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#z-motors-binding-up)
+* NOTE: did not use glue when screwing in screws.
+* When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
+* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
 ### Part 2 – Step 2. Checking the Controller Wiring
 * slow assembly, take the time to get this right.
-* see wiring diagrams for details. 
+* see wiring diagrams for details.
 
 ### Part 2 – Step 3. Wiring the Extruder
 * slow assembly, take the time to get this right.
-* see wiring diagrams for details. 
+* see wiring diagrams for details.
 
 ### Part 2 – Step 4. Installing the Electronics Box Cover
 * fast, easy assembly. no known issues.
-* see wiring diagrams for details. 
+* see wiring diagrams for details.
 
 ### Part 3 – Step 3. Turning on the Printer
 * fast, easy assembly. no known issues.
@@ -221,7 +221,7 @@
 | Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
 
 # Chemical - HotEnd Extruder & Filament
-[Printer Systems List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#system-assembly--repair)
+[Printer Systems List](README.md#system-assembly--repair)
 
 ### Part 1 – Step 18. Assembling the Hot-End
 * the hot-end looks like the shrimp monster that was put into Neo's belly button in the Matrix.
@@ -232,7 +232,7 @@
 
 ### Part 1 – Step 19. Assembling the Extruder
 * fast assembly, seemingly easy, but confusing, and if I made a mistake I probably wouldn't know how to recognize it.
-* We initially assembled the hot-end without the thermal paste, then revisited and applied it. 
+* We initially assembled the hot-end without the thermal paste, then revisited and applied it.
 * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
 
 ### Part 1 – Step 21. Installing the Extruder on the Y Axis Rail
@@ -251,11 +251,11 @@
 * fast assembly, somewhat confusing, seemed to work to prevent oozing.
 
 # Software & Firmware
-[Printer Systems List](https://github.com/elo-enterprises/hardware/blob/master/printer/README.md#system-assembly--repair)
+[Printer Systems List](README.md#system-assembly--repair)
 
 ### Part 3 – Step 5. Terminal Software and Basic G-Code
 * fast, easy assembly task. Pronterface works great, but does not appear to be necessary for normal workflow.
-* [Troubleshooting - Z Motors Binding Up](https://github.com/elo-enterprises/hardware/blob/master/printer/troubleshooting-issues.md#z-motors-binding-up)
+* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
 ### Part 3 – Step 8. Printing Settings for Slicing Software
 * instructions could use quite a bit more detail here. Refer to tables of variables for details.
@@ -269,7 +269,7 @@
 ### Part 3 – Step 14. Fine Tuning the Printer Dimension Accuracy
 * have not tried to do this yet.
 
-Firmware documentation website: 
+Firmware documentation website:
 http://marlinfw.org/docs/gcode/M206.html
 
 Video introduction to Pronterface recommended by Modix instructions:
@@ -280,7 +280,7 @@ https://www.youtube.com/watch?v=yj0R2RxSZco
 * Simplify3D is proprietary software, recommended by Modix, but it is presently unclear why Modix prefers this software.
 
 ### PrusaSlicer vs Pronterface vs Marlin
-It is not immediately clear to me how the various printer-related software interacts with each other. I get the impression that the goal is to allow the PrusaSlicer parameters to dominate the system. Thus 
+It is not immediately clear to me how the various printer-related software interacts with each other. I get the impression that the goal is to allow the PrusaSlicer parameters to dominate the system. Thus
 Pronterface might not be necessary at all.
 I don’t think PrusaSlicer can control the bed temperature.
 I also think the UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into PrusaSlicer.
@@ -311,10 +311,10 @@ I used SliceNow to slice the object. PrusaSlicer breaks it down into printer-rel
 * Custom
 
 ### Export a GCODE Output File
-I used ExportGCode to create a file, modix-terminator.gcode, consisting of 98,227 lines of code telling the printer every last little thing it has to do in what order with what parameter settings. While GCode is tedious, it is human readable, and there are lists of GCode commands e.g. http://marlinfw.org/docs/gcode/M206.html. 
+I used ExportGCode to create a file, modix-terminator.gcode, consisting of 98,227 lines of code telling the printer every last little thing it has to do in what order with what parameter settings. While GCode is tedious, it is human readable, and there are lists of GCode commands e.g. http://marlinfw.org/docs/gcode/M206.html.
 
 ### Parameters
-A PrusaSlicer Configuration Snapshot is the collection of slicer version information, plus 
+A PrusaSlicer Configuration Snapshot is the collection of slicer version information, plus
 * Print settings
 * Filament settings
 * Printer settings
