@@ -183,6 +183,9 @@ Open design for a smart, self-contained, off-grid water module / misting cabinet
 
 # Related Work and References
 
-* Batteries:
+* Batteries
   * [Sealed vs Unsealed Lead Acid](https://www.cleanlink.com/sm/article/What-To-Know-About-Sealed-Lead-Acid-Batteries--20866)
-* [Pump types](http://www.pumpscout.com/articles-scout-guide/pump-types-guide-aid100.html)
+* Pumps
+  * [Pump Type Overview](http://www.pumpscout.com/articles-scout-guide/pump-types-guide-aid100.html)
+* MicroGardening & Botany
+  * [Farmbot!](https://farm.bot/)
