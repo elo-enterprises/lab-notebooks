@@ -21,13 +21,13 @@
       <tr>
         <td>
           <a href="printer/">
-            <img src=img/printer.png style="width:45px">
+            <img src="img/printer.png" width=45px>
             3d Printing <br/>
           </a>
         </td>
         <td>
           <a href="water-tower/">
-            <img src="img/water-tower.png" style="width:45px">
+            <img src="img/water-tower.png" width=45px>
             WaterTower <br/>
           </a>
         </td>
@@ -43,7 +43,7 @@ This is the project index.  Choose a project below
 
 ### [WaterTower](water-tower/)
 
-Open design for a modular, smart, self-contained, off-grid water system / misting cabinet / shower.
+Open design for a modular, smart, self-contained, off-grid water system / misting cabinet.
 
 ### [Printer](printer/)
 

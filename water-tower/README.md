@@ -1,5 +1,5 @@
 <table>
-  <tr><th><strong>packer</strong></th>
+  <tr><th><strong>WaterTower</strong></th>
     <th style="padding:0px 5px;text-align:right;float:right;">
       <small><small>
         <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
@@ -10,22 +10,22 @@
     </th>
   </tr>
   <tr>
-    <td width=15%><img src=../img/water-tower.png style="width:150px"></td>
+    <td width=15%><img src="../img/water-tower.png" width=150></td>
     <td>
-    Water Tower
+    Open design for a modular, smart, self-contained, off-grid water system / misting cabinet.
     </td>
   </tr>
 </table>
 
 # Overview
 
-Open design for a smart, self-contained, off-grid water module / misting cabinet / shower
+Open design for a modular, smart, self-contained, off-grid water system / misting cabinet.
 
 ------------
 
 # Method
 
-//TODO: add notes about order of operations in assembling pieces, difficulties encountered, etc.
+## Assembly
 
 ### Action Items List
 
