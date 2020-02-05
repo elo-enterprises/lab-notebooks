@@ -1,8 +1,9 @@
 <table>
-  <tr><th><strong>ELO Engineering</strong></th>
+  <tr>
+    <th col><strong>Elo Engineering</strong></th>
     <th style="padding:0px 5px;text-align:right;float:right;">
       <small><small>
-        <a href=https://github.com/elo-enterprises/hardware>Index</a> |
+        <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
         <a href=#overview>Overview</a> |
         <a href=#related-work>Related Work</a> |
         <a href=#workflows>Workflows</a>
@@ -11,10 +12,27 @@
   </tr>
   <tr>
     <td width=15%><img src=img/icon.png style="width:150px"></td>
-    <td>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    Public Hardware Projects
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <td colspan=2>
+    <center>
+    <table style="width:100%;">
+      <tr>
+        <th colspan=2>Public Hardware Projects</th>
+      </tr>
+      <tr>
+        <td>
+          <a href="printer/">
+            <img src=img/printer.png style="width:45px">
+            3d Printing <br/>
+          </a>
+        </td>
+        <td>
+          <a href="water-tower/">
+            <img src="img/water-tower.png" style="width:45px">
+            WaterTower <br/>
+          </a>
+        </td>
+      </tr>
+    </table></center>
     </td>
   </tr>
 </table>
@@ -23,13 +41,10 @@
 
 This is the project index.  Choose a project below
 
-* [printer:](printer/) Build details for large-format 3d printer, [(manufacturer: Modix)](http://www.modix3d.com/)
+### [WaterTower](water-tower/)
 
-## Related Work and References
+Open design for a modular, smart, self-contained, off-grid water system / misting cabinet / shower.
 
-* Placeholder
-* Placeholder
-* Placeholder
-* Placeholder
-* Placeholder
-* Placeholder
+### [Printer](printer/)
+
+Build details, calibration notes, and test prints for a [Modix](http://www.modix3d.com/) large-format 3d printer.
