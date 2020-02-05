@@ -278,4 +278,13 @@
 
 | Group Name | Parameter Name | Data Type | Parameter Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-------|-------|
+| Tuning | Speed | integer | 100 |  |  |
+| Tuning | Fade Height | integer | 0 |  |  |
+| Tuning | Nozzle 1 | integer | 200 |  |  |
+| Tuning | Nozzle 2 | integer | 0 |  |  |
+| Tuning | Fan Speed | integer | 0 |  |  |
+| Tuning | Flow | integer | 100 |  |  |
+| Tuning | Flow 1 | integer | 100 |  |  |
+| Tuning | Flow 2 | integer | 100 |  |  |
+| Tuning | Probe Z Offset | -0.700 |  |  |  |
 |  |  |  |  |  |  |
