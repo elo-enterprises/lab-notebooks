@@ -3,24 +3,24 @@
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
-| General | supports | select list | none |  | none, build plate only, support enforcers only, everywhere | not in the INI file;  |
-| General | infill | float | 20 |  | % | 3-13 - 40% for strong part, 20% for a solid model; not in the INI file;  |
-| General | position X | float | 290 |  | mm | not in the INI file;  |
-| General | position Y | float | 300 |  | mm | not in the INI file;  |
-| General | position Z | float | 20.7 |  | mm | not in the INI file;  |
-| General | rotate X | float | 0 |  | degrees | not in the INI file;  |
-| General | rotate Y | float | 0 |  | degrees | not in the INI file;  |
-| General | rotate Z | float | 0 |  | degrees | not in the INI file;  |
-| General | scale X | float | 25 |  | % | not in the INI file;  |
-| General | scale Y | float | 25 |  | % | not in the INI file;  |
-| General | scale Z | float | 25 |  | % | not in the INI file;  |
+| General | supports | select list | none | none | none, build plate only, support enforcers only, everywhere | not in the INI file;  |
+| General | infill | float | 20 | 100 | % | 3-13 - 40% for strong part, 20% for a solid model; not in the INI file;  |
+| General | position X | float | 290 | 290 | mm | not in the INI file;  |
+| General | position Y | float | 300 | 300 | mm | not in the INI file;  |
+| General | position Z | float | 20.7 | 1 | mm | not in the INI file;  |
+| General | rotate X | float | 0 | 0 | degrees | not in the INI file;  |
+| General | rotate Y | float | 0 | 0 | degrees | not in the INI file;  |
+| General | rotate Z | float | 0 | 0 | degrees | not in the INI file;  |
+| General | scale X | float | 50 | 50 | % | not in the INI file;  |
+| General | scale Y | float | 50 | 50 | % | not in the INI file;  |
+| General | scale Z | float | 50 | 50 | % | not in the INI file;  |
 
 # PrusaSlicer Print Variables
 [Printer Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
-| Layers and Perimeters | print_settings_id | text | BIG60_PLA_basicc_onfig.ini |  |  |  |
+| Layers and Perimeters | print_settings_id | text | BIG60_PLA_basicc_onfig.ini | elo-print |  |  |
 | Layers and Perimeters | layer_height | float | 0.2 | 0.3 | mm |  |
 | Layers and Perimeters | first_layer_height | float | 0.2 | 0.35 | mm or % |  |
 | Layers and Perimeters | perimeters | integer | 3 | 3 |  | 3-13 - 3 is a good starting point |
@@ -34,8 +34,8 @@
 | Layers and Perimeters | overhangs | boolean | 1 | 1 |  |  |
 | Layers and Perimeters | seam_position | select list | Random | Random | Random, Nearest, Aligned, Rear |  |
 | Layers and Perimeters | external_perimeters_first | boolean | 0 | 0 |  |  |
-| Infill | fill_density | float | 10% | 20% | % |  |
-| Infill | fill_pattern | select list | Rectilinear | Stars | Rectilinear, Grid, Triangles, Stars, Cubic, Line, Concentric, Honeycomb, 3D Honeycomb, Gyroid, Hilbert Curve, Archimedean Chords, Octagram Spiral |  |
+| Infill | fill_density | float | 20% | 100% | % |  |
+| Infill | fill_pattern | select list | Rectilinear | Rectilinear | Rectilinear, Grid, Triangles, Stars, Cubic, Line, Concentric, Honeycomb, 3D Honeycomb, Gyroid, Hilbert Curve, Archimedean Chords, Octagram Spiral |  |
 | Infill | top_fill_pattern | select list | Rectilinear | Rectilinear | Rectilinear, Concentric, Hilbert Curve, Archimedean Chords, Octagram Spiral |  |
 | Infill | bottom_fill_pattern | select list | Rectilinear | Rectilinear | Rectilinear, Concentric, Hilbert Curve, Archimedean Chords, Octagram Spiral |  |
 | Infill | infill_every_layers | integer | 1 | 1 | layers |  |
@@ -46,17 +46,17 @@
 | Infill | bridge_angle | float | 0 | 0 | degrees |  |
 | Infill | only_retract_when_crossing_perimeters | boolean | 1 | 1 |  |  |
 | Infill | infill_first | boolean | 0 | 0 |  |  |
-| Skirt and Brim | skirts | integer | 2 | 1 |  |  |
-| Skirt and Brim | skirt_distance | float | 10 | 6 | mm |  |
+| Skirt and Brim | skirts | integer | 2 | 2 |  |  |
+| Skirt and Brim | skirt_distance | float | 10 | 8 | mm |  |
 | Skirt and Brim | skirt_height | integer | 1 | 1 | layers |  |
 | Skirt and Brim | min_skirt_length | float | 0 | 0 | mm |  |
 | Skirt and Brim | brim_width | float | 0 | 0 | mm |  |
 | Support Material | support_material | boolean | 1 | 0 |  |  |
-| Support Material | support_material_auto | boolean | 1 | 1 |  |  |
+| Support Material | support_material_auto | boolean | 1 | 0 |  |  |
 | Support Material | support_material_threshold | float | 60 | 0 | degrees |  |
 | Support Material | support_material_enforce_layers | integer | 0 | 0 | layers |  |
 | Support Material | raft_layers | integer | 0 | 0 | layers |  |
-| Support Material | support_material_contact_distance | select list | 0.2  (detachable) | 0 (soluble), 0.2  (detachable)  | mm |  |
+| Support Material | support_material_contact_distance | select list | 0.2  (detachable) | 0.2  (detachable) | 0 (soluble), 0.2  (detachable) |  |
 | Support Material | support_material_pattern | select list | Rectilinear | Rectilinear | Rectilinear, Rectilinear Grid, Honeycomb |  |
 | Support Material | support_material_with_sheath | boolean | 1 | 1 |  |  |
 | Support Material | support_material_spacing | float | 2.5 | 2.5 | mm |  |
@@ -78,8 +78,8 @@
 | Speed | support_material_interface_speed | float | 100% | 100% | mm/s or % |  |
 | Speed | bridge_speed | float | 80 | 60 | mm/s |  |
 | Speed | gap_fill_speed | float | 20 | 20 | mm/s |  |
-| Speed | travel_speed | float | 70 | 70 | mm/s |  |
-| Speed | first_layer_speed | float | 30% | 30% | mm/s or % |  |
+| Speed | travel_speed | float | 70 | 130 | mm/s |  |
+| Speed | first_layer_speed | float | 30% | 30 | mm/s or % |  |
 | Speed | perimeter_acceleration | float | 0 | 0 | mm/s2 |  |
 | Speed | infill_acceleration | float | 0 | 0 | mm/s2 |  |
 | Speed | bridge_acceleration | float | 0 | 0 | mm/s2 |  |
@@ -100,6 +100,7 @@
 | Multiple Extruders | wipe_tower_width | float | 60 | 60 | mm |  |
 | Multiple Extruders | wipe_tower_rotation_angle | float | 0 | 0 | degrees |  |
 | Multiple Extruders | wipe_tower_bridging | float | 10 | 10 | mm |  |
+| Multiple Extruders | "prime all printing extruders" | boolean |  | 1 |  |  |
 | Multiple Extruders | interface_shells | boolean | 0 | 0 |  |  |
 | Advanced | extrusion_width | float | 0 | 0.45 | mm or % |  |
 | Advanced | first_layer_extrusion_width | float | 100% | 0.42 | mm or % |  |
