@@ -12,8 +12,9 @@
   </tr>
   <tr>
     <td width=15%><img src=img/icon.png style="width:150px"></td>
-    <td colspan=2>
+    <td width=100%>
     <center>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <table style="width:100%;">
       <tr>
         <th colspan=2>Public Hardware Projects</th>
@@ -22,13 +23,13 @@
         <td>
           <a href="printer/">
             <img src="img/printer.png" width=45px>
-            3d Printing <br/>
+            3d-Printing
           </a>
         </td>
         <td>
           <a href="water-tower/">
             <img src="img/water-tower.png" width=45px>
-            WaterTower <br/>
+            WaterTower
           </a>
         </td>
       </tr>
