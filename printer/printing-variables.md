@@ -131,22 +131,22 @@
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
-| Filament | filament_settings_id | text | BIG60_PLA_basicc_onfig.ini |  |  |  |
+| Filament | filament_settings_id | text | BIG60_PLA_basicc_onfig.ini | elo-filament |  |  |
 | Filament | filament_colour | color code | #1100B2 | #1100B2 |  |  |
 | Filament | filament_diameter | float | 1.75 | 1.75 | mm |  |
 | Filament | extrusion_multiplier | float | 1 | 1 |  | 3-13 - lower to 0.9 for models that have moving parts or need high accuracy, make it 1.15 for thin wall parts that need some extra strength. |
 | Filament | filament_density | float | 0 | 0 | g/cm3 |  |
 | Filament | filament_cost | float | 0 | 0 | money/kg |  |
-| Filament | first_layer_temperature | float | 220 | 230 | C | 3-13 - keep at 230°C for PLA to get a good first layer |
-| Filament | temperature | float | 210 | 210 | C | 3-13 - keep around 210-220°C for PLA, depends on the filament provider |
-| Filament | first_layer_bed_temperature | float | 0 | 60 | C | unclear whether this can actually be controlled through PrusaSlicer/gcode or is only set at the printer |
-| Filament | bed_temperature | float | 0 | 60 | C | unclear whether this can actually be controlled through PrusaSlicer/gcode or is only set at the printer |
+| Filament | first_layer_temperature | float | 220 | 200 | C | 3-13 - keep at 230°C for PLA to get a good first layer |
+| Filament | temperature | float | 210 | 203 | C | 3-13 - keep around 210-220°C for PLA, depends on the filament provider |
+| Filament | first_layer_bed_temperature | float | 0 | 0 | C | this field can only be set at the printer |
+| Filament | bed_temperature | float | 0 | 0 | C | this field can only be set at the printer |
 | Cooling | fan_always_on | boolean | 0 | 0 |  |  |
 | Cooling | cooling | boolean | 1 | 1 |  |  |
 | Cooling | min_fan_speed | float | 35 | 35 | % |  |
 | Cooling | max_fan_speed | float | 100 | 100 | % |  |
 | Cooling | bridge_fan_speed | float | 100 | 100 | % |  |
-| Cooling | disable_fan_first_layers | integer | 1 | 1 |  |  |
+| Cooling | disable_fan_first_layers | integer | 1 | 3 |  |  |
 | Cooling | fan_below_layer_time | float | 60 | 60 | s |  |
 | Cooling | slowdown_below_layer_time | float | 5 | 5 | s |  |
 | Cooling | min_print_speed | float | 10 | 10 | mm/s |  |
@@ -185,16 +185,16 @@
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
-| General | printer_settings_id | text | BIG60_PLA_basicc_onfig.ini |  |  |  |
+| General | printer_settings_id | text | BIG60_PLA_basicc_onfig.ini | elo-printer |  |  |
 | General | bed_shape | float | 0x0,600x0,600x600,0x600 | 0x0,580x0,580x600,0x600 | mm | 3-09, set the bed shape to match the big60 |
 | General | max_print_height | float | 200 | 200 | mm |  |
 | General | z_offset | float | 0 | 0 | mm | 3-06-04 - Modix said that values in this field in PrusaSlicer will override the value in Marlin |
-| General | single_extruder_multi_material_priming | integer | 1 | 1 |  |  |
+| General | single_extruder_multi_material_priming | integer | 1 | 1 |  | need to verify this field is documented correctly - change the value and verify the change in the ini |
 | General | single_extruder_multi_material | boolean | 0 | 0 |  |  |
 | General | host_type | select list | OctoPrint | OctoPrint | Octoprint, Duet |  |
 | General | printhost_cafile | file |  |  |  |  |
 | General | printhost_apikey | api key |  |  |  |  |
-| General | gcode_flavor | select list | RepRap/Sprinter | marlin | RepRap/Sprinter, Repetier, Teacup, MakerWare, Marlin, Sailfish, Mach3/LinuxCNC, Machinekit, Smoothie, No Extrusion |  |
+| General | gcode_flavor | select list | RepRap/Sprinter | Marlin | RepRap/Sprinter, Repetier, Teacup, MakerWare, Marlin, Sailfish, Mach3/LinuxCNC, Machinekit, Smoothie, No Extrusion |  |
 | General | silent_mode | boolean | 1 | 1 |  |  |
 | General | remaining_times | boolean | 0 | 0 |  |  |
 | General | use_relative_e_distances | boolean | 0 | 0 |  |  |
@@ -207,28 +207,28 @@
 | Custom G-Code | layer_gcode | g-code |  |  |  |  |
 | Custom G-Code | toolchange_gcode | g-code |  |  |  |  |
 | Custom G-Code | between_objects_gcode | g-code |  |  |  |  |
-| Machine Limits | machine_max_feedrate_x | float | 500, 200 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_feedrate_y | float | 500, 200 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_feedrate_z | float | 12, 12 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_feedrate_e | float | 120, 120 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_acceleration_x | float | 90, 001, 000 |  | dm/s2, dm/s2 |  |
-| Machine Limits | machine_max_acceleration_y | float | 90, 001, 000 |  | dm/s2, dm/s2 |  |
-| Machine Limits | machine_max_acceleration_z | float | 500, 200 |  | dm/s2, dm/s2 |  |
-| Machine Limits | machine_max_acceleration_e | float | 100, 005, 000 |  | dm/s2, dm/s2 |  |
-| Machine Limits | machine_max_acceleration_extruding | float | 15, 001, 250 |  | dm/s2, dm/s2 |  |
-| Machine Limits | machine_max_acceleration_retracting | float | 15, 001, 250 |  | dm/s2, dm/s2 |  |
-| Machine Limits | machine_max_jerk_x | float | 10, 10 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_jerk_y | float | 10, 10 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_jerk_z | float | 0.2, 0.4 |  | mm/s, mm/s |  |
-| Machine Limits | machine_max_jerk_e | float | 2.5, 2.5 |  | mm/s, mm/s |  |
-| Machine Limits | machine_min_extruding_rate | float | 0, 0 |  | mm/s, mm/s |  |
-| Machine Limits | machine_min_travel_rate | float | 0, 0 |  | mm/s, mm/s |  |
+| Machine Limits | machine_max_feedrate_x | float |  | 500, 200 | mm/s, mm/s |  |
+| Machine Limits | machine_max_feedrate_y | float |  | 500, 200 | mm/s, mm/s |  |
+| Machine Limits | machine_max_feedrate_z | float |  | 12, 12 | mm/s, mm/s |  |
+| Machine Limits | machine_max_feedrate_e | float |  | 120, 120 | mm/s, mm/s |  |
+| Machine Limits | machine_max_acceleration_x | float |  | 90, 10, 000 | dm/s2, dm/s2 |  |
+| Machine Limits | machine_max_acceleration_y | float |  | 90, 10, 000 | dm/s2, dm/s2 |  |
+| Machine Limits | machine_max_acceleration_z | float |  | 500, 200 | mm/s2, mm/s2 |  |
+| Machine Limits | machine_max_acceleration_e | float |  | 100, 50, 000 | dm/s2, dm/s2 |  |
+| Machine Limits | machine_max_acceleration_extruding | float |  | 15, 001, 250 | dm/s2, dm/s2 |  |
+| Machine Limits | machine_max_acceleration_retracting | float |  | 15, 001, 250 | dm/s2, dm/s2 |  |
+| Machine Limits | machine_max_jerk_x | float |  | 10, 10 | mm/s, mm/s |  |
+| Machine Limits | machine_max_jerk_y | float |  | 10, 10 | mm/s, mm/s |  |
+| Machine Limits | machine_max_jerk_z | float |  | 0.2, 0.4 | mm/s, mm/s |  |
+| Machine Limits | machine_max_jerk_e | float |  | 2.5, 2.5 | mm/s, mm/s |  |
+| Machine Limits | machine_min_extruding_rate | float |  | 0, 0 | mm/s, mm/s |  |
+| Machine Limits | machine_min_travel_rate | float |  | 0, 0 | mm/s, mm/s |  |
 | Extruder 1 | nozzle_diameter | float | 0.4 | 0.4 | mm | 3-09 set per the nozzle |
 | Extruder 1 | min_layer_height | float | 0.07 | 0.07 | mm |  |
 | Extruder 1 | max_layer_height | float | 0 | 0 | mm |  |
 | Extruder 1 | extruder_offset | float | 0x0 | 0x0 | mm, mm |  |
 | Extruder 1 | retract_length | float | 2 | 2 | mm |  |
-| Extruder 1 | retract_lift | float | 0.2 | 0.2 | mm |  |
+| Extruder 1 | retract_lift | float | 0.2 | 0 | mm |  |
 | Extruder 1 | retract_lift_above | float | 0 | 0 | mm |  |
 | Extruder 1 | retract_lift_below | float | 0 | 0 | mm |  |
 | Extruder 1 | retract_speed | float | 40 | 40 | mm/s |  |
@@ -288,4 +288,25 @@
 | Tuning | Flow 1 | integer | 100 |  |  |
 | Tuning | Flow 2 | integer | 100 |  |  |
 | Tuning | Probe Z Offset | float | -0.700 |  |  |
+| Control - Motion - Velocity | Vmax X | integer | 500 |  |  |
+| Control - Motion - Velocity | Vmax Y | integer | 500 |  |  |
+| Control - Motion - Velocity | Vmax Z | integer | 12 |  |  |
+| Control - Motion - Velocity | Vmax E | integer | 120 |  |  |
+| Control - Motion - Velocity | Vmin | integer | 0 |  |  |
+| Control - Motion - Velocity | Vtrav min | integer | 0 |  |  |
+| Control - Motion - Acceleration | Accel | integer | 1500 |  |  |
+| Control - Motion - Acceleration | A-retract | integer | 1500 |  |  |
+| Control - Motion - Acceleration | A-travel | integer | 1500 |  |  |
+| Control - Motion - Acceleration | Amax X | integer | 9000 |  |  |
+| Control - Motion - Acceleration | Amax Y | integer | 9000 |  |  |
+| Control - Motion - Acceleration | Amax Z | integer | 500 |  |  |
+| Control - Motion - Acceleration | Amax E | integer | 10000 |  |  |
+| Control - Motion - Jerk | Vx-jerk | integer | 10 |  |  |
+| Control - Motion - Jerk | Vy-jerk | integer | 10 |  |  |
+| Control - Motion - Jerk | Vz-jerk | float | 0.2 |  |  |
+| Control - Motion - Jerk | Ve-jerk | integer | 3 |  |  |
+| Control - Motion - Steps-mm | Xsteps-mm | float | 200 |  |  |
+| Control - Motion - Steps-mm | Ysteps-mm | float | 100 |  |  |
+| Control - Motion - Steps-mm | Zsteps-mm | float | 2000 |  |  |
+| Control - Motion - Steps-mm | Esteps-mm | float | 418.5 |  |  |
 |  |  |  |  |  |  |
