@@ -288,6 +288,16 @@
 | Tuning | Flow 1 | integer | 100 |  |  |
 | Tuning | Flow 2 | integer | 100 |  |  |
 | Tuning | Probe Z Offset | float | -0.700 |  |  |
+| Control - Temperature | Nozzle 1 | integer | 0 |  |  |
+| Control - Temperature | Nozzle 2 | integer | 0 |  |  |
+| Control - Temperature | Fan Speed | integer | 0 |  |  |
+| Control - Temperature | Autotemp | On-Off | Off |  |  |
+| Control - Temperature | Min | integer | 0 |  |  |
+| Control - Temperature | Max | integer | 250 |  |  |
+| Control - Temperature | Fact | float | 0.1 |  |  |
+| Control - Temperature | PID-P | float | 22.2 |  |  |
+| Control - Temperature | PID-I | float | 1.08 |  |  |
+| Control - Temperature | PID-D | float | 59.5 |  |  |
 | Control - Motion - Velocity | Vmax X | integer | 500 |  |  |
 | Control - Motion - Velocity | Vmax Y | integer | 500 |  |  |
 | Control - Motion - Velocity | Vmax Z | integer | 12 |  |  |
@@ -309,4 +319,11 @@
 | Control - Motion - Steps-mm | Ysteps-mm | float | 100 |  |  |
 | Control - Motion - Steps-mm | Zsteps-mm | float | 2000 |  |  |
 | Control - Motion - Steps-mm | Esteps-mm | float | 418.5 |  |  |
-|  |  |  |  |  |  |
+| Control - Filament | Advance K | float | 0 |  |  |
+| Control - Filament | E in mm3 |On-Off | Off |  |  |
+| Control - Filament | Unload mm | integer | 100 |  |  |
+| Control - Filament | Unload mm 1 | integer | 100 |  |  |
+| Control - Filament | Unload mm 2 | integer | 100 |  |  |
+| Control - Filament | Load mm | integer | 0 |  |  |
+| Control - Filament | Load mm 1 | integer | 0 |  |  |
+| Control - Filament | Load mm 2 | integer | 0 |  |  |
