@@ -100,7 +100,7 @@
 | Multiple Extruders | wipe_tower_width | float | 60 | 60 | mm |  |
 | Multiple Extruders | wipe_tower_rotation_angle | float | 0 | 0 | degrees |  |
 | Multiple Extruders | wipe_tower_bridging | float | 10 | 10 | mm |  |
-| Multiple Extruders | "prime all printing extruders" | boolean |  | 1 |  |  |
+| Multiple Extruders | single_extruder_multi_material_priming | boolean |  | 1 |  |  |
 | Multiple Extruders | interface_shells | boolean | 0 | 0 |  |  |
 | Advanced | extrusion_width | float | 0 | 0.45 | mm or % |  |
 | Advanced | first_layer_extrusion_width | float | 100% | 0.42 | mm or % |  |
@@ -189,7 +189,7 @@
 | General | bed_shape | float | 0x0,600x0,600x600,0x600 | 0x0,580x0,580x600,0x600 | mm | 3-09, set the bed shape to match the big60 |
 | General | max_print_height | float | 200 | 200 | mm |  |
 | General | z_offset | float | 0 | 0 | mm | 3-06-04 - Modix said that values in this field in PrusaSlicer will override the value in Marlin |
-| General | single_extruder_multi_material_priming | integer | 1 | 1 |  | need to verify this field is documented correctly - change the value and verify the change in the ini |
+| General | "Extruders" | integer | 1 | 1 |  |  |
 | General | single_extruder_multi_material | boolean | 0 | 0 |  |  |
 | General | host_type | select list | OctoPrint | OctoPrint | Octoprint, Duet |  |
 | General | printhost_cafile | file |  |  |  |  |
