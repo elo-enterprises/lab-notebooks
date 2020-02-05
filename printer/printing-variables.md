@@ -286,5 +286,5 @@
 | Tuning | Flow | integer | 100 |  |  |
 | Tuning | Flow 1 | integer | 100 |  |  |
 | Tuning | Flow 2 | integer | 100 |  |  |
-| Tuning | Probe Z Offset | -0.700 |  |  |  |
+| Tuning | Probe Z Offset | float | -0.700 |  |  |
 |  |  |  |  |  |  |
