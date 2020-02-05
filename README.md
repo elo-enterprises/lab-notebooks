@@ -11,7 +11,7 @@
     </th>
   </tr>
   <tr>
-    <td width=15%><img src=img/icon.png style="width:150px"></td>
+    <td width=15%><img src="img/icon.png" style="width:150px"></td>
     <td width=100%>
     <center>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
