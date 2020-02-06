@@ -113,7 +113,8 @@ The first layer speed is set to 30 mm/s. The Z offset is set to -0.7mm.
 
 Testing
  * For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol. This did not work, and the first layer is still not sticking. 
- * For the second test, I started the print, then tuned the Z offset to -0.75mm. 
+ * For the second test, I started the print, then tuned the Z offset to -0.75mm. The problem persists, with a few notes: (1) the test print first layer consists of thin circular walls, which could be more difficult to make the first layer stick than e.g. a single rectangle with more continuous surface area. (2) the circles in the middle y with higher x stick better than the others, which could be explained by differences in height across the bed.
+  * For the third test, I lowered the first layer speed to 30% of the 50 mm/s total, rather than 30 mm/s, leaving the Z offset at -0.75. 
 
 
 # Grinding or Stripping Filament
