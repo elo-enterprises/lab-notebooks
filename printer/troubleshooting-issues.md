@@ -109,7 +109,11 @@ Possible Causes:
 
 On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that. 
 
-The first layer speed is set to 30 mm/s. For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol.
+The first layer speed is set to 30 mm/s. The Z offset is set to -0.7mm. 
+
+Testing
+ * For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol. This did not work, and the first layer is still not sticking. 
+ * For the second test, I started the print, then tuned the Z offset to -0.75mm. 
 
 
 # Grinding or Stripping Filament
