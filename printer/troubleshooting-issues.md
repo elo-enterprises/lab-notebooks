@@ -75,6 +75,15 @@ When first turning the printer on, we encountered serious trouble with the Z mot
 # Curling or Rough Corners
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/curling-or-rough-corners/)
+
+On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that. 
+
+
+# Overheating
+[Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/overheating/)
 
 
 # Warping
@@ -89,31 +98,42 @@ When first turning the printer on, we encountered serious trouble with the Z mot
 # First Layer Not Sticking to the Bed
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
 
+Possible Causes:
+ * the bed is not level
+ * the nozzle starts too far away from the bed
+ * the first layer is printing too fast
+ * incorrect temperature or cooling settings
+ * problems with the bed surface
+
+On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that. 
+
+The first layer speed is set to 30 mm/s. For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol.
 
 
 # Grinding or Stripping Filament
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
 
 
 # Clogged Extruder
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/)
+
 
 # Stops Extruding Mid Print
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/)
 
 
 # Not Extruding at Start of Print
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/
+[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/)
 
 
 # Troubleshooting Data Sources
