@@ -42,6 +42,11 @@ When first turning the printer on, we encountered serious trouble with the Z mot
 
 
 
+# Spaghetti Monster
+[Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+On the print MU75_joint_ring_extension, I encountered the same failure scenario twice. The object is a tall cylinder, which means it does not have a lot of surface area to bind with the bed. Both times, ~75% of the object builds correctly, and on a layer in which four columns are recombined to form a circle, the printer head pushes the object off the bed. I will attempt to perform the print again, tuning the printer to slow down just before this layer. I may also try tuning the nozzle height a little higher before the key layer. If this does not work, I will try adding a raft to the base of the object to increase its grip on the bed.
+
 
 # Stringing & Oozing
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
