@@ -1,3 +1,41 @@
+<table>
+  <tr><th><strong>WaterTower</strong></th>
+    <th style="padding:0px 5px;text-align:right;float:right;">
+      <small><small>
+        <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
+        <a href=#overview>Overview</a> |
+        <a href=#gallery>Gallery</a> |
+        <a href=#related-work>Related Work</a> |
+        <a href=#workflows>Workflows</a>
+      </small><small>
+    </th>
+  </tr>
+  <tr>
+    <td width=15%><img src="../img/printer.png" width=150></td>
+    <td>
+      Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder
+    </td>
+  </tr>
+</table>
+
+# Overview
+
+Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder
+
+# Gallery
+
+<center>
+<table>
+  <tr>
+    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
+  </tr>
+  <tr>
+    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
+    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
+  </tr>
+</table>
+</center>
+
 # Layer Shifts
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
@@ -82,7 +120,7 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/curling-or-rough-corners/)
 
-On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that. 
+On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that.
 
 
 # Overheating
@@ -112,14 +150,14 @@ Possible Causes:
  * incorrect temperature or cooling settings
  * problems with the bed surface
 
-On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that. 
+On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that.
 
-The first layer speed is set to 30 mm/s. The Z offset is set to -0.7mm. 
+The first layer speed is set to 30 mm/s. The Z offset is set to -0.7mm.
 
 Testing
- * For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol. This did not work, and the first layer is still not sticking. 
+ * For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol. This did not work, and the first layer is still not sticking.
  * For the second test, I started the print, then tuned the Z offset to -0.75mm. The problem persists, with a few notes: (1) the test print first layer consists of thin circular walls, which could be more difficult to make the first layer stick than e.g. a single rectangle with more continuous surface area. (2) the circles in the middle y with higher x stick better than the others, which could be explained by differences in height across the bed.
-  * For the third test, I lowered the first layer speed to 30% of the 50 mm/s total, rather than 30 mm/s, leaving the Z offset at -0.75. 
+  * For the third test, I lowered the first layer speed to 30% of the 50 mm/s total, rather than 30 mm/s, leaving the Z offset at -0.75.
 
 
 # Grinding or Stripping Filament

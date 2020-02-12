@@ -4,7 +4,7 @@
       <small><small>
         <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
         <a href=#overview>Overview</a> |
-        <a href=#gallery>gallery</a> |
+        <a href=#gallery>Gallery</a> |
         <a href=#related-work>Related Work</a> |
         <a href=#workflows>Workflows</a>
       </small><small>
