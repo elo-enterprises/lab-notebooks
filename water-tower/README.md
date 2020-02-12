@@ -26,6 +26,7 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 
 # Gallery
 
+<center>
 <table>
   <tr>
     <td>
@@ -39,6 +40,8 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
     <td><a href=img/shelving.jpg><img src=img/shelving.jpg width=300px></a></td>
   </tr>
 </table>
+</center>
+
 
 # Method
 
