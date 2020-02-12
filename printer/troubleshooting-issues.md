@@ -28,6 +28,7 @@ Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placehol
 <table>
   <tr>
     <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
+    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
   </tr>
   <tr>
     <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
