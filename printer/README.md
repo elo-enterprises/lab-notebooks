@@ -1,5 +1,5 @@
 <table>
-  <tr><th><strong>packer</strong></th>
+  <tr><th><strong>LAB</strong></th>
     <th style="padding:0px 5px;text-align:right;float:right;">
       <small><small>
         <a href=README.md>Index</a> |
