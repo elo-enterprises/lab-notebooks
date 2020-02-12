@@ -28,12 +28,15 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 
 <table>
   <tr>
-    <td><img src=img/external.jpg width=200px></td>
-    <td><img src=img/reservoir.jpg width=200px></td>
+    <td>
+      <a href=img/external.jpg>
+        <img src=img/external.jpg width=300px></a>
+      </td>
+    <td><a href=img/reservoir.jpg><img src=img/reservoir.jpg width=300px></a></td>
   </tr>
   <tr>
-    <td><img src=img/shelving.jpg width=200px></td>
-    <td><img src=img/shelving.jpg width=200px></td>
+    <td><a href=img/shelving.jpg><img src=img/shelving.jpg width=300px></a></td>
+    <td><a href=img/shelving.jpg><img src=img/shelving.jpg width=300px></a></td>
   </tr>
 </table>
 
