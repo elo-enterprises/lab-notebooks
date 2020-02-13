@@ -90,11 +90,14 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 <table>
   <tr>
     <td><a href=img/fail1.png><img src=img/20200209_152227.jpg width=300px></a></td>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
+    <td><a href=img/fail1.png><img src=img/20200209_164950.jpg width=300px></a></td>
   </tr>
   <tr>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
+    <td><a href=img/fail1.png><img src=img/20200209_172458.jpg width=300px></a></td>
+    <td><a href=img/fail1.png><img src=img/20200209_222938.jpg width=300px></a></td>
+  </tr>
+  <tr>
+    <td><a href=img/fail1.png><img src=img/20200209_230735.jpg width=300px></a></td>
   </tr>
 </table>
 </center>
