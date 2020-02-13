@@ -1,5 +1,5 @@
 <table>
-  <tr><th><strong>WaterTower</strong></th>
+  <tr><th><strong>Printer</strong></th>
     <th style="padding:0px 5px;text-align:right;float:right;">
       <small><small>
         <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
