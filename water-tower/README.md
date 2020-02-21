@@ -205,13 +205,18 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 
 | Equipment Name                      | Quantity | Unit Cost | Distributor | Specification |
 |-------------------------------------|----------|-----------|-------------|---------------|
-|  | x1 | $ | []() | - |
-|  | x1 | $ | []() | - |
+| Water Heater | x1 | $ | []() | - |
+| Liquid Propane Tank | x1 | $ | []() | - |
 
 Notes: 
- * cheap propane water heaters cost $100-$130 for 1.32 gpm to 1.58 gpm, with varying ability to heat water. 
-   [Gasland](https://www.amazon.com/Gasland-1-58GPM-Outdoor-Portable-Tankless/dp/B078M9VYRG/ref=sr_1_4?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-4); [Camplux](https://www.amazon.com/Camplux-Portable-Outdoor-Tankless-Propane/dp/B077K428LC/ref=sr_1_2_sspa?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWEJOODhSNk5WRkUxJmVuY3J5cHRlZElkPUEwODA4ODM5Mjg4MU9HRVBVODVVTSZlbmNyeXB0ZWRBZElkPUEwOTgxODY3MlVOTkZHUDdDUEpRMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=); [Marey](https://www.amazon.com/GA5PORT-Portable-Propane-Tankless-Heater/dp/B005DROEZC/ref=sr_1_6?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-6)
- * 
+ * cheap propane water heaters cost $100-$130 for 1.32-1.58 gpm, with varying ability to heat water. 
+   * Examples: [Gasland](https://www.amazon.com/Gasland-1-58GPM-Outdoor-Portable-Tankless/dp/B078M9VYRG/ref=sr_1_4?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-4); [Camplux](https://www.amazon.com/Camplux-Portable-Outdoor-Tankless-Propane/dp/B077K428LC/ref=sr_1_2_sspa?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWEJOODhSNk5WRkUxJmVuY3J5cHRlZElkPUEwODA4ODM5Mjg4MU9HRVBVODVVTSZlbmNyeXB0ZWRBZElkPUEwOTgxODY3MlVOTkZHUDdDUEpRMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=); [Marey](https://www.amazon.com/GA5PORT-Portable-Propane-Tankless-Heater/dp/B005DROEZC/ref=sr_1_6?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-6)
+  * before purchasing, it is unclear:
+    * (A) whether the heaters will be able to output hot water, not just warm, especially during winter, and 
+    * (B) whether the flow rate will be sufficient when powered by a 12v pump raising the water to the top of the tower.
+* the next tier of propane water heaters cost $220-$260 for 1.6-2.64 gpm, with varying ability to heat water.
+  * Examples: [Gasland](https://www.amazon.com/Tankless-Gasland-Portable-Overheating-Protection/dp/B07FQKHG1P/ref=sr_1_15?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-15); [Camplux](https://www.amazon.com/Camplux-Outdoor-Digital-Portable-Tankless/dp/B01CJPU7ZQ/ref=sr_1_3_sspa?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWEJOODhSNk5WRkUxJmVuY3J5cHRlZElkPUEwODA4ODM5Mjg4MU9HRVBVODVVTSZlbmNyeXB0ZWRBZElkPUEwODgxMjY0MTJSQUZEM0szSFVZWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+* the third tier costs ~$1200, and is designed to provide hot water to an entire home. [Rinnai](https://www.amazon.com/Rinnai-Tankless-Hot-Water-Heater/dp/B0055CORAC/ref=sm_n_ma_dka_US_pr_ran_0_0?adId=B0058DQLPW&creativeASIN=B0058DQLPW&linkId=4ce038d551fc3c995ff33d308fab2730&tag=wateheat-20&linkCode=w43&ref-refURL=https%3A%2F%2Fwww.hot-water-heaters-reviews.com%2Fpropane-water-heaters.html&slotNum=4&imprToken=.Jr4YHXa4Sr6QLW4j6RsEg&adType=smart&adMode=manual&adFormat=grid&impressionTimestamp=1582252723121&th=1)
 
 ------------
 
