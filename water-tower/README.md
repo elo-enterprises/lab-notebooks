@@ -63,7 +63,7 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 | Heater             | Build-R&D     | 20191101 | Yellow   | Not Started    | Research inline heaters for Showers, RVs, Boats, then purchase & install   |
 | Shower I&C         | Build-R&D     | 20191101 | Yellow   | Not Started    | Research shower heads & knob controls, then purchase & install        |
 | Constant-P Pumping | Build-R&D     | 20191101 | Yellow   | Not Started    | Research how to pump at constant pressure with a flow controller           |
-| Mist System        | Build-R&D     | 20191101 | Blue     | Not Started    | Research outdoor patio / nursery misting systems                           |
+| Mist System        | Build-R&D     | 20191101 | Green    | Rev A Complete | Research outdoor patio / nursery misting systems                           |
 | Solid Waste        | Build-R&D     | 20191101 | Blue     | Not Started    | Research solutions for removing grit/dirt from the system                |
 | Smart I&C          | Build-R&D     | 20191101 | Blue     | Not Started    | Research available gauges & actuators for flow, pressure, level, temp     |
 | Potable A-to-Z     | Build-R&D     | 20191101 | Blue     | Not Started    | Research fully potable replacements for non-potable equipment         |
@@ -188,6 +188,7 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 | 12v Pump | x1 | $25.99 | [Amazon](https://www.amazon.com/theBlueStone-Self-Priming-Agricultural-Irrigation-Sprinkler/dp/B07QJ54ZT2/ref=sr_1_1?keywords=thebluestone+misting+system&qid=1579040118&s=hi&sr=1-1-catcorr) | - |
 | 12v Timer | x1 | $11.95 | [Amazon](https://www.amazon.com/JVR-Programmable-Digital-Battery-Powered/dp/B00WR0ELCO/ref=pd_sbs_328_1/147-7117477-2927113?_encoding=UTF8&pd_rd_i=B00WR0ELCO&pd_rd_r=feefff0e-3793-4a22-8cb7-eaaf8bd90cc9&pd_rd_w=hpN57&pd_rd_wg=uVSdT&pf_rd_p=bdd201df-734f-454e-883c-73b0d8ccd4c3&pf_rd_r=FT6RTVWESYX4V01RBMEJ&psc=1&refRID=FT6RTVWESYX4V01RBMEJ) | - |
 | 20ft Misting Kit | x1 | $18.99 | [Amazon](https://www.amazon.com/theBlueStone-Self-Priming-Agricultural-Irrigation-Sprinkler/dp/B071HHX4D3/ref=sr_1_1?keywords=thebluestone%2Bmisting%2Bsystem&qid=1579040118&s=hi&sr=1-1-catcorr&th=1) | - |
+| 40ft Misting Kit | x1 | $39.99 | [Amazon](https://www.amazon.com/theBlueStone-40FT-Cooling-System-Line/dp/B07C4QCDM9/ref=sr_1_1?keywords=thebluestone+misting+system+40ft&qid=1582253179&sr=8-1) | - |
 
 ### Module - Moss Garden
 
@@ -197,7 +198,8 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 | White Cushion Moss - Medium | x5 | $ | [-]() | - |
 | Hair Cap Moss | x1 | $ | [-]() | - |
 | Frog Moss | x1 | $ | [-]() | - |
-| Reindeer Moss | x1 | $ | [-]() | - |
+| S Hook | x1 | $ | [-]() | - |
+| 4 Gang Electrical Box | x1 | $ | [-]() | - |
 
 ------------
 
