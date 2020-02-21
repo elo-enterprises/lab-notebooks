@@ -198,8 +198,20 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 | White Cushion Moss - Medium | x5 | $ | [-]() | - |
 | Hair Cap Moss | x1 | $ | [-]() | - |
 | Frog Moss | x1 | $ | [-]() | - |
-| S Hook | x1 | $ | [-]() | - |
-| 4 Gang Electrical Box | x1 | $ | [-]() | - |
+| S Hook | x1 | $1.25 | [Home Depot](https://www.homedepot.com/p/Everbilt-1-4-in-x-2-in-Zinc-Plated-Rope-S-Hook-2-Pack-43814/205887662) | - |
+| 4 Gang Electrical Box | x1 | $6.39 | [Home Depot](https://www.homedepot.com/p/Carlon-4-Gang-71-cu-in-Old-Work-PVC-Electrical-Box-B468R/202077406) | - |
+
+### Module - Water Heater
+
+| Equipment Name                      | Quantity | Unit Cost | Distributor | Specification |
+|-------------------------------------|----------|-----------|-------------|---------------|
+|  | x1 | $ | []() | - |
+|  | x1 | $ | []() | - |
+
+Notes: 
+ * cheap propane water heaters cost $100-$130 for 1.32 gpm to 1.58 gpm, with varying ability to heat water. 
+   [Gasland](https://www.amazon.com/Gasland-1-58GPM-Outdoor-Portable-Tankless/dp/B078M9VYRG/ref=sr_1_4?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-4); [Camplux](https://www.amazon.com/Camplux-Portable-Outdoor-Tankless-Propane/dp/B077K428LC/ref=sr_1_2_sspa?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWEJOODhSNk5WRkUxJmVuY3J5cHRlZElkPUEwODA4ODM5Mjg4MU9HRVBVODVVTSZlbmNyeXB0ZWRBZElkPUEwOTgxODY3MlVOTkZHUDdDUEpRMCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=); [Marey](https://www.amazon.com/GA5PORT-Portable-Propane-Tankless-Heater/dp/B005DROEZC/ref=sr_1_6?crid=3S7S6818TSQP4&keywords=propane+portable+water+heater&qid=1582254235&sprefix=propane+portable+water+%2Caps%2C212&sr=8-6)
+ * 
 
 ------------
 
@@ -211,3 +223,7 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
   * [Pump Type Overview](http://www.pumpscout.com/articles-scout-guide/pump-types-guide-aid100.html)
 * MicroGardening & Botany
   * [Farmbot!](https://farm.bot/)
+* Water Heaters
+  * [review 1 - residential](https://www.hotwater.com/water-heaters/residential/gas-tank/)
+  * [review 2 - residential](https://www.hot-water-heaters-reviews.com/propane-water-heaters.html)
+  
