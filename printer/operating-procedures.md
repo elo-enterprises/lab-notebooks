@@ -8,11 +8,24 @@
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
     * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Calibrate Left --> Go to L Screw. The print head will move to a position over the left ball screw. Place the bracket under the print head, then manually twist the gear at the base of the left ball screw until the bracket slides between the bed and the print head with the same level of resistance as in the previous step. Repeat this process for the other two ball screws with the commands Calibrate Right --> Go to R Front Screw and Calibrate Right --> Go to R Rear Screw.
-    * Note - this should be done several times in series until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
+    * Note - this process should be repeated several times until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
     * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while completely on the PEI sheet.
 
-* Next, run the UBL procedure. When complete, click each of the buttons on the UBL menu, in order. You should hear a beep after each button. Connect the printer to a computer running Pronterface, and send the mesh to the PC. Verify that the largest variance is less than 1mm. If not, revisit the Tilt Calibration step.
+* Next, run the UBL procedure. 
+  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Deactivate UBL (scroll down, as this option is at the bottom of the menu).
+* On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Step-By-Step UBL --> 1 Build Mesh. The printer will undergo an automated procedure for ~15 minutes, moving the print head around the bed, raising and lowering the bed.
+    * Note - if interrupted, restart this procedure from scratch.
+* When the Build Mesh process is complete, on the printer console, go to Big-60 Calibration --> Unified Bed Leveling -->Step-By-Step UBL and click each of the buttons on the UBL menu, in order. You should hear a beep after each button. 
+    * 2 Smart Fill-In
+    * 3 Activate UBL
+    * 4 Save Bed Mesh
+* Next, check the mesh in Pronterface.
+  * Physically connect the printer to a computer running Pronterface via the USB cable connection on the side of the electronics box. 
+  * Open Pronterface and connect the appropriate port to the printer.
+  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Send Mesh to PC. Inspect the data output in Proneterface, and verify that the largest variance is less than 1mm. If not, revisit the Tilt Calibration step.
+
 * Next, run the Z offset calibration procedure. Current Z offset value is -.7, but start at 1.5 and decrease until the head is close enough to the bed to produce a good test line.
+
 * Next, run the Validate Mesh pattern and verify that the print produces clean lines and circles.
 
 # Running a Print
