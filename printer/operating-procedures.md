@@ -1,9 +1,10 @@
 # Recalibration
 [Printer Operating Procedures List](README.md#operating-procedures)
-* To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
+* To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
 * Next, run the Tilt Calibration procedure. 
   * Start by placing metal bracket BIG-00-EXT-008 under the print head in the center of the bed. 
-  * Adjust the height until you can slide the bracket while feeling resistance from the print head. 
+  * On the printer console, to to Prepare -> Move Axis -> Move Z. Reduce the height until you can slide the bracket while feeling resistance from the print head. 
+    * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
   * Move the print head to the left screw and right screws, and twist each screw manually until you feel the same resistance each time. 
     * Note that this should be done several times in series until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
     * Note also that if the print head is not over the PEI sheet on the right side, move the x axis back 20-30mm until the bracket can slide under the print head while completely on the PEI sheet.
