@@ -16,7 +16,7 @@
     * Note - this process should be repeated several times until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
     * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while completely on the PEI sheet.
 
-* Next, run the Ubified Bed Leveling (UBL) calibration procedure. 
+* Next, run the Unified Bed Leveling (UBL) calibration procedure. 
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 3. Unified Bed Leveling Calibration](http://www.support.modix3d.com/ubl/)
   * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Deactivate UBL (scroll down, as this option is at the bottom of the menu).
 * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Step-By-Step UBL --> 1 Build Mesh. The printer will undergo an automated procedure for ~15 minutes, moving the print head around the bed, raising and lowering the bed.
