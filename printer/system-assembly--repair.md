@@ -128,9 +128,10 @@
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
 ### [Part 2 – 10. Installing the Support Brackets](http://www.support.modix3d.com/support-brackets/)
-* Fast, easy assembly, no known issues.
-* Revisited this step when tightening screws, careful to use right angle squares.
-* Note - quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
+* Fast, easy assembly.
+* Issues:
+  * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
 
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
 * Fast, easy assembly.
@@ -176,15 +177,38 @@
 
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
 * Fast, easy assembly.
-* No known issues.
-* Note - "2020 T-Nuts" does not specify M5 or M3; M5 chosen.
+* Issues:
+  * In the instructions, "2020 T-Nuts" does not specify M5 or M3; M5 chosen, and appears to be obviously correct.
+<table>
+  <tr>
+    <td><a href=img/Step_1_09_Pictures_01_Parts.jpg><img src=img/Step_1_09_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_09_Pictures_02_Assembled.jpg><img src=img/Step_1_09_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-09-01 - Parts</p></td>
+    <td><p align="center">Figure 01-09-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
 * Fast assembly, but take extra care to not damage the ball screws.
-* Note - did not use glue on screws.
-* We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
+* Issues:
+  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. Go back and check the screws; especially have come loose due to vibration, unscrew each, add the glue and screw again.
+  * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
 * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+<table>
+  <tr>
+    <td><a href=img/Step_1_10_Pictures_01_Parts.jpg><img src=img/Step_1_10_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_10_Pictures_02_Assembled.jpg><img src=img/Step_1_10_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-10-01 - Parts</p></td>
+    <td><p align="center">Figure 01-10-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
 * Fast assembly, be careful when installing to not damage any of the gears. No known issues.
