@@ -25,7 +25,7 @@ Layer shifts can happen for a few reasons, please check the following:
 * Make sure that the driver has enough current, it should be no more than 1.1 V. The current can be increased by turning the Vref clockwise 1/4 turn at the time. Attached is a photo on how to measure the current - (-) on the GND pin and (+) on the Vref
 * Try to replace a stepper driver (the kit comes with spares).
 
-# Z Motors Binding Up
+## Z Motors Binding Up
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 When first turning the printer on, we encountered serious trouble with the Z motors and received support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move, and we would turn the printer off before causing more damage. The list of things to check included:
@@ -39,12 +39,12 @@ When first turning the printer on, we encountered serious trouble with the Z mot
 * Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time.
 * Check that there's nothing wrong in the firmware settings, so connect to Pronterface and send Modix the output log once connected, or send command M503. See [03-05, Terminal Software and Basic G-Code](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
 
-# Poor Bridging
+## Poor Bridging
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
 
-# Spaghetti Monster
+## Spaghetti Monster
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 On the print MU75_joint_ring_extension, I encountered the same failure scenario twice. The object is a tall cylinder, which means it does not have a lot of surface area to bind with the bed. Both times, ~75% of the object builds correctly, and on a layer in which four columns are recombined to form a circle, the printer head pushes the object off the bed. I will attempt to perform the print again, tuning the printer to slow down just before this layer. I may also try tuning the nozzle height a little higher before the key layer. If this does not work, I will try adding a raft to the base of the object to increase its grip on the bed.
@@ -67,36 +67,36 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 
 
 
-# Stringing & Oozing
+## Stringing & Oozing
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
 
 
-# Ugly Overhangs
+## Ugly Overhangs
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
 
 
-# Z Wobble
+## Z Wobble
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
 
 
-# Scars on Top Surface
+## Scars on Top Surface
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
 
-# Blobs and Zits
+## Blobs and Zits
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
 
 
-# Curling or Rough Corners
+## Curling or Rough Corners
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/curling-or-rough-corners/)
@@ -104,22 +104,22 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that.
 
 
-# Overheating
+## Overheating
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/overheating/)
 
 
-# Warping
+## Warping
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
 
-# Vibrations and Ringing
+## Vibrations and Ringing
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 
-# First Layer Not Sticking to the Bed
+## First Layer Not Sticking to the Bed
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
@@ -141,31 +141,31 @@ Testing
   * For the third test, I lowered the first layer speed to 30% of the 50 mm/s total, rather than 30 mm/s, leaving the Z offset at -0.75.
 
 
-# Grinding or Stripping Filament
+## Grinding or Stripping Filament
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
 
 
-# Clogged Extruder
+## Clogged Extruder
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/)
 
 
-# Stops Extruding Mid Print
+## Stops Extruding Mid Print
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/)
 
 
-# Not Extruding at Start of Print
+## Not Extruding at Start of Print
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/)
 
 
-# Troubleshooting Data Sources
+## Troubleshooting Data Sources
 [Printer Related Work and References List](README.md#related-work-and-references)
 
 | Name | Notes |
