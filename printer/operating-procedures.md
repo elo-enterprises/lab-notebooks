@@ -37,8 +37,8 @@
   * With the computer connected to the printer via Pronterface, once the mesh has been sent to the PC, click 'Upload' on the Modix UBL tool, then 'Click to Process.' 
   * Manually adjust the numbers //INSERT RULES FOR UPDATING NUMBERS
   * Press the 'Export' button and save the gcode file.
-  * Load the gcode file into Pronterface, click 'Print.'
-  * Enter the command 'G29 T' into Pronterface and verify that the updated mesh numbers have been saved into Marlin.
+  * Load the gcode file into Pronterface, then click 'Print.'
+  * Enter the command 'G29 T' into Pronterface and verify that the updated mesh numbers have been saved into Marlin, the printer firmware.
 
 * Next, run the Z Offset calibration procedure. 
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 4. Z Offset Calibration](http://www.support.modix3d.com/z-offset-calibration/)
@@ -46,20 +46,24 @@
   * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center front of the printer, making it easy to see the filament purging process.
   * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Preheat PLA (200). The print head heater will begin heating and a message to wait will appear.
   * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Purge E0. Once the print head is heated, the extruder will attempt to grab the filament and purge through the nozzle. 
-    * If the purge is unsuccessful, try purging more while manually applying pressure on the filament, pushing it toward the extruder. 
+    * If the purge is unsuccessful, try purging more while manually applying forward pressure on the filament at the filament sensor, pushing it toward the extruder. 
     * If several purge attempts are unsuccessful, the nozzle may be clogged. While the printer is hot, try scraping off any plastic around the nozzle. If this is unsuccessful, power off and let everything cool down, then remove the nozzle and try cleaning it out.
-  * After a successful purge, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Set Temperature. Set the temperature to 200 for PLA.
+  * After a successful purge, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 1 Set Temperature. Set the temperature to 200 for PLA.
   * On the printer console, go to Big-60 Calibration --> Z Offset Calibration and inspect the current saved Z Offset value. For normal operation in Las Vegas, we have been using -.7mm, but the initial factory setting is 1.5mm to avoid crashing the print head during calibration. If the printer has been significantly moved, reset to 1.5mm and start over.
   * Itertively perform the following operations until you are satisfied that the test line is successful.
-    * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Verify Height. The bed will move to the saved Z Offset height.
-    * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Print Test Line. The printer will print out a straight line. 
+    * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 3 Verify Height. The bed will move to the saved Z Offset height.
+    * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 4 Print Test Line. The printer will print out a straight line. 
     * If the print head is too far away from the bed, you will see the vertical gap between the filament and the bed as the test line is printed. In this case, adjust the saved Z Offset value down. If the print head is too close to the bed, the test line will be smeared by the print head itself, and the line will appear flat and nonuniform. In this case, adjust the Z Offset value up.
-  * Once you are satisfied with the test line, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Save Z Offset.
+  * Once you are satisfied with the test line, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 5 Save Z Offset.
     * Note that if the UBL mesh is nonuniform across the space of the bed, the X and Y placement of the print head while it is printing the test line is relevant to the correctness of the Z Offset setting.
     
 * Next, run the Validate Mesh calibration procedure.
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 5. Validate Mesh](http://www.support.modix3d.com/validate-mesh/)
-  * pattern and verify that the print produces clean lines and circles.
+  * Make sure the bed heater is on, set to e.g. ~65 degrees.
+  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Validate Mesh. Select the filament material and nozzle size in use, e.g. 'PLA, Nozzle:0.4.' The printer will begin printing a pattern of lines and circles across the entire print bed, lasting ~20 minutes. Constant monitoring is not necessary, but several useful conclusions can be drawn from the mesh grid output.
+    * If the circles appear as ellipses, this is likely due to improperly aligned X and Y axis belts. See [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts).
+    * If the circles and lines are clearer in some parts of the bed than others, revisit the previous calibration step using the Modix online tool for UBL adjustment.
+    * If the entire pattern is not sticking to the bed, see [Troubleshooting - First Layer Not Sticking to the Bed](troubleshooting-issues.md#first-layer-not-sticking-to-the-bed).
 
 # Running a Print
 [Printer Operating Procedures List](README.md#operating-procedures)
