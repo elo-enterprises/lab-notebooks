@@ -77,7 +77,16 @@
 [Printer Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 2. Assembling the X Idler Pulleys](http://www.support.modix3d.com/x-idler-pulley-assembly/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly. 
+* No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_02_Pictures.jpg><img src=img/Step_1_02_Pictures _01_Parts.jpg width=300px></a></td>
+    <td><a href=img/Step_1_02_Pictures_02_Assembled.jpg><img src=img/Step_1_02_Pictures_02_Assembled.jpg width=300px></a></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
 * Fast, easy assembly, no known issues.
