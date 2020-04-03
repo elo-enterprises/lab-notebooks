@@ -62,15 +62,51 @@
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
 * Fast, easy assembly.
 * No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_06_Pictures_01_Parts.jpg><img src=img/Step_1_06_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_06_Pictures_02_Assembled.jpg><img src=img/Step_1_06_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-06-01 - Parts</p></td>
+    <td><p align="center">Figure 01-06-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles](http://www.support.modix3d.com/z-axis-top-to-z-profiles/)
 * Fast, easy assembly.
 * Issues: 
   * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_07_Pictures_01_Parts.jpg><img src=img/Step_1_07_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_07_Pictures_02_Assembled.jpg><img src=img/Step_1_07_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-07-01 - Parts</p></td>
+    <td><p align="center">Figure 01-07-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 8. Assembling the Z Axis Bottom Brackets](http://www.support.modix3d.com/z-axis-bottom-brackets/)
 * Fast, easy assembly.
 * No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_08_Pictures_01_Parts.jpg><img src=img/Step_1_08_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_08_Pictures_02_Assembled.jpg><img src=img/Step_1_08_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-08-01 - Parts</p></td>
+    <td><p align="center">Figure 01-08-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
 * Fast, easy assembly.
