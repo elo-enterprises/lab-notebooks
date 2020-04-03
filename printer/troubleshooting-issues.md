@@ -1,5 +1,7 @@
 # Troubleshooting Issues
 
+------------
+
 # Layer Shifts
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
