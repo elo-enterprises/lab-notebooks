@@ -4,7 +4,7 @@
 * Before running the tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
 
 * Next, run the tilt calibration procedure. 
-  * Details can be found in the Modix Customer Zone under [### Calibration Guide – 2. Tilt Calibration](https://t.sidekickopen80.com/s1t/c/5/f18dQhb0S7lM8dDMPbW2n0x6l2B9nMJN7t5XWPfhMynN4WJ3rsd7g18W56dHcR3773MR102?te=W3R5hFj26QkHmW4mKDt94hKKYcW49RFxf43PrCxF1VpzckmLXp1&si=8000000001488046&pi=44823df2-2bd3-46d9-997e-65d7bd85908d)
+  * Details can be found in the Modix Customer Zone under [### Calibration Guide – 2. Tilt Calibration](http://www.support.modix3d.com/tilt-calibration/)
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Start Process. The print head will move to the center of the bed and the bed height will auto-home. Place a metal bracket, preferably [BIG-00-EXT-008](parts-lists.md#box-18---mtl1), under the print head in the center of the bed. 
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
     * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
@@ -12,8 +12,8 @@
     * Note - this process should be repeated several times until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
     * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while completely on the PEI sheet.
 
-* Next, run the UBL calibration procedure. 
-  * Details can be found in the Modix Customer Zone under [### Calibration Guide – 3. UBL](http://www.support.modix3d.com/ubl/)
+* Next, run the Ubified Bed Leveling (UBL) calibration procedure. 
+  * Details can be found in the Modix Customer Zone under [### Calibration Guide – 3. Unified Bed Leveling Calibration](http://www.support.modix3d.com/ubl/)
   * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Deactivate UBL (scroll down, as this option is at the bottom of the menu).
 * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Step-By-Step UBL --> 1 Build Mesh. The printer will undergo an automated procedure for ~15 minutes, moving the print head around the bed, raising and lowering the bed.
     * Note - if interrupted, restart this procedure from scratch.
@@ -24,16 +24,24 @@
 * Next, check the mesh in Pronterface.
   * Physically connect the printer to a computer running Pronterface via the USB cable connection on the side of the electronics box. 
   * Open Pronterface and connect the appropriate port to the printer.
-  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Send Mesh to PC. Alternatively, this can be done by entering the text 'G29 T' into Pronterface. Inspect the data output in Pronterface, and verify that the largest variance is less than 1mm. 
+  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Send Mesh to PC. Alternatively, this can be done by entering the command 'G29 T' into Pronterface. Inspect the data output in Pronterface, and verify that the largest variance is less than 1mm. 
     * If the maximum variance is 1mm or more, repeat the tilt calibration step.
     * If the tilt calibration does not fix the problem, look for damage to the PEI sheet, or even the bed itself. They may need to be replaced.
 
-* //INSERT DETAILS OF EEPROM AND ONLINE TOOL FOR MESH ADJUSTMENT
+* Next, use the Modix online tool for UBL Adjustment, found [here](http://www.support.modix3d.com/ubl-editor-119/)
+  * In the Modix UBL tool, change the size of the grid to 10 x 10.
+  * With the computer connected to the printer via Pronterface, once the mesh has been sent to the PC, click 'Upload' on the Modix UBL tool, then 'Click to Process.' 
+  * Manually adjust the numbers //INSERT RULES FOR UPDATING NUMBERS
+  * Press the 'Export' button and save the gcode file.
+  * Load the gcode file into Pronterface, click 'Print.'
+  * Enter the command 'G29 T' into Pronterface and verify that the updated mesh numbers have been saved into Marlin.
 
 * Next, run the Z offset calibration procedure. 
+  * Details can be found in the Modix Customer Zone under [### Calibration Guide – 4. Z Offset Calibration](http://www.support.modix3d.com/z-offset-calibration/)
   * Current Z offset value is -.7, but start at 1.5 and decrease until the head is close enough to the bed to produce a good test line.
 
 * Next, run the Validate Mesh calibration procedure.
+  * Details can be found in the Modix Customer Zone under [### Calibration Guide – 5. Validate Mesh](http://www.support.modix3d.com/validate-mesh/)
   * pattern and verify that the print produces clean lines and circles.
 
 # Running a Print
