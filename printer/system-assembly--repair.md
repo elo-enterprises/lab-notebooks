@@ -110,8 +110,21 @@
 
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
 * Fast, easy assembly.
-* Note - not sure the description of where to put the conical screws matches the picture. I went with the text (front left) rather than the picture (back right) because the front left metal piece has indentations for conical screws but the back does not.
-* Revisited this step when tightening screws, careful to use right angle squares.
+Issues:
+  * Note - not sure the description of where to put the conical screws matches the picture. I went with the text (front left) rather than the picture (back right) because the front left metal piece has indentations for conical screws but the back does not.
+  * Revisited this step when tightening screws, careful to use right angle squares.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_11_Pictures_01_Parts.jpg><img src=img/Step_1_11_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_11_Pictures_02_Assembled.jpg><img src=img/Step_1_11_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-11-01 - Parts</p></td>
+    <td><p align="center">Figure 01-11-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 13. Assembling the Y Axis](http://www.support.modix3d.com/y-axis-assembly/)
 * Fast, easy assembly.
@@ -126,6 +139,18 @@
   * removed the calibration jigs.
  This helped, but we also revisited this procedure after retightening the frame screws.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_13_Pictures_01_Parts.jpg><img src=img/Step_1_13_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_13_Pictures_02_Assembled.jpg><img src=img/Step_1_13_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-13-01 - Parts</p></td>
+    <td><p align="center">Figure 01-13-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – 10. Installing the Support Brackets](http://www.support.modix3d.com/support-brackets/)
 * Fast, easy assembly.
@@ -212,12 +237,36 @@
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
 * Fast assembly, be careful when installing to not damage any of the gears. No known issues.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_12_Pictures_01_Parts.jpg><img src=img/Step_1_12_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_12_Pictures_02_Assembled.jpg><img src=img/Step_1_12_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-12-01 - Parts</p></td>
+    <td><p align="center">Figure 01-12-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 14. Installing the Motors](http://www.support.modix3d.com/motors-assembly/)
 * We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_14_Pictures_01_Parts.jpg><img src=img/Step_1_14_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_14_Pictures_02_Assembled.jpg><img src=img/Step_1_14_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-14-01 - Parts</p></td>
+    <td><p align="center">Figure 01-14-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 15. Installing the Y Axis Timing Belt](http://www.support.modix3d.com/y-axis-timing-belts/)
 * Fast, easy assembly.
@@ -225,6 +274,18 @@
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_15_Pictures_01_Parts.jpg><img src=img/Step_1_15_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_15_Pictures_02_Assembled.jpg><img src=img/Step_1_15_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-15-01 - Parts</p></td>
+    <td><p align="center">Figure 01-15-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis](http://www.support.modix3d.com/x-axis-timing-belt/)
 * Fast, easy assembly.
