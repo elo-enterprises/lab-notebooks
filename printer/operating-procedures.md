@@ -3,12 +3,12 @@
 ------------
 
 # Recalibration
-[Printer Operating Procedures List](README.md#operating-procedures)
+[Main Page - Operating Procedures List](README.md#operating-procedures)
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
 * Before running the Tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
 
 * Next, run the Tilt calibration procedure. 
-  * Details can be found in the Modix Customer Zone under [ Calibration Guide – 2. Tilt Calibration](http://www.support.modix3d.com/tilt-calibration/)
+  * Details can be found in the Modix Customer Zone under [Calibration Guide – 2. Tilt Calibration](http://www.support.modix3d.com/tilt-calibration/)
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Start Process. The print head will move to the center of the bed and the bed height will auto-home. Place a metal bracket, preferably [BIG-00-EXT-008](parts-lists.md#box-18---mtl1), under the print head in the center of the bed. 
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
     * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
@@ -66,18 +66,26 @@
     * If the entire pattern is not sticking to the bed, see [Troubleshooting - First Layer Not Sticking to the Bed](troubleshooting-issues.md#first-layer-not-sticking-to-the-bed).
 
 # Running a Print
-[Printer Operating Procedures List](README.md#operating-procedures)
-* Clean out any print material from previous prints. If there is filament stuck to the hot-end, go to Prepare-->Preheat PLA-->Preheat PLA 1, and when the hot-end is hot, peel the filament loose from the hot-end.
+[Main Page - Operating Procedures List](README.md#operating-procedures)
+* Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
+  * Note - DO NOT TOUCH THE HOT END WITH YOUR HANDS! The whole point is that it is very, very hot.
 * Clean the bed with isopropyl alcohol and a cloth.
-* Turn on the bed heater by flipping both switches. Use the up/down arrow buttons on the bed heater box to set T=70. The switches will start flashing when the target temperature is reached.
-* Turn the printer on by flipping the switch on the electronics box and insert an SD card with the desired g-code file into the LCD Panel.
-* Go to the Load/Unload Filament menu and select "Go to the Front." The printer will Auto-Home, then move to the front/center.
-* Return to the Load/Unload Filament menu, select "Load/Unload E0", then select "Load filament E0." After the hot-end is heated, purge filament until you can verify that the filament is loaded and working.
-* Go to the Z-offset calibration menu and click verify height.
-* Go to the main menu, print from SD, select the file, and click on it.
+* Turn on the bed heater by flipping both switches. Use the up/down arrow buttons on the bed heater box to set the temperature, currently in the range 60-70. The switches will start flashing when the target temperature is reached.
+* Turn the printer on by flipping the switch on the electronics box.
+* Insert an SD card with the desired gcode file into the LCD Panel.
+  * Note - be careful when inserting the SD card. If it slips into the control panel, use a hex key to unscrew the control panel and retrieve the SD card.
+* On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will auto-home, then move to the front at the center.
+* On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Preheat PLA (200). The print head heater will begin heating and a message to wait will appear.
+* On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Purge E0. Once the print head is heated, the extruder will attempt to grab the filament and purge through the nozzle. 
+  * If the purge is unsuccessful, try purging more while manually applying forward pressure on the filament at the filament sensor, pushing it toward the extruder. 
+  * If several purge attempts are unsuccessful, the nozzle may be clogged. While the printer is hot, try scraping off any plastic around the nozzle. If this is unsuccessful, power off and let everything cool down, then remove the nozzle and try cleaning it out.
+* On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 3 Verify Height. The bed will move to the saved Z Offset height. 
+  * This step appears unnecessary at first glance, but can be useful in eliminating conflict between the height settings in the slicing software and the height settings in the Marlin firmware.
+* On the printer console, go to Print from SD. Select the file, and click on it. The print will start. 
+  * Pay special attention to the first layer. If obvious problems arise, it may be worthwhile to stop the print early and restart to avoid wasting time and filament.
 
 # Filament Change
-[Printer Operating Procedures List](README.md#operating-procedures)
+[Main Page - Operating Procedures List](README.md#operating-procedures)
 * If the current print's gcode paused automatically, everything is fine. We have not yet attempted to stop a print manually by pressing the pause button, change filament and resume. Be aware that this may ruin the print.
 * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Unload Filament. The extruder gears will turn in reverse, ejecting the filament. While this is happening, gently pull on the filament at the filament sensor to assist in unthreading. 
   * If the PTFE tube comes loose, reinsert it into the extruder, careful not to cause dents, kinks or excess friction.
