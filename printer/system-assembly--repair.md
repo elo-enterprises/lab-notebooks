@@ -3,33 +3,33 @@
 # Structural - Frame & Enclosure
 [Printer Systems List](README.md#system-assembly--repair)
 
-### Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles
+### [Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles](http://www.support.modix3d.com/x-brackets-to-z-profiles/)
 * fast, easy assembly, no known issues.
 
-### Part 1 – Step 4. Assembling the X Rails on X Top Profiles
+### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles]()
 * fast, easy assembly, no known issues.
 * NOTE: did not use glue when screwing in screws.
 
-### Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles
+### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles]()
 * fast, easy assembly.
 * revisited this step when tightening screws, careful to use right angle squares.
 
-### Part 1 – Step 6. Assembling the Z Axis Top Brackets
+### [Part 1 – Step 6. Assembling the Z Axis Top Brackets]()
 * fast, easy assembly, no known issues.
 
-### Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles
+### [Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles]()
 * fast, easy assembly.
 * revisited this step when tightening screws, careful to use right angle squares.
 
-### Part 1 – Step 8. Assembling the Z Axis Bottom Brackets
+### [Part 1 – Step 8. Assembling the Z Axis Bottom Brackets]()
 * fast, easy assembly, no known issues.
 
-### Part 1 – Step 11. Assembling the X Axis Bottom Profiles
+### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles]()
 * fast, easy assembly.
 * NOTE: not sure the description of where to put the conical screws matches the picture. I went with the text (front left) rather than the picture (back right) because the front left metal piece has indentations for conical screws but the back does not.
 * revisited this step when tightening screws, careful to use right angle squares.
 
-### Part 1 – Step 13. Assembling the Y Axis
+### [Part 1 – Step 13. Assembling the Y Axis]()
 * fast, easy assembly.
 * when printing test patterns, we noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. We
   * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
@@ -43,72 +43,72 @@
  This helped, but we also revisited this procedure after retightening the frame screws.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
-### Part 2 – 10. Installing the Support Brackets
+### [Part 2 – 10. Installing the Support Brackets]()
 * fast, easy assembly, no known issues.
 * revisited this step when tightening screws, careful to use right angle squares.
 * NOTE: quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
 
-### Part 2 – Step 11. Installing the Decorative Panels
+### [Part 2 – Step 11. Installing the Decorative Panels]()
 * fast, easy assembly, no known issues.
 
-### Part 2 – Step 15. Tightening All Screws
+### [Part 2 – Step 15. Tightening All Screws]()
 * slow assembly, this step has more detailed instructions than it might appear from its title.
 
-### Part 2 – Step 16. Installing the Enclosure
+### [Part 2 – Step 16. Installing the Enclosure]()
 * fast, easy assembly, no known issues.
 
-### Part 2 – Step 17. Assembling the Doors
+### [Part 2 – Step 17. Assembling the Doors]()
 * fast, easy assembly, no known issues.
 
-### Part 2 – Step 18. Assembling the Top Lid
+### [Part 2 – Step 18. Assembling the Top Lid]()
 * fast, easy assembly, though the instructions are not as thorough as before.
 * The bottom lip of the back lid plate overlaps witht he back plate of the enclosure. Perhaps this is evidence of improper installation...
 
-### Part 2- Step 19. Assembling the Top Pivoting Lid
+### [Part 2- Step 19. Assembling the Top Pivoting Lid]()
 * fast, easy assembly, no known issues.
 
 # Mechanical - Motors Belts & Pulleys
 [Printer Systems List](README.md#system-assembly--repair)
 
-### Part 1 – Step 2. Assembling the X Idler Pulleys
+### [Part 1 – Step 2. Assembling the X Idler Pulleys](http://www.support.modix3d.com/x-idler-pulley-assembly/)
 * fast, easy assembly, no known issues.
 
-### Part 1 – Step 9. Assembling the Z Axis Mid Brackets
+### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets]()
 * fast, easy assembly, no known issues.
 * NOTE: "2020 T-Nuts" does not specify M5 or M3; M5 chosen.
 
-### Part 1 – Step 10. Assembling the Z Axis Sets
+### [Part 1 – Step 10. Assembling the Z Axis Sets]()
 * fast assembly, but take extra care to not damage the ball screws.
 * NOTE: did not use glue on screws.
 * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
 * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
-### Part 1 – Step 12. Installing the X Shaft
+### [Part 1 – Step 12. Installing the X Shaft]()
 * fast assembly, be careful when installing to not damage any of the gears. No known issues.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
-### Part 1 – Step 14. Installing the Motors
+### [Part 1 – Step 14. Installing the Motors]()
 * We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
-### Part 1 – Step 15. Installing the Y Axis Timing Belt
+### [Part 1 – Step 15. Installing the Y Axis Timing Belt]()
 * fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
-### Part 1 – Step 16. Installing the Timing Belt at the Back X Axis
+### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis]()
 * fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
-### Part 1 – Step 17. Installing the Timing Belt at the Front X Axis
+### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis]()
 * fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
@@ -116,70 +116,70 @@
 * When re-tightening the belt, make sure to actually follow the directions and loosen both the screws holding the front X idler pulley and the set screw on the gear. After the belt is hand-tightened, re-tighten the idler bracket and the pulley set screw.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 
-### Part 3 – Step 4. Testing X & Y Homing
+### [Part 3 – Step 4. Testing X & Y Homing]()
 * fast, easy to perform the tests.
 * We included testing of Z Home in this step, and discovered a problem with the Z motors binding up. This problem forced us to revisit several steps associated with motors and pulleys.
 
 # Mechanical - Bed & Heater Box
 [Printer Systems List](README.md#system-assembly--repair)
 
-### Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor
+### [Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor]()
 * fast, easy assembly, no known issues.
 * Wiring of this step discussed in Wiring System description.
 
-### Part 2 – Step 7. Installing the Silicon Heater
+### [Part 2 – Step 7. Installing the Silicon Heater]()
 * slow assembly. Be careful not to damage the bed itself, or the heater, or the box.
 * We tried to keep air bubbles from in between the bed heater and the bed, but it is difficult to know if this effort was successful.
 
-### Part 2 – Step 8. Assembling the Bed
+### [Part 2 – Step 8. Assembling the Bed]()
 * slow assembly, be careful, especially since the bed is heavy, and both the bed and the ball screws are fragile.
 * We bought a pair of levels to make sure the bed frame was level before tightening its screws or installing the bed.
 * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head started 52mm from the left side of the bed and printed off the right side of the bed. Modix said that sliding the bed over toward the right would not damage the functionality of the Z motor system, so we slid the bed to the right ~5mm, until the heater contacted the angle brackets on the underside of the bed.
 
-### Part 2 – Step 9. Installing the PEI Sheet
+### [Part 2 – Step 9. Installing the PEI Sheet]()
 * slow assembly, requires 2 people.
 * With two people and a roller, we still ended up with several air bubbles. Perhaps practice makes perfect, but revisit the instructions carefully. They definitely say it is better to leave it imperfect than to pull it up and try again. I have not yet looked up the proper technique for dealing with air bubbles.
 * We also erroneously positioned the PEI sheet front-to-back, leaving ~2cm strips of exposed metal on either side. It is supposed to be positioned side-to-side, leaving strips of exposed metal on the front and back.
 
-### Part 3 – Step 1. Temperature Controller Configuration
+### [Part 3 – Step 1. Temperature Controller Configuration]()
 * fast assembly, seemingly easy but hard to know if you made a mistake.
 * revisit this procedure for auto-tuning the bed heater.
 
-### Part 3 – Step 2. Installing the Grounding Cable to the Print Bed
+### [Part 3 – Step 2. Installing the Grounding Cable to the Print Bed]()
 * fast, easy assembly, no known issues.
 
 # Electrical - Wiring Electronics Box & LCD Screen
 [Printer Systems List](README.md#system-assembly--repair)
 
-### Part 1 – Step 22. Assembling the LCD Screen
+### [Part 1 – Step 22. Assembling the LCD Screen]()
 * fast, easy assembly, though you cannot complete the mounting of this step until after the enclosure is in place.
 * The instructions do not specify which cable goes in which port, so I used blue painter's tape to label one.
 * We had a relatively serious problem with the main button, in that the button would trigger the click action while turning. We removed the plastic cover from the button and have been using the metal knob underneath.
 
-### Part 1 – Step 23. Installing the Electronics Box and Drag Chains
+### [Part 1 – Step 23. Installing the Electronics Box and Drag Chains]()
 * fast, easy assembly, no known issues.
 * NOTE: did not use glue when screwing in screws. We did already experience the vibration from the printer causing the three screws attaching the drag chain to the Y axis to shake themselves loose.
 * After completing the wiring connections, we reopened the drag chains and repositioned the cables to lay smoothly.
 
-### Part 2 – Step 1. Wiring the Motors and End Stops
+### [Part 2 – Step 1. Wiring the Motors and End Stops]()
 * slow assembly, take the time to get this right.
 * NOTE: did not use glue when screwing in screws.
 * When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
-### Part 2 – Step 2. Checking the Controller Wiring
+### [Part 2 – Step 2. Checking the Controller Wiring]()
 * slow assembly, take the time to get this right.
 * see wiring diagrams for details.
 
-### Part 2 – Step 3. Wiring the Extruder
+### [Part 2 – Step 3. Wiring the Extruder]()
 * slow assembly, take the time to get this right.
 * see wiring diagrams for details.
 
-### Part 2 – Step 4. Installing the Electronics Box Cover
+### [Part 2 – Step 4. Installing the Electronics Box Cover]()
 * fast, easy assembly. no known issues.
 * see wiring diagrams for details.
 
-### Part 3 – Step 3. Turning on the Printer
+### [Part 3 – Step 3. Turning on the Printer]()
 * fast, easy assembly. no known issues.
 * with the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
