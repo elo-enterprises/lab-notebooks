@@ -5,9 +5,9 @@
 # Recalibration
 [Printer Operating Procedures List](README.md#operating-procedures)
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
-* Before running the tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
+* Before running the Tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
 
-* Next, run the tilt calibration procedure. 
+* Next, run the Tilt calibration procedure. 
   * Details can be found in the Modix Customer Zone under [ Calibration Guide – 2. Tilt Calibration](http://www.support.modix3d.com/tilt-calibration/)
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Start Process. The print head will move to the center of the bed and the bed height will auto-home. Place a metal bracket, preferably [BIG-00-EXT-008](parts-lists.md#box-18---mtl1), under the print head in the center of the bed. 
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
@@ -29,8 +29,8 @@
   * Physically connect the printer to a computer running Pronterface via the USB cable connection on the side of the electronics box. 
   * Open Pronterface and connect the appropriate port to the printer.
   * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Send Mesh to PC. Alternatively, this can be done by entering the command 'G29 T' into Pronterface. Inspect the data output in Pronterface, and verify that the largest variance is less than 1mm. 
-    * If the maximum variance is 1mm or more, repeat the tilt calibration step.
-    * If the tilt calibration does not fix the problem, look for damage to the PEI sheet, or even the bed itself. They may need to be replaced.
+    * If the maximum variance is 1mm or more, repeat the Tilt calibration step.
+    * If the Tilt calibration does not fix the problem, look for damage to the PEI sheet, or even the bed itself. They may need to be replaced.
 
 * Next, use the Modix online tool for UBL Adjustment, found [here](http://www.support.modix3d.com/ubl-editor-119/)
   * In the Modix UBL tool, change the size of the grid to 10 x 10.
@@ -40,10 +40,23 @@
   * Load the gcode file into Pronterface, click 'Print.'
   * Enter the command 'G29 T' into Pronterface and verify that the updated mesh numbers have been saved into Marlin.
 
-* Next, run the Z offset calibration procedure. 
+* Next, run the Z Offset calibration procedure. 
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 4. Z Offset Calibration](http://www.support.modix3d.com/z-offset-calibration/)
-  * Current Z offset value is -.7, but start at 1.5 and decrease until the head is close enough to the bed to produce a good test line.
-
+  * Make sure the bed heater is turned on to ~65 degrees and that filament is ready to load, i.e. passed through the filament sensor through the PTFE tube until it touches the gears of the extruder, or is already loaded.
+  * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center front of the printer, making it easy to see the filament purging process.
+  * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Preheat PLA (200). The print head heater will begin heating and a message to wait will appear.
+  * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Purge E0. Once the print head is heated, the extruder will attempt to grab the filament and purge through the nozzle. 
+    * If the purge is unsuccessful, try purging more while manually applying pressure on the filament, pushing it toward the extruder. 
+    * If several purge attempts are unsuccessful, the nozzle may be clogged. While the printer is hot, try scraping off any plastic around the nozzle. If this is unsuccessful, power off and let everything cool down, then remove the nozzle and try cleaning it out.
+  * After a successful purge, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Set Temperature. Set the temperature to 200 for PLA.
+  * On the printer console, go to Big-60 Calibration --> Z Offset Calibration and inspect the current saved Z Offset value. For normal operation in Las Vegas, we have been using -.7mm, but the initial factory setting is 1.5mm to avoid crashing the print head during calibration. If the printer has been significantly moved, reset to 1.5mm and start over.
+  * Itertively perform the following operations until you are satisfied that the test line is successful.
+    * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Verify Height. The bed will move to the saved Z Offset height.
+    * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Print Test Line. The printer will print out a straight line. 
+    * If the print head is too far away from the bed, you will see the vertical gap between the filament and the bed as the test line is printed. In this case, adjust the saved Z Offset value down. If the print head is too close to the bed, the test line will be smeared by the print head itself, and the line will appear flat and nonuniform. In this case, adjust the Z Offset value up.
+  * Once you are satisfied with the test line, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> Save Z Offset.
+    * Note that if the UBL mesh is nonuniform across the space of the bed, the X and Y placement of the print head while it is printing the test line is relevant to the correctness of the Z Offset setting.
+    
 * Next, run the Validate Mesh calibration procedure.
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 5. Validate Mesh](http://www.support.modix3d.com/validate-mesh/)
   * pattern and verify that the print produces clean lines and circles.
