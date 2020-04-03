@@ -78,7 +78,13 @@
 
 # Filament Change
 [Printer Operating Procedures List](README.md#operating-procedures)
-* click on Pause Print, if the g-code did not do so automatically.
-* click on load/unload filament, unload filament, and unthread the filament. If the PTFE tube comes loose, reinsert into the extruder, careful not to cause dents, kinks or excess friction.
-* Insert the new filament, make sure the hot-end is still hot, move the print head to a position outside the range of the printing object, and purge the new filament until you can verify it is moving through the system.
-* Resume the print.
+* If the current print's gcode paused automatically, everything is fine. We have not yet attempted to stop a print manually by pressing the pause button, change filament and resume. Be aware that this may ruin the print.
+* On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Unload Filament. The extruder gears will turn in reverse, ejecting the filament. While this is happening, gently pull on the filament at the filament sensor to assist in unthreading. 
+  * If the PTFE tube comes loose, reinsert it into the extruder, careful not to cause dents, kinks or excess friction.
+* Insert the new filament. 
+  * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center front of the printer, making it easy to see the filament purging process. If this location overlaps with the print in progress, go to Prepare --> Move Axis --> Move X (and/or Y) and find a suitable purge location.
+  * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Preheat PLA (200). The print head heater will begin heating and a message to wait will appear.
+  * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Purge E0. Once the print head is heated, the extruder will attempt to grab the filament and purge through the nozzle. 
+    * If the purge is unsuccessful, try purging more while manually applying forward pressure on the filament at the filament sensor, pushing it toward the extruder. 
+    * If several purge attempts are unsuccessful, the nozzle may be clogged. While the printer is hot, try scraping off any plastic around the nozzle. If this is unsuccessful, power off and let everything cool down, then remove the nozzle and try cleaning it out.
+* Resume the print, careful to verify that the print head correctly moved back to the location where the print was paused.
