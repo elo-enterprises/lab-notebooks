@@ -87,7 +87,7 @@
   </tr>
  <tr>
     <td><p align="center">Figure 01-02-01 - Parts</p></td>
-    <td>Figure 01-02-01 - Assembly</td>
+    <td><p align="center">Figure 01-02-01 - Assembly</p></td>
   </tr>
 </table>
 </center>
