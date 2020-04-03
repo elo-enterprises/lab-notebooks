@@ -10,7 +10,20 @@
 [Printer Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles](http://www.support.modix3d.com/x-brackets-to-z-profiles/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_03_Pictures_01_Parts.jpg><img src=img/Step_1_03_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_03_Pictures_02_Assembled.jpg><img src=img/Step_1_03_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-03-01 - Parts</p></td>
+    <td><p align="center">Figure 01-03-01 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Fast, easy assembly, no known issues.
