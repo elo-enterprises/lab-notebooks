@@ -22,7 +22,9 @@
 * Next, check the mesh in Pronterface.
   * Physically connect the printer to a computer running Pronterface via the USB cable connection on the side of the electronics box. 
   * Open Pronterface and connect the appropriate port to the printer.
-  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Send Mesh to PC. Inspect the data output in Pronterface, and verify that the largest variance is less than 1mm. If not, revisit the Tilt Calibration step.
+  * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Send Mesh to PC. Inspect the data output in Pronterface, and verify that the largest variance is less than 1mm. 
+    * If the maximum variance is 1mm or more, repeat the tilt calibration step.
+    * If the tilt calibration does not fix the problem, look for damage to the PEI sheet, or even the bed itself. They may need to be replaced.
 
 * //INSERT DETAILS OF EEPROM AND ONLINE TOOL FOR MESH ADJUSTMENT
 
