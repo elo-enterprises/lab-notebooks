@@ -1,5 +1,7 @@
 # Printing Variables
 
+------------
+
 # PrusaSlicer Plater Variables
 [Printer Variables List](README.md#printing-variables)
 
