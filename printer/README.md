@@ -2,8 +2,6 @@
   <tr><th><strong>LAB</strong></th>
     <th style="padding:0px 5px;text-align:right;float:right;">
       <small><small>
-        <a href=README.md>Index</a> |
-        <a href=#overview>Overview</a> |
         <a href=#parts-lists>Parts Lists</a> |
         <a href=#system-assembly--repair>Systems</a> |
         <a href=#printing-variables>Variables</a> |
@@ -11,7 +9,6 @@
         <a href=#operating-procedures>Operations</a> |
         <a href=#test-prints>Test Prints</a> |
         <a href=#related-work-and-references>Related Work</a> |
-        <a href=#workflows>Workflows</a>
       </small><small>
     </th>
   </tr>
