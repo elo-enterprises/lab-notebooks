@@ -1,9 +1,10 @@
 # Recalibration
 [Printer Operating Procedures List](README.md#operating-procedures)
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
-* Before running the Tilt Calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
+* Before running the tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
 
 * Next, run the tilt calibration procedure. 
+  * Details can be found in the Modix Customer Zone under [xxx](https://t.sidekickopen80.com/s1t/c/5/f18dQhb0S7lM8dDMPbW2n0x6l2B9nMJN7t5XWPfhMynN4WJ3rsd7g18W56dHcR3773MR102?te=W3R5hFj26QkHmW4mKDt94hKKYcW49RFxf43PrCxF1VpzckmLXp1&si=8000000001488046&pi=44823df2-2bd3-46d9-997e-65d7bd85908d)
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Start Process. The print head will move to the center of the bed and the bed height will auto-home. Place a metal bracket, preferably [BIG-00-EXT-008](parts-lists.md#box-18---mtl1), under the print head in the center of the bed. 
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
     * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
