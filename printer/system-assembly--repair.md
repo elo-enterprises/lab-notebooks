@@ -196,7 +196,7 @@
 * Issues:
   * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop. See [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up).
   * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. Go back and check the screws; especially have come loose due to vibration, unscrew each, add the glue and screw again.
-  * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
+  * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, and used a new hex key. See the 'Hex Key Set' and 'Set Screw Replacement Kit' in the [Tools Parts List](parts-lists.md#tools)
 <table>
   <tr>
     <td><a href=img/Step_1_10_Pictures_01_Parts.jpg><img src=img/Step_1_10_Pictures_01_Parts.jpg width=550px></a></td>
