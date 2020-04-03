@@ -14,7 +14,7 @@
     * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Calibrate Left --> Go to L Screw. The print head will move to a position over the left ball screw. Place the bracket under the print head, then manually twist the gear at the base of the left ball screw until the bracket slides between the bed and the print head with the same level of resistance as in the previous step. Repeat this process for the other two ball screws with the commands Calibrate Right --> Go to R Front Screw and Calibrate Right --> Go to R Rear Screw.
     * Note - this process should be repeated several times until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
-    * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while completely on the PEI sheet.
+    * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while it is completely over the PEI sheet.
 
 * Next, run the Unified Bed Leveling (UBL) calibration procedure. 
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 3. Unified Bed Leveling Calibration](http://www.support.modix3d.com/ubl/)
@@ -32,7 +32,7 @@
     * If the maximum variance is 1mm or more, repeat the Tilt calibration step.
     * If the Tilt calibration does not fix the problem, look for damage to the PEI sheet, or even the bed itself. They may need to be replaced.
 
-* Next, use the Modix online tool for UBL Adjustment, found [here](http://www.support.modix3d.com/ubl-editor-119/)
+* Next, use the Modix online tool for UBL adjustment, found [here](http://www.support.modix3d.com/ubl-editor-119/)
   * In the Modix UBL tool, change the size of the grid to 10 x 10.
   * With the computer connected to the printer via Pronterface, once the mesh has been sent to the PC, click 'Upload' on the Modix UBL tool, then 'Click to Process.' 
   * Manually adjust the numbers //INSERT RULES FOR UPDATING NUMBERS
