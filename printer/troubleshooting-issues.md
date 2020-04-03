@@ -1,43 +1,6 @@
-<table>
-  <tr><th><strong>Printer</strong></th>
-    <th style="padding:0px 5px;text-align:right;float:right;">
-      <small><small>
-        <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
-        <a href=#overview>Overview</a> |
-        <a href=#gallery>Gallery</a> |
-        <a href=#related-work>Related Work</a> |
-        <a href=#workflows>Workflows</a>
-      </small><small>
-    </th>
-  </tr>
-  <tr>
-    <td width=15%><img src="../img/printer.png" width=150></td>
-    <td>
-      Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder
-    </td>
-  </tr>
-</table>
+# Troubleshooting Issues
 
-# Overview
-
-Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder Placeholder
-
-# Gallery
-
-<center>
-<table>
-  <tr>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
-  </tr>
-  <tr>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
-    <td><a href=img/fail1.png><img src=img/fail1.png width=300px></a></td>
-  </tr>
-</table>
-</center>
-
-# Layer Shifts
+## Layer Shifts
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 Layer shifts can happen for a few reasons, please check the following:
