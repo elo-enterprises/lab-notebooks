@@ -172,7 +172,7 @@ Testing
 
 | Name | Notes |
 |------|-------|
-| Modix Instructions, Part 3 Step 12 | |
+| [Modix Instructions, Part 3 Step 12](http://www.support.modix3d.com/troubleshooting/) | |
 | [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/) | |
 | [All3DP Basics Guide](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/) | |
 | [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide) | |
