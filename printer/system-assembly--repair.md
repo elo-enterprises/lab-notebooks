@@ -82,8 +82,8 @@
 <center>
 <table>
   <tr>
-    <td><a href=img/Step_1_02_Pictures_01_Parts.jpg><img src=img/Step_1_02_Pictures_01_Parts.jpg width=300px></a></td>
-    <td><a href=img/Step_1_02_Pictures_02_Assembled.jpg><img src=img/Step_1_02_Pictures_02_Assembled.jpg width=300px></a></td>
+    <td><a href=img/Step_1_02_Pictures_01_Parts.jpg><img src=img/Step_1_02_Pictures_01_Parts.jpg width=500px></a></td>
+    <td><a href=img/Step_1_02_Pictures_02_Assembled.jpg><img src=img/Step_1_02_Pictures_02_Assembled.jpg width=500px></a></td>
   </tr>
 </table>
 </center>
