@@ -86,7 +86,7 @@
     <td><a href=img/Step_1_02_Pictures_02_Assembled.jpg><img src=img/Step_1_02_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><center>Figure 01-02-01 - Parts</center></td>
+    <td><p align="center">Figure 01-02-01 - Parts</p></td>
     <td>Figure 01-02-01 - Assembly</td>
   </tr>
 </table>
