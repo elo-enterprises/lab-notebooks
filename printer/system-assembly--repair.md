@@ -293,6 +293,18 @@ Issues:
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_16_Pictures_01_Parts.jpg><img src=img/Step_1_16_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_16_Pictures_02_Assembled.jpg><img src=img/Step_1_16_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-16-01 - Parts</p></td>
+    <td><p align="center">Figure 01-16-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis](http://www.support.modix3d.com/timing-belt-at-the-frontal-x-axis/)
 * Fast, easy assembly.
@@ -301,6 +313,18 @@ Issues:
 * When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
 * When re-tightening the belt, make sure to actually follow the directions and loosen both the screws holding the front X idler pulley and the set screw on the gear. After the belt is hand-tightened, re-tighten the idler bracket and the pulley set screw.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_17_Pictures_01_Parts.jpg><img src=img/Step_1_17_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_17_Pictures_02_Assembled.jpg><img src=img/Step_1_17_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-17-01 - Parts</p></td>
+    <td><p align="center">Figure 01-17-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 3 – Step 4. Testing X & Y Homing](http://www.support.modix3d.com/testing-x-y-homing/)
 * Fast, easy to perform the tests.
@@ -313,6 +337,18 @@ Issues:
 * Fast, easy assembly.
 * No known issues.
 * Wiring of this step discussed in Wiring System description.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_20_Pictures_01_Parts.jpg><img src=img/Step_1_20_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_20_Pictures_02_Assembled.jpg><img src=img/Step_1_20_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-20-01 - Parts</p></td>
+    <td><p align="center">Figure 01-20-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 7. Installing the Silicon Heater](http://www.support.modix3d.com/silicon-heater-assembly/)
 * Slow assembly. Be careful not to damage the bed itself, or the heater, or the box.
@@ -419,11 +455,35 @@ Issues:
 * We still (01/22/2020) do not fully understand the ideal arrangement of heat sink, heat break and hot-end block. We have heat-tightened the nozzle, but the block still tries to spin when pushed, indicating that we have not fully threaded the threaded pieces correctly.
 * Note - the kit only contains one heat sink, with a blue clip on it. Using this even though the instructions say "not the blue one"
 * Note - I stripped a screw for the volcano block by putting it in the wrong side. Used a small screw from the Spares bag to replace.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_18_Pictures_01_Parts.jpg><img src=img/Step_1_18_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_18_Pictures_02_Assembled.jpg><img src=img/Step_1_18_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-18-01 - Parts</p></td>
+    <td><p align="center">Figure 01-18-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 19. Assembling the Extruder](http://www.support.modix3d.com/extruder-assembly/)
 * Fast assembly, seemingly easy, but confusing, and if I made a mistake I probably wouldn't know how to recognize it.
 * We initially assembled the hot-end without the thermal paste, then revisited and applied it.
 * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_19_Pictures_01_Parts.jpg><img src=img/Step_1_19_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_19_Pictures_02_Assembled.jpg><img src=img/Step_1_19_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-19-01 - Parts</p></td>
+    <td><p align="center">Figure 01-19-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 21. Installing the Extruder on the Y Axis Rail](http://www.support.modix3d.com/extruder-on-the-y-axis-rail/)
 * Fast, easy assembly, no known issues.
