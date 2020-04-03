@@ -1,5 +1,7 @@
 # Operating Procedures
 
+------------
+
 # Recalibration
 [Printer Operating Procedures List](README.md#operating-procedures)
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
