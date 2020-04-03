@@ -20,10 +20,6 @@
   </tr>
 </table>
 
-# Overview
-
-Lab Notebook for Modix Big 60 Build
-
 ------------
 
 # Parts Lists
