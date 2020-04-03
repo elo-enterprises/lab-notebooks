@@ -22,7 +22,7 @@
 | 13 | BIG-00-EXT-012 | 1 | | 2-03 (1x) | Extruder Wiring Cover Bracket |
 | 14 | BIG-00-FLM-005 V4 | 1 | | 2-05 (1x) | Filament Sensor Metal Mount |
 | 15 | BIG-00-FLM-008 | 2 | | 2-06 (1x) | Filament Spool Bracket |
-| 16 | BIG-00-EXT-008 | 1 | | | |
+| 16 | BIG-00-EXT-008 | 1 | | [Recalibration](operating-procedures.md#recalibration) | |
 | 17 | BIG-00-EXT-010 V3 | 1 | | | |
 | 18 | BIG-00-EXT-14 V3 | 1 | | | |
 | 19 | BIG-00-EXT-009 | 1 | | | |
