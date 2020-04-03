@@ -27,8 +27,8 @@
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Fast, easy assembly. 
-* No known issues.
-* Note - did not use glue when screwing in screws.
+* Issues:
+  * I did not use lock-tight glue when screwing in the screws for the X rails in case I made a mistake and would have to redo the step. Go back and check the screws; especially have come loose due to vibration, unscrew each, add the glue and screw again.
 <center>
 <table>
   <tr>
@@ -44,7 +44,8 @@
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Fast, easy assembly.
-* Issues: I revisited this step when tightening screws, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+* Issues: 
+  * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
 <center>
 <table>
   <tr>
@@ -59,14 +60,17 @@
 </center>
 
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 ### [Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles](http://www.support.modix3d.com/z-axis-top-to-z-profiles/)
 * Fast, easy assembly.
-* Revisited this step when tightening screws, careful to use right angle squares.
+* Issues: 
+  * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
 
 ### [Part 1 – Step 8. Assembling the Z Axis Bottom Brackets](http://www.support.modix3d.com/z-axis-bottom-brackets/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
 * Fast, easy assembly.
@@ -93,23 +97,27 @@
 * Note - quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
 
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 ### [Part 2 – Step 15. Tightening All Screws](http://www.support.modix3d.com/tight-all-screws/)
 * Slow assembly, this step has more detailed instructions than it might appear from its title.
 
 ### [Part 2 – Step 16. Installing the Enclosure](http://www.support.modix3d.com/enclosure-assembly-optional/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 ### [Part 2 – Step 17. Assembling the Doors](http://www.support.modix3d.com/doors-assembly/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
 * Fast, easy assembly, though the instructions are not as thorough as before.
 * The bottom lip of the back lid plate overlaps witht he back plate of the enclosure. Perhaps this is evidence of improper installation...
 
 ### [Part 2- Step 19. Assembling the Top Pivoting Lid](http://www.support.modix3d.com/top-pivoting-lid/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 # Mechanical - Motors Belts & Pulleys
 [Printer Systems List](README.md#system-assembly--repair)
@@ -131,7 +139,8 @@
 </center>
 
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 * Note - "2020 T-Nuts" does not specify M5 or M3; M5 chosen.
 
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
@@ -181,7 +190,8 @@
 [Printer Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor](http://www.support.modix3d.com/bltouch-sensor/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 * Wiring of this step discussed in Wiring System description.
 
 ### [Part 2 – Step 7. Installing the Silicon Heater](http://www.support.modix3d.com/silicon-heater-assembly/)
@@ -203,7 +213,8 @@
 * Revisit this procedure for auto-tuning the bed heater.
 
 ### [Part 3 – Step 2. Installing the Grounding Cable to the Print Bed](http://www.support.modix3d.com/grounding-cable-to-the-print-bed/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly.
+* No known issues.
 
 # Electrical - Wiring Electronics Box & LCD Screen
 [Printer Systems List](README.md#system-assembly--repair)
@@ -233,12 +244,14 @@
 * See wiring diagrams for details.
 
 ### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
-* Fast, easy assembly. no known issues.
+* Fast, easy assembly.
+* No known issues.
 * See wiring diagrams for details.
 
 ### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
-* Fast, easy assembly. no known issues.
-* With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
+* Fast, easy assembly.
+* No known issues.
+* Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
 ### Wiring Information
 
