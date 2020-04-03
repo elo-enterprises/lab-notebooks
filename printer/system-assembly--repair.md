@@ -20,18 +20,43 @@
   </tr>
  <tr>
     <td><p align="center">Figure 01-03-01 - Parts</p></td>
-    <td><p align="center">Figure 01-03-01 - Assembly</p></td>
+    <td><p align="center">Figure 01-03-02 - Assembly</p></td>
   </tr>
 </table>
 </center>
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
-* Fast, easy assembly, no known issues.
+* Fast, easy assembly. 
+* No known issues.
 * Note - did not use glue when screwing in screws.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_04_Pictures_01_Parts.jpg><img src=img/Step_1_04_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_04_Pictures_02_Assembled.jpg><img src=img/Step_1_04_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-04-01 - Parts</p></td>
+    <td><p align="center">Figure 01-04-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Fast, easy assembly.
-* Revisited this step when tightening screws, careful to use right angle squares.
+* Issues: I revisited this step when tightening screws, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_05_Pictures_01_Parts.jpg><img src=img/Step_1_05_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_05_Pictures_02_Assembled.jpg><img src=img/Step_1_05_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-05-01 - Parts</p></td>
+    <td><p align="center">Figure 01-05-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
 * Fast, easy assembly, no known issues.
@@ -100,7 +125,7 @@
   </tr>
  <tr>
     <td><p align="center">Figure 01-02-01 - Parts</p></td>
-    <td><p align="center">Figure 01-02-01 - Assembly</p></td>
+    <td><p align="center">Figure 01-02-02 - Assembly</p></td>
   </tr>
 </table>
 </center>
