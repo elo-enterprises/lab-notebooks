@@ -1143,11 +1143,7 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 03](#part-2--step-3-wiring-the-extruder) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 085 | M4x25 | 6x | M4 25mm Screw |
 
 * Next Step: [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor)
 * Results Used in Step: [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor)
