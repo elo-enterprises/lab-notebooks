@@ -732,14 +732,22 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [MTL1](parts-lists.md#box-18---mtl1) | 08 | BIG-00-EXT-002 | 1x | Rail Block Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 09 | BIG-00-EXT-003 | 1x | Y Axis Belt Mount Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 12 | BIG-00-EXT-011 V2 | 1x | Filament Guide Mount Bracket |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 021 | GT2 Idler W10 T20 B5 | 1x | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 022 | GT10 Black Belt 5 Meter | 1x | GT2 Timing Belt (165 cm) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 028 | Plastic Spacer M5x9x5mm | 2x | M5 Nylon Round Spacer |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 029 | Belt Clamp | 2x | Belt Tensioning Clamp |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 078 | M3x10 | 1x | M3 10mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 079 | M3x12 | 3x | M3 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 088 | M5x16 | 1x | M5 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 090 | M5x50 | 1x | M5 50mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 098 | M5 Nylock | 1x | M5 Nylock Nut |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 105 | M5 Shim | 1x | M5 Shim |
 
 * Next Step: [Part 1 Step 16](#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis)
+* Results Used in Step: [Part 1 Step 16](#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis)
 
 ------------
 ### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis](http://www.support.modix3d.com/x-axis-timing-belt/)
@@ -768,7 +776,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 1 Step 16](#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -776,6 +784,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis)
+* Results Used in Step: [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis)
 
 ------------
 ### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis](http://www.support.modix3d.com/timing-belt-at-the-frontal-x-axis/)
@@ -805,7 +814,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
