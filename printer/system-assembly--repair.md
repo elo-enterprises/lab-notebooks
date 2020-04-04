@@ -51,7 +51,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * I did not use lock-tight glue when screwing in the screws for the X rails in case I made a mistake and would have to redo the step. Go back and check the screws; especially have come loose due to vibration, unscrew each, add the glue and screw again.
+  * I did not use lock-tight glue when screwing in the screws for the X rails in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws, and especially if they have come loose due to vibration, unscrew each, add the glue and screw in again.
 <center>
 <table>
   <tr>
@@ -109,8 +109,11 @@
 * Next Step: [Part 1 Step 6](#part-1--step-6-assembling-the-z-axis-top-brackets)
 
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -143,8 +146,10 @@
 * Next Step: [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles)
 
 ### [Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles](http://www.support.modix3d.com/z-axis-top-to-z-profiles/)
-* Fast, easy assembly.
-* Issues: 
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
   * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
 <center>
 <table>
@@ -171,8 +176,11 @@
 * Next Step: [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets)
 
 ### [Part 1 – Step 8. Assembling the Z Axis Bottom Brackets](http://www.support.modix3d.com/z-axis-bottom-brackets/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -215,6 +223,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 13. Assembling the Y Axis](http://www.support.modix3d.com/y-axis-assembly/)
 * Fast, easy assembly.
 * When printing test patterns, we noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. We
@@ -241,6 +260,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2 – 10. Installing the Support Brackets](http://www.support.modix3d.com/support-brackets/)
 * Fast, easy assembly.
 * Issues:
@@ -259,6 +289,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
 * Fast, easy assembly.
 * No known issues.
@@ -275,6 +316,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2 – Step 15. Tightening All Screws](http://www.support.modix3d.com/tight-all-screws/)
 * Slow assembly, this step has more detailed instructions than it might appear from its title.
 <center>
@@ -289,6 +341,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 2 – Step 16. Installing the Enclosure](http://www.support.modix3d.com/enclosure-assembly-optional/)
 * Fast, easy assembly.
@@ -306,6 +369,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2 – Step 17. Assembling the Doors](http://www.support.modix3d.com/doors-assembly/)
 * Fast, easy assembly.
 * No known issues.
@@ -321,6 +395,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
 * Fast, easy assembly, though the instructions are not as thorough as before.
@@ -338,6 +423,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2- Step 19. Assembling the Top Pivoting Lid](http://www.support.modix3d.com/top-pivoting-lid/)
 * Fast, easy assembly.
 * No known issues.
@@ -353,6 +449,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ------------
 ## Mechanical - Motors, Belts & Pulleys
@@ -406,6 +513,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
 * Fast assembly, but take extra care to not damage the ball screws.
 * Issues:
@@ -424,6 +542,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
 * Fast assembly, be careful when installing to not damage any of the gears. No known issues.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
@@ -439,6 +568,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 14. Installing the Motors](http://www.support.modix3d.com/motors-assembly/)
 * We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
@@ -457,6 +597,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 15. Installing the Y Axis Timing Belt](http://www.support.modix3d.com/y-axis-timing-belts/)
 * Fast, easy assembly.
@@ -477,6 +628,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis](http://www.support.modix3d.com/x-axis-timing-belt/)
 * Fast, easy assembly.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
@@ -495,6 +657,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis](http://www.support.modix3d.com/timing-belt-at-the-frontal-x-axis/)
 * Fast, easy assembly.
@@ -515,6 +688,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 3 – Step 4. Testing X & Y Homing](http://www.support.modix3d.com/testing-x-y-homing/)
 * Fast, easy to perform the tests.
@@ -541,6 +725,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2 – Step 7. Installing the Silicon Heater](http://www.support.modix3d.com/silicon-heater-assembly/)
 * Slow assembly. Be careful not to damage the bed itself, or the heater, or the box.
 * We tried to keep air bubbles from in between the bed heater and the bed, but it is difficult to know if this effort was successful.
@@ -556,6 +751,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 2 – Step 8. Assembling the Bed](http://www.support.modix3d.com/bed-assembly/)
 * Slow assembly, be careful, especially since the bed is heavy, and both the bed and the ball screws are fragile.
@@ -574,6 +780,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 2 – Step 9. Installing the PEI Sheet](http://www.support.modix3d.com/pei-sheet/)
 * Slow assembly, requires 2 people.
 * With two people and a roller, we still ended up with several air bubbles. Perhaps practice makes perfect, but revisit the instructions carefully. They definitely say it is better to leave it imperfect than to pull it up and try again. I have not yet looked up the proper technique for dealing with air bubbles.
@@ -590,6 +807,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 3 – Step 1. Temperature Controller Configuration](http://www.support.modix3d.com/temperature-controller-configuration/)
 * Fast assembly, seemingly easy but hard to know if you made a mistake.
@@ -620,6 +848,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 23. Installing the Electronics Box and Drag Chains](http://www.support.modix3d.com/electronics-box/)
 * Fast, easy assembly, no known issues.
 * Note - did not use glue when screwing in screws. We did already experience the vibration from the printer causing the three screws attaching the drag chain to the Y axis to shake themselves loose.
@@ -636,6 +875,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 2 – Step 1. Wiring the Motors and End Stops](http://www.support.modix3d.com/motors-end-stop-wiring/)
 * Slow assembly, take the time to get this right.
@@ -654,6 +904,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
 * Slow assembly, take the time to get this right.
@@ -679,6 +940,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
 * Fast, easy assembly.
@@ -745,6 +1017,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 19. Assembling the Extruder](http://www.support.modix3d.com/extruder-assembly/)
 * Fast assembly, seemingly easy, but confusing, and if I made a mistake I probably wouldn't know how to recognize it.
 * We initially assembled the hot-end without the thermal paste, then revisited and applied it.
@@ -762,6 +1045,17 @@ Issues:
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
 ### [Part 1 – Step 21. Installing the Extruder on the Y Axis Rail](http://www.support.modix3d.com/extruder-on-the-y-axis-rail/)
 * Fast, easy assembly, no known issues.
 * Note - did not use glue when screwing in screws.
@@ -777,6 +1071,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 2 – Step 5. Installing the Filament Sensor](http://www.support.modix3d.com/filament-sensor/)
 * Fast assembly, somewhat confusing.
@@ -797,6 +1102,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
 * Fast assembly, somewhat confusing, seemed to work to prevent oozing.
