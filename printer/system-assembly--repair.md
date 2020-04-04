@@ -1002,6 +1002,7 @@
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 21](#part-1--step-21-installing-the-extruder-on-the-y-axis-rail) |  |  | 1x | Assembled Structure |
 | [MTL1](parts-lists.md#box-18---mtl1) | 31 | LCD front mount | 1x | Front LCD Screen Mounting Bracket |
+| [BED](parts-lists.md#box-38---bed) | 08 | Black T Slot Plastic Cover | x (as needed) | 4040 Profile Slot Plastic Cover (500mm |
 | [Main: LCD Controller](parts-lists.md#box-48---main) | 062 | Full Graphics Smart Controller | 1x | LCD Screen |
 | [Main: LCD Controller](parts-lists.md#box-48---main) | 063 | Stop Button Printed Part | 1x | 3D-Printed Stop Button |
 | [Main: LCD Controller](parts-lists.md#box-48---main) | 064 | M3 Spacer 5mm Female-Male 8mm Thread | 4x | M3 Male 8mm – Female 5mm Spacer |
@@ -1074,28 +1075,46 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 23](#part-1--step-23-installing-the-electronics-box-and-drag-chains) |  |  | 1x | Assembled Structure |
+| [BED](parts-lists.md#box-38---bed) | 08 | Black T Slot Plastic Cover | x (as needed) | 4040 Profile Slot Plastic Cover (500mm |
+| [Main: Motors](parts-lists.md#box-48---main) | 004 | X Motor Cable  | 1x | X, Y, & Z Motor Wires |
+| [Main: Motors](parts-lists.md#box-48---main) | 005 | Y Motor Cable | 1x | X, Y, & Z Motor Wires |
+| [Main: Motors](parts-lists.md#box-48---main) | 006 | Z Motor Cable | 1x | X, Y, & Z Motor Wires |
+| [Main: Motors](parts-lists.md#box-48---main) | 007 | End Stop (Y Axis) | 1x | X & Y End-Stop |
+| [Main: Motors](parts-lists.md#box-48---main) | 008 | End Stop (X Axis) | 1x | X & Y End-Stop |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 076 | M2.5x16 | 4x | M2.5 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 095 | M2.5 Nut | 4x | M2.5 Nut |
 
 * Next Step: [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring)
+* Results Used in Step: [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring)
 
 ------------
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops) |  |  | 1x | Assembled Structure |
+
 * Next Step: [Part 2 Step 03](#part-2--step-3-wiring-the-extruder)
+* Results Used in Step: [Part 2 Step 03](#part-2--step-3-wiring-the-extruder)
 
 ------------
 ### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring) |  |  | 1x | Assembled Structure |
+
 * Next Step: [Part 2 Step 04](#part-2--step-4-installing-the-electronics-box-cover)
+* Results Used in Step: [Part 2 Step 04](#part-2--step-4-installing-the-electronics-box-cover)
 
 ------------
 ### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
@@ -1121,7 +1140,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 03](#part-2--step-3-wiring-the-extruder) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -1129,6 +1148,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor)
+* Results Used in Step: [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor)
 
 ------------
 ### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
