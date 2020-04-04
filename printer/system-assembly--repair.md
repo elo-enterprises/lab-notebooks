@@ -1197,12 +1197,18 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 036 | Silicon Socket Volcano Oragne | 1x | E3D Volcano Silicone Insulator |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 037 | E3D Volcano Nozzle - 1.75mm x 0.40mm Number of Dots:4 | 1x | 0.4 mm Volcano Nozzle |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 040 | Fan Duct Plastic | 1x | 303010 Fan Duct |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 041 | E3D v6 Heat Break | 1x | E3D V6 Heat Break |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 042 | PTFE 50mm | 1x | PTFE Tube (50 mm) |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 043 | E3D V6 Heat Sink | 1x | E3D V6 Heat Sink |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 044 | Volcano Heat Block | 1x | Volcano Heat Block |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 045 | Heatsink Thermal Compound | 1x | Thermal Paste |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 046 | V6 Universal Fixing Kit | 1x | Universal Fixing Kit |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 047 | Thermistor Cartridge | 1x | Thermistor Cartridge |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 050 | Heater | 1x | Heater Cartridge |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 051 | 3010 Blower Fan | 1x | 303010 Fan |
 
 * Next Step: [Part 1 Step 19](#part-1--step-19-assembling-the-extruder)
 
