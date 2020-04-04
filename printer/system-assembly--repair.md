@@ -237,11 +237,12 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [PRF](parts-lists.md#box-88---prf) | 02 | 4040 Black Extrusion Profile - 790 mm | 2x | 40x40 Profile Length 790mm - X Axis Bottom |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 026 | 4040 Fastener Joint M8 | 4x | Metal Clip for 4040 Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 091 | M8x25-Button	 | 4x | M8 25mm Button-head Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 8x | M5 4040 T Nut for Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 6x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 093 | M5x12-Cone-Silver | 2x | M5 12mm Conic Screw |
 
 * Next Step: [Part 1 Step 12](#part-1--step-12-installing-the-x-shaft)
 
