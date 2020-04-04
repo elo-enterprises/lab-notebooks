@@ -121,22 +121,22 @@ This page contains data on the individual components of the printer, as well as 
 | 033 | Accessories | 7mm Nozzle Spanner | 1 | | | |
 | 034 | Accessories | 242 Screw Glue(10ML) | 1 | | | |
 | 035 | Accessories | Zip Ties(100pc) | 1 | | | |
-| 036 | Main HotEnd | Silicon Socket Volcano Oragne | 1 | | 1-18 (1x) | E3D Volcano Silicone Insulator |
-| 037 | Main HotEnd | E3D Volcano Nozzle - 1.75mm x 0.40mm Number of Dots:4 | 1 | | 1-18 (1x) | 0.4 mm Volcano Nozzle | [E3D](https://e3d-online.com/plated-copper-nozzles-volcano) | L9 |
+| 036 | Main HotEnd | Silicon Socket Volcano Oragne | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | E3D Volcano Silicone Insulator |
+| 037 | Main HotEnd | E3D Volcano Nozzle - 1.75mm x 0.40mm Number of Dots:4 | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | 0.4 mm Volcano Nozzle | [E3D](https://e3d-online.com/plated-copper-nozzles-volcano) | L9 |
 | 038 | Main HotEnd | E3D Volcano EXTRA Nozzle - 1.75mm x 0.60mm Number of Dots:0 | 1 | | | | [E3D](https://e3d-online.com/plated-copper-nozzles-volcano) | L9 |
 | 039 | Main HotEnd | E3D Volcano EXTRA Nozzle - 1.75mm x 0.8mm Number of Dots:1 | 1 | | | | [E3D](https://e3d-online.com/plated-copper-nozzles-volcano) | L9 |
-| 040 | Main HotEnd | Fan Duct Plastic | 1 | | 1-18 (1x) | 303010 Fan Duct |
-| 041 | Main HotEnd | E3D v6 Heat Break | 2 | | 1-18 (1x) | E3D V6 Heat Break | [E3D](https://e3d-online.com/v6-heat-break) | L8.6 |
-| 042 | Main HotEnd | PTFE 50mm | 1 | | 1-18 (1x) | PTFE Tube (50 mm) | [Amazon](https://www.amazon.com/Teflon-tubing-Filament-Printer-Tech/dp/B073RDFTDV/ref=sr_1_4?keywords=ptfe+tube&qid=1579906348&sr=8-4) | $7 |
-| 043 | Main HotEnd | E3D V6 Heat Sink | 1 | | 1-18 (1x) | E3D V6 Heat Sink |
-| 044 | Main HotEnd | Volcano Heat Block | 1 | | 1-18 (1x) | Volcano Heat Block |
-| 045 | Main HotEnd | Heatsink Thermal Compound | 1 | | 1-18 (1x) | Thermal Paste | [E3D](https://e3d-online.com/thermal-compound-paste) | L1 |
-| 046 | Main HotEnd | V6 Universal Fixing Kit | 1 | | 1-18 (1x) | Universal Fixing Kit |
-| 047 | Main HotEnd | Thermistor Cartridge | 1 | | 1-18 (1x) | Thermistor Cartridge |
+| 040 | Main HotEnd | Fan Duct Plastic | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | 303010 Fan Duct |
+| 041 | Main HotEnd | E3D v6 Heat Break | 2 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | E3D V6 Heat Break | [E3D](https://e3d-online.com/v6-heat-break) | L8.6 |
+| 042 | Main HotEnd | PTFE 50mm | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | PTFE Tube (50 mm) | [Amazon](https://www.amazon.com/Teflon-tubing-Filament-Printer-Tech/dp/B073RDFTDV/ref=sr_1_4?keywords=ptfe+tube&qid=1579906348&sr=8-4) | $7 |
+| 043 | Main HotEnd | E3D V6 Heat Sink | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | E3D V6 Heat Sink |
+| 044 | Main HotEnd | Volcano Heat Block | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Volcano Heat Block |
+| 045 | Main HotEnd | Heatsink Thermal Compound | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Thermal Paste | [E3D](https://e3d-online.com/thermal-compound-paste) | L1 |
+| 046 | Main HotEnd | V6 Universal Fixing Kit | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Universal Fixing Kit |
+| 047 | Main HotEnd | Thermistor Cartridge | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Thermistor Cartridge |
 | 048 | Main HotEnd | Titan Extruder Box | 1 | | 1-19 (1x) | E3D Titan Extruder Box | [E3D](https://e3d-online.com/extruder/titan-spares) | |
 | 049 | Main HotEnd | M3 35 mm Screws Half Threaded | 3 | | 1-19 (3x) | Extruder Screws |
-| 050 | Main HotEnd | Heater | 1 | | 1-18 (1x) | Heater Cartridge |
-| 051 | Main HotEnd | 3010 Blower Fan | 1 | | 1-18 (1x) | 303010 Fan |
+| 050 | Main HotEnd | Heater | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Heater Cartridge |
+| 051 | Main HotEnd | 3010 Blower Fan | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | 303010 Fan |
 | 052 | Main HotEnd | Blower Fan | 1 | | 1-19 (1x) | Blower Fan |
 | 053 | Main HotEnd | Printed Part Hotend 1 Blower Fan | 1 | | 1-19 (1x) | 3D-Printed Blower Fan Duct |
 | 054 | Filament | Filament Sensor | 1 | | 2-05 (1x) | Filament Sensor |
