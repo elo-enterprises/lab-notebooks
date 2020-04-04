@@ -11,8 +11,11 @@
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles](http://www.support.modix3d.com/x-brackets-to-z-profiles/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -297,8 +300,11 @@ Issues:
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 2. Assembling the X Idler Pulleys](http://www.support.modix3d.com/x-idler-pulley-assembly/)
-* Fast, easy assembly. 
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -311,6 +317,17 @@ Issues:
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
 * Fast, easy assembly.
