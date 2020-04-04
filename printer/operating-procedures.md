@@ -2,7 +2,10 @@
 
 ------------
 
-# Recalibration
+This page contains step-by-step instructions for operating the printer.
+
+------------
+## Recalibration
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
 * Before running the Tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
@@ -65,7 +68,8 @@
     * If the circles and lines are clearer in some parts of the bed than others, revisit the previous calibration step using the Modix online tool for UBL adjustment.
     * If the entire pattern is not sticking to the bed, see [Troubleshooting - First Layer Not Sticking to the Bed](troubleshooting-issues.md#first-layer-not-sticking-to-the-bed).
 
-# Running a Print
+------------
+## Running a Print
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 * Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
   * Note - DO NOT TOUCH THE HOT END WITH YOUR HANDS! The whole point is that it is very, very hot.
@@ -84,7 +88,8 @@
 * On the printer console, go to Print from SD. Select the file, and click on it. The print will start. 
   * Pay special attention to the first layer. If obvious problems arise, it may be worthwhile to stop the print early and restart to avoid wasting time and filament.
 
-# Filament Change
+------------
+## Filament Change
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 * If the current print's gcode paused automatically, everything is fine. We have not yet attempted to stop a print manually by pressing the pause button, change filament and resume. Be aware that this may ruin the print.
 * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Unload Filament. The extruder gears will turn in reverse, ejecting the filament. While this is happening, gently pull on the filament at the filament sensor to assist in unthreading. 
