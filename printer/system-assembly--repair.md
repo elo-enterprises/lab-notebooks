@@ -31,10 +31,10 @@
 |----------|--------|-----------------------------|----------|-----------|
 | [MTL1](parts-lists.md#box-18---mtl1) | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
 | [MTL1](parts-lists.md#box-18---mtl1) | 24 | BIG-00-X-004 | 1x | X Pulley Back |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| [PRF](parts-lists.md#box-88---prf) | 04 | 4040 Black Extrusion Profile - 990 mm | 4x | 40x40 Profile Length 990mm – Z Axis |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Fast, easy assembly. 
@@ -53,14 +53,15 @@
 </table>
 </center>
 * Parts:
-  | Box Name | Packing List ID             | Qty Used | Part Name |
-  |----------|-----------------------------|----------|-----------|
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Fast, easy assembly.
