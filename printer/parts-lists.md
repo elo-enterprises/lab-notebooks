@@ -106,14 +106,14 @@ This page contains data on the individual components of the printer, as well as 
 | 018 | Mechanical Parts | LMKL12UU | 4 | | 1-09 (4x) | LMKL12UU Linear Bearing |
 | 019 | Mechanical Parts | GT2 Pulley W10 T16 B5 | 6 | | 1-14 (5x) | 16 Tooth Pulley |
 | 020 | Mechanical Parts | GT2 Pulley W10 T40 B8 | 3 | | 1-09 (3x) | GT2 40 Tooth Gears |
-| 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | 1-02 (2x); 1-15 (1x) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
+| 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
 | 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | 1-15 (1x "Y-Axis" Segment); 1-16 (2x "X-Axis" Segment) | GT2 Timing Belt (165 cm) | ??? | ??? |
 | 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | 1-10 (3x); 1-12 (1x) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | 2-08 (4x) | 2020 Corner Bracket |
 | 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
 | 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (4x); 1-08 (4x); 1-11 (4x) | Metal Clip for 4040 Profiles |
 | 027 | Mechanical Parts | 4040 Profile Plastic Cover | 10 | | | |
-| 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | 1-02 (6x); 1-15 (2x) | M5 Nylon Round Spacer |
+| 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | [1-02 (6x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (2x) | M5 Nylon Round Spacer |
 | 029 | Mechanical Parts | Belt Clamp | 6 | | 1-15 (2x); 1-16 (4x) | Belt Tensioning Clamp |
 | 030 | Plastic Legs | Articulated Plastic Legs | 4 | | | |
 | 031 | Accessories | Allen Keys Set | 1 | | | |
@@ -175,7 +175,7 @@ This page contains data on the individual components of the printer, as well as 
 | 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-05 (4x); 1-06 (6x); 1-07 (2x); 1-08 (15x); 1-11 (6x); 1-12 (6x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
 | 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (9x); 1-08 (8x); 1-15 (1x) | M5 16mm Screw |
 | 089 | Screws & Nuts | M5x20 | 5 | | | |
-| 090 | Screws & Nuts | M5x50 | 6 | | 1-02 (2x); 1-15 (1x) | M5 50mm Screw |
+| 090 | Screws & Nuts | M5x50 | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | M5 50mm Screw |
 | 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (4x); 1-08 (4x); 1-11 (4x) | M8 25mm Button-head Screw |
 | 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | 1-11 (2x); 1-12 (4x) | M5 12mm Conic Screw |
@@ -183,7 +183,7 @@ This page contains data on the individual components of the printer, as well as 
 | 095 | Screws & Nuts | M2.5 Nut | 10 | | 2-01 (4x) | M2.5 Nut |
 | 096 | Screws & Nuts | M4 Nut | 8 | | 1-23 (6x) | M4 Nut |
 | 097 | Screws & Nuts | M5 Nut | 35 | | 1-06 (8x); 1-08 (14x); 1-12 (4x) | M5 Nut |
-| 098 | Screws & Nuts | M5 Nylock | 6 | | 1-02 (2x); 1-15 (1x) | M5 Nylock Nut |
+| 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | M5 Nylock Nut |
 | 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-05 (4x); 1-06 (7x); 1-07 (2x); 1-08 (9x); 1-11 (8x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
 | 100 | Screws & Nuts | 4040-M8 T Nut | 6 | | 2-06 (6x) | 4040 M8 T-Nut |
 | 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | 1-09 (10x); 1-13 (6x); 2-07 (4x); 2-08 (16x) | 2020 M5 T-Nut |
