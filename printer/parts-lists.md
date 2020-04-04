@@ -247,8 +247,8 @@ This page contains data on the individual components of the printer, as well as 
 | 02 | BIG-60-X-002 | 2 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) | Thin Metal Brackets (695 mm) with Built-In Nuts (PEM) |
 | 03 | BIG-60-Z-001 V4 | 1 | | 1-08 (1x) | Z Axis Bottom Right Bracket |
 | 04 | BIG-60-Z-002 V4 | 1 | | 1-08 (1x) | Z Axis Bottom Left Bracket |
-| 05 | BIG-60-Z-003 V2 | 1 | | 1-06 (1x) | Z Top Sheet Metal Bracket – Right |
-| 06 | BIG-60-Z-004 V2 | 1 | | 1-06 (1x) | Z Top Sheet Metal Bracket – Left |
+| 05 | BIG-60-Z-003 V2 | 1 | | [1-06 (1x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets) | Z Top Sheet Metal Bracket – Right |
+| 06 | BIG-60-Z-004 V2 | 1 | | [1-06 (1x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets) | Z Top Sheet Metal Bracket – Left |
 | 07 | BIG-60-Z-005 V4 | 1 | | 1-09 (1x) | Z Axis Mid Bracket |
 | 08 | BIG-60-Z-006 | 1 | | 1-09 (1x) | Z Axis Mid Bracket |
 | 09 | Panel-Body-010-Front-Bottom | 1 | | 2-11 (1x) | Bottom Plate |
