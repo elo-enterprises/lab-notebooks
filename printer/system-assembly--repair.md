@@ -25,6 +25,7 @@
   </tr>
 </table>
 </center>
+
 * Parts:
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
@@ -52,6 +53,7 @@
   </tr>
 </table>
 </center>
+
 * Parts:
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
