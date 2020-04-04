@@ -103,10 +103,8 @@
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) |  |  | 2x | X Top Profiles |
 | [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) |  |  | 4x | Z Profiles |
-| []() |  |  | 1x |  |
-| []() |  |  | 1x |  |
-| []() |  |  | 1x |  |
-| []() |  |  | 1x |  |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 4x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 4x | M5 4040 T Nut for Profiles |
 
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
 * Fast, easy assembly.
