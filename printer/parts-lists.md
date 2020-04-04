@@ -22,7 +22,7 @@ This page contains data on the individual components of the printer, as well as 
 | 10 | BIG-00-EXT-004 V5 | 1 | | [1-20 (1x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | Inductive Sensor Mounting Bracket |
 | 11 | BIG-00-EXT-005 | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Blower Fan Mounting Bracket |
 | 12 | BIG-00-EXT-011 V2 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Filament Guide Mount Bracket |
-| 13 | BIG-00-EXT-012 | 1 | | 2-03 (1x) | Extruder Wiring Cover Bracket |
+| 13 | BIG-00-EXT-012 | 1 | | [2-03 (1x)](system-assembly--repair.md#part-2--step-3-wiring-the-extruder) | Extruder Wiring Cover Bracket |
 | 14 | BIG-00-FLM-005 V4 | 1 | | 2-05 (1x) | Filament Sensor Metal Mount |
 | 15 | BIG-00-FLM-008 | 2 | | 2-06 (1x) | Filament Spool Bracket |
 | 16 | BIG-00-EXT-008 | 1 | | [Recalibration](operating-procedures.md#recalibration) | |
@@ -168,7 +168,7 @@ This page contains data on the individual components of the printer, as well as 
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
 | 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor); [1-21 (4x)](system-assembly--repair.md#part-1--step-21-installing-the-extruder-on-the-y-axis-rail) | M4 8mm Screw |
-| 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); [1-23 (12x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
+| 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); [1-23 (12x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains); [2-03 (4x)](system-assembly--repair.md#part-2--step-3-wiring-the-extruder); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | M4 25mm Screw |
 | 086 | Screws & Nuts | M5x8 | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [1-22 (2x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen); 2-08 (16x) | M5 8mm Screw |
