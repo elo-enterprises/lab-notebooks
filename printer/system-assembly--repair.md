@@ -322,12 +322,12 @@ Issues:
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [MTL1](parts-lists.md#box-18---mtl1) | 25 | BIG-00-X-005 | 1x | X Idler Front U Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 26 | BIG-00-X-006 | 1x | X Idler Back U Bracket |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 21 | GT2 Idler W10 T20 B5 | 2x | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 28 | Plastic Spacer M5x9x5mm | 6x | M5 Nylon Round Spacer |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 090 | M5x50 | 2x | M5 50mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 098 | M5 Nylock | 2x | M5 Nylock Nut |
 
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
 * Fast, easy assembly.
