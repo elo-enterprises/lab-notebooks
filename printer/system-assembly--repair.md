@@ -198,12 +198,17 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [PRF](parts-lists.md#box-88---prf) | 03 | 4040 Black Extrusion Profile - 770 mm | 2x | 40x40 Profile Length 770mm |
+| [MTL2](parts-lists.md#box-78---mtl2) | 03 | BIG-60-Z-001 V4 | 1x | Z Axis Bottom Right Bracket |
+| [MTL2](parts-lists.md#box-78---mtl2) | 04 | BIG-60-Z-002 V4 | 1x | Z Axis Bottom Left Bracket |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 016 | KFL08 Pillow Bearing Flange | 3x | KFL08 Pillow Bearing Flange |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 017 | SHF12 | 4x | SHF12 (12mm Rod Mount) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 026 | 4040 Fastener Joint M8 | 4x | Metal Clip for 4040 Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 15x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 088 | M5x16 | 8x | M5 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 091 | M8x25-Button	 | 4x | M8 25mm Button-head Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 097 | M5 Nut | 14x | M5 Nut |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 9x | M5 4040 T Nut for Profiles |
 
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
 * Fast, easy assembly.
