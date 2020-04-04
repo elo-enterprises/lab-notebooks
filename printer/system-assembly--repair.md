@@ -25,6 +25,15 @@
   </tr>
 </table>
 </center>
+* Parts:
+  | Box Name | Packing List ID             | Qty Used | Part Name |
+  |----------|-----------------------------|----------|-----------|
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Fast, easy assembly. 
@@ -42,6 +51,15 @@
   </tr>
 </table>
 </center>
+* Parts:
+  | Box Name | Packing List ID             | Qty Used | Part Name |
+  |----------|-----------------------------|----------|-----------|
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
+  |  |  |  |  |
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Fast, easy assembly.
