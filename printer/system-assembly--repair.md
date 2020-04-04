@@ -75,8 +75,10 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 20x | M3 Spring Shim-Lock Washer |
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
-* Fast, easy assembly.
-* Issues: 
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
   * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
 <center>
 <table>
@@ -90,6 +92,17 @@
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 1 Step 4](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 2x | X Profiles |
+| []() |  |  | 1x |  |
+| []() |  |  | 1x |  |
+| []() |  |  | 1x |  |
+| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x |  |
+| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x |  |
 
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
 * Fast, easy assembly.
