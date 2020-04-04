@@ -29,8 +29,8 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| MTL1 | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
-| MTL1 | 24 | BIG-00-X-004 | 1x | X Pulley Back |
+| [MTL1](parts-lists.md#box-18---mtl1) | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
+| [MTL1](parts-lists.md#box-18---mtl1) | 24 | BIG-00-X-004 | 1x | X Pulley Back |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
