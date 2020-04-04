@@ -1041,9 +1041,9 @@
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen) |  |  | 1x | Assembled Structure |
 | [Main: ELC](parts-lists.md#box-48---main) | 001 | Electronic Box | 1x | Electronic Box |
+| [MTL1](parts-lists.md#box-18---mtl1) | 27 | BIG-00-X-007 | 1x | Drag Chain Mounting Bracket |
 | [BED](parts-lists.md#box-38---bed) | 09 | Drag Chain, 37 Links (+2 end connectors) | 1x | Drag Chain, 37 Links |
 | [BED](parts-lists.md#box-38---bed) | 10 | Drag Chain, 31 Links (+2 end connectors) | 1x | Drag Chain, 31 Links |
-| [MTL1](parts-lists.md#box-18---mtl1) | 27 | BIG-00-X-007 | 1x | Drag Chain Mounting Bracket |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 083 | M4x10 | 12x | M4 10mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 2x | M5 12mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 096 | M4 Nut | 6x | M4 Nut |
@@ -1112,6 +1112,8 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring) |  |  | 1x | Assembled Structure |
+| [MTL1](parts-lists.md#box-18---mtl1) | 13 | BIG-00-EXT-012 | 1x | Extruder Wiring Cover Bracket |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 083 | M4x10 | 4x | M4 10mm Screw |
 
 * Next Step: [Part 2 Step 04](#part-2--step-4-installing-the-electronics-box-cover)
 * Results Used in Step: [Part 2 Step 04](#part-2--step-4-installing-the-electronics-box-cover)
