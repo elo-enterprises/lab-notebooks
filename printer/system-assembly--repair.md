@@ -818,6 +818,7 @@
 | [Main: Mechanical Parts](parts-lists.md#box-48---main) | 029 | Belt Clamp | 2x | Belt Tensioning Clamp |
 
 * Next Step: [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end)
+* Results Used in Step: [Part 1 Step 21](#part-1--step-21-installing-the-extruder-on-the-y-axis-rail)
 
 ------------
 ### [Part 3 – Step 4. Testing X & Y Homing](http://www.support.modix3d.com/testing-x-y-homing/)
@@ -836,7 +837,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * None known.
+  * Modix instructions list the BLTouch sensor and cable parts separately, but they are listed together in the packing list. The M3 Nylock Nuts listed in the instructions are not in the packing list, but were contained in the BLTouch bag.
 * Wiring of this step discussed in Wiring System description.
 <center>
 <table>
@@ -855,14 +856,14 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 19](#part-1--step-19-assembling-the-extruder) |  |  | 1x | Hot End Extruder Assembly |
+| [MTL1](parts-lists.md#box-18---mtl1) | 10 | BIG-00-EXT-004 V5 | 1x | Inductive Sensor Mounting Bracket |
+| [Main: Electronic Parts](parts-lists.md#box-48---main) | 013 | Bltouch | 1x | Bag of BLTouch Equipment |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 079 | M3x12 | 2x | M3 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 082 | M4x8 | 2x | M4 8mm Screw |
 
 * Next Step: [Part 1 Step 21](#part-1--step-21-installing-the-extruder-on-the-y-axis-rail)
+* Results Used in Step: [Part 1 Step 21](#part-1--step-21-installing-the-extruder-on-the-y-axis-rail)
 
 ------------
 ### [Part 2 – Step 7. Installing the Silicon Heater](http://www.support.modix3d.com/silicon-heater-assembly/)
@@ -1248,6 +1249,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 085 | M4x25 | 2x | M4 25mm Screw |
 
 * Next Step: [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor)
+* Results Used in Step: [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor)
 
 ------------
 ### [Part 1 – Step 21. Installing the Extruder on the Y Axis Rail](http://www.support.modix3d.com/extruder-on-the-y-axis-rail/)
@@ -1273,12 +1275,9 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis) |  |  | 1x | Assembled Structure |
+| [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) |  |  | 1x | Hot End Extruder Assembly |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 082 | M4x8 | 4x | M4 8mm Screw |
 
 * Next Step: [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen)
 
