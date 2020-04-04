@@ -87,7 +87,7 @@ This page contains data on the individual components of the printer, as well as 
 | Item # | Bag Name | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|----------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 001 | ELC | Electronic Box | 1 | | 1-23 (1x) | Electronic Box |
-| 002 | Motors | Motech Stepper Motor 60mm | 5 | | 1-14 (5x) | Nema 17 Motor 60mm | ??? | ??? |
+| 002 | Motors | Motech Stepper Motor 60mm | 5 | | 1-14 (5x) | Nema 17 Motor 60mm | Modix | $50 |
 | 003 | Motors | Motech Stepper Motor 40mm | 1 | | 1-19 (1x) | Nema 17 Motor 40mm |
 | 004 |  | X Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
 | 005 |  | Y Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
@@ -172,11 +172,11 @@ This page contains data on the individual components of the printer, as well as 
 | 084 | Screws & Nuts | M4x16 | 30 | | 1-09 (28x) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | 1-19 (2x) | M4 25mm Screw |
 | 086 | Screws & Nuts | M5x8 | 45 | | 1-09 (10x); 1-13 (6x); 1-22 (2x); 2-08 (16x) | M5 8mm Screw |
-| 087 | Screws & Nuts | M5x12 | 140 | | 1-03 (4x); 1-05 (4x); 1-06 (6x); 1-07 (2x); 1-08 (15x); 1-11 (6x); 1-12 (6x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
-| 088 | Screws & Nuts | M5x16 | 30 | | 1-03 (4x); 1-06 (9x); 1-08 (8x); 1-15 (1x) | M5 16mm Screw |
+| 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-05 (4x); 1-06 (6x); 1-07 (2x); 1-08 (15x); 1-11 (6x); 1-12 (6x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
+| 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (9x); 1-08 (8x); 1-15 (1x) | M5 16mm Screw |
 | 089 | Screws & Nuts | M5x20 | 5 | | | |
 | 090 | Screws & Nuts | M5x50 | 6 | | 1-02 (2x); 1-15 (1x) | M5 50mm Screw |
-| 091 | Screws & Nuts | M8x25-Button | 18 | | 1-03 (4x); 1-06 (4x); 1-08 (4x); 1-11 (4x) | M8 25mm Button-head Screw |
+| 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (4x); 1-08 (4x); 1-11 (4x) | M8 25mm Button-head Screw |
 | 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | 1-11 (2x); 1-12 (4x) | M5 12mm Conic Screw |
 | 094 | Screws & Nuts | M5x12-Cone | 25 | | 2-07 (4x); 2-10 (16x) | M5 12mm Cone Screw |
@@ -184,7 +184,7 @@ This page contains data on the individual components of the printer, as well as 
 | 096 | Screws & Nuts | M4 Nut | 8 | | 1-23 (6x) | M4 Nut |
 | 097 | Screws & Nuts | M5 Nut | 35 | | 1-06 (8x); 1-08 (14x); 1-12 (4x) | M5 Nut |
 | 098 | Screws & Nuts | M5 Nylock | 6 | | 1-02 (2x); 1-15 (1x) | M5 Nylock Nut |
-| 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | 1-03 (8x); 1-05 (4x); 1-06 (7x); 1-07 (2x); 1-08 (9x); 1-11 (8x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
+| 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-05 (4x); 1-06 (7x); 1-07 (2x); 1-08 (9x); 1-11 (8x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
 | 100 | Screws & Nuts | 4040-M8 T Nut | 6 | | 2-06 (6x) | 4040 M8 T-Nut |
 | 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | 1-09 (10x); 1-13 (6x); 2-07 (4x); 2-08 (16x) | 2020 M5 T-Nut |
 | 102 | Screws & Nuts | 2020-M3 T Nut | 12 | | 1-13 (10x) | 2020 M3 T-Nut |
