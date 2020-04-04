@@ -34,6 +34,10 @@
 | [MTL1](parts-lists.md#box-18---mtl1) | 24 | BIG-00-X-004 | 1x | X Pulley Back |
 | [PRF](parts-lists.md#box-88---prf) | 04 | 4040 Black Extrusion Profile - 990 mm | 4x | 40x40 Profile Length 990mm – Z Axis |
 | [Main: Mechanical Parts](parts-lists.md#box-48---main) | 026 | 4040 Fastener Joint M8 | 4x | Metal Clip for 4040 Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 091 | M8x25-Button	 | 4x | M8 25mm Button-head Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 8x | M5 4040 T Nut for Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 088 | M5x16 | 4x | M5 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 4x | M5 12mm Screw |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
