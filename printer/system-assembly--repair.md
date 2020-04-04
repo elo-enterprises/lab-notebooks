@@ -626,6 +626,8 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles) |  |  | 1x | Assembled Structure |
+| []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
