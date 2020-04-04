@@ -294,12 +294,17 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 12](#part-1--step-12-installing-the-x-shaft) |  |  | 1x | Assembled Structure |
+| [MTL1](parts-lists.md#box-18---mtl1) | 29 | BIG-00-Y-001 | 1x | Y Pulley Bracket (Y Motor Bracket) |
+| [MTL1](parts-lists.md#box-18---mtl1) | 30 | BIG-00-Y-002 | 1x | Y Idler Bracket |
+| [BED](parts-lists.md#box-38---bed) | 06 | MGN12H Rail | 1x | MGN Rails (700mm) |
+| [PRF](parts-lists.md#box-88---prf) | 06 | 2020 Black Extrusion Profile - 760 mm | 1x | 20x20 Profile Length 760mm |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 077 | M3x6 | 8x | M3 6mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 078 | M3x10 | 10x | M3 10mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 086 | M5x8 | 6x | M5 8mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 101 | 2020-M5 T Nut | 6x | 2020 M5 T-Nut |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 102 | 2020-M3 T Nut | 10x | 2020 M3 T-Nut |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 10x | M3 Spring Shim-Lock Washer |
 
 * Next Step: [Part 1 Step 14](#part-1--step-14-installing-the-motors)
 
