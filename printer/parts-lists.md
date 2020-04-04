@@ -17,11 +17,11 @@ This page contains data on the individual components of the printer, as well as 
 | 05 | BIG-00-SUP-002 V2 | 4 | | 2-10 (4x) | Top Support Bracket |
 | 06 | BIG-00-SUP-003 | 11 | | 2-10 (11x) | Side and Back Support Bracket |
 | 07 | BIG-00-EXT-001 V2 | 1 | | 1-19 (1x) | Extruder Mounting Bracket |
-| 08 | BIG-00-EXT-002 | 1 | | 1-15 (1x) | Rail Block Bracket |
-| 09 | BIG-00-EXT-003 | 1 | | 1-15 (1x) | Y Axis Belt Mount Bracket |
+| 08 | BIG-00-EXT-002 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Rail Block Bracket |
+| 09 | BIG-00-EXT-003 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Y Axis Belt Mount Bracket |
 | 10 | BIG-00-EXT-004 V5 | 1 | | 1-20 (1x) | Inductive Sensor Mounting Bracket |
 | 11 | BIG-00-EXT-005 | 1 | | 1-19 (1x) | Blower Fan Mounting Bracket |
-| 12 | BIG-00-EXT-011 V2 | 1 | | 1-15 (1x) | Filament Guide Mount Bracket |
+| 12 | BIG-00-EXT-011 V2 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Filament Guide Mount Bracket |
 | 13 | BIG-00-EXT-012 | 1 | | 2-03 (1x) | Extruder Wiring Cover Bracket |
 | 14 | BIG-00-FLM-005 V4 | 1 | | 2-05 (1x) | Filament Sensor Metal Mount |
 | 15 | BIG-00-FLM-008 | 2 | | 2-06 (1x) | Filament Spool Bracket |
@@ -106,15 +106,15 @@ This page contains data on the individual components of the printer, as well as 
 | 018 | Mechanical Parts | LMKL12UU | 4 | | [1-09 (4x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | LMKL12UU Linear Bearing |
 | 019 | Mechanical Parts | GT2 Pulley W10 T16 B5 | 6 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | 16 Tooth Pulley |
 | 020 | Mechanical Parts | GT2 Pulley W10 T40 B8 | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | GT2 40 Tooth Gears |
-| 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
-| 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | 1-15 (1x "Y-Axis" Segment); 1-16 (2x "X-Axis" Segment) | GT2 Timing Belt (165 cm) | Modix | $10 |
+| 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
+| 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | [1-15 (1x "Y-Axis" Segment)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); 1-16 (2x "X-Axis" Segment) | GT2 Timing Belt (165 cm) | Modix | $10 |
 | 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | [1-10 (3x)](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets); [1-12 (1x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | 2-08 (4x) | 2020 Corner Bracket |
 | 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
 | 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (4x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | Metal Clip for 4040 Profiles |
 | 027 | Mechanical Parts | 4040 Profile Plastic Cover | 10 | | | |
-| 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | [1-02 (6x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (2x) | M5 Nylon Round Spacer |
-| 029 | Mechanical Parts | Belt Clamp | 6 | | 1-15 (2x); 1-16 (4x) | Belt Tensioning Clamp |
+| 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | [1-02 (6x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (2x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylon Round Spacer |
+| 029 | Mechanical Parts | Belt Clamp | 6 | | [1-15 (2x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); 1-16 (4x) | Belt Tensioning Clamp |
 | 030 | Plastic Legs | Articulated Plastic Legs | 4 | | | |
 | 031 | Accessories | Allen Keys Set | 1 | | | |
 | 032 | Accessories | Ceramic Screwdriver for A4988 Stepper Driver - CD-15 | 1 | | | |
@@ -163,8 +163,8 @@ This page contains data on the individual components of the printer, as well as 
 | 075 | Extra | Black Bowden Coupling Clip | 2 | | 2-05 (2x) | PTFE Clip |
 | 076 | Screws & Nuts | M2.5x16 | 6 | | 2-01 (4x) | M2.5 16mm Screw |
 | 077 | Screws & Nuts | M3x6 | 10 | | [1-13 (8x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 6mm Screw |
-| 078 | Screws & Nuts | M3x10 | 20 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 1-15 (1x) | M3 10mm Screw |
-| 079 | Screws & Nuts | M3x12 | 5 | | 1-15 (3x) | M3 12mm Screw |
+| 078 | Screws & Nuts | M3x10 | 20 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M3 10mm Screw |
+| 079 | Screws & Nuts | M3x12 | 5 | | [1-15 (3x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M3 12mm Screw |
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
 | 082 | Screws & Nuts | M4x8 | 17 | | 1-19 (2x); 1-20 (2x); 1-21 (4x) | M4 8mm Screw |
@@ -173,9 +173,9 @@ This page contains data on the individual components of the printer, as well as 
 | 085 | Screws & Nuts | M4x25 | 10 | | 1-19 (2x) | M4 25mm Screw |
 | 086 | Screws & Nuts | M5x8 | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 1-22 (2x); 2-08 (16x) | M5 8mm Screw |
 | 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-05 (4x)](system-assembly--repair.md#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles); [1-06 (6x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-07 (2x)](system-assembly--repair.md#part-1--step-7-connecting-the-z-axis-top-to-z-profiles); [1-08 (15x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (6x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (6x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
-| 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (9x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (8x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); 1-15 (1x) | M5 16mm Screw |
+| 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (9x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (8x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 16mm Screw |
 | 089 | Screws & Nuts | M5x20 | 5 | | | |
-| 090 | Screws & Nuts | M5x50 | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | M5 50mm Screw |
+| 090 | Screws & Nuts | M5x50 | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 50mm Screw |
 | 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (4x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | M8 25mm Button-head Screw |
 | 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | [1-11 (2x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 12mm Conic Screw |
@@ -183,14 +183,14 @@ This page contains data on the individual components of the printer, as well as 
 | 095 | Screws & Nuts | M2.5 Nut | 10 | | 2-01 (4x) | M2.5 Nut |
 | 096 | Screws & Nuts | M4 Nut | 8 | | 1-23 (6x) | M4 Nut |
 | 097 | Screws & Nuts | M5 Nut | 35 | | [1-06 (8x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (14x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 Nut |
-| 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | M5 Nylock Nut |
+| 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylock Nut |
 | 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-05 (4x)](system-assembly--repair.md#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles); [1-06 (7x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-07 (2x)](system-assembly--repair.md#part-1--step-7-connecting-the-z-axis-top-to-z-profiles); [1-08 (9x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (8x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
 | 100 | Screws & Nuts | 4040-M8 T Nut | 6 | | 2-06 (6x) | 4040 M8 T-Nut |
 | 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 2-07 (4x); 2-08 (16x) | 2020 M5 T-Nut |
 | 102 | Screws & Nuts | 2020-M3 T Nut | 12 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 2020 M3 T-Nut |
 | 103 | Screws & Nuts | M3 Spring Shim | 40 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 Spring Shim-Lock Washer |
 | 104 | Screws & Nuts | M3 Shim | 40 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 Shim |
-| 105 | Screws & Nuts | M5 Shim | 5 | | 1-15 (1x) | M5 Shim |
+| 105 | Screws & Nuts | M5 Shim | 5 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Shim |
 | 106 | Screws & Nuts | M5 Black Nylon Washer M5x10x1 | 20 | | 2-10 (12x) | M5 Nylon Washer |
 
 ------------
