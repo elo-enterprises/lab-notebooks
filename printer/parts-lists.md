@@ -74,7 +74,7 @@ This page contains data on the individual components of the printer, as well as 
 | 02 | PEI Sheet | 1 | | | | [CSHyde](https://catalog.cshyde.com/item/pei-sheet-3d-printing-build-surface/rinting-materials-3d-printing-films-3-mil-ultem-3d/36-3a-3d-24-41x25-98) | $40 |
 | 04 | X Shaft | 1 | | 1-12 (1x) | X Shaft |
 | 05 | SFU1204 Ball Screw | 3 | | 1-09 (3x) | SFU1204 Ball Screw (830mm) |
-| 06 | MGN12H Rail | 3 | | 1-04 (2x); 1-13 (1x) | MGN Rails (700mm) |
+| 06 | MGN12H Rail | 3 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 1-13 (1x) | MGN Rails (700mm) |
 | 07 | 12mm Smooth Rod | 4 | | 1-10 (4x) | 12 mm Smooth Rods (895mm) |
 | 08 | Black T Slot Plastic Cover | 12x 500mm | | 1-22 (1x); 2-01 (x) | 4040 Profile Slot Plastic Cover (500mm) |
 | 09 | Drag Chain, 37 Links (+2 end connectors) | 1 | | 1-23 (1x) | Drag Chain, 37 Links |
@@ -111,7 +111,7 @@ This page contains data on the individual components of the printer, as well as 
 | 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | 1-10 (3x); 1-12 (1x) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | 2-08 (4x) | 2020 Corner Bracket |
 | 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
-| 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (4x); 1-08 (4x); 1-11 (4x) | Metal Clip for 4040 Profiles |
+| 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); 1-06 (4x); 1-08 (4x); 1-11 (4x) | Metal Clip for 4040 Profiles |
 | 027 | Mechanical Parts | 4040 Profile Plastic Cover | 10 | | | |
 | 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | [1-02 (6x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (2x) | M5 Nylon Round Spacer |
 | 029 | Mechanical Parts | Belt Clamp | 6 | | 1-15 (2x); 1-16 (4x) | Belt Tensioning Clamp |
@@ -165,18 +165,18 @@ This page contains data on the individual components of the printer, as well as 
 | 077 | Screws & Nuts | M3x6 | 10 | | 1-13 (8x) | M3 6mm Screw |
 | 078 | Screws & Nuts | M3x10 | 20 | | 1-13 (10x); 1-15 (1x) | M3 10mm Screw |
 | 079 | Screws & Nuts | M3x12 | 5 | | 1-15 (3x) | M3 12mm Screw |
-| 080 | Screws & Nuts | M3x16 | 22 | | 1-04 (20x); 2-05 (2x) | M3 16mm Screw |
+| 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | 1-14 (20x) | M3 8mm Screw |
 | 082 | Screws & Nuts | M4x8 | 17 | | 1-19 (2x); 1-20 (2x); 1-21 (4x) | M4 8mm Screw |
 | 083 | Screws & Nuts | M4x10 | 20 | | 1-12 (2x); 1-23 (12); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | 1-09 (28x) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | 1-19 (2x) | M4 25mm Screw |
 | 086 | Screws & Nuts | M5x8 | 45 | | 1-09 (10x); 1-13 (6x); 1-22 (2x); 2-08 (16x) | M5 8mm Screw |
-| 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-05 (4x); 1-06 (6x); 1-07 (2x); 1-08 (15x); 1-11 (6x); 1-12 (6x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
-| 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (9x); 1-08 (8x); 1-15 (1x) | M5 16mm Screw |
+| 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); 1-05 (4x); 1-06 (6x); 1-07 (2x); 1-08 (15x); 1-11 (6x); 1-12 (6x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
+| 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); 1-06 (9x); 1-08 (8x); 1-15 (1x) | M5 16mm Screw |
 | 089 | Screws & Nuts | M5x20 | 5 | | | |
 | 090 | Screws & Nuts | M5x50 | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | M5 50mm Screw |
-| 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (4x); 1-08 (4x); 1-11 (4x) | M8 25mm Button-head Screw |
+| 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); 1-06 (4x); 1-08 (4x); 1-11 (4x) | M8 25mm Button-head Screw |
 | 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | 1-11 (2x); 1-12 (4x) | M5 12mm Conic Screw |
 | 094 | Screws & Nuts | M5x12-Cone | 25 | | 2-07 (4x); 2-10 (16x) | M5 12mm Cone Screw |
@@ -184,11 +184,11 @@ This page contains data on the individual components of the printer, as well as 
 | 096 | Screws & Nuts | M4 Nut | 8 | | 1-23 (6x) | M4 Nut |
 | 097 | Screws & Nuts | M5 Nut | 35 | | 1-06 (8x); 1-08 (14x); 1-12 (4x) | M5 Nut |
 | 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | M5 Nylock Nut |
-| 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-05 (4x); 1-06 (7x); 1-07 (2x); 1-08 (9x); 1-11 (8x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
+| 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); 1-05 (4x); 1-06 (7x); 1-07 (2x); 1-08 (9x); 1-11 (8x); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
 | 100 | Screws & Nuts | 4040-M8 T Nut | 6 | | 2-06 (6x) | 4040 M8 T-Nut |
 | 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | 1-09 (10x); 1-13 (6x); 2-07 (4x); 2-08 (16x) | 2020 M5 T-Nut |
 | 102 | Screws & Nuts | 2020-M3 T Nut | 12 | | 1-13 (10x) | 2020 M3 T-Nut |
-| 103 | Screws & Nuts | M3 Spring Shim | 40 | | 1-04 (20x); 1-13 (10x) | M3 Spring Shim-Lock Washer |
+| 103 | Screws & Nuts | M3 Spring Shim | 40 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 1-13 (10x) | M3 Spring Shim-Lock Washer |
 | 104 | Screws & Nuts | M3 Shim | 40 | | 1-14 (20x) | M3 Shim |
 | 105 | Screws & Nuts | M5 Shim | 5 | | 1-15 (1x) | M5 Shim |
 | 106 | Screws & Nuts | M5 Black Nylon Washer M5x10x1 | 20 | | 2-10 (12x) | M5 Nylon Washer |
@@ -243,8 +243,8 @@ This page contains data on the individual components of the printer, as well as 
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
-| 01 | BIG-60-X-001 | 2 | | 1-04 (2x) | Flat Metal Brackets (789.5 mm) |
-| 02 | BIG-60-X-002 | 2 | | 1-04 (2x) | Thin Metal Brackets (695 mm) with Built-In Nuts (PEM) |
+| 01 | BIG-60-X-001 | 2 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) | Flat Metal Brackets (789.5 mm) |
+| 02 | BIG-60-X-002 | 2 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) | Thin Metal Brackets (695 mm) with Built-In Nuts (PEM) |
 | 03 | BIG-60-Z-001 V4 | 1 | | 1-08 (1x) | Z Axis Bottom Right Bracket |
 | 04 | BIG-60-Z-002 V4 | 1 | | 1-08 (1x) | Z Axis Bottom Left Bracket |
 | 05 | BIG-60-Z-003 V2 | 1 | | 1-06 (1x) | Z Top Sheet Metal Bracket – Right |
@@ -261,7 +261,7 @@ This page contains data on the individual components of the printer, as well as 
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
-| 01 | 4040 Black Extrusion Profile - 870 mm | 2 | | 1-04 (2x) | 40x40 Profile Length 870mm |
+| 01 | 4040 Black Extrusion Profile - 870 mm | 2 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) | 40x40 Profile Length 870mm |
 | 02 | 4040 Black Extrusion Profile - 790 mm | 2 | | 1-11 (2x) | 40x40 Profile Length 790mm - X Axis Bottom |
 | 03 | 4040 Black Extrusion Profile - 770 mm | 4 | | 1-06 (2x); 1-08 (2x) | 40x40 Profile Length 770mm |
 | 04 | 4040 Black Extrusion Profile - 990 mm | 4 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | 40x40 Profile Length 990mm – Z Axis |
