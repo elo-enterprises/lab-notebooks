@@ -163,12 +163,10 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 5](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles) |  |  | 2x | Z Profiles |
+| [Part 1 Step 6](#part-1--step-6-assembling-the-z-axis-top-brackets) |  |  | 2x | Z Top Brackets |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 2x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 2x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets)
 
