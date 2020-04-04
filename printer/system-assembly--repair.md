@@ -45,7 +45,9 @@
 | [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Back |
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
-* Fast, easy assembly. 
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
 * Issues:
   * I did not use lock-tight glue when screwing in the screws for the X rails in case I made a mistake and would have to redo the step. Go back and check the screws; especially have come loose due to vibration, unscrew each, add the glue and screw again.
 <center>
