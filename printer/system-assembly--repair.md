@@ -655,13 +655,13 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [MTL1](parts-lists.md#box-18---mtl1) | 22 | BIG-00-X-002 V2 | 1x | X Axis Shaft Support Bracket |
+| [BED](parts-lists.md#box-38---bed) | 04 | X Shaft | 1x | X Shaft |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 023 | GT2 Belt Closed Loop 200mm | 1x | GT2 Belt Closed Loop 200 |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 083 | M4x10 | 2x | M4 10mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 6x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 093 | M5x12-Cone-Silver | 4x | M5 12mm Conic Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 097 | M5 Nut | 4x | M5 Nut |
 
 * Next Step: [Part 1 Step 13](#part-1--step-13-assembling-the-y-axis)
 
