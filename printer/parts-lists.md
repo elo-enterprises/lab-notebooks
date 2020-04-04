@@ -107,14 +107,14 @@ This page contains data on the individual components of the printer, as well as 
 | 019 | Mechanical Parts | GT2 Pulley W10 T16 B5 | 6 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | 16 Tooth Pulley |
 | 020 | Mechanical Parts | GT2 Pulley W10 T40 B8 | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | GT2 40 Tooth Gears |
 | 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
-| 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | [1-15 (1x "Y-Axis" Segment)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); 1-16 (2x "X-Axis" Segment) | GT2 Timing Belt (165 cm) | Modix | $10 |
+| 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | [1-15 (1x "Y-Axis" Segment)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); [1-16 (1x "X-Axis" Segment)](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis); [1-17 (1x "X-Axis" Segment)](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis) | GT2 Timing Belt (165 cm) | Modix | $10 |
 | 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | [1-10 (3x)](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets); [1-12 (1x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | 2-08 (4x) | 2020 Corner Bracket |
 | 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
 | 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (4x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | Metal Clip for 4040 Profiles |
 | 027 | Mechanical Parts | 4040 Profile Plastic Cover | 10 | | | |
 | 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | [1-02 (6x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (2x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylon Round Spacer |
-| 029 | Mechanical Parts | Belt Clamp | 6 | | [1-15 (2x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); 1-16 (4x) | Belt Tensioning Clamp |
+| 029 | Mechanical Parts | Belt Clamp | 6 | | [1-15 (2x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); [1-16 (2x)](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis); [1-17 (2x)](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis) | Belt Tensioning Clamp |
 | 030 | Plastic Legs | Articulated Plastic Legs | 4 | | | |
 | 031 | Accessories | Allen Keys Set | 1 | | | |
 | 032 | Accessories | Ceramic Screwdriver for A4988 Stepper Driver - CD-15 | 1 | | | |
