@@ -267,7 +267,7 @@ Issues:
 </center>
 
 ------------
-## Mechanical - Motors Belts & Pulleys
+## Mechanical - Motors, Belts & Pulleys
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 2. Assembling the X Idler Pulleys](http://www.support.modix3d.com/x-idler-pulley-assembly/)
@@ -496,7 +496,7 @@ Issues:
 * No known issues.
 
 ------------
-## Electrical - Wiring Electronics Box & LCD Screen
+## Electrical - Wiring, Electronics Box & LCD Screen
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 22. Assembling the LCD Screen](http://www.support.modix3d.com/lcd-screen-assembly/)
@@ -555,6 +555,32 @@ Issues:
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
 
+### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
+* Slow assembly, take the time to get this right.
+* See wiring diagrams for details.
+
+### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
+* Fast, easy assembly.
+* No known issues.
+* See wiring diagrams for details.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_04_Pictures_01_Parts.jpg><img src=img/Step_2_04_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_04_Pictures_02_Assembled.jpg><img src=img/Step_2_04_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-04-01 - Parts</p></td>
+    <td><p align="center">Figure 02-04-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
+
+### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
+* Fast, easy assembly.
+* No known issues.
+* Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
+
 ### Wiring Information
 
 | Application | App Terminal | App Wire Color | Wire Color | Pair Name | Cable Name | Slot Name | Terminal | Notes |
@@ -592,34 +618,8 @@ Issues:
 | Bed Heater |  |  | red | Grounding Cable | Unnamed Power Supply | Surge Protector |  |  |
 | Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
 
-### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
-* Slow assembly, take the time to get this right.
-* See wiring diagrams for details.
-
-### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
-* Fast, easy assembly.
-* No known issues.
-* See wiring diagrams for details.
-<center>
-<table>
-  <tr>
-    <td><a href=img/Step_2_04_Pictures_01_Parts.jpg><img src=img/Step_2_04_Pictures_01_Parts.jpg width=550px></a></td>
-    <td><a href=img/Step_2_04_Pictures_02_Assembled.jpg><img src=img/Step_2_04_Pictures_02_Assembled.jpg width=550px></a></td>
-  </tr>
- <tr>
-    <td><p align="center">Figure 02-04-01 - Parts</p></td>
-    <td><p align="center">Figure 02-04-02 - Assembly</p></td>
-  </tr>
-</table>
-</center>
-
-### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
-* Fast, easy assembly.
-* No known issues.
-* Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
-
 ------------
-## Chemical - HotEnd Extruder & Filament
+## Chemical - HotEnd, Extruder & Filament
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 18. Assembling the Hot-End](http://www.support.modix3d.com/hot-end-assembly/)
