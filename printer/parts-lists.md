@@ -40,7 +40,7 @@ This page contains data on the individual components of the printer, as well as 
 | 28 | BIG-00-CHAIN-001 | 2 | | | |
 | 29 | BIG-00-Y-001 | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | Y Pulley Bracket (Y Motor Bracket) |
 | 30 | BIG-00-Y-002 | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | Y Idler Bracket |
-| 31 | LCD front mount | 1 | | 1-22 (1x) | Front LCD Screen Mounting Bracket |
+| 31 | LCD front mount | 1 | | [1-22 (1x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | Front LCD Screen Mounting Bracket |
 | 32 | BIG-60-LID-003 | 2 | | 2-18 (2x) | Top Lid Mounting Bracket - Right |
 | 33 | BIG-60-LID-004 | 2 | | 2-18 (2x) | Top Lid Mounting Bracket - Left |
 | 34 | Door_Stop | 1 | | 2-17 (1x) | Door Stop |
@@ -147,12 +147,12 @@ This page contains data on the individual components of the printer, as well as 
 | 059 | Filament | Black Wire Cable House | 5 | | | |
 | 060 | Filament | Spool Mount | 1 | | 2-06 (1x) | Spool Mount |
 | 061 | Filament | Spool Mount Nut | 3 | | 2-06 (3x) | Spool Mount Nut |
-| 062 | LCD Controller | Full Graphics Smart Controller | 1 | | 1-22 (1x) | LCD Screen |
-| 063 | LCD Controller | Stop Button Printed Part | 1 | | 1-22 (1x) | 3D-Printed Stop Button |
-| 064 | LCD Controller | M3 Spacer 5mm Female-Male 8mm Thread | 6 | | 1-22 (4x) | M3 Male 8mm – Female 5mm Spacer |
-| 065 | LCD Controller | M3x6 | 4 | | 1-22 (4x) | M3 6mm Screw |
-| 066 | LCD Controller | M3 Nut | 4 | | 1-22 (4x) | M3 Nut |
-| 067 | LCD Controller | Ribbon Cable 10 PIN | 2 | | 1-22 (2x) | 10 pin black Rounded Cable |
+| 062 | LCD Controller | Full Graphics Smart Controller | 1 | | [1-22 (1x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | LCD Screen |
+| 063 | LCD Controller | Stop Button Printed Part | 1 | | [1-22 (1x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | 3D-Printed Stop Button |
+| 064 | LCD Controller | M3 Spacer 5mm Female-Male 8mm Thread | 6 | | [1-22 (4x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | M3 Male 8mm – Female 5mm Spacer |
+| 065 | LCD Controller | M3x6 | 4 | | [1-22 (4x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | M3 6mm Screw |
+| 066 | LCD Controller | M3 Nut | 4 | | [1-22 (4x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | M3 Nut |
+| 067 | LCD Controller | Ribbon Cable 10 PIN | 2 | | [1-22 (2x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | 10 pin black Rounded Cable |
 | 068 | Extra | Grounding Cable | 1 | | 3-02 (1x) | Grounding Cable |
 | 069 | Extra | C14 | 1 | | | |
 | 070 | Extra | Sticker | 3 | | | |
@@ -171,7 +171,7 @@ This page contains data on the individual components of the printer, as well as 
 | 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (12); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | M4 25mm Screw |
-| 086 | Screws & Nuts | M5x8 | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 1-22 (2x); 2-08 (16x) | M5 8mm Screw |
+| 086 | Screws & Nuts | M5x8 | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [1-22 (2x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen); 2-08 (16x) | M5 8mm Screw |
 | 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-05 (4x)](system-assembly--repair.md#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles); [1-06 (6x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-07 (2x)](system-assembly--repair.md#part-1--step-7-connecting-the-z-axis-top-to-z-profiles); [1-08 (15x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (6x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (6x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
 | 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (9x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (8x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 16mm Screw |
 | 089 | Screws & Nuts | M5x20 | 5 | | | |
