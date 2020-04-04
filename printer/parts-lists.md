@@ -111,7 +111,7 @@ This page contains data on the individual components of the printer, as well as 
 | 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | 1-10 (3x); 1-12 (1x) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | 2-08 (4x) | 2020 Corner Bracket |
 | 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
-| 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | 1-03 (4x); 1-06 (4x); 1-08 (4x); 1-11 (4x) | Metal Clip for 4040 Profiles |
+| 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) ; 1-06 (4x); 1-08 (4x); 1-11 (4x) | Metal Clip for 4040 Profiles |
 | 027 | Mechanical Parts | 4040 Profile Plastic Cover | 10 | | | |
 | 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | 1-02 (6x); 1-15 (2x) | M5 Nylon Round Spacer |
 | 029 | Mechanical Parts | Belt Clamp | 6 | | 1-15 (2x); 1-16 (4x) | Belt Tensioning Clamp |
