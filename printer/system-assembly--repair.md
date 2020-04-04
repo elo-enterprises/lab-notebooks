@@ -34,6 +34,8 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Front |
+| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Back |
 | [MTL1](parts-lists.md#box-18---mtl1) | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
 | [MTL1](parts-lists.md#box-18---mtl1) | 24 | BIG-00-X-004 | 1x | X Pulley Back |
 | [PRF](parts-lists.md#box-88---prf) | 04 | 4040 Black Extrusion Profile - 990 mm | 4x | 40x40 Profile Length 990mm – Z Axis |
@@ -42,8 +44,6 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 8x | M5 4040 T Nut for Profiles |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 088 | M5x16 | 4x | M5 16mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 4x | M5 12mm Screw |
-| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Front |
-| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Back |
 
 * Next Step: [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles)
 * Results Used in Step: [Part 1 Step 5](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles)
@@ -106,8 +106,8 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) |  |  | 2x | X Top Profiles |
 | [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) |  |  | 4x | Z Profiles |
+| [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) |  |  | 2x | X Top Profiles |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 4x | M5 12mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 4x | M5 4040 T Nut for Profiles |
 
@@ -631,11 +631,11 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| [BED](parts-lists.md#box-38---bed) | 07 | 12mm Smooth Rod | 4 | 12 mm Smooth Rods (895mm) |
-| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 023 | GT2 Belt Closed Loop 200mm | 3x | GT2 Belt Closed Loop 200 |
 | [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles) |  |  | 1x | Z-X Structure |
 | [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets) |  |  | 2x | Z Axis Bottom Brackets |
 | [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets) |  |  | 2x | Z Axis Mid Brackets |
+| [BED](parts-lists.md#box-38---bed) | 07 | 12mm Smooth Rod | 4 | 12 mm Smooth Rods (895mm) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 023 | GT2 Belt Closed Loop 200mm | 3x | GT2 Belt Closed Loop 200 |
 
 * Next Step: [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles)
 * Results Used in Step: [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles)
@@ -732,6 +732,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [Part 1 Step 14](#part-1--step-14-installing-the-motors) |  |  | 1x | Assembled Structure |
 | [MTL1](parts-lists.md#box-18---mtl1) | 08 | BIG-00-EXT-002 | 1x | Rail Block Bracket |
 | [MTL1](parts-lists.md#box-18---mtl1) | 09 | BIG-00-EXT-003 | 1x | Y Axis Belt Mount Bracket |
 | [MTL1](parts-lists.md#box-18---mtl1) | 12 | BIG-00-EXT-011 V2 | 1x | Filament Guide Mount Bracket |
@@ -776,7 +777,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| [Part 1 Step 16](#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) |  |  | 1x | Assembled Structure |
+| [Part 1 Step 15](#part-1--step-15-installing-the-y-axis-timing-belt) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -814,7 +815,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis) |  |  | 1x | Assembled Structure |
+| [Part 1 Step 16](#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
