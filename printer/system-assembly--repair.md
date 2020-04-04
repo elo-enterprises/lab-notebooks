@@ -46,6 +46,7 @@
 | [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Back |
 
 * Next Step: [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles)
+* Results Used in Step: [Part 1 Step 5](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles)
 
 ------------
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
@@ -79,6 +80,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 20x | M3 Spring Shim-Lock Washer |
 
 * Next Step: [Part 1 Step 5](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles)
+* Results Used in Step: [Part 1 Step 5](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles)
 
 ------------
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
@@ -110,6 +112,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 4x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 1 Step 6](#part-1--step-6-assembling-the-z-axis-top-brackets)
+* Results Used in Step: [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles)
 
 ------------
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
@@ -148,6 +151,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 7x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles)
+* Results Used in Step: [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles)
 
 ------------
 ### [Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles](http://www.support.modix3d.com/z-axis-top-to-z-profiles/)
@@ -179,6 +183,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 2x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets)
+* Results Used in Step: [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets)
 
 ------------
 ### [Part 1 – Step 8. Assembling the Z Axis Bottom Brackets](http://www.support.modix3d.com/z-axis-bottom-brackets/)
@@ -217,6 +222,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 9x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets)
+* Results Used in Step: [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets)
 
 ------------
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
@@ -252,6 +258,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 093 | M5x12-Cone-Silver | 2x | M5 12mm Conic Screw |
 
 * Next Step: [Part 1 Step 12](#part-1--step-12-installing-the-x-shaft)
+* Results Used in Step: [Part 1 Step 12](#part-1--step-12-installing-the-x-shaft)
 
 ------------
 ### [Part 1 – Step 13. Assembling the Y Axis](http://www.support.modix3d.com/y-axis-assembly/)
@@ -557,6 +564,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 098 | M5 Nylock | 2x | M5 Nylock Nut |
 
 * Next Step: [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles)
+* Results Used in Step: [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles)
 
 ------------
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
@@ -592,6 +600,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 101 | 2020-M5 T Nut | 10x | 2020 M5 T-Nut |
 
 * Next Step: [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets)
+* Results Used in Step: [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets)
 
 ------------
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
