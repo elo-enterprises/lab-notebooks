@@ -76,7 +76,7 @@ This page contains data on the individual components of the printer, as well as 
 | 05 | SFU1204 Ball Screw | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | SFU1204 Ball Screw (830mm) |
 | 06 | MGN12H Rail | 3 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | MGN Rails (700mm) |
 | 07 | 12mm Smooth Rod | 4 | | [1-10 (4x)](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) | 12 mm Smooth Rods (895mm) |
-| 08 | Black T Slot Plastic Cover | 12x 500mm | | 1-22 (1x); 2-01 (x) | 4040 Profile Slot Plastic Cover (500mm) |
+| 08 | Black T Slot Plastic Cover | 12x 500mm | | [1-22 (x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen); [2-01 (x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | 4040 Profile Slot Plastic Cover (500mm) |
 | 09 | Drag Chain, 37 Links (+2 end connectors) | 1 | | [1-23 (1x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains) | Drag Chain, 37 Links |
 | 10 | Drag Chain, 31 Links (+2 end connectors) | 1 | | [1-23 (1x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains) | Drag Chain, 31 Links |
 
@@ -89,11 +89,11 @@ This page contains data on the individual components of the printer, as well as 
 | 001 | ELC | Electronic Box | 1 | | [1-23 (1x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains) | Electronic Box |
 | 002 | Motors | Motech Stepper Motor 60mm | 5 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | Nema 17 Motor 60mm | Modix | $50 |
 | 003 | Motors | Motech Stepper Motor 40mm | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Nema 17 Motor 40mm |
-| 004 |  | X Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
-| 005 |  | Y Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
-| 006 |  | Z Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
-| 007 |  | End Stop (Y Axis) | 1 | | 2-01 (1x) | X & Y End-Stop |
-| 008 |  | End Stop (X Axis) | 1 | | 2-01 (1x) | X & Y End-Stop |
+| 004 | Motors | X Motor Cable | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X, Y, & Z Motor Wires |
+| 005 | Motors | Y Motor Cable | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X, Y, & Z Motor Wires |
+| 006 | Motors | Z Motor Cable | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X, Y, & Z Motor Wires |
+| 007 | Motors | End Stop (Y Axis) | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X & Y End-Stop |
+| 008 | Motors | End Stop (X Axis) | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X & Y End-Stop |
 | 009 | Power Supply | Power Supply | 1 | | | |
 | 010 | Power Supply | Power Cord | 3 | | 3-01 (1x); 3-02 (1x) | Power Cable |
 | 011 | Electronic Parts | USB Cable 1.5 meter long | 1 | | | |
@@ -161,7 +161,7 @@ This page contains data on the individual components of the printer, as well as 
 | 073 | Extra | Probe Calibration | 1 | | | |
 | 074 | Extra | Bowden Tube Connector(Blue) | 2 | | | |
 | 075 | Extra | Black Bowden Coupling Clip | 2 | | 2-05 (2x) | PTFE Clip |
-| 076 | Screws & Nuts | M2.5x16 | 6 | | 2-01 (4x) | M2.5 16mm Screw |
+| 076 | Screws & Nuts | M2.5x16 | 6 | | [2-01 (4x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | M2.5 16mm Screw |
 | 077 | Screws & Nuts | M3x6 | 10 | | [1-13 (8x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 6mm Screw |
 | 078 | Screws & Nuts | M3x10 | 20 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M3 10mm Screw |
 | 079 | Screws & Nuts | M3x12 | 5 | | [1-15 (3x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) ; [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | M3 12mm Screw |
@@ -180,7 +180,7 @@ This page contains data on the individual components of the printer, as well as 
 | 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | [1-11 (2x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 12mm Conic Screw |
 | 094 | Screws & Nuts | M5x12-Cone | 25 | | 2-07 (4x); 2-10 (16x) | M5 12mm Cone Screw |
-| 095 | Screws & Nuts | M2.5 Nut | 10 | | 2-01 (4x) | M2.5 Nut |
+| 095 | Screws & Nuts | M2.5 Nut | 10 | | [2-01 (4x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | M2.5 Nut |
 | 096 | Screws & Nuts | M4 Nut | 8 | | [1-23 (6x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains) | M4 Nut |
 | 097 | Screws & Nuts | M5 Nut | 35 | | [1-06 (8x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (14x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 Nut |
 | 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylock Nut |
