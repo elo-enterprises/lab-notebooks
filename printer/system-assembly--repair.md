@@ -106,6 +106,8 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 4x | M5 12mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 4x | M5 4040 T Nut for Profiles |
 
+* Next Step: [Part 1 Step 6](#part-1--step-6-assembling-the-z-axis-top-brackets)
+
 ### [Part 1 – Step 6. Assembling the Z Axis Top Brackets](http://www.support.modix3d.com/z-axis-top-brackets/)
 * Fast, easy assembly.
 * No known issues.
@@ -121,6 +123,19 @@
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles)
 
 ### [Part 1 – Step 7. Connecting the Z Axis Top to Z Profiles](http://www.support.modix3d.com/z-axis-top-to-z-profiles/)
 * Fast, easy assembly.
@@ -139,6 +154,19 @@
 </table>
 </center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets)
+
 ### [Part 1 – Step 8. Assembling the Z Axis Bottom Brackets](http://www.support.modix3d.com/z-axis-bottom-brackets/)
 * Fast, easy assembly.
 * No known issues.
@@ -154,6 +182,17 @@
   </tr>
 </table>
 </center>
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
 * Fast, easy assembly.
