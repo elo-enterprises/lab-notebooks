@@ -167,7 +167,7 @@ This page contains data on the individual components of the printer, as well as 
 | 079 | Screws & Nuts | M3x12 | 5 | | [1-15 (3x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) ; [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | M3 12mm Screw |
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
-| 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor); 1-21 (4x) | M4 8mm Screw |
+| 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor); [1-21 (4x)](system-assembly--repair.md#part-1--step-21-installing-the-extruder-on-the-y-axis-rail) | M4 8mm Screw |
 | 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (12); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | M4 25mm Screw |
