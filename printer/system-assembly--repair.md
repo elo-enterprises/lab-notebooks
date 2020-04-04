@@ -26,6 +26,7 @@
 </table>
 </center>
 * Parts:
+
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | MTL1 | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
