@@ -128,6 +128,10 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [MTL2](parts-lists.md#box-78---mtl2) | 05 | BIG-60-Z-003 V2 | 1x | Z Top Sheet Metal Bracket – Right |
+| [MTL2](parts-lists.md#box-78---mtl2) | 06 | BIG-60-Z-004 V2 | 1x | Z Top Sheet Metal Bracket – Left |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
