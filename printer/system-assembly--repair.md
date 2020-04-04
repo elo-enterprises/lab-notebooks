@@ -536,7 +536,7 @@ Issues:
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 086 | M5x8 | 10x | M5 8mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 101 | 2020-M5 T Nut | 10x | 2020 M5 T-Nut |
 
-* Next Step: [Part 1 Step 10]()
+* Next Step: [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets)
 
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
 * Fast assembly, but take extra care to not damage the ball screws.
@@ -560,12 +560,11 @@ Issues:
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [BED](parts-lists.md#box-38---bed) | 07 | 12mm Smooth Rod | 4 | 12 mm Smooth Rods (895mm) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 023 | GT2 Belt Closed Loop 200mm | 3x | GT2 Belt Closed Loop 200 |
+| [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles) |  |  | 1x | Z-X Structure |
+| [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets) |  |  | 2x | Z Axis Bottom Brackets |
+| [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets) |  |  | 2x | Z Axis Mid Brackets |
 
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
 * Fast assembly, be careful when installing to not damage any of the gears. No known issues.
