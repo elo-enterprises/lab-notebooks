@@ -1311,6 +1311,7 @@
 ------------
 ### [Part 2 – Step 5. Installing the Filament Sensor](http://www.support.modix3d.com/filament-sensor/)
 * Fast assembly, somewhat confusing.
+* The packing list does not match the parts list in the Modix instructions. Everything appears to be present, just not counted or grouped identically. Also, the Modix instructions do not include 4040-M5 T Nuts or M5 12mm Screws necessary to attach the filament sensor to the printer. 
 * We do not have a foam dust filter installed, unsure exactly how to do so.
 * We are not totally sure how the PTFE tube is supposed to sit in the extruder. When unloading filament using the Marlin command, the extruder runs backwards and kicks out not only the filament but also the PTFE tube. I was nervous about cutting the PTFE tube, and may have cut too much.
 * We have had some trouble getting the extruder to grip the filament, and are unsure exactly how tight to tighten the extruder screw.
@@ -1333,12 +1334,16 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 2 Step 04](#part-2--step-4-installing-the-electronics-box-cover) |  |  | 1x | Assembled Structure |
+| [MTL1](parts-lists.md#box-18---mtl1) | 14 | BIG-00-FLM-005 V4 | 1x | Filament Sensor Metal Mount |
+| [Main: Filament](parts-lists.md#box-48---main) | 054 | Filament Sensor | 1x | Filament Sensor |
+| [Main: Filament](parts-lists.md#box-48---main) | 055 | Filament Sensor Screws | 2x | Filament Sensor Screw & Nut |
+| [Main: Filament](parts-lists.md#box-48---main) | 056 | Filament Sensor Cable | 1x | Filament Sensor Cable |
+| [Main: Filament](parts-lists.md#box-48---main) | 058 | PTFE Guide 1.5m | 1x | 1.5m PTFE Tube |
+| [Main: Extra](parts-lists.md#box-48---main) | 075 | Black Bowden Coupling Clip | 2x | PTFE Clip |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 080 | M3x16 | 2x | M3 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 2x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 2x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 2 Step 07](#part-2--step-7-installing-the-silicon-heater)
 
