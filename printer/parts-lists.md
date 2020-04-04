@@ -75,7 +75,7 @@ This page contains data on the individual components of the printer, as well as 
 | 04 | X Shaft | 1 | | 1-12 (1x) | X Shaft |
 | 05 | SFU1204 Ball Screw | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | SFU1204 Ball Screw (830mm) |
 | 06 | MGN12H Rail | 3 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 1-13 (1x) | MGN Rails (700mm) |
-| 07 | 12mm Smooth Rod | 4 | | 1-10 (4x) | 12 mm Smooth Rods (895mm) |
+| 07 | 12mm Smooth Rod | 4 | | [1-10 (4x)](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) | 12 mm Smooth Rods (895mm) |
 | 08 | Black T Slot Plastic Cover | 12x 500mm | | 1-22 (1x); 2-01 (x) | 4040 Profile Slot Plastic Cover (500mm) |
 | 09 | Drag Chain, 37 Links (+2 end connectors) | 1 | | 1-23 (1x) | Drag Chain, 37 Links |
 | 10 | Drag Chain, 31 Links (+2 end connectors) | 1 | | 1-23 (1x) | Drag Chain, 31 Links |
@@ -108,7 +108,7 @@ This page contains data on the individual components of the printer, as well as 
 | 020 | Mechanical Parts | GT2 Pulley W10 T40 B8 | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | GT2 40 Tooth Gears |
 | 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
 | 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | 1-15 (1x "Y-Axis" Segment); 1-16 (2x "X-Axis" Segment) | GT2 Timing Belt (165 cm) | Modix | $10 |
-| 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | 1-10 (3x); 1-12 (1x) | GT2 Belt Closed Loop 200 | ??? | ??? |
+| 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | [1-10 (3x)](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets); 1-12 (1x) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | 2-08 (4x) | 2020 Corner Bracket |
 | 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
 | 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); 1-11 (4x) | Metal Clip for 4040 Profiles |
