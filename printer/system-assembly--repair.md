@@ -76,7 +76,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 80 | M3x16 | 20x | M3 16mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 20x | M3 Spring Shim-Lock Washer |
 
-* Next Step: [Part 1 Step 5]()
+* Next Step: [Part 1 Step 5](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles)
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Assembly:
