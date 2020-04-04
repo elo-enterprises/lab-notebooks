@@ -1000,14 +1000,18 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 21](#part-1--step-21-installing-the-extruder-on-the-y-axis-rail) |  |  | 1x | Assembled Structure |
+| [MTL1](parts-lists.md#box-18---mtl1) | 31 | LCD front mount | 1x | Front LCD Screen Mounting Bracket |
+| [Main: LCD Controller](parts-lists.md#box-48---main) | 062 | Full Graphics Smart Controller | 1x | LCD Screen |
+| [Main: LCD Controller](parts-lists.md#box-48---main) | 063 | Stop Button Printed Part | 1x | 3D-Printed Stop Button |
+| [Main: LCD Controller](parts-lists.md#box-48---main) | 064 | M3 Spacer 5mm Female-Male 8mm Thread | 4x | M3 Male 8mm – Female 5mm Spacer |
+| [Main: LCD Controller](parts-lists.md#box-48---main) | 065 | M3x6 | 4x | M3 6mm Screw |
+| [Main: LCD Controller](parts-lists.md#box-48---main) | 066 | M3 Nut | 4x | M3 Nut |
+| [Main: LCD Controller](parts-lists.md#box-48---main) | 067 | Ribbon Cable 10 PIN | 2x | 10 pin black Rounded Cable |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 086 | M5x8 | 2x | M5 8mm Screw |
 
 * Next Step: [Part 1 Step 23](#part-1--step-23-installing-the-electronics-box-and-drag-chains)
+* Results Used in Step: [Part 1 Step 23](#part-1--step-23-installing-the-electronics-box-and-drag-chains)
 
 ------------
 ### [Part 1 – Step 23. Installing the Electronics Box and Drag Chains](http://www.support.modix3d.com/electronics-box/)
@@ -1034,7 +1038,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -1042,6 +1046,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops)
+* Results Used in Step: [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops)
 
 ------------
 ### [Part 2 – Step 1. Wiring the Motors and End Stops](http://www.support.modix3d.com/motors-end-stop-wiring/)
@@ -1280,6 +1285,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 082 | M4x8 | 4x | M4 8mm Screw |
 
 * Next Step: [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen)
+* Results Used in Step: [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen)
 
 ------------
 ### [Part 2 – Step 5. Installing the Filament Sensor](http://www.support.modix3d.com/filament-sensor/)
