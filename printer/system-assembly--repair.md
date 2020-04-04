@@ -157,29 +157,113 @@ Issues:
 * Issues:
   * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
   * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_10_Pictures_01_Parts.jpg><img src=img/Step_2_10_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_10_Pictures_02_Assembled.jpg><img src=img/Step_2_10_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-10-01 - Parts</p></td>
+    <td><p align="center">Figure 02-10-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
 * Fast, easy assembly.
 * No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_11_Pictures_01_Parts.jpg><img src=img/Step_2_11_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_11_Pictures_02_Assembled.jpg><img src=img/Step_2_11_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-11-01 - Parts</p></td>
+    <td><p align="center">Figure 02-11-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 15. Tightening All Screws](http://www.support.modix3d.com/tight-all-screws/)
 * Slow assembly, this step has more detailed instructions than it might appear from its title.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_15_Pictures_01_Parts.jpg><img src=img/Step_2_15_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_15_Pictures_02_Assembled.jpg><img src=img/Step_2_15_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-15-01 - Parts</p></td>
+    <td><p align="center">Figure 02-15-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 16. Installing the Enclosure](http://www.support.modix3d.com/enclosure-assembly-optional/)
 * Fast, easy assembly.
 * No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_16_Pictures_01_Parts.jpg><img src=img/Step_2_16_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_16_Pictures_02_Assembled.jpg><img src=img/Step_2_16_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-16-01 - Parts</p></td>
+    <td><p align="center">Figure 02-16-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 17. Assembling the Doors](http://www.support.modix3d.com/doors-assembly/)
 * Fast, easy assembly.
 * No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_17_Pictures_01_Parts.jpg><img src=img/Step_2_17_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_17_Pictures_02_Assembled.jpg><img src=img/Step_2_17_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-17-01 - Parts</p></td>
+    <td><p align="center">Figure 02-17-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
 * Fast, easy assembly, though the instructions are not as thorough as before.
 * The bottom lip of the back lid plate overlaps witht he back plate of the enclosure. Perhaps this is evidence of improper installation...
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_18_Pictures_01_Parts.jpg><img src=img/Step_2_18_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_18_Pictures_02_Assembled.jpg><img src=img/Step_2_18_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-18-01 - Parts</p></td>
+    <td><p align="center">Figure 02-18-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2- Step 19. Assembling the Top Pivoting Lid](http://www.support.modix3d.com/top-pivoting-lid/)
 * Fast, easy assembly.
 * No known issues.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_19_Pictures_01_Parts.jpg><img src=img/Step_2_19_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_19_Pictures_02_Assembled.jpg><img src=img/Step_2_19_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-19-01 - Parts</p></td>
+    <td><p align="center">Figure 02-19-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 # Mechanical - Motors Belts & Pulleys
 [Printer Systems List](README.md#system-assembly--repair)
@@ -353,16 +437,52 @@ Issues:
 ### [Part 2 – Step 7. Installing the Silicon Heater](http://www.support.modix3d.com/silicon-heater-assembly/)
 * Slow assembly. Be careful not to damage the bed itself, or the heater, or the box.
 * We tried to keep air bubbles from in between the bed heater and the bed, but it is difficult to know if this effort was successful.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_07_Pictures_01_Parts.jpg><img src=img/Step_2_07_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_07_Pictures_02_Assembled.jpg><img src=img/Step_2_07_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-07-01 - Parts</p></td>
+    <td><p align="center">Figure 02-07-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 8. Assembling the Bed](http://www.support.modix3d.com/bed-assembly/)
 * Slow assembly, be careful, especially since the bed is heavy, and both the bed and the ball screws are fragile.
 * We bought a pair of levels to make sure the bed frame was level before tightening its screws or installing the bed.
 * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head started 52mm from the left side of the bed and printed off the right side of the bed. Modix said that sliding the bed over toward the right would not damage the functionality of the Z motor system, so we slid the bed to the right ~5mm, until the heater contacted the angle brackets on the underside of the bed.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_08_Pictures_01_Parts.jpg><img src=img/Step_2_08_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_08_Pictures_02_Assembled.jpg><img src=img/Step_2_08_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-08-01 - Parts</p></td>
+    <td><p align="center">Figure 02-08-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 9. Installing the PEI Sheet](http://www.support.modix3d.com/pei-sheet/)
 * Slow assembly, requires 2 people.
 * With two people and a roller, we still ended up with several air bubbles. Perhaps practice makes perfect, but revisit the instructions carefully. They definitely say it is better to leave it imperfect than to pull it up and try again. I have not yet looked up the proper technique for dealing with air bubbles.
 * We also erroneously positioned the PEI sheet front-to-back, leaving ~2cm strips of exposed metal on either side. It is supposed to be positioned side-to-side, leaving strips of exposed metal on the front and back.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_09_Pictures_01_Parts.jpg><img src=img/Step_2_09_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_09_Pictures_02_Assembled.jpg><img src=img/Step_2_09_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-09-01 - Parts</p></td>
+    <td><p align="center">Figure 02-09-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 3 – Step 1. Temperature Controller Configuration](http://www.support.modix3d.com/temperature-controller-configuration/)
 * Fast assembly, seemingly easy but hard to know if you made a mistake.
@@ -379,35 +499,57 @@ Issues:
 * Fast, easy assembly, though you cannot complete the mounting of this step until after the enclosure is in place.
 * The instructions do not specify which cable goes in which port, so I used blue painter's tape to label one.
 * We had a relatively serious problem with the main button, in that the button would trigger the click action while turning. We removed the plastic cover from the button and have been using the metal knob underneath.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_22_Pictures_01_Parts.jpg><img src=img/Step_1_22_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_22_Pictures_02_Assembled.jpg><img src=img/Step_1_22_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-22-01 - Parts</p></td>
+    <td><p align="center">Figure 01-22-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 1 – Step 23. Installing the Electronics Box and Drag Chains](http://www.support.modix3d.com/electronics-box/)
 * Fast, easy assembly, no known issues.
 * Note - did not use glue when screwing in screws. We did already experience the vibration from the printer causing the three screws attaching the drag chain to the Y axis to shake themselves loose.
 * After completing the wiring connections, we reopened the drag chains and repositioned the cables to lay smoothly.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_23_Pictures_01_Parts.jpg><img src=img/Step_1_23_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_23_Pictures_02_Assembled.jpg><img src=img/Step_1_23_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-23-01 - Parts</p></td>
+    <td><p align="center">Figure 01-23-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 1. Wiring the Motors and End Stops](http://www.support.modix3d.com/motors-end-stop-wiring/)
 * Slow assembly, take the time to get this right.
 * Note - did not use glue when screwing in screws.
 * When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_01_Pictures_01_Parts.jpg><img src=img/Step_2_01_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_01_Pictures_02_Assembled.jpg><img src=img/Step_2_01_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-01-01 - Parts</p></td>
+    <td><p align="center">Figure 02-01-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
-
-### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
-* Slow assembly, take the time to get this right.
-* See wiring diagrams for details.
-
-### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
-* Fast, easy assembly.
-* No known issues.
-* See wiring diagrams for details.
-
-### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
-* Fast, easy assembly.
-* No known issues.
-* Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
 ### Wiring Information
 
@@ -445,6 +587,32 @@ Issues:
 | Bed Heater Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
 | Bed Heater |  |  | red | Grounding Cable | Unnamed Power Supply | Surge Protector |  |  |
 | Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
+
+### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
+* Slow assembly, take the time to get this right.
+* See wiring diagrams for details.
+
+### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
+* Fast, easy assembly.
+* No known issues.
+* See wiring diagrams for details.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_04_Pictures_01_Parts.jpg><img src=img/Step_2_04_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_04_Pictures_02_Assembled.jpg><img src=img/Step_2_04_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-04-01 - Parts</p></td>
+    <td><p align="center">Figure 02-04-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
+
+### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
+* Fast, easy assembly.
+* No known issues.
+* Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
 # Chemical - HotEnd Extruder & Filament
 [Printer Systems List](README.md#system-assembly--repair)
@@ -488,6 +656,18 @@ Issues:
 ### [Part 1 – Step 21. Installing the Extruder on the Y Axis Rail](http://www.support.modix3d.com/extruder-on-the-y-axis-rail/)
 * Fast, easy assembly, no known issues.
 * Note - did not use glue when screwing in screws.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_1_21_Pictures_01_Parts.jpg><img src=img/Step_1_21_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_1_21_Pictures_02_Assembled.jpg><img src=img/Step_1_21_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-21-01 - Parts</p></td>
+    <td><p align="center">Figure 01-21-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 2 – Step 5. Installing the Filament Sensor](http://www.support.modix3d.com/filament-sensor/)
 * Fast assembly, somewhat confusing.
@@ -496,6 +676,18 @@ Issues:
 * We have had some trouble getting the extruder to grip the filament, and are unsure exactly how tight to tighten the extruder screw.
 * We waited to install the filament sensor until the enclosure was complete.
 * We had some trouble keeping the PTFE tube from snagging on the frame, especially when traveling from the front right side to the back right side. We installed two clips to the inside top of the enclosure lid, which seem to be keeping the PTFE tube out of snagging risk while also allowing the PTFE tube to reach all corners of the bed.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_05_Pictures_01_Parts.jpg><img src=img/Step_2_05_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_05_Pictures_02_Assembled.jpg><img src=img/Step_2_05_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-05-01 - Parts</p></td>
+    <td><p align="center">Figure 02-05-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
 * Fast assembly, somewhat confusing, seemed to work to prevent oozing.
