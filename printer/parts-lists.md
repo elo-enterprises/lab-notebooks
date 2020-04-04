@@ -249,8 +249,8 @@ This page contains data on the individual components of the printer, as well as 
 | 04 | BIG-60-Z-002 V4 | 1 | | [1-08 (1x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets) | Z Axis Bottom Left Bracket |
 | 05 | BIG-60-Z-003 V2 | 1 | | [1-06 (1x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets) | Z Top Sheet Metal Bracket – Right |
 | 06 | BIG-60-Z-004 V2 | 1 | | [1-06 (1x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets) | Z Top Sheet Metal Bracket – Left |
-| 07 | BIG-60-Z-005 V4 | 1 | | 1-09 (1x) | Z Axis Mid Bracket |
-| 08 | BIG-60-Z-006 | 1 | | 1-09 (1x) | Z Axis Mid Bracket |
+| 07 | BIG-60-Z-005 V4 | 1 | | [1-09 (1x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | Z Axis Mid Bracket |
+| 08 | BIG-60-Z-006 | 1 | | [1-09 (1x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | Z Axis Mid Bracket |
 | 09 | Panel-Body-010-Front-Bottom | 1 | | 2-11 (1x) | Bottom Plate |
 | 10 | Panel-Body-011-Front-Top-1 | 1 | | 2-11 (1x) | Top Cover |
 | 11 | Panel-Body-012-Front-Top-2 | 1 | | 2-11 (1x) | Logo Background |
