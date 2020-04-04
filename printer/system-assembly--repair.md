@@ -41,8 +41,8 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 8x | M5 4040 T Nut for Profiles |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 088 | M5x16 | 4x | M5 16mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 4x | M5 12mm Screw |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Front |
+| [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Back |
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Fast, easy assembly. 
