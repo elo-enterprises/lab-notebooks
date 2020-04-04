@@ -128,16 +128,17 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [MTL1](parts-lists.md#box-18---mtl1) | 21 | BIG-00-X-001 | 1x | X Axis Motor Mounting Bracket |
 | [MTL2](parts-lists.md#box-78---mtl2) | 05 | BIG-60-Z-003 V2 | 1x | Z Top Sheet Metal Bracket – Right |
 | [MTL2](parts-lists.md#box-78---mtl2) | 06 | BIG-60-Z-004 V2 | 1x | Z Top Sheet Metal Bracket – Left |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [PRF](parts-lists.md#box-88---prf) | 03 | 4040 Black Extrusion Profile - 770 mm | 2x | 40x40 Profile Length 770mm |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 017 | SHF12 | 4x | SHF12 (12mm Rod Mount) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 026 | 4040 Fastener Joint M8 | 4x | Metal Clip for 4040 Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 088 | M5x16 | 9x | M5 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 6x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 091 | M8x25-Button	 | 4x | M8 25mm Button-head Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 097 | M5 Nut | 8x | M5 Nut |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 7x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 1 Step 7](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles)
 
