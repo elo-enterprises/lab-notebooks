@@ -73,7 +73,7 @@ This page contains data on the individual components of the printer, as well as 
 | 01 | Aluminium Plate | 1 | | 2-07 (1x) | Aluminum Bed (660mm x 660mm) |
 | 02 | PEI Sheet | 1 | | | | [CSHyde](https://catalog.cshyde.com/item/pei-sheet-3d-printing-build-surface/rinting-materials-3d-printing-films-3-mil-ultem-3d/36-3a-3d-24-41x25-98) | $40 |
 | 04 | X Shaft | 1 | | 1-12 (1x) | X Shaft |
-| 05 | SFU1204 Ball Screw | 3 | | 1-09 (3x) | SFU1204 Ball Screw (830mm) |
+| 05 | SFU1204 Ball Screw | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | SFU1204 Ball Screw (830mm) |
 | 06 | MGN12H Rail | 3 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 1-13 (1x) | MGN Rails (700mm) |
 | 07 | 12mm Smooth Rod | 4 | | 1-10 (4x) | 12 mm Smooth Rods (895mm) |
 | 08 | Black T Slot Plastic Cover | 12x 500mm | | 1-22 (1x); 2-01 (x) | 4040 Profile Slot Plastic Cover (500mm) |
