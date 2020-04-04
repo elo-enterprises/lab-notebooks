@@ -210,6 +210,8 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 097 | M5 Nut | 14x | M5 Nut |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 9x | M5 4040 T Nut for Profiles |
 
+* Next Step: [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets)
+
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
 * Fast, easy assembly.
 Issues:
@@ -503,7 +505,9 @@ Issues:
 * Next Step: [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles)
 
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
-* Fast, easy assembly.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
 * Issues:
   * In the instructions, "2020 T-Nuts" does not specify M5 or M3; M5 chosen, and appears to be obviously correct.
 <table>
@@ -522,12 +526,14 @@ Issues:
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [MTL2](parts-lists.md#box-78---mtl2) | 07 | BIG-60-Z-005 V4 | 1x | Z Axis Mid Bracket |
+| [MTL2](parts-lists.md#box-78---mtl2) | 08 | BIG-60-Z-006 | 1x | Z Axis Mid Bracket |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 10](#part-1--step-9-assembling-the-z-axis-mid-brackets)
 
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
 * Fast assembly, but take extra care to not damage the ball screws.
