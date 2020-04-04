@@ -34,7 +34,7 @@
 | 6 | [ENC1](parts-lists.md#box-68---enc1) |
 | 7 | [MTL2](parts-lists.md#box-78---mtl2) |
 | 8 | [PRF](parts-lists.md#box-88---prf) |
-| - | [TOOLS](parts-lists.md#tools) |
+| - | [Tools](parts-lists.md#tools) |
 
 
 # System Assembly & Repair
