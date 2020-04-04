@@ -84,8 +84,8 @@ This page contains data on the individual components of the printer, as well as 
 ## Box #4/8 - MAIN
 [Main Page - Parts Lists](README.md#parts-lists)
 
-| Item # | Bag | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
-|--------|-----|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
+| Item # | Bag Name | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
+|--------|----------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 001 | ELC | Electronic Box | 1 | | 1-23 (1x) | Electronic Box |
 | 002 | Motors | Motech Stepper Motor 60mm | 5 | | 1-14 (5x) | Nema 17 Motor 60mm | ??? | ??? |
 | 003 | Motors | Motech Stepper Motor 40mm | 1 | | 1-19 (1x) | Nema 17 Motor 40mm |
@@ -264,7 +264,7 @@ This page contains data on the individual components of the printer, as well as 
 | 01 | 4040 Black Extrusion Profile - 870 mm | 2 | | 1-04 (2x) | 40x40 Profile Length 870mm |
 | 02 | 4040 Black Extrusion Profile - 790 mm | 2 | | 1-11 (2x) | 40x40 Profile Length 790mm - X Axis Bottom |
 | 03 | 4040 Black Extrusion Profile - 770 mm | 4 | | 1-06 (2x); 1-08 (2x) | 40x40 Profile Length 770mm |
-| 04 | 4040 Black Extrusion Profile - 990 mm | 4 | | 1-03 (4x) | 40x40 Profile Length 990mm – Z Axis |
+| 04 | 4040 Black Extrusion Profile - 990 mm | 4 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | 40x40 Profile Length 990mm – Z Axis |
 | 05 | 4040 Black Extrusion Profile - 400 mm | 2 | | 2-06 (2x) | 40x40 Profile Length 400mm |
 | 06 | 2020 Black Extrusion Profile - 760 mm | 1 | | 1-13 (1x) | 20x20 Profile Length 760mm |
 | 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | 2-07 (2x) | 20x20 Profile Length 860mm |
