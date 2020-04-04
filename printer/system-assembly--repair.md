@@ -1211,10 +1211,12 @@
 | [Main: Main HotEnd](parts-lists.md#box-48---main) | 051 | 3010 Blower Fan | 1x | 303010 Fan |
 
 * Next Step: [Part 1 Step 19](#part-1--step-19-assembling-the-extruder)
+* Results Used in Step: [Part 1 Step 19](#part-1--step-19-assembling-the-extruder)
 
 ------------
 ### [Part 1 – Step 19. Assembling the Extruder](http://www.support.modix3d.com/extruder-assembly/)
 * Fast assembly, seemingly easy, but confusing, and if I made a mistake I probably wouldn't know how to recognize it.
+* Modix instructions parts list does not include the blower fan, the three 35mm screws, or the Hot End assembled in Part 1 Step 18.
 * We initially assembled the hot-end without the thermal paste, then revisited and applied it.
 * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
 <center>
@@ -1234,12 +1236,16 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) |  |  | 1x | Hot End |
+| [MTL1](parts-lists.md#box-18---mtl1) | 07 | BIG-00-EXT-001 V2 | 1x | Extruder Mounting Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 11 | BIG-00-EXT-005 | 1x | Blower Fan Mounting Bracket |
+| [Main: Motors](parts-lists.md#box-48---main) | 003 | Motech Stepper Motor 40mm | 1x | Nema 17 Motor 40mm |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 048 | Titan Extruder Box | 1x | E3D Titan Extruder Box |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 049 | M3 35 mm Screws Half Threaded | 3x | Extruder Screws |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 052 | Blower Fan | 1x | Blower Fan |
+| [Main: Main HotEnd](parts-lists.md#box-48---main) | 053 | Printed Part Hotend 1 Blower Fan | 1x | 3D-Printed Blower Fan Duct |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 082 | M4x8 | 2x | M4 8mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 085 | M4x25 | 2x | M4 25mm Screw |
 
 * Next Step: [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor)
 
