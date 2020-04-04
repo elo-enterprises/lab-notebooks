@@ -44,6 +44,8 @@
 | [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Front |
 | [Part 1 Step 2](#part-1--step-2-assembling-the-x-idler-pulleys) |  |  | 1x | X Idler Pulley Back |
 
+* Next Step: [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles)
+
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Assembly:
   * Speed: Fast.
@@ -74,6 +76,8 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 80 | M3x16 | 20x | M3 16mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 20x | M3 Spring Shim-Lock Washer |
 
+* Next Step: [Part 1 Step 5]()
+
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Assembly:
   * Speed: Fast.
@@ -98,7 +102,7 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 4](#part-1--step-4-assembling-the-x-rails-on-x-top-profiles) |  |  | 2x | X Top Profiles |
-| [Part 1 Step 3]() |  |  | 4x | Z Profiles |
+| [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) |  |  | 4x | Z Profiles |
 | []() |  |  | 1x |  |
 | []() |  |  | 1x |  |
 | []() |  |  | 1x |  |
