@@ -26,14 +26,14 @@
 </table>
 </center>
 * Parts:
-  | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
-  |----------|--------|-----------------------------|----------|-----------|
-  | MTL1 | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
-  | MTL1 | 24 | BIG-00-X-004 | 1x | X Pulley Back |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
-  |  |  |  |  |  |
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| MTL1 | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
+| MTL1 | 24 | BIG-00-X-004 | 1x | X Pulley Back |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 ### [Part 1 – Step 4. Assembling the X Rails on X Top Profiles](http://www.support.modix3d.com/part-1-step-4-assemble-x-rails-on-x-top-profiles/)
 * Fast, easy assembly. 
