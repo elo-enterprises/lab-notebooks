@@ -6,8 +6,8 @@
 * The following section headers contain links to the corresponding source material in the Modix documentation.
 * Notes about the process are contained below each header.
 
-## Structural - Frame & Enclosure
 ------------
+## Structural - Frame & Enclosure
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles](http://www.support.modix3d.com/x-brackets-to-z-profiles/)
@@ -266,8 +266,8 @@ Issues:
 </table>
 </center>
 
-## Mechanical - Motors Belts & Pulleys
 ------------
+## Mechanical - Motors Belts & Pulleys
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 2. Assembling the X Idler Pulleys](http://www.support.modix3d.com/x-idler-pulley-assembly/)
@@ -416,8 +416,8 @@ Issues:
 * Fast, easy to perform the tests.
 * We included testing of Z Home in this step, and discovered a problem with the Z motors binding up. This problem forced us to revisit several steps associated with motors and pulleys.
 
-## Mechanical - Bed & Heater Box
 ------------
+## Mechanical - Bed & Heater Box
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor](http://www.support.modix3d.com/bltouch-sensor/)
@@ -495,8 +495,8 @@ Issues:
 * Fast, easy assembly.
 * No known issues.
 
-## Electrical - Wiring Electronics Box & LCD Screen
 ------------
+## Electrical - Wiring Electronics Box & LCD Screen
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 22. Assembling the LCD Screen](http://www.support.modix3d.com/lcd-screen-assembly/)
@@ -618,8 +618,9 @@ Issues:
 * No known issues.
 * Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
-# Chemical - HotEnd Extruder & Filament
-[Printer Systems List](README.md#system-assembly--repair)
+------------
+## Chemical - HotEnd Extruder & Filament
+[Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 18. Assembling the Hot-End](http://www.support.modix3d.com/hot-end-assembly/)
 * The hot-end looks like the shrimp monster that was put into Neo's belly button in the Matrix.
@@ -696,8 +697,8 @@ Issues:
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
 * Fast assembly, somewhat confusing, seemed to work to prevent oozing.
 
-## Software & Firmware
 ------------
+## Software & Firmware
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 3 – Step 5. Terminal Software and Basic G-Code](http://www.support.modix3d.com/terminal-software-basic-g-code/)
