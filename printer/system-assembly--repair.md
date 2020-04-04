@@ -1046,7 +1046,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 083 | M4x10 | 12x | M4 10mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 2x | M5 12mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 096 | M4 Nut | 6x | M4 Nut |
-| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 0999 | 4040-M5 T Nut | 2x | M5 4040 T Nut for Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 2x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops)
 * Results Used in Step: [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops)
