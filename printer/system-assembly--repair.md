@@ -33,7 +33,7 @@
 | [MTL1](parts-lists.md#box-18---mtl1) | 23 | BIG-00-X-003 V2 | 1x | X Pulley Front |
 | [MTL1](parts-lists.md#box-18---mtl1) | 24 | BIG-00-X-004 | 1x | X Pulley Back |
 | [PRF](parts-lists.md#box-88---prf) | 04 | 4040 Black Extrusion Profile - 990 mm | 4x | 40x40 Profile Length 990mm – Z Axis |
-| []() |  |  |  |  |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 026 | 4040 Fastener Joint M8 | 4x | Metal Clip for 4040 Profiles |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
