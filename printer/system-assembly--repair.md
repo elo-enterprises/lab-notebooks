@@ -307,6 +307,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 10x | M3 Spring Shim-Lock Washer |
 
 * Next Step: [Part 1 Step 14](#part-1--step-14-installing-the-motors)
+* Results Used in Step: [Part 1 Step 14](#part-1--step-14-installing-the-motors)
 
 ------------
 ### [Part 2 – 10. Installing the Support Brackets](http://www.support.modix3d.com/support-brackets/)
@@ -637,6 +638,7 @@
 | [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets) |  |  | 2x | Z Axis Mid Brackets |
 
 * Next Step: [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles)
+* Results Used in Step: [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles)
 
 ------------
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
@@ -669,6 +671,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 097 | M5 Nut | 4x | M5 Nut |
 
 * Next Step: [Part 1 Step 13](#part-1--step-13-assembling-the-y-axis)
+* Results Used in Step: [Part 1 Step 13](#part-1--step-13-assembling-the-y-axis)
 
 ------------
 ### [Part 1 – Step 14. Installing the Motors](http://www.support.modix3d.com/motors-assembly/)
@@ -693,14 +696,14 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 1 Step 13](#part-1--step-13-assembling-the-y-axis) |  |  | 1x | Assembled Structure |
+| [Main: Motors](parts-lists.md#box-48---main) | 002 | Motech Stepper Motor 60mm | 5x | Nema 17 Motor 60mm |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 019 | GT2 Pulley W10 T16 B5 | 5x | 16 Tooth Pulley |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 081 | M3x8 | 20x | M3 8mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 104 | M3 Shim | 20x | M3 Shim |
 
 * Next Step: [Part 1 Step 15](#part-1--step-15-installing-the-y-axis-timing-belt)
+* Results Used in Step: [Part 1 Step 15](#part-1--step-15-installing-the-y-axis-timing-belt)
 
 ------------
 ### [Part 1 – Step 15. Installing the Y Axis Timing Belt](http://www.support.modix3d.com/y-axis-timing-belts/)
