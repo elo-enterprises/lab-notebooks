@@ -213,8 +213,10 @@
 * Next Step: [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets)
 
 ### [Part 1 – Step 11. Assembling the X Axis Bottom Profiles](http://www.support.modix3d.com/x-bottom-4040-profiles/)
-* Fast, easy assembly.
-Issues:
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
   * Note - not sure the description of where to put the conical screws matches the picture. I went with the text (front left) rather than the picture (back right) because the front left metal piece has indentations for conical screws but the back does not.
   * Revisited this step when tightening screws, careful to use right angle squares.
 <center>
@@ -234,15 +236,20 @@ Issues:
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 12]()
+
 ### [Part 1 – Step 13. Assembling the Y Axis](http://www.support.modix3d.com/y-axis-assembly/)
-* Fast, easy assembly.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * When printing test patterns, we noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. We
   * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
   * loosened the front X belt,
@@ -279,7 +286,9 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 2 – 10. Installing the Support Brackets](http://www.support.modix3d.com/support-brackets/)
-* Fast, easy assembly.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
 * Issues:
   * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
   * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
@@ -308,8 +317,11 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -361,8 +373,11 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 2 – Step 16. Installing the Enclosure](http://www.support.modix3d.com/enclosure-assembly-optional/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -388,8 +403,11 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 2 – Step 17. Assembling the Doors](http://www.support.modix3d.com/doors-assembly/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -442,8 +460,11 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 2- Step 19. Assembling the Top Pivoting Lid](http://www.support.modix3d.com/top-pivoting-lid/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 <center>
 <table>
   <tr>
@@ -566,6 +587,8 @@ Issues:
 | [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets) |  |  | 2x | Z Axis Bottom Brackets |
 | [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets) |  |  | 2x | Z Axis Mid Brackets |
 
+* Next Step: [Part 1 Step 11]()
+
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
 * Fast assembly, be careful when installing to not damage any of the gears. No known issues.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
@@ -623,7 +646,10 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 1 – Step 15. Installing the Y Axis Timing Belt](http://www.support.modix3d.com/y-axis-timing-belts/)
-* Fast, easy assembly.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
@@ -653,7 +679,10 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis](http://www.support.modix3d.com/x-axis-timing-belt/)
-* Fast, easy assembly.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
@@ -683,7 +712,10 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis](http://www.support.modix3d.com/timing-belt-at-the-frontal-x-axis/)
-* Fast, easy assembly.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
 * When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
@@ -722,8 +754,11 @@ Issues:
 [Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor](http://www.support.modix3d.com/bltouch-sensor/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 * Wiring of this step discussed in Wiring System description.
 <center>
 <table>
@@ -837,8 +872,11 @@ Issues:
 * Revisit this procedure for auto-tuning the bed heater.
 
 ### [Part 3 – Step 2. Installing the Grounding Cable to the Print Bed](http://www.support.modix3d.com/grounding-cable-to-the-print-bed/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 
 ------------
 ## Electrical - Wiring, Electronics Box & LCD Screen
@@ -873,7 +911,10 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 1 – Step 23. Installing the Electronics Box and Drag Chains](http://www.support.modix3d.com/electronics-box/)
-* Fast, easy assembly, no known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * Note - did not use glue when screwing in screws. We did already experience the vibration from the printer causing the three screws attaching the drag chain to the Y axis to shake themselves loose.
 * After completing the wiring connections, we reopened the drag chains and repositioned the cables to lay smoothly.
 <center>
@@ -938,8 +979,10 @@ Issues:
 * See wiring diagrams for details.
 
 ### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * See wiring diagrams for details.
 <center>
 <table>
@@ -966,8 +1009,10 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
-* Fast, easy assembly.
-* No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
 ### Wiring Information
@@ -1070,7 +1115,10 @@ Issues:
 | []() |  |  |  |  |
 
 ### [Part 1 – Step 21. Installing the Extruder on the Y Axis Rail](http://www.support.modix3d.com/extruder-on-the-y-axis-rail/)
-* Fast, easy assembly, no known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
 * Note - did not use glue when screwing in screws.
 <center>
 <table>
