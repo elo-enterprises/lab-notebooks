@@ -243,7 +243,7 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
-* Next Step: [Part 1 Step 12]()
+* Next Step: [Part 1 Step 12](#part-1--step-12-installing-the-x-shaft)
 
 ### [Part 1 – Step 13. Assembling the Y Axis](http://www.support.modix3d.com/y-axis-assembly/)
 * Assembly:
@@ -285,6 +285,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 14](#part-1--step-14-installing-the-motors)
+
 ### [Part 2 – 10. Installing the Support Brackets](http://www.support.modix3d.com/support-brackets/)
 * Assembly:
   * Speed: Fast.
@@ -316,6 +318,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 11]()
+
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
 * Assembly:
   * Speed: Fast.
@@ -346,6 +350,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 15]()
+
 ### [Part 2 – Step 15. Tightening All Screws](http://www.support.modix3d.com/tight-all-screws/)
 * Slow assembly, this step has more detailed instructions than it might appear from its title.
 <center>
@@ -371,6 +377,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 2 Step 16]()
 
 ### [Part 2 – Step 16. Installing the Enclosure](http://www.support.modix3d.com/enclosure-assembly-optional/)
 * Assembly:
@@ -402,6 +410,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 17]()
+
 ### [Part 2 – Step 17. Assembling the Doors](http://www.support.modix3d.com/doors-assembly/)
 * Assembly:
   * Speed: Fast.
@@ -432,6 +442,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 18]()
+
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
 * Fast, easy assembly, though the instructions are not as thorough as before.
 * The bottom lip of the back lid plate overlaps witht he back plate of the enclosure. Perhaps this is evidence of improper installation...
@@ -458,6 +470,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 2 Step 19]()
 
 ### [Part 2- Step 19. Assembling the Top Pivoting Lid](http://www.support.modix3d.com/top-pivoting-lid/)
 * Assembly:
@@ -488,6 +502,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 3 Step 01]()
 
 ------------
 ## Mechanical - Motors, Belts & Pulleys
@@ -587,7 +603,7 @@
 | [Part 1 Step 8](#part-1--step-8-assembling-the-z-axis-bottom-brackets) |  |  | 2x | Z Axis Bottom Brackets |
 | [Part 1 Step 9](#part-1--step-9-assembling-the-z-axis-mid-brackets) |  |  | 2x | Z Axis Mid Brackets |
 
-* Next Step: [Part 1 Step 11]()
+* Next Step: [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles)
 
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
 * Fast assembly, be careful when installing to not damage any of the gears. No known issues.
@@ -615,6 +631,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 13](#part-1--step-13-assembling-the-y-axis)
 
 ### [Part 1 – Step 14. Installing the Motors](http://www.support.modix3d.com/motors-assembly/)
 * We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
@@ -644,6 +662,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 15]()
 
 ### [Part 1 – Step 15. Installing the Y Axis Timing Belt](http://www.support.modix3d.com/y-axis-timing-belts/)
 * Assembly:
@@ -678,6 +698,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 16]()
+
 ### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis](http://www.support.modix3d.com/x-axis-timing-belt/)
 * Assembly:
   * Speed: Fast.
@@ -710,6 +732,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 17]()
 
 ### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis](http://www.support.modix3d.com/timing-belt-at-the-frontal-x-axis/)
 * Assembly:
@@ -745,9 +769,13 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 18]()
+
 ### [Part 3 – Step 4. Testing X & Y Homing](http://www.support.modix3d.com/testing-x-y-homing/)
 * Fast, easy to perform the tests.
 * We included testing of Z Home in this step, and discovered a problem with the Z motors binding up. This problem forced us to revisit several steps associated with motors and pulleys.
+
+* Next Step: [Part 3 Step 05]()
 
 ------------
 ## Mechanical - Bed & Heater Box
@@ -784,6 +812,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 21]()
+
 ### [Part 2 – Step 7. Installing the Silicon Heater](http://www.support.modix3d.com/silicon-heater-assembly/)
 * Slow assembly. Be careful not to damage the bed itself, or the heater, or the box.
 * We tried to keep air bubbles from in between the bed heater and the bed, but it is difficult to know if this effort was successful.
@@ -810,6 +840,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 2 Step 08]()
 
 ### [Part 2 – Step 8. Assembling the Bed](http://www.support.modix3d.com/bed-assembly/)
 * Slow assembly, be careful, especially since the bed is heavy, and both the bed and the ball screws are fragile.
@@ -839,6 +871,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 09]()
+
 ### [Part 2 – Step 9. Installing the PEI Sheet](http://www.support.modix3d.com/pei-sheet/)
 * Slow assembly, requires 2 people.
 * With two people and a roller, we still ended up with several air bubbles. Perhaps practice makes perfect, but revisit the instructions carefully. They definitely say it is better to leave it imperfect than to pull it up and try again. I have not yet looked up the proper technique for dealing with air bubbles.
@@ -867,9 +901,13 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 10]()
+
 ### [Part 3 – Step 1. Temperature Controller Configuration](http://www.support.modix3d.com/temperature-controller-configuration/)
 * Fast assembly, seemingly easy but hard to know if you made a mistake.
 * Revisit this procedure for auto-tuning the bed heater.
+
+* Next Step: [Part 3 Step 02]()
 
 ### [Part 3 – Step 2. Installing the Grounding Cable to the Print Bed](http://www.support.modix3d.com/grounding-cable-to-the-print-bed/)
 * Assembly:
@@ -877,6 +915,8 @@
   * Difficulty: Easy.
 * Issues:
   * None known.
+
+* Next Step: [Part 3 Step 03]()
 
 ------------
 ## Electrical - Wiring, Electronics Box & LCD Screen
@@ -910,6 +950,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 23]()
+
 ### [Part 1 – Step 23. Installing the Electronics Box and Drag Chains](http://www.support.modix3d.com/electronics-box/)
 * Assembly:
   * Speed: Fast.
@@ -941,6 +983,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 01]()
+
 ### [Part 2 – Step 1. Wiring the Motors and End Stops](http://www.support.modix3d.com/motors-end-stop-wiring/)
 * Slow assembly, take the time to get this right.
 * Note - did not use glue when screwing in screws.
@@ -970,13 +1014,19 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 02]()
+
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
 
+* Next Step: [Part 2 Step 03]()
+
 ### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
+
+* Next Step: [Part 2 Step 04]()
 
 ### [Part 2 – Step 4. Installing the Electronics Box Cover](http://www.support.modix3d.com/electronics-box-cover/)
 * Assembly:
@@ -1008,12 +1058,16 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 05]()
+
 ### [Part 3 – Step 3. Turning on the Printer](http://www.support.modix3d.com/turning-on-the-printer/)
 * Assembly:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
 * Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
+
+* Next Step: [Part 3 Step 04]()
 
 ### Wiring Information
 
@@ -1086,6 +1140,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 1 Step 19]()
+
 ### [Part 1 – Step 19. Assembling the Extruder](http://www.support.modix3d.com/extruder-assembly/)
 * Fast assembly, seemingly easy, but confusing, and if I made a mistake I probably wouldn't know how to recognize it.
 * We initially assembled the hot-end without the thermal paste, then revisited and applied it.
@@ -1113,6 +1169,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 20]()
 
 ### [Part 1 – Step 21. Installing the Extruder on the Y Axis Rail](http://www.support.modix3d.com/extruder-on-the-y-axis-rail/)
 * Assembly:
@@ -1143,6 +1201,8 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
+
+* Next Step: [Part 1 Step 22]()
 
 ### [Part 2 – Step 5. Installing the Filament Sensor](http://www.support.modix3d.com/filament-sensor/)
 * Fast assembly, somewhat confusing.
@@ -1175,8 +1235,17 @@
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 
+* Next Step: [Part 2 Step 07]()
+
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
 * Fast assembly, somewhat confusing, seemed to work to prevent oozing.
+
+* Next Step: [Part 3 Step 8]()
+
+### [Part 3 – Step 13. Converting to 3 mm Filament](http://www.support.modix3d.com/converting-to-3-mm-filament/)
+* Have not tried to do this yet.
+
+* Next Step: [Part 3 Step 14]()
 
 ------------
 ## Software & Firmware
@@ -1186,14 +1255,24 @@
 * Fast, easy assembly task. Pronterface works great, but does not appear to be necessary for normal workflow.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 
+* Next Step: [Calibration]()
+* Next Step: [Part 3 Step 7]()
+
 ### [Part 3 – Step 8. Printing Settings for Slicing Software](http://www.support.modix3d.com/printing-settings-for-slicing-software/)
 * Instructions could use quite a bit more detail here. Refer to tables of variables for details.
+
+* Next Step: [Part 3 Step 9]()
 
 ### [Part 3 – Step 9. Running Your First Print](http://www.support.modix3d.com/running-your-first-print/)
 * Includes preferred settings for several variables, but does not appear to be comprehensive.
 
+* Next Step: [Part 3 Step 11]()
+
 ### [Part 3 – Step 11. Updating the Modix Big-60-120X Firmware](http://www.support.modix3d.com/updating-the-modix-big-60-firmware/)
 * Have not tried to do this yet.
+
+* Next Step: [Troubleshooting]()
+* Next Step: [Part 3 Step 13]()
 
 ### [Part 3 – Step 14. Fine Tuning the Printer Dimension Accuracy](http://www.support.modix3d.com/fine-tuning-the-printer-dimension-accuracy/)
 * Have not tried to do this yet.
