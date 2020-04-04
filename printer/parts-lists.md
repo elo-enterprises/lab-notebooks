@@ -16,11 +16,11 @@ This page contains data on the individual components of the printer, as well as 
 | 04 | BIG-00-SUP-001-LCD | 1 | | 2-10 (1x) | Left Front Top Bracket |
 | 05 | BIG-00-SUP-002 V2 | 4 | | 2-10 (4x) | Top Support Bracket |
 | 06 | BIG-00-SUP-003 | 11 | | 2-10 (11x) | Side and Back Support Bracket |
-| 07 | BIG-00-EXT-001 V2 | 1 | | 1-19 (1x) | Extruder Mounting Bracket |
+| 07 | BIG-00-EXT-001 V2 | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Extruder Mounting Bracket |
 | 08 | BIG-00-EXT-002 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Rail Block Bracket |
 | 09 | BIG-00-EXT-003 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Y Axis Belt Mount Bracket |
 | 10 | BIG-00-EXT-004 V5 | 1 | | 1-20 (1x) | Inductive Sensor Mounting Bracket |
-| 11 | BIG-00-EXT-005 | 1 | | 1-19 (1x) | Blower Fan Mounting Bracket |
+| 11 | BIG-00-EXT-005 | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Blower Fan Mounting Bracket |
 | 12 | BIG-00-EXT-011 V2 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Filament Guide Mount Bracket |
 | 13 | BIG-00-EXT-012 | 1 | | 2-03 (1x) | Extruder Wiring Cover Bracket |
 | 14 | BIG-00-FLM-005 V4 | 1 | | 2-05 (1x) | Filament Sensor Metal Mount |
@@ -88,7 +88,7 @@ This page contains data on the individual components of the printer, as well as 
 |--------|----------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 001 | ELC | Electronic Box | 1 | | 1-23 (1x) | Electronic Box |
 | 002 | Motors | Motech Stepper Motor 60mm | 5 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | Nema 17 Motor 60mm | Modix | $50 |
-| 003 | Motors | Motech Stepper Motor 40mm | 1 | | 1-19 (1x) | Nema 17 Motor 40mm |
+| 003 | Motors | Motech Stepper Motor 40mm | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Nema 17 Motor 40mm |
 | 004 |  | X Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
 | 005 |  | Y Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
 | 006 |  | Z Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
@@ -133,12 +133,12 @@ This page contains data on the individual components of the printer, as well as 
 | 045 | Main HotEnd | Heatsink Thermal Compound | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Thermal Paste | [E3D](https://e3d-online.com/thermal-compound-paste) | L1 |
 | 046 | Main HotEnd | V6 Universal Fixing Kit | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Universal Fixing Kit |
 | 047 | Main HotEnd | Thermistor Cartridge | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Thermistor Cartridge |
-| 048 | Main HotEnd | Titan Extruder Box | 1 | | 1-19 (1x) | E3D Titan Extruder Box | [E3D](https://e3d-online.com/extruder/titan-spares) | |
-| 049 | Main HotEnd | M3 35 mm Screws Half Threaded | 3 | | 1-19 (3x) | Extruder Screws |
+| 048 | Main HotEnd | Titan Extruder Box | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | E3D Titan Extruder Box | [E3D](https://e3d-online.com/extruder/titan-spares) | |
+| 049 | Main HotEnd | M3 35 mm Screws Half Threaded | 3 | | [1-19 (3x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Extruder Screws |
 | 050 | Main HotEnd | Heater | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | Heater Cartridge |
 | 051 | Main HotEnd | 3010 Blower Fan | 1 | | [1-18 (1x)](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) | 303010 Fan |
-| 052 | Main HotEnd | Blower Fan | 1 | | 1-19 (1x) | Blower Fan |
-| 053 | Main HotEnd | Printed Part Hotend 1 Blower Fan | 1 | | 1-19 (1x) | 3D-Printed Blower Fan Duct |
+| 052 | Main HotEnd | Blower Fan | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Blower Fan |
+| 053 | Main HotEnd | Printed Part Hotend 1 Blower Fan | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | 3D-Printed Blower Fan Duct |
 | 054 | Filament | Filament Sensor | 1 | | 2-05 (1x) | Filament Sensor |
 | 055 | Filament | Filament Sensor Screws | 1 | | 2-05 (2x) | Filament Sensor Screw & Nut |
 | 056 | Filament | Filament Sensor Cable | 1 | | 2-05 (1x) | Filament Sensor Cable |
@@ -167,10 +167,10 @@ This page contains data on the individual components of the printer, as well as 
 | 079 | Screws & Nuts | M3x12 | 5 | | [1-15 (3x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M3 12mm Screw |
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
-| 082 | Screws & Nuts | M4x8 | 17 | | 1-19 (2x); 1-20 (2x); 1-21 (4x) | M4 8mm Screw |
+| 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); 1-20 (2x); 1-21 (4x) | M4 8mm Screw |
 | 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (12); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
-| 085 | Screws & Nuts | M4x25 | 10 | | 1-19 (2x) | M4 25mm Screw |
+| 085 | Screws & Nuts | M4x25 | 10 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | M4 25mm Screw |
 | 086 | Screws & Nuts | M5x8 | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 1-22 (2x); 2-08 (16x) | M5 8mm Screw |
 | 087 | Screws & Nuts | M5x12 | 140 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-05 (4x)](system-assembly--repair.md#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles); [1-06 (6x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-07 (2x)](system-assembly--repair.md#part-1--step-7-connecting-the-z-axis-top-to-z-profiles); [1-08 (15x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (6x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (6x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (2x); 2-10 (82?x); 2-11 (8x) | M5 12mm Screw |
 | 088 | Screws & Nuts | M5x16 | 30 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (9x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (8x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 16mm Screw |
