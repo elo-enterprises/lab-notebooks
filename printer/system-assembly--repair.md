@@ -6,8 +6,9 @@
 * The following section headers contain links to the corresponding source material in the Modix documentation.
 * Notes about the process are contained below each header.
 
-# Structural - Frame & Enclosure
-[Printer Systems List](README.md#system-assembly--repair)
+## Structural - Frame & Enclosure
+------------
+[Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 3. Connecting the X Axis Brackets to Z Profiles](http://www.support.modix3d.com/x-brackets-to-z-profiles/)
 * Fast, easy assembly.
@@ -265,8 +266,9 @@ Issues:
 </table>
 </center>
 
-# Mechanical - Motors Belts & Pulleys
-[Printer Systems List](README.md#system-assembly--repair)
+## Mechanical - Motors Belts & Pulleys
+------------
+[Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 2. Assembling the X Idler Pulleys](http://www.support.modix3d.com/x-idler-pulley-assembly/)
 * Fast, easy assembly. 
@@ -414,8 +416,9 @@ Issues:
 * Fast, easy to perform the tests.
 * We included testing of Z Home in this step, and discovered a problem with the Z motors binding up. This problem forced us to revisit several steps associated with motors and pulleys.
 
-# Mechanical - Bed & Heater Box
-[Printer Systems List](README.md#system-assembly--repair)
+## Mechanical - Bed & Heater Box
+------------
+[Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 - Step 20. Installing the BLTouch Bed Leveling Sensor](http://www.support.modix3d.com/bltouch-sensor/)
 * Fast, easy assembly.
@@ -492,8 +495,9 @@ Issues:
 * Fast, easy assembly.
 * No known issues.
 
-# Electrical - Wiring Electronics Box & LCD Screen
-[Printer Systems List](README.md#system-assembly--repair)
+## Electrical - Wiring Electronics Box & LCD Screen
+------------
+[Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 1 – Step 22. Assembling the LCD Screen](http://www.support.modix3d.com/lcd-screen-assembly/)
 * Fast, easy assembly, though you cannot complete the mounting of this step until after the enclosure is in place.
@@ -692,8 +696,9 @@ Issues:
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
 * Fast assembly, somewhat confusing, seemed to work to prevent oozing.
 
-# Software & Firmware
-[Printer Systems List](README.md#system-assembly--repair)
+## Software & Firmware
+------------
+[Main Page - Systems List](README.md#system-assembly--repair)
 
 ### [Part 3 – Step 5. Terminal Software and Basic G-Code](http://www.support.modix3d.com/terminal-software-basic-g-code/)
 * Fast, easy assembly task. Pronterface works great, but does not appear to be necessary for normal workflow.
