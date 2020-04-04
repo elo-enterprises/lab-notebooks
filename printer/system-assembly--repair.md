@@ -67,12 +67,12 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [PRF](parts-lists.md#box-88---prf) | 01 | 4040 Black Extrusion Profile - 870 mm | 2x | 40x40 Profile Length 870mm |
+| [BED](parts-lists.md#box-38---bed) | 06 | MGN12H Rail | 2x | MGN Rails (700mm) |
+| [MTL2](parts-lists.md#box-78---mtl2) | 01 | BIG-60-X-001 | 2x | Flat Metal Brackets (789.5 mm) |
+| [MTL2](parts-lists.md#box-78---mtl2) | 02 | BIG-60-X-002 | 2x | Thin Metal Brackets (695 mm) with Built-In Nuts (PEM) |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 80 | M3x16 | 20x | M3 16mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 103 | M3 Spring Shim | 20x | M3 Spring Shim-Lock Washer |
 
 ### [Part 1 – Step 5. Connecting the X Top Profiles to Z Profiles](http://www.support.modix3d.com/part-1-step-5-assemble-x-top-profiles-to-z-profiles/)
 * Fast, easy assembly.
