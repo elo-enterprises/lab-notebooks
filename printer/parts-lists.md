@@ -19,7 +19,7 @@ This page contains data on the individual components of the printer, as well as 
 | 07 | BIG-00-EXT-001 V2 | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Extruder Mounting Bracket |
 | 08 | BIG-00-EXT-002 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Rail Block Bracket |
 | 09 | BIG-00-EXT-003 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Y Axis Belt Mount Bracket |
-| 10 | BIG-00-EXT-004 V5 | 1 | | 1-20 (1x) | Inductive Sensor Mounting Bracket |
+| 10 | BIG-00-EXT-004 V5 | 1 | | [1-20 (1x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | Inductive Sensor Mounting Bracket |
 | 11 | BIG-00-EXT-005 | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Blower Fan Mounting Bracket |
 | 12 | BIG-00-EXT-011 V2 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Filament Guide Mount Bracket |
 | 13 | BIG-00-EXT-012 | 1 | | 2-03 (1x) | Extruder Wiring Cover Bracket |
@@ -98,7 +98,7 @@ This page contains data on the individual components of the printer, as well as 
 | 010 | Power Supply | Power Cord | 3 | | 3-01 (1x); 3-02 (1x) | Power Cable |
 | 011 | Electronic Parts | USB Cable 1.5 meter long | 1 | | | |
 | 012 | Electronic Parts | 16 GB original SanDisk SD Card | 1 | | | | [Amazon](https://www.amazon.com/TF-Card-32GB-Marceloant-microSDHC/dp/B079DV589Q/ref=sr_1_2_sspa?keywords=sd+card+micro&qid=1579906120&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5T1g5U1RJSVdDM0ImZW5jcnlwdGVkSWQ9QTAzMTQxOTYyTTU5R0lWSEo2RUYxJmVuY3J5cHRlZEFkSWQ9QTA3ODc3OTcxVkQ5NVBMNjA5NElYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) | $9 |
-| 013 | Electronic Parts | Bltouch | 1 | | 1-20 (1x) | Bag of BLTouch Equipment |
+| 013 | Electronic Parts | Bltouch | 1 | | [1-20 (1x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | Bag of BLTouch Equipment |
 | 014 | Electronic Parts | Inductive Sensor (5 Volt) | 1 | | | |
 | 015 | Electronic Parts | Stepper Driver(A4988) | 3 | | | |
 | 016 | Mechanical Parts | KFL08 Pillow Bearing Flange | 3 | | [1-08 (3x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets) | KFL08 Pillow Bearing Flange |
@@ -164,10 +164,10 @@ This page contains data on the individual components of the printer, as well as 
 | 076 | Screws & Nuts | M2.5x16 | 6 | | 2-01 (4x) | M2.5 16mm Screw |
 | 077 | Screws & Nuts | M3x6 | 10 | | [1-13 (8x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 6mm Screw |
 | 078 | Screws & Nuts | M3x10 | 20 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M3 10mm Screw |
-| 079 | Screws & Nuts | M3x12 | 5 | | [1-15 (3x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M3 12mm Screw |
+| 079 | Screws & Nuts | M3x12 | 5 | | [1-15 (3x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) ; [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | M3 12mm Screw |
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
-| 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); 1-20 (2x); 1-21 (4x) | M4 8mm Screw |
+| 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor); 1-21 (4x) | M4 8mm Screw |
 | 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (12); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | M4 25mm Screw |
