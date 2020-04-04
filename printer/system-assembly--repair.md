@@ -756,6 +756,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
+  * The parts list in the Modix documentation includes both step 16 and 17.
 * We waited several more steps before trimming the excess belt since we did not have a spare/backup.
 * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
 * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
@@ -778,11 +779,8 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 15](#part-1--step-15-installing-the-y-axis-timing-belt) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 022 | GT10 Black Belt 5 Meter | 1x | GT2 Timing Belt (165 cm) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 029 | Belt Clamp | 2x | Belt Tensioning Clamp |
 
 * Next Step: [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis)
 * Results Used in Step: [Part 1 Step 17](#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis)
@@ -816,11 +814,8 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 1 Step 16](#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 022 | GT10 Black Belt 5 Meter | 1x | GT2 Timing Belt (165 cm) |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 029 | Belt Clamp | 2x | Belt Tensioning Clamp |
 
 * Next Step: [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end)
 
