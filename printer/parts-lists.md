@@ -34,8 +34,8 @@ This page contains data on the individual components of the printer, as well as 
 | 22 | BIG-00-X-002 V2 | 1 | | 1-12 (1x) | X Axis Shaft Support Bracket |
 | 23 | BIG-00-X-003 V2 | 1 | | [1-03 (1x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | X Pulley Front |
 | 24 | BIG-00-X-004 | 1 | | [1-03 (1x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | X Pulley Back |
-| 25 | BIG-00-X-005 | 1 | | 1-02 (1x) | X Idler Front U Bracket |
-| 26 | BIG-00-X-006 | 1 | | 1-02 (1x) | X Idler Back U Bracket |
+| 25 | BIG-00-X-005 | 1 | | [1-02 (1x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys) | X Idler Front U Bracket |
+| 26 | BIG-00-X-006 | 1 | | [1-02 (1x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys) | X Idler Back U Bracket |
 | 27 | BIG-00-X-007 | 1 | | 1-23 (1x) | Drag Chain Mounting Bracket |
 | 28 | BIG-00-CHAIN-001 | 2 | | | |
 | 29 | BIG-00-Y-001 | 1 | | 1-13 (1x) | Y Pulley Bracket (Y Motor Bracket) |
