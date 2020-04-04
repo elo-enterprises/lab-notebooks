@@ -529,15 +529,12 @@ Issues:
 | [MTL2](parts-lists.md#box-78---mtl2) | 07 | BIG-60-Z-005 V4 | 1x | Z Axis Mid Bracket |
 | [MTL2](parts-lists.md#box-78---mtl2) | 08 | BIG-60-Z-006 | 1x | Z Axis Mid Bracket |
 | [PRF](parts-lists.md#box-88---prf) | 08 | 2020 Black Extrusion Profile - 620 mm| 2x | 20x20 Profile Length 620mm |
+| [BED](parts-lists.md#box-38---bed) | 05 | SFU1204 Ball Screw | 3x | SFU1204 Ball Screw (830mm) |
 | [Main: Mechanical Parts](parts-lists.md#box-48---main) | 018 | LMKL12UU | 4x | LMKL12UU Linear Bearing |
 | [Main: Mechanical Parts](parts-lists.md#box-48---main) | 020 | GT2 Pulley W10 T40 B8 | 3x | GT2 40 Tooth Gears |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 084 | M4x16 | 28x | M4 16mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 086 | M5x8 | 10x | M5 8mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 101 | 2020-M5 T Nut | 10x | 2020 M5 T-Nut |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
 
 * Next Step: [Part 1 Step 10]()
 
