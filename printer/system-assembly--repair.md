@@ -348,6 +348,8 @@ Issues:
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 090 | M5x50 | 2x | M5 50mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 098 | M5 Nylock | 2x | M5 Nylock Nut |
 
+* Next Step: [Part 1 Step 3](#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles)
+
 ### [Part 1 – Step 9. Assembling the Z Axis Mid Brackets](http://www.support.modix3d.com/z-axis-mid-brackets/)
 * Fast, easy assembly.
 * Issues:
