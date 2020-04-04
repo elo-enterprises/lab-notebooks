@@ -894,6 +894,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 08](#part-2--step-8-assembling-the-bed)
+* Results Used in Step: [Part 2 Step 08](#part-2--step-8-assembling-the-bed)
 
 ------------
 ### [Part 2 – Step 8. Assembling the Bed](http://www.support.modix3d.com/bed-assembly/)
@@ -917,8 +918,8 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor) |  |  | 1x | Assembled Structure |
+| [Part 2 Step 07](#part-2--step-7-installing-the-silicon-heater) |  |  | 1x | Bed Assembly |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -1346,6 +1347,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 2x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 2 Step 07](#part-2--step-7-installing-the-silicon-heater)
+* Results Used in Step: [Part 2 Step 08](#part-2--step-8-assembling-the-bed)
 
 ------------
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
