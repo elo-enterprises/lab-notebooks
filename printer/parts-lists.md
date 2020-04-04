@@ -87,7 +87,7 @@ This page contains data on the individual components of the printer, as well as 
 | Item # | Bag Name | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|----------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 001 | ELC | Electronic Box | 1 | | 1-23 (1x) | Electronic Box |
-| 002 | Motors | Motech Stepper Motor 60mm | 5 | | 1-14 (5x) | Nema 17 Motor 60mm | Modix | $50 |
+| 002 | Motors | Motech Stepper Motor 60mm | 5 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | Nema 17 Motor 60mm | Modix | $50 |
 | 003 | Motors | Motech Stepper Motor 40mm | 1 | | 1-19 (1x) | Nema 17 Motor 40mm |
 | 004 |  | X Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
 | 005 |  | Y Motor Cable | 1 | | 2-01 (1x) | X, Y, & Z Motor Wires |
@@ -104,7 +104,7 @@ This page contains data on the individual components of the printer, as well as 
 | 016 | Mechanical Parts | KFL08 Pillow Bearing Flange | 3 | | [1-08 (3x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets) | KFL08 Pillow Bearing Flange |
 | 017 | Mechanical Parts | SHF12 | 8 | | [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets) | SHF12 (12mm Rod Mount) |
 | 018 | Mechanical Parts | LMKL12UU | 4 | | [1-09 (4x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | LMKL12UU Linear Bearing |
-| 019 | Mechanical Parts | GT2 Pulley W10 T16 B5 | 6 | | 1-14 (5x) | 16 Tooth Pulley |
+| 019 | Mechanical Parts | GT2 Pulley W10 T16 B5 | 6 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | 16 Tooth Pulley |
 | 020 | Mechanical Parts | GT2 Pulley W10 T40 B8 | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | GT2 40 Tooth Gears |
 | 021 | Mechanical Parts | GT2 Idler W10 T20 B5 | 4 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); 1-15 (1x) | GT2 Idler Pulley Width10mm 20Teeth Bore5 |
 | 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | 1-15 (1x "Y-Axis" Segment); 1-16 (2x "X-Axis" Segment) | GT2 Timing Belt (165 cm) | Modix | $10 |
@@ -166,7 +166,7 @@ This page contains data on the individual components of the printer, as well as 
 | 078 | Screws & Nuts | M3x10 | 20 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 1-15 (1x) | M3 10mm Screw |
 | 079 | Screws & Nuts | M3x12 | 5 | | 1-15 (3x) | M3 12mm Screw |
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); 2-05 (2x) | M3 16mm Screw |
-| 081 | Screws & Nuts | M3x8 | 25 | | 1-14 (20x) | M3 8mm Screw |
+| 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
 | 082 | Screws & Nuts | M4x8 | 17 | | 1-19 (2x); 1-20 (2x); 1-21 (4x) | M4 8mm Screw |
 | 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); 1-23 (12); 2-03 (4x); 2-18 (2x)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
@@ -189,7 +189,7 @@ This page contains data on the individual components of the printer, as well as 
 | 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 2-07 (4x); 2-08 (16x) | 2020 M5 T-Nut |
 | 102 | Screws & Nuts | 2020-M3 T Nut | 12 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 2020 M3 T-Nut |
 | 103 | Screws & Nuts | M3 Spring Shim | 40 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 Spring Shim-Lock Washer |
-| 104 | Screws & Nuts | M3 Shim | 40 | | 1-14 (20x) | M3 Shim |
+| 104 | Screws & Nuts | M3 Shim | 40 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 Shim |
 | 105 | Screws & Nuts | M5 Shim | 5 | | 1-15 (1x) | M5 Shim |
 | 106 | Screws & Nuts | M5 Black Nylon Washer M5x10x1 | 20 | | 2-10 (12x) | M5 Nylon Washer |
 
