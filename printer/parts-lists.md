@@ -2,8 +2,11 @@
 
 ------------
 
-### Box #1/8 - MTL1
-[Printer Parts Lists](README.md#parts-lists)
+This page contains data on the individual components of the printer, as well as a list of tools used at the bottom.
+
+------------
+## Box #1/8 - MTL1
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -42,8 +45,9 @@
 | 33 | BIG-60-LID-004 | 2 | | 2-18 (2x) | Top Lid Mounting Bracket - Left |
 | 34 | Door_Stop | 1 | | 2-17 (1x) | Door Stop |
 
-### Box #2/8 - ENC2
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #2/8 - ENC2
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -59,8 +63,9 @@
 | 10 | Panel-Body-003-Bottom | 1 | | 2-16 (1x) | Bottom Panel |
 | 11 | BIG-60-Panel-Back-001 V2 | 1 | | 2-16 (1x) | Back Panel |
 
-### Box #3/8 - BED
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #3/8 - BED
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -75,8 +80,9 @@
 | 09 | Drag Chain, 37 Links (+2 end connectors) | 1 | | 1-23 (1x) | Drag Chain, 37 Links |
 | 10 | Drag Chain, 31 Links (+2 end connectors) | 1 | | 1-23 (1x) | Drag Chain, 31 Links |
 
-### Box #4/8 - Main
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #4/8 - Main
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Bag | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -187,15 +193,17 @@
 | 105 | Screws & Nuts | M5 Shim | 5 | | 1-15 (1x) | M5 Shim |
 | 106 | Screws & Nuts | M5 Black Nylon Washer M5x10x1 | 20 | | 2-10 (12x) | M5 Nylon Washer |
 
-### Box #5/8 - BED-110
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #5/8 - BED-110
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 01 | Bed Heater - 110 Volt | 1 | | 2-07 (1x) | Silicon Heater & Temperature Controller - 110V 1370W |
 
-### Box #6/8 - ENC1
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #6/8 - ENC1
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -229,8 +237,9 @@
 | 28 | 2020-M5 T Nut | 100 | | 2-18 (93x) | 2020-M5 T Nut |
 | 29 | M5 Nylon Washer Black M5x10x1 | 100 | | 2-16 (36x); 2-17 (4x); 2-18 (42x); 2-19 (14x) | M5 Nylon Washer |
 
-### Box #7/8 - MTL2
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #7/8 - MTL2
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -246,8 +255,9 @@
 | 10 | Panel-Body-011-Front-Top-1 | 1 | | 2-11 (1x) | Top Cover |
 | 11 | Panel-Body-012-Front-Top-2 | 1 | | 2-11 (1x) | Logo Background |
 
-### Box #8/8 - PRF
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Box #8/8 - PRF
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
@@ -260,8 +270,9 @@
 | 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | 2-07 (2x) | 20x20 Profile Length 860mm |
 | 08 | 2020 Black Extrusion Profile - 620 mm | 2 | | 1-09 (2x) | 20x20 Profile Length 620mm |
 
-### Tools
-[Printer Parts Lists](README.md#parts-lists)
+------------
+## Tools
+[Main Page - Parts Lists](README.md#parts-lists)
 
 | Name                | Number | Unit Cost  | Distributor | Used In Step(s) |
 |---------------------|--------|------------|-------------|-----------------|
