@@ -81,7 +81,7 @@ This page contains data on the individual components of the printer, as well as 
 | 10 | Drag Chain, 31 Links (+2 end connectors) | 1 | | 1-23 (1x) | Drag Chain, 31 Links |
 
 ------------
-## Box #4/8 - Main
+## Box #4/8 - MAIN
 [Main Page - Parts Lists](README.md#parts-lists)
 
 | Item # | Bag | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
