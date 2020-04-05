@@ -952,8 +952,8 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * Modix instructions list the BLTouch sensor and cable parts separately, but they are listed together in the packing list. The M3 Nylock Nuts listed in the instructions are not in the packing list, but were contained in the BLTouch bag.
-* Wiring of this step discussed in Wiring System description.
+  * The assembly instructions list the BLTouch sensor and cable parts separately, but they are listed together in the packing list. The M3 Nylock Nuts listed in the assembly instructions are not in the packing list, but were contained in the BLTouch bag.
+  * Wiring of this step discussed in Wiring System description.
 <center>
 <table>
   <tr>
@@ -1405,7 +1405,7 @@ Issues:
   * Speed: Medium.
   * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
 * Issues:
-  * I do not fully understand the ideal arrangement of heat sink, heat break and hot-end block. I have heat-tightened the nozzle as per [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle), but the block still tries to spin when pushed, indicating that I have not fully threaded the threaded pieces correctly. 
+  * I do not fully understand the ideal screw-tightening procedure for the heat sink, heat break, hot end volcano block and nozzle. I have heat-tightened the nozzle as per [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle), but the block still tries to spin when pushed, indicating that I have not fully threaded the threaded pieces correctly. 
   * I stripped a screw for the volcano block by attempting to insert it in the wrong side of the volcano block. I used a small screw from the spares bag to replace.
   * I initially assembled the hot end without the thermal paste, then revisited the step and applied it.
 <center>
@@ -1487,7 +1487,7 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-* Note - did not use glue when screwing in screws.
+  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
 <center>
 <table>
   <tr>
