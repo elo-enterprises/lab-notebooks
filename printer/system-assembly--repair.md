@@ -1134,9 +1134,13 @@ Issues:
 
 ------------
 ### [Part 1 – Step 22. Assembling the LCD Screen](http://www.support.modix3d.com/lcd-screen-assembly/)
-* Fast, easy assembly, though you cannot complete the mounting of this step until after the enclosure is in place.
-* The instructions do not specify which cable goes in which port, so I used blue painter's tape to label one.
-* We had a relatively serious problem with the main button, in that the button would trigger the click action while turning. We removed the plastic cover from the button and have been using the metal knob underneath.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * This step cannot be completed until after the enclosure is in place, following [Part 2 Step 10](#part-2--10-installing-the-support-brackets).
+  * The assembly instructions do not specify which cable goes in which port, so I used blue painter's tape to label one.
+  * I encountered a relatively serious problem with the main button. The button triggered the click action while turning to scroll through options lists. I removed the plastic cover from the button and have been using the metal knob underneath.  //TODO: replace the button and contact customer support if the problem persists.
 <center>
 <table>
   <tr>
@@ -1174,8 +1178,8 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-* Note - did not use glue when screwing in screws. We did already experience the vibration from the printer causing the three screws attaching the drag chain to the Y axis to shake themselves loose.
-* After completing the wiring connections, we reopened the drag chains and repositioned the cables to lay smoothly.
+  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * After completing the wiring connections, I reopened the drag chains and repositioned the cables to lay smoothly.
 <center>
 <table>
   <tr>
