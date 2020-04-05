@@ -467,11 +467,22 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 16](#part-2--step-16-installing-the-enclosure) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [MTL1](parts-lists.md#box-18---mtl1) | 34 | Door_Stop | 1x | Door Stop |
+| [ENC2](parts-lists.md#box-28---enc2) | 07 | BIG-60-Door-001 | 2x | Door |
+| [ENC2](parts-lists.md#box-28---enc2) | 08 | BIG-60-Door-002 | 2x | Black Panels for the Door Support |
+| [ENC1](parts-lists.md#box-68---enc1) | 01 | Magnets | 4x | Round Magnet |
+| [ENC1](parts-lists.md#box-68---enc1) | 03 | 4040 Hinge Left | 2x | Large Modular Hinge |
+| [ENC1](parts-lists.md#box-68---enc1) | 04 | 4040 Hinge Right | 2x | Large Modular Hinge |
+| [ENC1](parts-lists.md#box-68---enc1) | 06 | Handle | 2x | Handle |
+| [ENC1](parts-lists.md#box-68---enc1) | 15 | Screws M4x10 | 4x | M4 10mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 16 | Screws M4x12 | 4x | M4 12mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 18 | Screws M5x8 | 2x | M5 8mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 19 | Screws M5x12 | 4x | M5 12mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 24 | Screws M5x20-Cone | 16x | M5 Cone 20mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 25 | M4 Nut | 4x | M4 Nut |
+| [ENC1](parts-lists.md#box-68---enc1) | 26 | M5 Nut | 10x | M5 Nut |
+| [ENC1](parts-lists.md#box-68---enc1) | 27 | 4040-M5 T Nut | 12x | M5 4040 T Nut for Profiles |
+| [ENC1](parts-lists.md#box-68---enc1) | 29 | M5 Nylon Washer Black M5x10x1 | 4x | M5 Nylon Washer |
 
 * Next Step: [Part 2 Step 18](#part-2--step-18-assembling-the-top-lid)
 * Results Used in Step: [Part 2 Step 18](#part-2--step-18-assembling-the-top-lid)
