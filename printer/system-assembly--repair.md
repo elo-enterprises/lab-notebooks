@@ -949,14 +949,11 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Part 2 Step 08](#part-2--step-8-assembling-the-bed) |  |  | 1x | Assembled Structure |
+| [BED](parts-lists.md#box-38---bed) | 02 | PEI Sheet | 1x | PEI Sheet |
 
 * Next Step: [Part 2 Step 10](#part-2--10-installing-the-support-brackets)
+* Results Used in Step: [Part 2 Step 10](#part-2--10-installing-the-support-brackets)
 
 ------------
 ### [Part 3 – Step 1. Temperature Controller Configuration](http://www.support.modix3d.com/temperature-controller-configuration/)
