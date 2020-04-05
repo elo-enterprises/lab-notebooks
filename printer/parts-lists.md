@@ -59,9 +59,9 @@ This page contains data on the individual components of the printer, as well as 
 | 06 | FRONT-LID-PANEL | 1 | | 2-18 (1x) | Front Lid Panel |
 | 07 | BIG-60-Door-001 | 2 | | 2-17 (2x) | Door |
 | 08 | BIG-60-Door-002 | 2 | | 2-17 (2x) | Black Panels for the Door Support |
-| 09 | BIG-60-Panel-Side-001 | 2 | | 2-16 (2x) | Side Panel |
-| 10 | Panel-Body-003-Bottom | 1 | | 2-16 (1x) | Bottom Panel |
-| 11 | BIG-60-Panel-Back-001 V2 | 1 | | 2-16 (1x) | Back Panel |
+| 09 | BIG-60-Panel-Side-001 | 2 | | [2-16 (2x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure) | Side Panel |
+| 10 | Panel-Body-003-Bottom | 1 | | [2-16 (1x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure) | Bottom Panel |
+| 11 | BIG-60-Panel-Back-001 V2 | 1 | | [2-16 (1x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure) | Back Panel |
 
 ------------
 ## Box #3/8 - BED
@@ -224,7 +224,7 @@ This page contains data on the individual components of the printer, as well as 
 | 16 | Screws M4x12 | 5 | | 2-17 (4x); 2-18 (1x) | M4 12mm Screw |
 | 17 | Screws M4x25 | 3 | | 2-18 (2x) | M4 25mm Screw |
 | 18 | Screws M5x8 | 50 | | 2-17 (2x); 2-18 (48x) | M5 8mm Screw |
-| 19 | Screws M5x12 | 45 | | 2-16 (36x); 2-17 (4x) | M5 12mm Screw |
+| 19 | Screws M5x12 | 45 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); 2-17 (4x) | M5 12mm Screw |
 | 20 | Screws M5x16 | 5 | | 2-18 (4x) | M5 16mm Screw |
 | 21 | Screws M5x8-Button | 50 | | 2-19 (14x) | M5 8mm Button Screw |
 | 22 | Screws M5x8-Cone | 13 | | 2-18 (8x) | M5 Cone 8mm Screw |
@@ -232,9 +232,9 @@ This page contains data on the individual components of the printer, as well as 
 | 24 | Screws M5x20-Cone | 18 | | 2-17 (16x) | M5 Cone 20mm Screw |
 | 25 | M4 Nut | 5 | | 2-17 (4x) | M4 Nut |
 | 26 | M5 Nut | 12 | | 2-17 (10x) | M5 Nut |
-| 27 | 4040-M5 T Nut | 60 | | 2-16 (36x); 2-17 (12x) | M5 4040 T Nut |
+| 27 | 4040-M5 T Nut | 60 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); 2-17 (12x) | M5 4040 T Nut for Profiles |
 | 28 | 2020-M5 T Nut | 100 | | 2-18 (93x) | 2020-M5 T Nut |
-| 29 | M5 Nylon Washer Black M5x10x1 | 100 | | 2-16 (36x); 2-17 (4x); 2-18 (42x); 2-19 (14x) | M5 Nylon Washer |
+| 29 | M5 Nylon Washer Black M5x10x1 | 100 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); 2-17 (4x); 2-18 (42x); 2-19 (14x) | M5 Nylon Washer |
 
 ------------
 ## Box #7/8 - MTL2
