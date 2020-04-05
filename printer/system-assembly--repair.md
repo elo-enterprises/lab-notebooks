@@ -9,7 +9,16 @@
 ------------
 ## Inventory & Homeland Security
 [Main Page - Systems List](README.md#system-assembly--repair)
-
+<center>
+<table>
+  <tr>
+    <td><a href=img/Inventory.jpg><img src=img/Inventory.jpg width=800px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 01-01-01 - Inventory</p></td>
+  </tr>
+</table>
+</center>
 
 
 ------------
