@@ -1017,7 +1017,7 @@
     <td><a href=img/Step_3_01_Pictures_02_Assembled.jpg><img src=img/Step_3_01_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-01-01 - Parts</p></td>
+    <td><p align="center">Figure 03-01-01 - Cable Connection</p></td>
     <td><p align="center">Figure 03-01-02 - Assembly</p></td>
   </tr>
 </table>
@@ -1047,7 +1047,7 @@
     <td><a href=img/Step_3_02_Pictures_02_Assembled.jpg><img src=img/Step_3_02_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-02-01 - Parts</p></td>
+    <td><p align="center">Figure 03-02-01 - Cable Connection</p></td>
     <td><p align="center">Figure 03-02-02 - Assembly</p></td>
   </tr>
 </table>
@@ -1264,7 +1264,7 @@
     <td><a href=img/Step_3_03_Pictures_02_Assembled.jpg><img src=img/Step_3_03_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-03-01 - Parts</p></td>
+    <td><p align="center">Figure 03-03-01 - Cable Connection</p></td>
     <td><p align="center">Figure 03-03-02 - Assembly</p></td>
   </tr>
 </table>
