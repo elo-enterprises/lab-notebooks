@@ -373,11 +373,11 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 10](#part-2--10-installing-the-support-brackets) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [MTL2](parts-lists.md#box-78---mtl2) | 09 | Panel-Body-010-Front-Bottom | 1x | Bottom Plate |
+| [MTL2](parts-lists.md#box-78---mtl2) | 10 | Panel-Body-011-Front-Top-1 | 1x | Top Cover |
+| [MTL2](parts-lists.md#box-78---mtl2) | 11 | Panel-Body-012-Front-Top-2 | 1x | Logo Background |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 8x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 8x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 2 Step 15](#part-2--step-15-tightening-all-screws)
 * Results Used in Step: [Part 2 Step 15](#part-2--step-15-tightening-all-screws)
