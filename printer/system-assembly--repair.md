@@ -868,7 +868,14 @@
 * Fast, easy to perform the tests.
 * We included testing of Z Home in this step, and discovered a problem with the Z motors binding up. This problem forced us to revisit several steps associated with motors and pulleys.
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 03](#part-3--step-3-turning-on-the-printer) |  |  | 1x | Assembled Structure |
+
 * Next Step: [Part 3 Step 05](#part-3--step-5-terminal-software-and-basic-g-code)
+* Results Used in Step: [Part 3 Step 05](#part-3--step-5-terminal-software-and-basic-g-code)
 
 ------------
 ## Mechanical - Bed & Heater Box
@@ -1218,7 +1225,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| [Part 3 Step 02]() |  |  | 1x | Assembled Structure |
+| [Part 3 Step 02](#part-3--step-2-installing-the-grounding-cable-to-the-print-bed) |  |  | 1x | Assembled Structure |
 | [Main: Power Supply](parts-lists.md#box-48---main) | 009 | Power Supply | 1x | Power Supply |
 | [Main: Power Supply](parts-lists.md#box-48---main) | 010 | Power Cord | 1x | Power Cable |
 
@@ -1435,6 +1442,12 @@
 ### [Part 3 – Step 5. Terminal Software and Basic G-Code](http://www.support.modix3d.com/terminal-software-basic-g-code/)
 * Fast, easy assembly task. Pronterface works great, but does not appear to be necessary for normal workflow.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 04](#part-3--step-4-testing-x--y-homing) |  |  | 1x | Assembled Structure |
 
 * Next Step: [Calibration]()
 * Next Step: [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle)
