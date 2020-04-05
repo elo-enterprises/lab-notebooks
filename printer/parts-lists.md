@@ -69,7 +69,6 @@ This page contains data on the individual components of the printer, as well as 
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
-| 01 | Bed Heater - 110 Volt | 1 | | | |
 | 01 | Aluminium Plate | 1 | | [2-07 (1x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | Aluminum Bed (660mm x 660mm) |
 | 02 | PEI Sheet | 1 | | 2-09 (1x) | | [CSHyde](https://catalog.cshyde.com/item/pei-sheet-3d-printing-build-surface/rinting-materials-3d-printing-films-3-mil-ultem-3d/36-3a-3d-24-41x25-98) | $40 |
 | 04 | X Shaft | 1 | | [1-12 (1x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | X Shaft |
