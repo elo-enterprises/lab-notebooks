@@ -424,13 +424,12 @@
   * Difficulty: Medium.
 * Issues:
   * This step has detailed instructions that should be followed closely. Be sure to use right angle squares to make the angles between 40x40 profiles as perfect as possible.
-Issues:
-* During this step I revisited the instructions for several other steps, making sure I knew where the important screws were and in what order to tighten them.
-  * [Part 1 Step 05](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles);
-  * [Part 1 Step 07](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles);
-  * [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets);
-  * [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles); 
-  * [Part 2 Step 10](#part-2--10-installing-the-support-brackets); 
+  * During this step I revisited the instructions for several other steps, making sure I knew where the important screws were and in what order to tighten them.
+    * [Part 1 Step 05](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles);
+    * [Part 1 Step 07](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles);
+    * [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets);
+    * [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles); 
+    * [Part 2 Step 10](#part-2--10-installing-the-support-brackets); 
 <center>
 <table>
   <tr>
