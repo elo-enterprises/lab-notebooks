@@ -70,7 +70,7 @@ This page contains data on the individual components of the printer, as well as 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 01 | Bed Heater - 110 Volt | 1 | | | |
-| 01 | Aluminium Plate | 1 | | 2-07 (1x) | Aluminum Bed (660mm x 660mm) |
+| 01 | Aluminium Plate | 1 | | [2-07 (1x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | Aluminum Bed (660mm x 660mm) |
 | 02 | PEI Sheet | 1 | | 2-09 (1x) | | [CSHyde](https://catalog.cshyde.com/item/pei-sheet-3d-printing-build-surface/rinting-materials-3d-printing-films-3-mil-ultem-3d/36-3a-3d-24-41x25-98) | $40 |
 | 04 | X Shaft | 1 | | [1-12 (1x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | X Shaft |
 | 05 | SFU1204 Ball Screw | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | SFU1204 Ball Screw (830mm) |
@@ -145,8 +145,8 @@ This page contains data on the individual components of the printer, as well as 
 | 057 | Filament | Filament Sensor Filter | 1 | | | |
 | 058 | Filament | PTFE Guide 1.5m | 1 | | [2-05 (1x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | 1.5m PTFE Tube | [Amazon](https://www.amazon.com/Teflon-tubing-Filament-Printer-Tech/dp/B073RDFTDV/ref=sr_1_4?keywords=ptfe+tube&qid=1579906348&sr=8-4) | $7
 | 059 | Filament | Black Wire Cable House | 5 | | | |
-| 060 | Filament | Spool Mount | 1 | | 2-06 (1x) | Spool Mount |
-| 061 | Filament | Spool Mount Nut | 3 | | 2-06 (3x) | Spool Mount Nut |
+| 060 | Filament | Spool Mount | 1 | | | Spool Mount |
+| 061 | Filament | Spool Mount Nut | 3 | | | Spool Mount Nut |
 | 062 | LCD Controller | Full Graphics Smart Controller | 1 | | [1-22 (1x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | LCD Screen |
 | 063 | LCD Controller | Stop Button Printed Part | 1 | | [1-22 (1x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | 3D-Printed Stop Button |
 | 064 | LCD Controller | M3 Spacer 5mm Female-Male 8mm Thread | 6 | | [1-22 (4x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | M3 Male 8mm – Female 5mm Spacer |
@@ -179,14 +179,14 @@ This page contains data on the individual components of the printer, as well as 
 | 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (4x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | M8 25mm Button-head Screw |
 | 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | [1-11 (2x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 12mm Conic Screw |
-| 094 | Screws & Nuts | M5x12-Cone | 25 | | 2-07 (4x); 2-10 (16x) | M5 12mm Cone Screw |
+| 094 | Screws & Nuts | M5x12-Cone | 25 | | [2-07 (4x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor); 2-10 (16x) | M5 12mm Cone Screw |
 | 095 | Screws & Nuts | M2.5 Nut | 10 | | [2-01 (4x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | M2.5 Nut |
 | 096 | Screws & Nuts | M4 Nut | 8 | | [1-23 (6x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains) | M4 Nut |
 | 097 | Screws & Nuts | M5 Nut | 35 | | [1-06 (8x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (14x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 Nut |
 | 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylock Nut |
 | 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-05 (4x)](system-assembly--repair.md#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles); [1-06 (7x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-07 (2x)](system-assembly--repair.md#part-1--step-7-connecting-the-z-axis-top-to-z-profiles); [1-08 (9x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (8x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-23 (2x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains); [2-05 (2x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
 | 100 | Screws & Nuts | 4040-M8 T Nut | 6 | | 2-06 (6x) | 4040 M8 T-Nut |
-| 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); 2-07 (4x); 2-08 (16x) | 2020 M5 T-Nut |
+| 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [2-07 (4x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor); 2-08 (16x) | 2020 M5 T-Nut |
 | 102 | Screws & Nuts | 2020-M3 T Nut | 12 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 2020 M3 T-Nut |
 | 103 | Screws & Nuts | M3 Spring Shim | 40 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 Spring Shim-Lock Washer |
 | 104 | Screws & Nuts | M3 Shim | 40 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 Shim |
@@ -199,7 +199,7 @@ This page contains data on the individual components of the printer, as well as 
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
-| 01 | Bed Heater - 110 Volt | 1 | | 2-07 (1x) | Silicon Heater & Temperature Controller - 110V 1370W |
+| 01 | Bed Heater - 110 Volt | 1 | | [2-07 (1x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | Silicon Heater & Temperature Controller - 110V 1370W |
 
 ------------
 ## Box #6/8 - ENC1
@@ -267,7 +267,7 @@ This page contains data on the individual components of the printer, as well as 
 | 04 | 4040 Black Extrusion Profile - 990 mm | 4 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | 40x40 Profile Length 990mm – Z Axis |
 | 05 | 4040 Black Extrusion Profile - 400 mm | 2 | | 2-06 (2x) | 40x40 Profile Length 400mm |
 | 06 | 2020 Black Extrusion Profile - 760 mm | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 20x20 Profile Length 760mm |
-| 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | 2-07 (2x) | 20x20 Profile Length 860mm |
+| 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | [2-07 (2x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | 20x20 Profile Length 860mm |
 | 08 | 2020 Black Extrusion Profile - 620 mm | 2 | | [1-09 (2x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | 20x20 Profile Length 620mm |
 
 ------------
