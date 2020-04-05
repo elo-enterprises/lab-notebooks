@@ -315,6 +315,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
+  * The Modix instructions do not list the twelve M5 Nylon Washers used as spacers for the heater box.
   * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
   * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
 <center>
@@ -344,6 +345,7 @@
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 82x | M5 12mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 094 | M5x12-Cone | 16x | M5 12mm Cone Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 82x | M5 4040 T Nut for Profiles |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 106 | M5 Black Nylon Washer M5x10x1 | 12x | M5 Nylon Washer |
 
 * Next Step: [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels)
 * Results Used in Step: [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels)
