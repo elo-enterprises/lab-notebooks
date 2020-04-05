@@ -1044,7 +1044,7 @@
 <table>
   <tr>
     <td><a href=img/Step_3_02_Pictures_01_Parts.jpg><img src=img/Step_3_02_Pictures_01_Parts.jpg width=550px></a></td>
-    <td><a href=img/Step_3_02_Pictures_02_Assembled.jpg><img src=img/Step_3_02_Pictures_02_Assembled.jpg width=550 class=rotate90></a></td>
+    <td><a href=img/Step_3_02_Pictures_02_Assembled.jpg><img src=img/Step_3_02_Pictures_02_Assembled.jpg width=550></a></td>
   </tr>
  <tr>
     <td><p align="center">Figure 03-02-01 - Cable Connection</p></td>
@@ -1261,7 +1261,7 @@
 <table>
   <tr>
     <td><a href=img/Step_3_03_Pictures_01_Parts.jpg><img src=img/Step_3_03_Pictures_01_Parts.jpg width=550px></a></td>
-    <td><a href=img/Step_3_03_Pictures_02_Assembled.jpg><img src=img/Step_3_03_Pictures_02_Assembled.jpg width=550px class=rotate90></a></td>
+    <td><a href=img/Step_3_03_Pictures_02_Assembled.jpg><img src=img/Step_3_03_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
     <td><p align="center">Figure 03-03-01 - Cable Connection</p></td>
