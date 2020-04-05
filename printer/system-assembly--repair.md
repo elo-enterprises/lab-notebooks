@@ -403,11 +403,6 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 16](#part-2--step-16-installing-the-enclosure)
 * Results Used in Step: [Part 2 Step 16](#part-2--step-16-installing-the-enclosure)
@@ -437,11 +432,12 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 15](#part-2--step-15-tightening-all-screws) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [ENC2](parts-lists.md#box-28---enc2) | 09 | BIG-60-Panel-Side-001 | 2x | Side Panel |
+| [ENC2](parts-lists.md#box-28---enc2) | 10 | Panel-Body-003-Bottom | 1x | Bottom Panel |
+| [ENC2](parts-lists.md#box-28---enc2) | 11 | BIG-60-Panel-Back-001 V2 | 1x | Back Panel |
+| [ENC1](parts-lists.md#box-68---enc1) | 19 | Screws M5x12 | 36x | M5 12mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 27 | 4040-M5 T Nut | 36x | M5 4040 T Nut for Profiles |
+| [ENC1](parts-lists.md#box-68---enc1) | 29 | M5 Nylon Washer Black M5x10x1 | 36x | M5 Nylon Washer |
 
 * Next Step: [Part 2 Step 17](#part-2--step-17-assembling-the-doors)
 * Results Used in Step: [Part 2 Step 17](#part-2--step-17-assembling-the-doors)
