@@ -41,8 +41,8 @@ This page contains data on the individual components of the printer, as well as 
 | 29 | BIG-00-Y-001 | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | Y Pulley Bracket (Y Motor Bracket) |
 | 30 | BIG-00-Y-002 | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | Y Idler Bracket |
 | 31 | LCD front mount | 1 | | [1-22 (1x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | Front LCD Screen Mounting Bracket |
-| 32 | BIG-60-LID-003 | 2 | | 2-18 (2x) | Top Lid Mounting Bracket - Right |
-| 33 | BIG-60-LID-004 | 2 | | 2-18 (2x) | Top Lid Mounting Bracket - Left |
+| 32 | BIG-60-LID-003 | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Top Lid Mounting Bracket - Right |
+| 33 | BIG-60-LID-004 | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Top Lid Mounting Bracket - Left |
 | 34 | Door_Stop | 1 | | [2-17 (1x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Door Stop |
 
 ------------
@@ -51,12 +51,12 @@ This page contains data on the individual components of the printer, as well as 
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
-| 01 | Panel-Lid-005-V2 | 1 | | 2-18 (1x) | Lid Front Panel |
-| 02 | Panel-Lid-003-Side V2 | 2 | | 2-18 (2x) | Lid Side Panel |
-| 03 | Panel-Lid-001-Back | 1 | | 2-18 (1x) | Lid Back Panel |
-| 04 | Panel-Lid-002-Back-Top v3 | 1 | | 2-18 (1x) | Lid Top Back Panel |
-| 05 | Panel-Lid-004-V2 | 1 | | 2-18 (1x) | Lid Top Front Panel |
-| 06 | FRONT-LID-PANEL | 1 | | 2-18 (1x) | Front Lid Panel |
+| 01 | Panel-Lid-005-V2 | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Front Panel |
+| 02 | Panel-Lid-003-Side V2 | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Side Panel |
+| 03 | Panel-Lid-001-Back | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Back Panel |
+| 04 | Panel-Lid-002-Back-Top v3 | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Top Back Panel |
+| 05 | Panel-Lid-004-V2 | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Top Front Panel |
+| 06 | FRONT-LID-PANEL | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Front Lid Panel |
 | 07 | BIG-60-Door-001 | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Door |
 | 08 | BIG-60-Door-002 | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Black Panels for the Door Support |
 | 09 | BIG-60-Panel-Side-001 | 2 | | [2-16 (2x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure) | Side Panel |
@@ -109,7 +109,7 @@ This page contains data on the individual components of the printer, as well as 
 | 022 | Mechanical Parts | GT10 Black Belt 5 Meter | 1 | | [1-15 (1x "Y-Axis" Segment)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt); [1-16 (1x "X-Axis" Segment)](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis); [1-17 (1x "X-Axis" Segment)](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis) | GT2 Timing Belt (165 cm) | Modix | $10 |
 | 023 | Mechanical Parts | GT2 Belt Closed Loop 200mm | 4 | | [1-10 (3x)](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets); [1-12 (1x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | GT2 Belt Closed Loop 200 | ??? | ??? |
 | 024 | Mechanical Parts | 2020 Corners Bracket | 4 | | [2-08 (4x)](system-assembly--repair.md#part-2--step-8-assembling-the-bed) | 2020 Corner Bracket |
-| 025 | Mechanical Parts | 4040 Corners Bracket | 3 | | 2-06 (3x) | 4040 Corner Bracket |
+| 025 | Mechanical Parts | 4040 Corners Bracket | 3 | |  | 4040 Corner Bracket |
 | 026 | Mechanical Parts | 4040 Fastener Joint M8 | 16 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (4x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | Metal Clip for 4040 Profiles |
 | 027 | Mechanical Parts | 4040 Profile Plastic Cover | 10 | | | |
 | 028 | Mechanical Parts | Plastic Spacer M5x9x5mm | 8 | | [1-02 (6x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (2x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylon Round Spacer |
@@ -167,7 +167,7 @@ This page contains data on the individual components of the printer, as well as 
 | 080 | Screws & Nuts | M3x16 | 22 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [2-05 (2x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | M3 16mm Screw |
 | 081 | Screws & Nuts | M3x8 | 25 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 8mm Screw |
 | 082 | Screws & Nuts | M4x8 | 17 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); [1-20 (2x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor); [1-21 (4x)](system-assembly--repair.md#part-1--step-21-installing-the-extruder-on-the-y-axis-rail) | M4 8mm Screw |
-| 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); [1-23 (12x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains); [2-03 (4x)](system-assembly--repair.md#part-2--step-3-wiring-the-extruder); 2-18 (2x)  | M4 10mm Screw |
+| 083 | Screws & Nuts | M4x10 | 20 | | [1-12 (2x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft); [1-23 (12x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains); [2-03 (4x)](system-assembly--repair.md#part-2--step-3-wiring-the-extruder); [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid)  | M4 10mm Screw |
 | 084 | Screws & Nuts | M4x16 | 30 | | [1-09 (28x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | M4 16mm Screw |
 | 085 | Screws & Nuts | M4x25 | 10 | | [1-19 (2x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder); [2-04 (6x)](system-assembly--repair.md#part-2--step-4-installing-the-electronics-box-cover) | M4 25mm Screw |
 | 086 | Screws & Nuts | M5x8 | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [1-22 (2x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen); [2-08 (16x)](system-assembly--repair.md#part-2--step-8-assembling-the-bed) | M5 8mm Screw |
@@ -176,7 +176,7 @@ This page contains data on the individual components of the printer, as well as 
 | 089 | Screws & Nuts | M5x20 | 5 | | | |
 | 090 | Screws & Nuts | M5x50 | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 50mm Screw |
 | 091 | Screws & Nuts | M8x25-Button | 18 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-06 (4x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (4x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (4x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | M8 25mm Button-head Screw |
-| 092 | Screws & Nuts | M8x16-Button | 6 | | 2-06 (6x) | M8 16mm Button Screw |
+| 092 | Screws & Nuts | M8x16-Button | 6 | |  | M8 16mm Button Screw |
 | 093 | Screws & Nuts | M5x12-Cone-Silver | 6 | | [1-11 (2x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 12mm Conic Screw |
 | 094 | Screws & Nuts | M5x12-Cone | 25 | | [2-07 (4x)](system-assembly--repair.md#part-2--step-7-installing-the-silicon-heater); [2-10 (16x)](system-assembly--repair.md#part-2--10-installing-the-support-brackets) | M5 12mm Cone Screw |
 | 095 | Screws & Nuts | M2.5 Nut | 10 | | [2-01 (4x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | M2.5 Nut |
@@ -207,34 +207,34 @@ This page contains data on the individual components of the printer, as well as 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 01 | Magnets | 4 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Round Magnet |
-| 02 | 2020 Corner Brackets | 22 | | 2-18 (20x) | Corner Bracket |
+| 02 | 2020 Corner Brackets | 22 | | [2-18 (20x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Corner Bracket |
 | 03 | 4040 Hinge Left | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Large Modular Hinge |
 | 04 | 4040 Hinge Right | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Large Modular Hinge |
-| 05 | 2020 Hinge | 2 | | 2-18 (2x) | 2020 Hinge |
-| 06 | Handle | 3 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); 2-18 (1x) | Handle |
-| 07 | 20x20 Profile Plastic Cover | 2 | | 2-18 (2x) | 20x20 Profile Plastic Cover |
-| 08 | 20X20 Profile Length 145mm | 2 | | 2-18 (2x) | 20X20 Profile Length 145mm |
-| 09 | 20X20 Profile Length 165mm | 4 | | 2-18 (4x) | 20X20 Profile Length 165mm |
-| 10 | 20X20 Profile Length 384mm | 2 | | 2-18 (2x) | 20X20 Profile Length 384mm |
-| 11 | 20X20 Profile Length 825mm | 2 | | 2-18 (2x) | 20X20 Profile Length 825mm |
-| 12 | 20X20 Profile Length 825mm (1/3 Drills According to Drawings) | 1 | | 2-18 (1x) | 20X20 Profile Length 825mm (1/3 Drills According to Drawings) |
-| 13 | 20X20 Profile Length 830mm | 2 | | 2-18 (2x) | 20X20 Profile Length 830mm |
-| 14 | 20X20 Profile Length 845mm | 2 | | 2-18 (2x) | 20X20 Profile Length 845mm |
-| 15 | Screws M4x10 | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); 2-18 (1x) | M4 10mm Screw |
-| 16 | Screws M4x12 | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); 2-18 (1x) | M4 12mm Screw |
-| 17 | Screws M4x25 | 3 | | 2-18 (2x) | M4 25mm Screw |
-| 18 | Screws M5x8 | 50 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); 2-18 (48x) | M5 8mm Screw |
+| 05 | 2020 Hinge | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 2020 Hinge |
+| 06 | Handle | 3 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Handle |
+| 07 | 20x20 Profile Plastic Cover | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20x20 Profile Plastic Cover |
+| 08 | 20X20 Profile Length 145mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 145mm |
+| 09 | 20X20 Profile Length 165mm | 4 | | [2-18 (4x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 165mm |
+| 10 | 20X20 Profile Length 384mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 384mm |
+| 11 | 20X20 Profile Length 825mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 825mm |
+| 12 | 20X20 Profile Length 825mm (1/3 Drills According to Drawings) | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 825mm (1/3 Drills According to Drawings) |
+| 13 | 20X20 Profile Length 830mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 830mm |
+| 14 | 20X20 Profile Length 845mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 845mm |
+| 15 | Screws M4x10 | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M4 10mm Screw |
+| 16 | Screws M4x12 | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M4 12mm Screw |
+| 17 | Screws M4x25 | 3 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M4 25mm Screw |
+| 18 | Screws M5x8 | 50 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (48x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 8mm Screw |
 | 19 | Screws M5x12 | 45 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 12mm Screw |
-| 20 | Screws M5x16 | 5 | | 2-18 (4x) | M5 16mm Screw |
+| 20 | Screws M5x16 | 5 | | [2-18 (4x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 16mm Screw |
 | 21 | Screws M5x8-Button | 50 | | 2-19 (14x) | M5 8mm Button Screw |
-| 22 | Screws M5x8-Cone | 13 | | 2-18 (8x) | M5 Cone 8mm Screw |
-| 23 | Screws M5x12-Cone | 5 | | 2-18 (3x) | M5 Cone 12mm Screw |
+| 22 | Screws M5x8-Cone | 13 | | [2-18 (8x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 Cone 8mm Screw |
+| 23 | Screws M5x12-Cone | 5 | | [2-18 (3x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 Cone 12mm Screw |
 | 24 | Screws M5x20-Cone | 18 | | [2-17 (16x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 Cone 20mm Screw |
 | 25 | M4 Nut | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M4 Nut |
 | 26 | M5 Nut | 12 | | [2-17 (10x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 Nut |
 | 27 | 4040-M5 T Nut | 60 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (12x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 4040 T Nut for Profiles |
-| 28 | 2020-M5 T Nut | 100 | | 2-18 (93x) | 2020-M5 T Nut |
-| 29 | M5 Nylon Washer Black M5x10x1 | 100 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); 2-18 (42x); 2-19 (14x) | M5 Nylon Washer |
+| 28 | 2020-M5 T Nut | 100 | | [2-18 (93x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 2020-M5 T Nut |
+| 29 | M5 Nylon Washer Black M5x10x1 | 100 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (42x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid); 2-19 (14x) | M5 Nylon Washer |
 
 ------------
 ## Box #7/8 - MTL2
