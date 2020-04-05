@@ -348,8 +348,8 @@
   * Difficulty: Easy.
 * Issues:
   * The assembly instructions do not list the twelve M5 nylon washers used as spacers for the heater box.
-  * I revisited this step when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws), careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
   * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the assembly instructions.
+  * I revisited this step when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws), careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
   * This step must be completed prior to completing [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen).
 <center>
 <table>
@@ -426,6 +426,7 @@ Issues:
   * [Part 1 Step 07](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles);
   * [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets);
   * [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles); 
+  * [Part 2 Step 10](#part-2--10-installing-the-support-brackets); 
   
   
 <center>
