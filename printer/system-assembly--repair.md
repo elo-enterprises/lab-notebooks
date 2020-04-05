@@ -295,18 +295,19 @@
 ### [Part 1 – Step 13. Assembling the Y Axis](http://www.support.modix3d.com/y-axis-assembly/)
 * Assembly:
   * Speed: Fast.
-  * Difficulty: Easy.
+  * Difficulty: Medium.
 * Issues:
-* When printing test patterns, we noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. We
-  * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
-  * loosened the front X belt,
-  * connected the Y axis to the frame using the calibration jigs,
-  * loosened the screws holding the Y axis profile to the X rails,
-  * retightened the X belt,
-  * retightened the Y axis screws,
-  * retightened the pulley connecting the front X belt to the X shaft and the X idler,
-  * removed the calibration jigs.
- This helped, but we also revisited this procedure after retightening the frame screws.
+  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * When printing test patterns, I noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. I
+    * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
+    * loosened the front X belt,
+    * connected the Y axis to the frame using the calibration jigs,
+    * loosened the screws holding the Y axis profile to the X rails,
+    * retightened the X belt,
+    * retightened the Y axis screws,
+    * retightened the pulley connecting the front X belt to the X shaft and the X idler,
+    * removed the calibration jigs.
+   This helped, but I also revisited this procedure after retightening the frame screws.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
@@ -733,8 +734,8 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * Be careful when handling the X Shaft. It is delicate, important and difficult to replace.
-* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+  * Be careful when handling the X shaft. It is delicate, important and difficult to replace.
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
   <tr>
@@ -766,10 +767,14 @@ Issues:
 
 ------------
 ### [Part 1 – Step 14. Installing the Motors](http://www.support.modix3d.com/motors-assembly/)
-* We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
-* Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
-* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
-* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
+* Issues:
+  * We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
+  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+  * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 <center>
 <table>
   <tr>
@@ -800,12 +805,12 @@ Issues:
 ### [Part 1 – Step 15. Installing the Y Axis Timing Belt](http://www.support.modix3d.com/y-axis-timing-belts/)
 * Assembly:
   * Speed: Fast.
-  * Difficulty: Easy.
+  * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
-* We waited several more steps before trimming the excess belt since we did not have a spare/backup.
-* Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
-* When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
-* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+  * During assembly, I waited several more steps before trimming the excess belt since I did not have a spare or backup.
+  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
+  * When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
   <tr>
@@ -845,13 +850,13 @@ Issues:
 ### [Part 1 – Step 16. Installing the Timing Belt at the Back X Axis](http://www.support.modix3d.com/x-axis-timing-belt/)
 * Assembly:
   * Speed: Fast.
-  * Difficulty: Easy.
+  * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
+  * During assembly, I waited several more steps before trimming the excess belt since I did not have a spare or backup.
   * The parts list in the Modix documentation includes both step 16 and 17.
-* We waited several more steps before trimming the excess belt since we did not have a spare/backup.
-* Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
-* When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
-* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
+  * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
   <tr>
@@ -880,13 +885,13 @@ Issues:
 ### [Part 1 – Step 17. Installing the Timing Belt at the Front X Axis](http://www.support.modix3d.com/timing-belt-at-the-frontal-x-axis/)
 * Assembly:
   * Speed: Fast.
-  * Difficulty: Easy.
+  * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
-* We waited several more steps before trimming the excess belt since we did not have a spare/backup.
-* Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
-* When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
-* When re-tightening the belt, make sure to actually follow the directions and loosen both the screws holding the front X idler pulley and the set screw on the gear. After the belt is hand-tightened, re-tighten the idler bracket and the pulley set screw.
-* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+  * During assembly, I waited several more steps before trimming the excess belt since I did not have a spare or backup.
+  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
+  * When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
+  * When re-tightening the belt, make sure to actually follow the directions and loosen both the screws holding the front X idler pulley and the set screw on the gear. After the belt is hand-tightened, re-tighten the idler bracket and the pulley set screw.
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
   <tr>
