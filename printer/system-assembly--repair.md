@@ -1003,7 +1003,15 @@
 * Fast assembly, seemingly easy but hard to know if you made a mistake.
 * Revisit this procedure for auto-tuning the bed heater.
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 2 Step 19](#part-2--step-19-assembling-the-top-pivoting-lid) |  |  | 1x | Assembled Structure |
+| [Main: Power Supply](parts-lists.md#box-48---main) | 010 | Power Cord | 1x | Power Cable |
+
 * Next Step: [Part 3 Step 02](#part-3--step-2-installing-the-grounding-cable-to-the-print-bed)
+* Results Used in Step: [Part 3 Step 02](#part-3--step-2-installing-the-grounding-cable-to-the-print-bed)
 
 ------------
 ### [Part 3 – Step 2. Installing the Grounding Cable to the Print Bed](http://www.support.modix3d.com/grounding-cable-to-the-print-bed/)
@@ -1013,7 +1021,16 @@
 * Issues:
   * None known.
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 01](#part-3--step-1-temperature-controller-configuration) |  |  | 1x | Assembled Structure |
+| [Main: Power Supply](parts-lists.md#box-48---main) | 010 | Power Cord | 1x | Power Cable |
+| [Main: Extra](parts-lists.md#box-48---main) | 068 | Grounding Cable | 1x | Grounding Cable |
+
 * Next Step: [Part 3 Step 03](#part-3--step-3-turning-on-the-printer)
+* Results Used in Step: [Part 3 Step 03](#part-3--step-3-turning-on-the-printer)
 
 ------------
 ## Electrical - Wiring, Electronics Box & LCD Screen
