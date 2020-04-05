@@ -986,7 +986,7 @@
 <center>
 <table>
   <tr>
-    <td><a href=img/Step_2_09_Pictures_01_Parts.jpg><img src=img/Step_2_09_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_09_Pictures_01_Parts.png><img src=img/Step_2_09_Pictures_01_Parts.png width=550px></a></td>
     <td><a href=img/Step_2_09_Pictures_02_Assembled.jpg><img src=img/Step_2_09_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
