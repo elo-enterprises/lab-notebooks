@@ -771,8 +771,8 @@ Issues:
   * Speed: Fast.
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
-  * We did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws feeling stripped, etc. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the allen wrench, and used a new allen wrench.
-  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
+  * I did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws being stripped, etc. I replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, used a new hex key, and have not noticed the problem since this maintenance.
+  * In correspondence, Modix customer support advised me to tighten the belts just tight enough to where they do not sag while stationary, and do not vibrate visibly while in motion. I initially tightened all the belts too tight, causing extra friction.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
   * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 <center>
@@ -1401,11 +1401,13 @@ Issues:
 
 ------------
 ### [Part 1 – Step 18. Assembling the Hot-End](http://www.support.modix3d.com/hot-end-assembly/)
-* The hot-end looks like the shrimp monster that was put into Neo's belly button in the Matrix.
-* Fast assembly, but the equipment is small and delicate so be careful not to break things or lose pieces.
-* We still (01/22/2020) do not fully understand the ideal arrangement of heat sink, heat break and hot-end block. We have heat-tightened the nozzle, but the block still tries to spin when pushed, indicating that we have not fully threaded the threaded pieces correctly.
-* Note - the kit only contains one heat sink, with a blue clip on it. Using this even though the instructions say "not the blue one"
-* Note - I stripped a screw for the volcano block by putting it in the wrong side. Used a small screw from the Spares bag to replace.
+* Assembly:
+  * Speed: Medium.
+  * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
+* Issues:
+  * I do not fully understand the ideal arrangement of heat sink, heat break and hot-end block. I have heat-tightened the nozzle as per [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle), but the block still tries to spin when pushed, indicating that I have not fully threaded the threaded pieces correctly. 
+  * I stripped a screw for the volcano block by attempting to insert it in the wrong side of the volcano block. I used a small screw from the spares bag to replace.
+  * I initially assembled the hot end without the thermal paste, then revisited the step and applied it.
 <center>
 <table>
   <tr>
@@ -1441,10 +1443,13 @@ Issues:
 
 ------------
 ### [Part 1 – Step 19. Assembling the Extruder](http://www.support.modix3d.com/extruder-assembly/)
-* Fast assembly, seemingly easy, but confusing, and if I made a mistake I probably wouldn't know how to recognize it.
-* Modix instructions parts list does not include the blower fan, the three 35mm screws, or the Hot End assembled in Part 1 Step 18.
-* We initially assembled the hot-end without the thermal paste, then revisited and applied it.
-* Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
+* Assembly:
+  * Speed: Medium.
+  * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
+* Issues:
+  * If I made a mistake during this step I probably would not know how to recognize it.
+  * The assembly instructions parts list does not include the blower fan, the three 35mm screws, or the hot end assembled in Part 1 Step 18.
+  * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
 <center>
 <table>
   <tr>
@@ -1550,8 +1555,15 @@ Issues:
 ------------
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
 * Fast assembly, somewhat confusing, seemed to work to prevent oozing.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Medium. The equipment is small and delicate. Be careful to avoid breaking pieces.
+* Issues:
+  * I revisited [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task to familiarize myself with the arrangement of the parts.
+
 
 * Next Step: [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software)
+* Results Used in Step: [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software)
 
 ------------
 ### [Part 3 – Step 13. Converting to 3 mm Filament](http://www.support.modix3d.com/converting-to-3-mm-filament/)
