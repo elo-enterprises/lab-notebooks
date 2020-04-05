@@ -70,7 +70,7 @@ This page contains data on the individual components of the printer, as well as 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 01 | Aluminium Plate | 1 | | [2-07 (1x)](system-assembly--repair.md#part-2--step-7-installing-the-silicon-heater) | Aluminum Bed (660mm x 660mm) |
-| 02 | PEI Sheet | 1 | | 2-09 (1x) | | [CSHyde](https://catalog.cshyde.com/item/pei-sheet-3d-printing-build-surface/rinting-materials-3d-printing-films-3-mil-ultem-3d/36-3a-3d-24-41x25-98) | $40 |
+| 02 | PEI Sheet | 1 | | [2-09 (1x)](system-assembly--repair.md#part-2--step-9-installing-the-pei-sheet) | PEI Sheet | [CSHyde](https://catalog.cshyde.com/item/pei-sheet-3d-printing-build-surface/rinting-materials-3d-printing-films-3-mil-ultem-3d/36-3a-3d-24-41x25-98) | $40 |
 | 04 | X Shaft | 1 | | [1-12 (1x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | X Shaft |
 | 05 | SFU1204 Ball Screw | 3 | | [1-09 (3x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | SFU1204 Ball Screw (830mm) |
 | 06 | MGN12H Rail | 3 | | [1-04 (2x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | MGN Rails (700mm) |
