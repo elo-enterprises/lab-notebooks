@@ -1172,6 +1172,18 @@
 ### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_03_Pictures_01_Parts.jpg><img src=img/Step_2_03_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_03_Pictures_02_Assembled.jpg><img src=img/Step_2_03_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-03-01 - Parts</p></td>
+    <td><p align="center">Figure 02-03-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
