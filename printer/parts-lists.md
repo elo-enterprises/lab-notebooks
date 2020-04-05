@@ -51,11 +51,11 @@ This page contains data on the individual components of the printer, as well as 
 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
-| 01 | Panel-Lid-005-V2 | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Front Panel |
+| 01 | Panel-Lid-005-V2 | 1 | | [2-19 (1x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | Lid Front Panel |
 | 02 | Panel-Lid-003-Side V2 | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Side Panel |
 | 03 | Panel-Lid-001-Back | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Back Panel |
 | 04 | Panel-Lid-002-Back-Top v3 | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Top Back Panel |
-| 05 | Panel-Lid-004-V2 | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Lid Top Front Panel |
+| 05 | Panel-Lid-004-V2 | 1 | | [2-19 (1x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | Lid Top Front Panel |
 | 06 | FRONT-LID-PANEL | 1 | | [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Front Lid Panel |
 | 07 | BIG-60-Door-001 | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Door |
 | 08 | BIG-60-Door-002 | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Black Panels for the Door Support |
@@ -207,11 +207,11 @@ This page contains data on the individual components of the printer, as well as 
 | Item # | Packing List ID             | Qty  | Picture | Used In Step(s) | Part Name | Vendor | Approx Price |
 |--------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 01 | Magnets | 4 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Round Magnet |
-| 02 | 2020 Corner Brackets | 22 | | [2-18 (20x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Corner Bracket |
+| 02 | 2020 Corner Brackets | 22 | | [2-18 (10x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid); [2-19 (10x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | Corner Bracket |
 | 03 | 4040 Hinge Left | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Large Modular Hinge |
 | 04 | 4040 Hinge Right | 2 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | Large Modular Hinge |
 | 05 | 2020 Hinge | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 2020 Hinge |
-| 06 | Handle | 3 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | Handle |
+| 06 | Handle | 3 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-19 (1x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | Handle |
 | 07 | 20x20 Profile Plastic Cover | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20x20 Profile Plastic Cover |
 | 08 | 20X20 Profile Length 145mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 145mm |
 | 09 | 20X20 Profile Length 165mm | 4 | | [2-18 (4x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 165mm |
@@ -222,11 +222,11 @@ This page contains data on the individual components of the printer, as well as 
 | 14 | 20X20 Profile Length 845mm | 2 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 20X20 Profile Length 845mm |
 | 15 | Screws M4x10 | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M4 10mm Screw |
 | 16 | Screws M4x12 | 5 | | [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (1x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M4 12mm Screw |
-| 17 | Screws M4x25 | 3 | | [2-18 (2x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M4 25mm Screw |
+| 17 | Screws M4x25 | 3 | | [2-19 (2x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | M4 25mm Screw |
 | 18 | Screws M5x8 | 50 | | [2-17 (2x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (48x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 8mm Screw |
 | 19 | Screws M5x12 | 45 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 12mm Screw |
 | 20 | Screws M5x16 | 5 | | [2-18 (4x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 16mm Screw |
-| 21 | Screws M5x8-Button | 50 | | 2-19 (14x) | M5 8mm Button Screw |
+| 21 | Screws M5x8-Button | 50 | | [2-19 (14x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | M5 8mm Button Screw |
 | 22 | Screws M5x8-Cone | 13 | | [2-18 (8x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 Cone 8mm Screw |
 | 23 | Screws M5x12-Cone | 5 | | [2-18 (3x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | M5 Cone 12mm Screw |
 | 24 | Screws M5x20-Cone | 18 | | [2-17 (16x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 Cone 20mm Screw |
@@ -234,7 +234,7 @@ This page contains data on the individual components of the printer, as well as 
 | 26 | M5 Nut | 12 | | [2-17 (10x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 Nut |
 | 27 | 4040-M5 T Nut | 60 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (12x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors) | M5 4040 T Nut for Profiles |
 | 28 | 2020-M5 T Nut | 100 | | [2-18 (93x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid) | 2020-M5 T Nut |
-| 29 | M5 Nylon Washer Black M5x10x1 | 100 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (42x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid); 2-19 (14x) | M5 Nylon Washer |
+| 29 | M5 Nylon Washer Black M5x10x1 | 100 | | [2-16 (36x)](system-assembly--repair.md#part-2--step-16-installing-the-enclosure); [2-17 (4x)](system-assembly--repair.md#part-2--step-17-assembling-the-doors); [2-18 (42x)](system-assembly--repair.md#part-2--step-18-assembling-the-top-lid); [2-19 (14x)](system-assembly--repair.md#part-2--step-19-assembling-the-top-pivoting-lid) | M5 Nylon Washer |
 
 ------------
 ## Box #7/8 - MTL2
