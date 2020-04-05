@@ -936,6 +936,18 @@ Issues:
   * Difficulty: Easy.
 * Issues:
   * None known.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_04_Pictures_01_Parts.jpg><img src=img/Step_3_04_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_3_04_Pictures_02_Assembled.jpg><img src=img/Step_3_04_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-04-01 - LCD Screen</p></td>
+    <td><p align="center">Figure 03-04-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
@@ -1600,7 +1612,24 @@ Issues:
   * Difficulty: Medium. The equipment is small and delicate. Be careful to avoid breaking pieces.
 * Issues:
   * I revisited [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task to familiarize myself with the arrangement of the parts.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_07_Pictures_01_Parts.jpg><img src=img/Step_3_07_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_3_07_Pictures_02_Assembled.jpg><img src=img/Step_3_07_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-07-01 - Hot End Nozzle</p></td>
+    <td><p align="center">Figure 03-07-02 - Purging Filament</p></td>
+  </tr>
+</table>
+</center>
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 05](#part-3--step-5-terminal-software-and-basic-g-code) |  |  | 1x | Assembled Structure |
 
 * Next Step: [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software)
 * Results Used in Step: [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software)
