@@ -360,12 +360,12 @@
 <center>
 <table>
   <tr>
-    <td><a href=img/Step_2_11_Pictures_01_Parts.jpg><img src=img/Step_2_11_Pictures_01_Parts.jpg width=550px></a></td>
-    <td><a href=img/Step_2_11_Pictures_02_Assembled.jpg><img src=img/Step_2_11_Pictures_02_Assembled.jpg width=550px></a></td>
+    <td><a href=img/Step_2_11_Pictures_02_Assembled_Bottom.jpg><img src=img/Step_2_11_Pictures_02_Assembled_Bottom.jpg width=550px></a></td>
+    <td><a href=img/Step_2_11_Pictures_02_Assembled_Top.jpg><img src=img/Step_2_11_Pictures_02_Assembled_Top.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-11-01 - Parts</p></td>
-    <td><p align="center">Figure 02-11-02 - Assembly</p></td>
+    <td><p align="center">Figure 02-11-02B - Assembly Bottom</p></td>
+    <td><p align="center">Figure 02-11-02T - Assembly Top</p></td>
   </tr>
 </table>
 </center>
@@ -1194,7 +1194,7 @@
 <table>
   <tr>
     <td><a href=img/Step_2_04_Pictures_01_Parts.jpg><img src=img/Step_2_04_Pictures_01_Parts.jpg width=550px></a></td>
-    <td><a href=img/Step_2_04_Pictures_02_Assembled.jpg><img src=img/Step_2_04_Pictures_02_Assembled.jpg width=550px rotate="90"></a></td>
+    <td><a href=img/Step_2_04_Pictures_02_Assembled.jpg><img src=img/Step_2_04_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
     <td><p align="center">Figure 02-04-01 - Parts</p></td>
