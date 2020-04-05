@@ -1453,7 +1453,7 @@ Issues:
   * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
 * Issues:
   * If I made a mistake during this step I probably would not know how to recognize it.
-  * The assembly instructions parts list does not include the blower fan, the three 35mm screws, or the hot end assembled in Part 1 Step 18.
+  * The assembly instructions parts list does not include the blower fan, the three 35mm screws, or the hot end assembled in [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end).
   * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
 <center>
 <table>
