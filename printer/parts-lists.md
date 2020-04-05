@@ -2,7 +2,7 @@
 
 ------------
 
-This page contains data on the individual components of the printer, as well as a list of tools used at the bottom.
+This page contains data on the individual components of the printer, as well as a list of tools used at the bottom of the page.
 
 ------------
 ## Box #1/8 - MTL1
