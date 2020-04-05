@@ -347,9 +347,10 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * The Modix instructions do not list the twelve M5 Nylon Washers used as spacers for the heater box.
-  * I revisited this step when tightening screws in Part 2 Step 15, careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
-  * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the instructions.
+  * The assembly instructions do not list the twelve M5 nylon washers used as spacers for the heater box.
+  * I revisited this step when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws), careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the assembly instructions.
+  * This step must be completed prior to completing [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen).
 <center>
 <table>
   <tr>
