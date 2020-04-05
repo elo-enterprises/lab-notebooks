@@ -26,9 +26,9 @@
 * It is definitely worthwhile to set aside an entire room, cleared of anything except the printer parts, then carefully lay out the parts before beginning assembly. 
 
 ### Notes on Clearing Customs
-* The printer components are made all over the world and shipped from Hong Kong to the United States. In our case, the shipment was held up in Alaska until we submitted a [CF5106](https://www.cbp.gov/document/forms/form-5106-importer-id-input-record), 
-  * which is a form under the authority of the Department of Homeland Security, Customs and Border Protection;
-  * which registers the business as an importer, requiring very simple information, e.g. 
+* The printer components are made all over the world and shipped from Hong Kong to the United States. In our case, the shipment was held up in Alaska until we submitted a [CF5106](https://www.cbp.gov/document/forms/form-5106-importer-id-input-record), which
+  * is a form under the authority of the Department of Homeland Security, Customs and Border Protection;
+  * registers the business as an importer, requiring very simple information, e.g. 
     * Company Name;
     * Company EIN;
     * Company Headquarters Address;
@@ -1213,10 +1213,15 @@ Issues:
 
 ------------
 ### [Part 2 – Step 1. Wiring the Motors and End Stops](http://www.support.modix3d.com/motors-end-stop-wiring/)
-* Slow assembly, take the time to get this right.
-* Note - did not use glue when screwing in screws.
-* When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
-* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+* Assembly:
+  * Speed: Slow. Take the time to get this right.
+  * Difficulty: Difficult.
+* Issues:
+  * The assembly instructions did not contain a unified repository of wiring information. I have compiled this data into two data sets, 
+    * a diagram of the connections between wires and terminals on the panel;
+    * a list of the cables, wires and signals propagating through the system.
+  * When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
+  * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 <center>
 <table>
   <tr>
@@ -1249,8 +1254,13 @@ Issues:
 
 ------------
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
-* Slow assembly, take the time to get this right.
-* See wiring diagrams for details.
+* Assembly:
+  * Speed: Slow. Take the time to get this right.
+  * Difficulty: Difficult.
+* Issues:
+  * The assembly instructions did not contain a unified repository of wiring information. I have compiled this data into two data sets, 
+    * a diagram of the connections between wires and terminals on the panel;
+    * a list of the cables, wires and signals propagating through the system.
 <center>
 <table>
   <tr>
@@ -1275,8 +1285,13 @@ Issues:
 
 ------------
 ### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
-* Slow assembly, take the time to get this right.
-* See wiring diagrams for details.
+* Assembly:
+  * Speed: Slow. Take the time to get this right.
+  * Difficulty: Difficult.
+* Issues:
+  * The assembly instructions did not contain a unified repository of wiring information. I have compiled this data into two data sets, 
+    * a diagram of the connections between wires and terminals on the panel;
+    * a list of the cables, wires and signals propagating through the system.
 <center>
 <table>
   <tr>
@@ -1307,7 +1322,7 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-* See wiring diagrams for details.
+  * None known.
 <center>
 <table>
   <tr>
@@ -1337,7 +1352,7 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-* Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
+  * Note - Once the printer is turned on, it is possible to confirm that the LCD screen turns on, the hot end fan turns on, and the electronics box fan turns on.
 <center>
 <table>
   <tr>
@@ -1455,6 +1470,7 @@ Issues:
   * If I made a mistake during this step I probably would not know how to recognize it.
   * The assembly instructions parts list does not include the blower fan, the three 35mm screws, or the hot end assembled in [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end).
   * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
+  * We have had some trouble getting the extruder to grip the filament, and are unsure exactly how tight to tighten the extruder screw.
 <center>
 <table>
   <tr>
@@ -1519,13 +1535,15 @@ Issues:
 
 ------------
 ### [Part 2 – Step 5. Installing the Filament Sensor](http://www.support.modix3d.com/filament-sensor/)
-* Fast assembly, somewhat confusing.
-* The packing list does not match the parts list in the Modix instructions. Everything appears to be present, just not counted or grouped identically. Also, the Modix instructions do not include 4040-M5 T Nuts or M5 12mm Screws necessary to attach the filament sensor to the printer. 
-* We do not have a foam dust filter installed, unsure exactly how to do so.
-* We are not totally sure how the PTFE tube is supposed to sit in the extruder. When unloading filament using the Marlin command, the extruder runs backwards and kicks out not only the filament but also the PTFE tube. I was nervous about cutting the PTFE tube, and may have cut too much.
-* We have had some trouble getting the extruder to grip the filament, and are unsure exactly how tight to tighten the extruder screw.
-* We waited to install the filament sensor until the enclosure was complete.
-* We had some trouble keeping the PTFE tube from snagging on the frame, especially when traveling from the front right side to the back right side. We installed two clips to the inside top of the enclosure lid, which seem to be keeping the PTFE tube out of snagging risk while also allowing the PTFE tube to reach all corners of the bed.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy, though the assembly instructions are somewhat confusing.
+* Issues:
+  * The packing list does not match the parts list in the assembly instructions. All necessary parts appear to be present, though not counted or grouped identically. Also, the assembly instructions do not include 4040-M5 T nuts or M5 12mm screws necessary to attach the filament sensor to the printer. 
+  * I was confused about the "foam dust filter." It really is just a piece of foam, cut to size, with a hole cut into it for the filament to pass through and scrape off dust along the way.
+  * I am not entirely sure how the PTFE tube is supposed to sit in the extruder. When unloading filament using the Marlin command, the extruder runs backwards and kicks out not only the filament but also the PTFE tube. The assembly instructions indicate that it is necessary to chamfer the tube, i.e. shave off some of the exterior with a razorblade. I was nervous about cutting the PTFE tube, and may have cut too much.
+  * I waited to install the filament sensor until the enclosure was complete.
+  * I had some trouble keeping the PTFE tube from snagging on the frame, especially when traveling from the front right side to the back right side. I installed two clips to the inside top of the enclosure lid, which seem to be keeping the PTFE tube out of snagging risk while also allowing the PTFE tube to reach all corners of the bed.
 <center>
 <table>
   <tr>
