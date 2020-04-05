@@ -334,6 +334,10 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
+| [Part 2 Step 09](#part-2--step-9-installing-the-pei-sheet) |  |  | 1x | Assembled Structure |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
+| []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -342,6 +346,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels)
+* Results Used in Step: [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels)
 
 ------------
 ### [Part 2 – Step 11. Installing the Decorative Panels](http://www.support.modix3d.com/decorative-panels/)
@@ -367,7 +372,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 10](#part-2--10-installing-the-support-brackets) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -375,6 +380,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 15](#part-2--step-15-tightening-all-screws)
+* Results Used in Step: [Part 2 Step 15](#part-2--step-15-tightening-all-screws)
 
 ------------
 ### [Part 2 – Step 15. Tightening All Screws](http://www.support.modix3d.com/tight-all-screws/)
@@ -396,7 +402,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -404,6 +410,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 16](#part-2--step-16-installing-the-enclosure)
+* Results Used in Step: [Part 2 Step 16](#part-2--step-16-installing-the-enclosure)
 
 ------------
 ### [Part 2 – Step 16. Installing the Enclosure](http://www.support.modix3d.com/enclosure-assembly-optional/)
@@ -429,7 +436,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 15](#part-2--step-15-tightening-all-screws) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -437,6 +444,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 17](#part-2--step-17-assembling-the-doors)
+* Results Used in Step: [Part 2 Step 17](#part-2--step-17-assembling-the-doors)
 
 ------------
 ### [Part 2 – Step 17. Assembling the Doors](http://www.support.modix3d.com/doors-assembly/)
@@ -462,7 +470,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 16](#part-2--step-16-installing-the-enclosure) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -470,6 +478,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 18](#part-2--step-18-assembling-the-top-lid)
+* Results Used in Step: [Part 2 Step 18](#part-2--step-18-assembling-the-top-lid)
 
 ------------
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
@@ -492,7 +501,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 17](#part-2--step-17-assembling-the-doors) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -500,6 +509,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 2 Step 19](#part-2--step-19-assembling-the-top-pivoting-lid)
+* Results Used in Step: [Part 2 Step 19](#part-2--step-19-assembling-the-top-pivoting-lid)
 
 ------------
 ### [Part 2- Step 19. Assembling the Top Pivoting Lid](http://www.support.modix3d.com/top-pivoting-lid/)
@@ -525,7 +535,7 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
+| [Part 2 Step 18](#part-2--step-18-assembling-the-top-lid) |  |  | 1x | Assembled Structure |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
@@ -533,6 +543,7 @@
 | []() |  |  |  |  |
 
 * Next Step: [Part 3 Step 01](#part-3--step-1-temperature-controller-configuration)
+* Results Used in Step: [Part 3 Step 01](#part-3--step-1-temperature-controller-configuration)
 
 ------------
 ## Mechanical - Motors, Belts & Pulleys
