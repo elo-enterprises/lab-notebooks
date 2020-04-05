@@ -808,8 +808,12 @@ Issues:
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
   * During assembly, I waited several more steps before trimming the excess belt since I did not have a spare or backup.
-  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing extra friction.
-  * When re-tightening the belt, make sure to actually follow the directions and loosen the screw pushing against the Y motor and the Y motor screws. After the belt is hand-tightened, re-tighten the motor screws.
+  * When tightening the belt, make sure to actually follow the directions and 
+    * loosen the screw pushing against the Y motor and the Y motor screws;
+    * hand-tighten the belt;
+    * tighten the screw pushing against the Y motor to remove excess sagging;
+    * tighten the Y motor screws.
+  * In correspondence, Modix customer support advised me to tighten the belts just tight enough to where they do not sag while stationary, and do not vibrate visibly while in motion. I initially tightened all the belts too tight, causing extra friction.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
@@ -852,10 +856,14 @@ Issues:
   * Speed: Fast.
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
+  * The assembly instructions parts list includes parts for both Part 1 Step 16 and Part 1 Step 17.
   * During assembly, I waited several more steps before trimming the excess belt since I did not have a spare or backup.
-  * The parts list in the Modix documentation includes both step 16 and 17.
-  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
-  * When re-tightening the belt, make sure to actually follow the directions and loosen the screws holding the back X idler pulley. After the belt is hand-tightened, re-tighten the idler bracket.
+  * When tightening the belt, make sure to actually follow the directions and 
+    * loosen the screws holding the back X idler pulley and the set screw on the gear on the X shaft;
+    * hand-tighten the belt;
+    * tighten the screws holding the back X idler pulley to remove excess sagging;
+    * tighten the set screw on the gear on the X shaft.
+  * In correspondence, Modix customer support advised me to tighten the belts just tight enough to where they do not sag while stationary, and do not vibrate visibly while in motion. I initially tightened all the belts too tight, causing extra friction.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
@@ -888,9 +896,13 @@ Issues:
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
   * During assembly, I waited several more steps before trimming the excess belt since I did not have a spare or backup.
-  * Modix said to tighten the belts just tight enough to where they don't sag while stationary, and don't vibrate much while moving. I initially had them all too tight, causing excess friction.
+  * When tightening the belt, make sure to actually follow the directions and 
+    * loosen the screws holding the front X idler pulley and the set screw on the gear on the X shaft;
+    * hand-tighten the belt;
+    * tighten the screws holding the front X idler pulley to remove excess sagging;
+    * tighten the set screw on the gear on the X shaft.
+  * In correspondence, Modix customer support advised me to tighten the belts just tight enough to where they do not sag while stationary, and do not vibrate visibly while in motion. I initially tightened all the belts too tight, causing extra friction.
   * When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
-  * When re-tightening the belt, make sure to actually follow the directions and loosen both the screws holding the front X idler pulley and the set screw on the gear. After the belt is hand-tightened, re-tighten the idler bracket and the pulley set screw.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
