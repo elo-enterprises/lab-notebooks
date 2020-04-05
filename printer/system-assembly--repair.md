@@ -390,12 +390,12 @@
 <center>
 <table>
   <tr>
-    <td><a href=img/Step_2_15_Pictures_01_Parts.jpg><img src=img/Step_2_15_Pictures_01_Parts.jpg width=550px></a></td>
-    <td><a href=img/Step_2_15_Pictures_02_Assembled.jpg><img src=img/Step_2_15_Pictures_02_Assembled.jpg width=550px></a></td>
+    <td><a href=img/Step_2_15_Pictures_02_Misalignment.jpg><img src=img/Step_2_15_Pictures_02_Misalignment.jpg width=550px></a></td>
+    <td><a href=img/Step_2_15_Pictures_02_Square.jpg<img src=img/Step_2_15_Pictures_02_Square.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-15-01 - Parts</p></td>
-    <td><p align="center">Figure 02-15-02 - Assembly</p></td>
+    <td><p align="center">Figure 02-15-01 - Misalignment of Panels</p></td>
+    <td><p align="center">Figure 02-15-02 - Square Tool</p></td>
   </tr>
 </table>
 </center>
@@ -1182,6 +1182,18 @@
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
 * Slow assembly, take the time to get this right.
 * See wiring diagrams for details.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_2_02_Pictures_01_Parts.jpg><img src=img/Step_2_02_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_2_02_Pictures_02_Assembled.jpg><img src=img/Step_2_02_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 02-02-01 - Wiring Layout</p></td>
+    <td><p align="center">Figure 02-02-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
