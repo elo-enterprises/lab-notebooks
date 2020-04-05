@@ -24,7 +24,7 @@ This page contains data on the individual components of the printer, as well as 
 | 12 | BIG-00-EXT-011 V2 | 1 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | Filament Guide Mount Bracket |
 | 13 | BIG-00-EXT-012 | 1 | | [2-03 (1x)](system-assembly--repair.md#part-2--step-3-wiring-the-extruder) | Extruder Wiring Cover Bracket |
 | 14 | BIG-00-FLM-005 V4 | 1 | | [2-05 (1x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor) | Filament Sensor Metal Mount |
-| 15 | BIG-00-FLM-008 | 2 | | 2-06 (1x) | Filament Spool Bracket |
+| 15 | BIG-00-FLM-008 | 2 | |  | Filament Spool Bracket |
 | 16 | BIG-00-EXT-008 | 1 | | [Recalibration](operating-procedures.md#recalibration) | |
 | 17 | BIG-00-EXT-010 V3 | 1 | | | |
 | 18 | BIG-00-EXT-14 V3 | 1 | | | |
@@ -184,7 +184,7 @@ This page contains data on the individual components of the printer, as well as 
 | 097 | Screws & Nuts | M5 Nut | 35 | | [1-06 (8x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (14x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-12 (4x)](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) | M5 Nut |
 | 098 | Screws & Nuts | M5 Nylock | 6 | | [1-02 (2x)](system-assembly--repair.md#part-1--step-2-assembling-the-x-idler-pulleys); [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Nylock Nut |
 | 099 | Screws & Nuts | 4040-M5 T Nut | 150 | | [1-03 (8x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles); [1-05 (4x)](system-assembly--repair.md#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles); [1-06 (7x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-07 (2x)](system-assembly--repair.md#part-1--step-7-connecting-the-z-axis-top-to-z-profiles); [1-08 (9x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets); [1-11 (8x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles); [1-23 (2x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains); [2-05 (2x)](system-assembly--repair.md#part-2--step-5-installing-the-filament-sensor); 2-10 (82?x); 2-11 (8x) | M5 4040 T Nut for Profiles |
-| 100 | Screws & Nuts | 4040-M8 T Nut | 6 | | 2-06 (6x) | 4040 M8 T-Nut |
+| 100 | Screws & Nuts | 4040-M8 T Nut | 6 | |  | 4040 M8 T-Nut |
 | 101 | Screws & Nuts | 2020-M5 T Nut | 45 | | [1-09 (10x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets); [1-13 (6x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis); [2-07 (4x)](system-assembly--repair.md#part-2--step-7-installing-the-silicon-heater); 2-08 (16x) | 2020 M5 T-Nut |
 | 102 | Screws & Nuts | 2020-M3 T Nut | 12 | | [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 2020 M3 T-Nut |
 | 103 | Screws & Nuts | M3 Spring Shim | 40 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 Spring Shim-Lock Washer |
@@ -264,7 +264,7 @@ This page contains data on the individual components of the printer, as well as 
 | 02 | 4040 Black Extrusion Profile - 790 mm | 2 | | [1-11 (2x)](system-assembly--repair.md#part-1--step-11-assembling-the-x-axis-bottom-profiles) | 40x40 Profile Length 790mm - X Axis Bottom |
 | 03 | 4040 Black Extrusion Profile - 770 mm | 4 | | [1-06 (2x)](system-assembly--repair.md#part-1--step-6-assembling-the-z-axis-top-brackets); [1-08 (2x)](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets) | 40x40 Profile Length 770mm |
 | 04 | 4040 Black Extrusion Profile - 990 mm | 4 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | 40x40 Profile Length 990mm – Z Axis |
-| 05 | 4040 Black Extrusion Profile - 400 mm | 2 | | 2-06 (2x) | 40x40 Profile Length 400mm |
+| 05 | 4040 Black Extrusion Profile - 400 mm | 2 | |  | 40x40 Profile Length 400mm |
 | 06 | 2020 Black Extrusion Profile - 760 mm | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 20x20 Profile Length 760mm |
 | 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | [2-07 (2x)](system-assembly--repair.md#part-2--step-7-installing-the-silicon-heater) | 20x20 Profile Length 860mm |
 | 08 | 2020 Black Extrusion Profile - 620 mm | 2 | | [1-09 (2x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | 20x20 Profile Length 620mm |
