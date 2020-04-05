@@ -423,7 +423,7 @@ Issues:
   * [Part 1 Step 05](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles);
   * [Part 1 Step 07](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles);
   * [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets);
-  * [Part 1 Step 11](); 
+  * [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles); 
   
   
 <center>
@@ -660,7 +660,7 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * Note - be careful when handling the ball screws. They are delicate, important and difficult to replace.
+  * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * In the instructions, "2020 T-Nuts" does not specify M5 or M3; M5 chosen, and appears to be obviously correct.
 <table>
   <tr>
@@ -693,11 +693,13 @@ Issues:
 
 ------------
 ### [Part 1 – Step 10. Assembling the Z Axis Sets](http://www.support.modix3d.com/z-axis-sets/)
-* Fast assembly, but take extra care to not damage the ball screws.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Medium.
 * Issues:
   * I revisited this step when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws), careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
   * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
-  * Note - be careful when handling the ball screws. They are delicate, important and difficult to replace.
+  * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop. See [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up).
   * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, and used a new hex key. See the 'Hex Key Set' and 'Set Screw Replacement Kit' in the [Tools Parts List](parts-lists.md#tools)
 <table>
@@ -727,7 +729,11 @@ Issues:
 
 ------------
 ### [Part 1 – Step 12. Installing the X Shaft](http://www.support.modix3d.com/x-shaft/)
-* Fast assembly, be careful when installing to not damage any of the gears. No known issues.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * Be careful when handling the X Shaft. It is delicate, important and difficult to replace.
 * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
