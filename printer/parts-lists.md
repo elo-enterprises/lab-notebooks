@@ -266,7 +266,7 @@ This page contains data on the individual components of the printer, as well as 
 | 04 | 4040 Black Extrusion Profile - 990 mm | 4 | | [1-03 (4x)](system-assembly--repair.md#part-1--step-3-connecting-the-x-axis-brackets-to-z-profiles) | 40x40 Profile Length 990mm – Z Axis |
 | 05 | 4040 Black Extrusion Profile - 400 mm | 2 | | 2-06 (2x) | 40x40 Profile Length 400mm |
 | 06 | 2020 Black Extrusion Profile - 760 mm | 1 | | [1-13 (1x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | 20x20 Profile Length 760mm |
-| 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | [2-07 (2x)](system-assembly--repair.md##part-2--step-7-installing-the-silicon-heater) | 20x20 Profile Length 860mm |
+| 07 | 2020 Black Extrusion Profile - 860 mm | 2 | | [2-07 (2x)](system-assembly--repair.md#part-2--step-7-installing-the-silicon-heater) | 20x20 Profile Length 860mm |
 | 08 | 2020 Black Extrusion Profile - 620 mm | 2 | | [1-09 (2x)](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets) | 20x20 Profile Length 620mm |
 
 ------------
