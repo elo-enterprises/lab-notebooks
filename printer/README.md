@@ -41,6 +41,7 @@
 
 | Name |
 |------|
+| [Inventory & Homeland Security](system-assembly--repair.md#inventory--homeland-security) |
 | [Structural - Frame & Enclosure](system-assembly--repair.md#structural---frame--enclosure) |
 | [Mechanical - Motors, Belts & Pulleys](system-assembly--repair.md#mechanical---motors-belts--pulleys) |
 | [Mechanical - Bed & Heater Box](system-assembly--repair.md#mechanical---bed--heater-box) |
