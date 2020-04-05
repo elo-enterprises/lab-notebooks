@@ -898,6 +898,7 @@
 ------------
 ### [Part 2 – Step 8. Assembling the Bed](http://www.support.modix3d.com/bed-assembly/)
 * Slow assembly, be careful, especially since the bed is heavy, and both the bed and the ball screws are fragile.
+* The Modix instructions parts list for this step lists two 860mm 20x20 profiles and 4 5M 12mm cone screws which are already attached in Part 2 Step 07.
 * We bought a pair of levels to make sure the bed frame was level before tightening its screws or installing the bed.
 * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head started 52mm from the left side of the bed and printed off the right side of the bed. Modix said that sliding the bed over toward the right would not damage the functionality of the Z motor system, so we slid the bed to the right ~5mm, until the heater contacted the angle brackets on the underside of the bed.
 <center>
@@ -919,12 +920,12 @@
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor) |  |  | 1x | Assembled Structure |
 | [Part 2 Step 07](#part-2--step-7-installing-the-silicon-heater) |  |  | 1x | Bed Assembly |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Main: Mechanical Parts](parts-lists.md#box-48---main) | 024 | 2020 Corners Bracket | 4x | 2020 Corner Bracket |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 086 | M5x8 | 16x | M5 8mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 101 | 2020-M5 T Nut | 16x | 2020 M5 T-Nut |
 
 * Next Step: [Part 2 Step 09](#part-2--step-9-installing-the-pei-sheet)
+* Results Used in Step: [Part 2 Step 09](#part-2--step-9-installing-the-pei-sheet)
 
 ------------
 ### [Part 2 – Step 9. Installing the PEI Sheet](http://www.support.modix3d.com/pei-sheet/)
