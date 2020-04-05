@@ -190,7 +190,7 @@ This page contains data on the individual components of the printer, as well as 
 | 103 | Screws & Nuts | M3 Spring Shim | 40 | | [1-04 (20x)](system-assembly--repair.md#part-1--step-4-assembling-the-x-rails-on-x-top-profiles); [1-13 (10x)](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis) | M3 Spring Shim-Lock Washer |
 | 104 | Screws & Nuts | M3 Shim | 40 | | [1-14 (20x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | M3 Shim |
 | 105 | Screws & Nuts | M5 Shim | 5 | | [1-15 (1x)](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt) | M5 Shim |
-| 106 | Screws & Nuts | M5 Black Nylon Washer M5x10x1 | 20 | | 2-10 (12x) | M5 Nylon Washer |
+| 106 | Screws & Nuts | M5 Black Nylon Washer M5x10x1 | 20 | | [2-10 (12x)](system-assembly--repair.md#part-2--10-installing-the-support-brackets) | M5 Nylon Washer |
 
 ------------
 ## Box #5/8 - BED-110
