@@ -335,15 +335,15 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 09](#part-2--step-9-installing-the-pei-sheet) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [MTL1](parts-lists.md#box-18---mtl1) | 01 | BIG-00-ELC-001 V5 - PID | 1x | Temperature Controller Mount Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 02 | BIG-00-ELC-004  | 1x | Front Bottom Right Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 03 | BIG-00-SUP-001 | 1x | Right Front Top Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 04 | BIG-00-SUP-001-LCD | 1x | Left Front Top Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 05 | BIG-00-SUP-002 V2 | 4x | Top Support Bracket |
+| MTL1](parts-lists.md#box-18---mtl1) | 06 | BIG-00-SUP-003 | 11x | Side and Back Support Bracket |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 82x | M5 12mm Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 094 | M5x12-Cone | 16x | M5 12mm Cone Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 82x | M5 4040 T Nut for Profiles |
 
 * Next Step: [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels)
 * Results Used in Step: [Part 2 Step 11](#part-2--step-11-installing-the-decorative-panels)
