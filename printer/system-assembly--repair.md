@@ -886,12 +886,11 @@
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [BED](parts-lists.md#box-38---bed) | 01 | Aluminium Plate | 1x | Aluminum Bed (660mm x 660mm) |
+| [BED-110](parts-lists.md#box-58---bed-110) | 01 | Bed Heater - 110 Volt | 1x | Silicon Heater & Temperature Controller - 110V 1370W1x |
+| [PRF](parts-lists.md#box-88---prf) | 07 | 2020 Black Extrusion Profile - 860 mm | 2x | 20x20 Profile Length 860mm |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 094 | M5x12-Cone | 4x | M5 12mm Cone Screw |
+| [Main: Screws & Nuts](parts-lists.md#box-48---main) | 101 | 2020-M5 T Nut | 4x | 2020 M5 T-Nut |
 
 * Next Step: [Part 2 Step 08](#part-2--step-8-assembling-the-bed)
 * Results Used in Step: [Part 2 Step 08](#part-2--step-8-assembling-the-bed)
