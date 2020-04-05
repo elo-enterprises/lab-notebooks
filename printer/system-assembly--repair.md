@@ -21,7 +21,7 @@
 </center>
 
 ### Notes on Inventory
-* The packing list in each box does not always match the overall packing list in the Modix documentation. Further, the assembly instructions do not use the same part names as the packing list. For this reason, The parts list pages in this document set contains a cross reference of the part names in the packing lists and the part names in the assembly instructions.
+* The packing list in each box does not always match the overall packing list in the Modix documentation. Further, the assembly instructions do not use the same part names as the packing lists. For this reason, The parts list pages in this document set contain cross references between the part names in the packing lists and the part names in the assembly instructions.
 * Almost all parts arrived, with the exception of a few screws, and the spares bag contained enough to cover the gap. No parts appeared damaged.
 * It is definitely worthwhile to set aside an entire room, cleared of anything except the printer parts, then carefully lay out the parts before beginning assembly. 
 
