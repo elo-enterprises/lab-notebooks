@@ -621,6 +621,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
+  * Note - be extra careful with the ball screws. They are delicate.
   * In the instructions, "2020 T-Nuts" does not specify M5 or M3; M5 chosen, and appears to be obviously correct.
 <table>
   <tr>
