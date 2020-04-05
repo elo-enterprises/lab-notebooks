@@ -94,7 +94,7 @@ This page contains data on the individual components of the printer, as well as 
 | 007 | Motors | End Stop (Y Axis) | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X & Y End-Stop |
 | 008 | Motors | End Stop (X Axis) | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X & Y End-Stop |
 | 009 | Power Supply | Power Supply | 1 | | | |
-| 010 | Power Supply | Power Cord | 3 | | 3-01 (1x); 3-02 (1x) | Power Cable |
+| 010 | Power Supply | Power Cord | 3 | | [3-01 (1x)](system-assembly--repair.md#part-3--step-1-temperature-controller-configuration); [3-02 (1x)](system-assembly--repair.md#part-3--step-2-installing-the-grounding-cable-to-the-print-bed) | Power Cable |
 | 011 | Electronic Parts | USB Cable 1.5 meter long | 1 | | | |
 | 012 | Electronic Parts | 16 GB original SanDisk SD Card | 1 | | | | [Amazon](https://www.amazon.com/TF-Card-32GB-Marceloant-microSDHC/dp/B079DV589Q/ref=sr_1_2_sspa?keywords=sd+card+micro&qid=1579906120&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE5T1g5U1RJSVdDM0ImZW5jcnlwdGVkSWQ9QTAzMTQxOTYyTTU5R0lWSEo2RUYxJmVuY3J5cHRlZEFkSWQ9QTA3ODc3OTcxVkQ5NVBMNjA5NElYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==) | $9 |
 | 013 | Electronic Parts | Bltouch | 1 | | [1-20 (1x)](system-assembly--repair.md#part-1---step-20-installing-the-bltouch-bed-leveling-sensor) | Bag of BLTouch Equipment |
@@ -152,7 +152,7 @@ This page contains data on the individual components of the printer, as well as 
 | 065 | LCD Controller | M3x6 | 4 | | [1-22 (4x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | M3 6mm Screw |
 | 066 | LCD Controller | M3 Nut | 4 | | [1-22 (4x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | M3 Nut |
 | 067 | LCD Controller | Ribbon Cable 10 PIN | 2 | | [1-22 (2x)](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen) | 10 pin black Rounded Cable |
-| 068 | Extra | Grounding Cable | 1 | | 3-02 (1x) | Grounding Cable |
+| 068 | Extra | Grounding Cable | 1 | | [3-02 (1x)](system-assembly--repair.md#part-3--step-2-installing-the-grounding-cable-to-the-print-bed) | Grounding Cable |
 | 069 | Extra | C14 | 1 | | | |
 | 070 | Extra | Sticker | 3 | | | |
 | 071 | Extra | Filter Ferrite | 2 | | | |
