@@ -340,7 +340,7 @@
 | [MTL1](parts-lists.md#box-18---mtl1) | 03 | BIG-00-SUP-001 | 1x | Right Front Top Bracket |
 | [MTL1](parts-lists.md#box-18---mtl1) | 04 | BIG-00-SUP-001-LCD | 1x | Left Front Top Bracket |
 | [MTL1](parts-lists.md#box-18---mtl1) | 05 | BIG-00-SUP-002 V2 | 4x | Top Support Bracket |
-| MTL1](parts-lists.md#box-18---mtl1) | 06 | BIG-00-SUP-003 | 11x | Side and Back Support Bracket |
+| [MTL1](parts-lists.md#box-18---mtl1) | 06 | BIG-00-SUP-003 | 11x | Side and Back Support Bracket |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 087 | M5x12 | 82x | M5 12mm Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 094 | M5x12-Cone | 16x | M5 12mm Cone Screw |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 099 | 4040-M5 T Nut | 82x | M5 4040 T Nut for Profiles |
