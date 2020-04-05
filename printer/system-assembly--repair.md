@@ -492,7 +492,7 @@
 ------------
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
 * Fast, easy assembly, though the instructions are not as thorough as before.
-* The count of screws in the Modix instructions is not accurate.
+* The count of screws in the Modix instructions is not accurate. The Modix instructions for this step include at least some of the parts in Part 2 Step 19.
 * The bottom lip of the back lid plate overlaps witht he back plate of the enclosure. Perhaps this is evidence of improper installation...
 <center>
 <table>
@@ -514,16 +514,13 @@
 | [Part 2 Step 17](#part-2--step-17-assembling-the-doors) |  |  | 1x | Assembled Structure |
 | [MTL1](parts-lists.md#box-18---mtl1) | 32 | BIG-60-LID-003 | 2x | Top Lid Mounting Bracket - Right |
 | [MTL1](parts-lists.md#box-18---mtl1) | 33 | BIG-60-LID-004 | 2x | Top Lid Mounting Bracket - Left |
-| [ENC2](parts-lists.md#box-28---enc2) | 01 | Panel-Lid-005-V2 | 1x | Lid Front Panel |
 | [ENC2](parts-lists.md#box-28---enc2) | 02 | Panel-Lid-003-Side V2 | 2x | Lid Side Panel |
 | [ENC2](parts-lists.md#box-28---enc2) | 03 | Panel-Lid-001-Back | 1x | Lid Back Panel |
 | [ENC2](parts-lists.md#box-28---enc2) | 04 | Panel-Lid-002-Back-Top v3 | 1x | Lid Top Back Panel |
-| [ENC2](parts-lists.md#box-28---enc2) | 05 | Panel-Lid-004-V2 | 1x | Lid Top Front Panel |
 | [ENC2](parts-lists.md#box-28---enc2) | 06 | FRONT-LID-PANEL | 1x | Front Lid Panel  |
 | [Main: Screws & Nuts](parts-lists.md#box-48---main) | 083 | M4x10 | 2x | M4 10mm Screw |
-| [ENC1](parts-lists.md#box-68---enc1) | 02 | 2020 Corner Brackets | 20x | Corner Bracket |
+| [ENC1](parts-lists.md#box-68---enc1) | 02 | 2020 Corner Brackets | 10x | Corner Bracket |
 | [ENC1](parts-lists.md#box-68---enc1) | 05 | 2020 Hinge | 2x | 2020 Hinge |
-| [ENC1](parts-lists.md#box-68---enc1) | 06 | Handle | 1x | Handle |
 | [ENC1](parts-lists.md#box-68---enc1) | 07 | 20x20 Profile Plastic Cover | 2x | 20x20 Profile Plastic Cover |
 | [ENC1](parts-lists.md#box-68---enc1) | 08 | 20X20 Profile Length 145mm | 2x | 20X20 Profile Length 145mm |
 | [ENC1](parts-lists.md#box-68---enc1) | 09 | 20X20 Profile Length 165mm | 4x | 20X20 Profile Length 165mm |
@@ -534,7 +531,6 @@
 | [ENC1](parts-lists.md#box-68---enc1) | 14 | 20X20 Profile Length 845mm | 2x | 20X20 Profile Length 845mm |
 | [ENC1](parts-lists.md#box-68---enc1) | 15 | Screws M4x10 | 1x | M4 10mm Screw |
 | [ENC1](parts-lists.md#box-68---enc1) | 16 | Screws M4x12 | 1x | M4 12mm Screw |
-| [ENC1](parts-lists.md#box-68---enc1) | 17 | Screws M4x25 | 2x | M4 25mm Screw |
 | [ENC1](parts-lists.md#box-68---enc1) | 18 | Screws M5x8 | 48x | M5 8mm Screw |
 | [ENC1](parts-lists.md#box-68---enc1) | 20 | Screws M5x16 | 4x | M5 16mm Screw |
 | [ENC1](parts-lists.md#box-68---enc1) | 22 | Screws M5x8-Cone | 8x | M5 Cone 8mm Screw |
@@ -551,7 +547,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * None known.
+  * The Modix instructions for this step do not include a parts list. 
 <center>
 <table>
   <tr>
@@ -570,11 +566,13 @@
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 2 Step 18](#part-2--step-18-assembling-the-top-lid) |  |  | 1x | Assembled Structure |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [ENC2](parts-lists.md#box-28---enc2) | 01 | Panel-Lid-005-V2 | 1x | Lid Front Panel |
+| [ENC2](parts-lists.md#box-28---enc2) | 05 | Panel-Lid-004-V2 | 1x | Lid Top Front Panel |
+| [ENC1](parts-lists.md#box-68---enc1) | 02 | 2020 Corner Brackets | 10x | Corner Bracket |
+| [ENC1](parts-lists.md#box-68---enc1) | 06 | Handle | 1x | Handle |
+| [ENC1](parts-lists.md#box-68---enc1) | 17 | Screws M4x25 | 2x | M4 25mm Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 21 | Screws M5x8-Button | 14x | M5 8mm Button Screw |
+| [ENC1](parts-lists.md#box-68---enc1) | 29 | M5 Nylon Washer Black M5x10x1 | 14x | M5 Nylon Washer |
 
 * Next Step: [Part 3 Step 01](#part-3--step-1-temperature-controller-configuration)
 * Results Used in Step: [Part 3 Step 01](#part-3--step-1-temperature-controller-configuration)
