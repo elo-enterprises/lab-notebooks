@@ -1010,6 +1010,18 @@
 ### [Part 3 – Step 1. Temperature Controller Configuration](http://www.support.modix3d.com/temperature-controller-configuration/)
 * Fast assembly, seemingly easy but hard to know if you made a mistake.
 * Revisit this procedure for auto-tuning the bed heater.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_01_Pictures_01_Parts.jpg><img src=img/Step_3_01_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_3_01_Pictures_02_Assembled.jpg><img src=img/Step_3_01_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-01-01 - Parts</p></td>
+    <td><p align="center">Figure 03-01-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
@@ -1028,6 +1040,18 @@
   * Difficulty: Easy.
 * Issues:
   * None known.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_02_Pictures_01_Parts.jpg><img src=img/Step_3_02_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_3_02_Pictures_02_Assembled.jpg><img src=img/Step_3_02_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-02-01 - Parts</p></td>
+    <td><p align="center">Figure 03-02-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
@@ -1233,6 +1257,18 @@
   * Difficulty: Easy.
 * Issues:
 * Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_03_Pictures_01_Parts.jpg><img src=img/Step_3_03_Pictures_01_Parts.jpg width=550px></a></td>
+    <td><a href=img/Step_3_03_Pictures_02_Assembled.jpg><img src=img/Step_3_03_Pictures_02_Assembled.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-03-01 - Parts</p></td>
+    <td><p align="center">Figure 03-03-02 - Assembly</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
