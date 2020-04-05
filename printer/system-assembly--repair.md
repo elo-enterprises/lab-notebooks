@@ -20,6 +20,11 @@
 </table>
 </center>
 
+### Notes on Inventory
+* The packing list in each box does not always match the overall packing list in the Modix documentation. Further, the assembly instructions do not use the same part names as the packing list. For this reason, The parts list pages in this document set contains a cross reference of the part names in the packing lists and the part names in the assembly instructions.
+* Almost all parts arrived, with the exception of a few screws, and the spares bag contained enough to cover the gap. No parts appeared damaged.
+* It is definitely worthwhile to set aside an entire room, cleared of anything except the printer parts, then carefully lay out the parts before beginning assembly. 
+
 ### Notes on Clearing Customs
 * The printer components are made all over the world and shipped from Hong Kong to the United States. In our case, the shipment was held up in Alaska until we submitted a [CF5106](https://www.cbp.gov/document/forms/form-5106-importer-id-input-record), 
   * which is a form under the authority of the Department of Homeland Security Customs and Border Protection;
