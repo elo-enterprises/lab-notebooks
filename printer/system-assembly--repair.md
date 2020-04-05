@@ -1214,7 +1214,16 @@
 * Issues:
 * Note - With the printer turned on, we can confirm that the LCD screen turns on, the hot-end fan turns on, and the electronics box fan turns on.
 
+* Parts:
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 02]() |  |  | 1x | Assembled Structure |
+| [Main: Power Supply](parts-lists.md#box-48---main) | 009 | Power Supply | 1x | Power Supply |
+| [Main: Power Supply](parts-lists.md#box-48---main) | 010 | Power Cord | 1x | Power Cable |
+
 * Next Step: [Part 3 Step 04](#part-3--step-4-testing-x--y-homing)
+* Results Used in Step: [Part 3 Step 04](#part-3--step-4-testing-x--y-homing)
 
 ------------
 ### Wiring Information
