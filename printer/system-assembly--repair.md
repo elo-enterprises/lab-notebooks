@@ -419,7 +419,11 @@
 
 ------------
 ### [Part 2 – Step 15. Tightening All Screws](http://www.support.modix3d.com/tight-all-screws/)
-* Slow assembly, this step has more detailed instructions than it might appear from its title.
+* Assembly:
+  * Speed: Slow.
+  * Difficulty: Medium.
+* Issues:
+  * This step has detailed instructions that should be followed closely. Be sure to use right angle squares to make the angles between 40x40 profiles as perfect as possible.
 Issues:
 * During this step I revisited the instructions for several other steps, making sure I knew where the important screws were and in what order to tighten them.
   * [Part 1 Step 05](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles);
@@ -427,8 +431,6 @@ Issues:
   * [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets);
   * [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles); 
   * [Part 2 Step 10](#part-2--10-installing-the-support-brackets); 
-  
-  
 <center>
 <table>
   <tr>
@@ -492,7 +494,7 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * None known.
+  * The assembly instructions are somewhat difficult to follow concerning the placement of the magnets, screws and spacers that keep the doors closed. After a few iterations, an obviously correct configuration was found.
 <center>
 <table>
   <tr>
@@ -533,9 +535,14 @@ Issues:
 
 ------------
 ### [Part 2 – Step 18. Assembling the Top Lid](http://www.support.modix3d.com/top-lid-top-cover/)
-* Fast, easy assembly, though the instructions are not as thorough as before.
-* The count of screws in the Modix instructions is not accurate. The Modix instructions for this step include at least some of the parts in Part 2 Step 19.
-* The bottom lip of the back lid plate overlaps witht he back plate of the enclosure. Perhaps this is evidence of improper installation...
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * The assembly instructions are not as thorough as before, though the process is straightforward. 
+    * The count of screws in the assembly instructions is not accurate. 
+    * The assembly instructions for this step include at least some of the parts in [Part 2 Step 19](#part-2--step-19-assembling-the-top-pivoting-lid).
+  * The bottom lip of the back lid plate overlaps with the back plate of the enclosure. This does not appear to be a result of incorrect placement, and may be the consequence of receiving an outdated model number for one of the enclosure panels.
 <center>
 <table>
   <tr>
@@ -589,7 +596,7 @@ Issues:
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * The Modix instructions for this step do not include a parts list. 
+  * The assembly instructions for this step do not include a parts list and are not thorough. 
 <center>
 <table>
   <tr>
