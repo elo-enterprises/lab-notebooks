@@ -77,6 +77,8 @@ This page contains step-by-step instructions for operating the printer.
 ## Running a Print
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 
+[System Assembly & Repair - Part 3 Step 08](system-assembly--repair.md#part-3--step-8-printing-settings-for-slicing-software)
+
 [System Assembly & Repair - Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
 
 ### Import an STL 3D Model File
