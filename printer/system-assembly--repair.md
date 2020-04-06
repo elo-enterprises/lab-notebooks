@@ -1690,7 +1690,12 @@
 
 ------------
 ### [Part 3 – Step 8. Printing Settings for Slicing Software](http://www.support.modix3d.com/printing-settings-for-slicing-software/)
-* Instructions could use quite a bit more detail here. Refer to tables of variables for details.
+* Assembly:
+  * Speed: Medium.
+  * Difficulty: Medium.
+* Issues:
+  * This step lists the preferred values for several variables, but is not comprehensive. For more information on printer settings and software, see [Printing Variables - General Discussion](printing-variables.md#general-discussion).
+  * For details on Elo company procedures for running prints, see [Operating Procedures - Running a Print](operating-procedures.md#running-a-print).
 <center>
 <table>
   <tr>
@@ -1717,7 +1722,7 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * This step lists the preferred values for several variables, but is not comprehensive. For more information on printer settings, see [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software).
+  * This step lists the preferred values for several variables, but is not comprehensive. For more information on printer settings and software, see [Printing Variables - General Discussion](printing-variables.md#general-discussion).
   * For details on Elo company procedures for running prints, see [Operating Procedures - Running a Print](operating-procedures.md#running-a-print).
 <center>
 <table>
