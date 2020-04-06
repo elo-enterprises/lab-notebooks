@@ -8,7 +8,7 @@ This page contains step-by-step instructions for operating the printer.
 ## Recalibration
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 
-[Part 3 Step 05](#part-3--step-5-terminal-software-and-basic-g-code)
+[Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code)
 
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
 * Before running the Tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
