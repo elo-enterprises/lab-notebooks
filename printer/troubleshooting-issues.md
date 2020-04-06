@@ -20,6 +20,12 @@ When first turning the printer on, serious trouble with the Z motors was encount
 * Check that there's nothing wrong in the firmware settings, so connect to Pronterface and send Modix the output log once connected, or send command M503. See [03-05, Terminal Software and Basic G-Code](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
 
 ------------
+## LCD Screen Button Friction
+[Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+The main LCD screen button is vulnerable to a relatively serious problem. In the case of excess friction, the main LCD screen button can trigger the click action while turning to scroll through options lists. Removing the plastic cover from the button and using the metal knob underneath suffices as a temporary solution. //TODO: Replace the button and contact customer support if the problem persists. See [Part 1 Step 22](system-assembly--repair.md#part-1--step-22-assembling-the-lcd-screen).
+
+------------
 ## Layer Shifts
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
