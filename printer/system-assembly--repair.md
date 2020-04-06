@@ -1293,7 +1293,7 @@ This page contains supplemental information to accompany the assembly instructio
   * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled into two data sets, 
     * a diagram of the terminals on the panel including wire terminations;
     * a list of the cables, wires and signals propagating through the system.
-  * More wiring information can be found in other steps,
+  * More wiring information can be found in other steps. Those steps are 
     * [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor);
     * [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen);
     * [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops);
