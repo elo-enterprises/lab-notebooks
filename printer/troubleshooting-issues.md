@@ -83,6 +83,8 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 ## Stringing & Oozing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+ See [](system-assembly--repair.md) and [](system-assembly--repair.md).
+ 
 [Simplify3D](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
 
 ------------
