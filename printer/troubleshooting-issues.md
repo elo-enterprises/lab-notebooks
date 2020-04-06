@@ -65,6 +65,7 @@ Layer shifts can happen for a few reasons, please check the following:
 ## Poor Bridging
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 ------------
 ## Spaghetti Monster
@@ -88,7 +89,6 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 </table>
 </center>
 
-
 ------------
 ## Stringing & Oozing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -96,61 +96,72 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases the nozzle may need to be cleaned or replaced. See [Part 1 Step 18](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) and [Part 3 Step 7](system-assembly--repair.md#part-3--step-7-heat-tightening-the-nozzle).
  
 * Articles:
-  * [Simplify3D](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
 
 ------------
 ## Ugly Overhangs
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 
 ------------
 ## Z Wobble
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 
 ------------
 ## Scars on Top Surface
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 
 ------------
 ## Blobs and Zits
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 
 ------------
 ## Curling or Rough Corners
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/curling-or-rough-corners/)
-
 On 2020-02-06, the issue of curling was noticed in addition to the issue of the first layer not sticking to the bed. Both of these problems could be related to overheating. Initially, the bed temperature is set to 70, while the Simplify3d guide suggests 60-70 for PLA. The cooling fan is disabled for the first 3 layers, and the extruder temperature is set to 200 for the first layer and 203 after that.
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/curling-or-rough-corners/)
 
 ------------
 ## Overheating
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/overheating/)
+This issue has not yet been encountered.
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/overheating/)
 
 ------------
 ## Warping
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 ------------
 ## Vibrations and Ringing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+This issue has not yet been encountered.
 
 ------------
 ## First Layer Not Sticking to the Bed
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
 
 Possible Causes:
  * the bed is not level
@@ -172,25 +183,33 @@ Testing
 ## Grinding or Stripping Filament
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
 
 ------------
 ## Clogged Extruder
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/)
+This issue has not yet been encountered.
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/)
 
 ------------
 ## Stops Extruding Mid Print
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/)
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/)
 
 ------------
 ## Not Extruding at Start of Print
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-[Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/)
+This issue has not yet been encountered.
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/)
 
 ------------
 ## Troubleshooting Data Sources
