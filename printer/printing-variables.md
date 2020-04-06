@@ -22,7 +22,7 @@ This page contains data on individual printer variables, as well as a discussion
   * The bed temperature is set only at the heater box and is thus not adjustable by any software.
   * UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into slicing software and are controlled entirely by Marlin, the printer's firmware.
 
-### Slicing Objects
+### Breaking 3D Model Objects into Feature Types
 When slicing an object, PrusaSlicer breaks it down into printer-relevant “feature types”:
 * Perimeter
 * External Perimeter
