@@ -83,7 +83,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
 <center>
 <table>
   <tr>
@@ -295,7 +295,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Medium.
 * Issues:
-  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
   * When printing test patterns, I noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. I
     * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
     * loosened the front X belt,
@@ -705,7 +705,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Medium.
 * Issues:
   * I revisited this step when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws), careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
-  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
   * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop. See [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up).
   * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, and used a new hex key. See the 'Hex Key Set' and 'Set Screw Replacement Kit' in the [Tools Parts List](parts-lists.md#tools)
@@ -1213,7 +1213,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
   * After completing the wiring connections, I reopened the drag chains and repositioned the cables to lay smoothly.
 <center>
 <table>
@@ -1542,7 +1542,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * I did not use lock-tight glue when screwing in the screws in case I made a mistake and would have to redo the step. //TODO: Go back and check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
+  * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
 <center>
 <table>
   <tr>
