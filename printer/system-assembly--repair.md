@@ -437,8 +437,8 @@
     <td><a href=img/Step_2_15_Pictures_02_Square.jpg><img src=img/Step_2_15_Pictures_02_Square.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-15-01 - Misalignment of Panels</p></td>
-    <td><p align="center">Figure 02-15-02 - Square Tool</p></td>
+    <td><p align="center">Figure 02-15-02P - Misalignment of Panels</p></td>
+    <td><p align="center">Figure 02-15-02S - Square Tool</p></td>
   </tr>
 </table>
 </center>
@@ -549,8 +549,8 @@
     <td><a href=img/Step_2_18_Pictures_02_Assembled_Overall.jpg><img src=img/Step_2_18_Pictures_02_Assembled_Overall.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-18-01 - Detailed Corner Assembly</p></td>
-    <td><p align="center">Figure 02-18-02 - Overall Assembly</p></td>
+    <td><p align="center">Figure 02-18-02D - Detailed Corner Assembly</p></td>
+    <td><p align="center">Figure 02-18-02O - Overall Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -603,8 +603,8 @@
     <td><a href=img/Step_2_19_Pictures_02_Assembled_Overall.jpg><img src=img/Step_2_19_Pictures_02_Assembled_Overall.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-19-01 - Detailed Lid Assembly</p></td>
-    <td><p align="center">Figure 02-19-02 - Overall Assembly</p></td>
+    <td><p align="center">Figure 02-19-02D - Detailed Lid Assembly</p></td>
+    <td><p align="center">Figure 02-19-02O - Overall Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -950,8 +950,8 @@
     <td><a href=img/Step_3_04_Pictures_02_Assembled.jpg><img src=img/Step_3_04_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-04-01 - LCD Screen</p></td>
-    <td><p align="center">Figure 03-04-02 - Assembly</p></td>
+    <td><p align="center">Figure 03-04-02L - LCD Screen</p></td>
+    <td><p align="center">Figure 03-04-02E - End Stop Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -1088,8 +1088,8 @@
     <td><a href=img/Step_2_09_Pictures_02_Assembled.jpg><img src=img/Step_2_09_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-09-01 - Parts</p></td>
-    <td><p align="center">Figure 02-09-02 - Assembly</p></td>
+    <td><p align="center">Figure 02-09-02D - Detail of PEI Sheet Corner</p></td>
+    <td><p align="center">Figure 02-09-02O - Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -1118,8 +1118,8 @@
     <td><a href=img/Step_3_01_Pictures_02_Assembled.jpg><img src=img/Step_3_01_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-01-01 - Cable Connection</p></td>
-    <td><p align="center">Figure 03-01-02 - Assembly</p></td>
+    <td><p align="center">Figure 03-01-02C - Heater Box Cable Connection</p></td>
+    <td><p align="center">Figure 03-01-02O - Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -1148,8 +1148,8 @@
     <td><a href=img/Step_3_02_Pictures_02_Assembled.jpg><img src=img/Step_3_02_Pictures_02_Assembled.jpg width=550></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-02-01 - Cable Connection</p></td>
-    <td><p align="center">Figure 03-02-02 - Assembly</p></td>
+    <td><p align="center">Figure 03-02-02C - Cable Connection</p></td>
+    <td><p align="center">Figure 03-02-02O - Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -1434,8 +1434,8 @@
     <td><a href=img/Step_3_03_Pictures_02_Assembled.jpg><img src=img/Step_3_03_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-03-01 - Cable Connection</p></td>
-    <td><p align="center">Figure 03-03-02 - Assembly</p></td>
+    <td><p align="center">Figure 03-03-02C - Cable Connection</p></td>
+    <td><p align="center">Figure 03-03-02O - Assembly</p></td>
   </tr>
 </table>
 </center>
@@ -1626,8 +1626,8 @@
     <td><a href=img/Step_3_07_Pictures_02_Assembled.jpg><img src=img/Step_3_07_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-07-01 - Hot End Nozzle</p></td>
-    <td><p align="center">Figure 03-07-02 - Purging Filament</p></td>
+    <td><p align="center">Figure 03-07-02N - Hot End Nozzle</p></td>
+    <td><p align="center">Figure 03-07-02F - Purging Filament</p></td>
   </tr>
 </table>
 </center>
@@ -1645,7 +1645,12 @@
 ### [Part 3 – Step 13. Converting to 3 mm Filament](http://www.support.modix3d.com/converting-to-3-mm-filament/)
 * Have not tried to do this yet.
 
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 11](#part-3--step-11-updating-the-modix-big-60-120x-firmware) |  |  | 1x | Assembled Structure |
+
 * Next Step: [Part 3 Step 14](#part-3--step-14-fine-tuning-the-printer-dimension-accuracy)
+* Results Used in Step: [Part 3 Step 14](#part-3--step-14-fine-tuning-the-printer-dimension-accuracy)
 
 ------------
 ## Software & Firmware
@@ -1662,8 +1667,8 @@
     <td><a href=img/Step_3_05_Pictures_02_Pronterface.png><img src=img/Step_3_05_Pictures_02_Pronterface.png width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-05-01 - Computer Connected to Printer</p></td>
-    <td><p align="center">Figure 03-05-02 - Pronterface GUI</p></td>
+    <td><p align="center">Figure 03-05-02C - Computer Connected to Printer via USB Cable</p></td>
+    <td><p align="center">Figure 03-05-02P - Pronterface GUI</p></td>
   </tr>
 </table>
 </center>
@@ -1687,11 +1692,12 @@
     <td><a href=img/Step_3_08_Pictures_02_Settings.png><img src=img/Step_3_08_Pictures_02_Settings.png width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-08-01 - PrusaSlicer Plater GUI</p></td>
-    <td><p align="center">Figure 03-08-02 - PrusaSlicer Settings GUI</p></td>
+    <td><p align="center">Figure 03-08-02P - PrusaSlicer Plater GUI</p></td>
+    <td><p align="center">Figure 03-08-02S - PrusaSlicer Settings GUI</p></td>
   </tr>
 </table>
 </center>
+
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle) |  |  | 1x | Assembled Structure |
@@ -1703,11 +1709,20 @@
 ### [Part 3 – Step 9. Running Your First Print](http://www.support.modix3d.com/running-your-first-print/)
 * Includes preferred settings for several variables, but does not appear to be comprehensive.
 
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software) |  |  | 1x | Assembled Structure |
+
 * Next Step: [Part 3 Step 11](#part-3--step-11-updating-the-modix-big-60-120x-firmware)
+* Results Used in Step: [Part 3 Step 11](#part-3--step-11-updating-the-modix-big-60-120x-firmware)
 
 ------------
 ### [Part 3 – Step 11. Updating the Modix Big-60-120X Firmware](http://www.support.modix3d.com/updating-the-modix-big-60-firmware/)
 * Have not tried to do this yet.
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 9](#part-3--step-9-running-your-first-print) |  |  | 1x | Assembled Structure |
 
 * Next Step: [Troubleshooting]()
 * Next Step: [Part 3 Step 13](#part-3--step-13-converting-to-3-mm-filament)
@@ -1715,6 +1730,12 @@
 ------------
 ### [Part 3 – Step 14. Fine Tuning the Printer Dimension Accuracy](http://www.support.modix3d.com/fine-tuning-the-printer-dimension-accuracy/)
 * Have not tried to do this yet.
+
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 13](#part-3--step-13-converting-to-3-mm-filament) |  |  | 1x | Assembled Structure |
+
+* This is the final step in the assembly instructions.
 
 Firmware documentation website:
 http://marlinfw.org/docs/gcode/M206.html
