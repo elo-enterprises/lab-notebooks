@@ -8,12 +8,12 @@ This page contains data on problems encountered in printer operation, as well as
 ## Z Motors Binding Up
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-When first turning the printer on, we encountered serious trouble with the Z motors and received repeated support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move. The printer was turned off before causing more damage. Modix sent a checklist of issues to check:
+When first turning the printer on, serious trouble with the Z motors was encountered, prompting repeated customer support interactions with Modix. The motors could lower the bed down correctly. When going up, however, seemingly at random, the motors would encounter friction and try to move without moving the bed up. The printer was turned off before causing further damage. Modix sent a checklist of issues to check:
 * Before leveling the bed, make sure to level the base frame.
 * Check the bottom shaft of each ball screw. Make sure it does not sit all the way down; the base of the ball screws should not touch the base of the pillow bearings, or excess friction will result.
 * Make sure that all pulleys and gears are well tightened and do not slip. See [Part 1 Step 10](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) and [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
-* Try to move each screw manually on both directions (when the z screws are disassembled from the bed brackets).
-* The belts that drive the z-screws could be to tightened too much, check that as well. They need to be tightened to point they sit straight and don't sag, no more than that
+* Try to move each screw manually in both directions when the ball screws are disassembled from the bed brackets.
+* Check whether the belts that drive the ball screws are tightened too much. They need to be tightened to the point that they sit straight and do not sag and no further.
 * Try to move each screw with a separate cable, without a split. You can use the spare cable you have. Are they moving smoothly? Can you spot any damaged wire connections on the Z cable and motors? See [02-01, Wiring the Motors and End Stops](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * You can also replace the stepper driver for z with one of the spares you got with the kit.
 * Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time.
