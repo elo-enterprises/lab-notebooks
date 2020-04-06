@@ -1044,7 +1044,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Be careful when installing the bed, especially since the bed is heavy, and both the bed and the ball screws are delicate. The assembly instructions advise using two people to perform this step.
   * The assembly instructions parts list for this step lists two 860mm 20x20 profiles and 4 5M 12mm cone screws which are already attached in Part 2 Step 07.
   * Buy a pair of levels to make sure the bed frame is level before tightening its screws or installing the bed.
-  * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head starts 52mm from the left side of the bed and is capable of printing beyond the right side of the bed. In correspondence, Modix customer support indicated that sliding the bed over toward the right would not damage the functionality of the Z motor system. After sliding the bed to the right ~5mm, the heater contacts the angle brackets on the underside of the bed.
+  * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head starts 52mm from the left side of the bed and is capable of printing beyond the right side of the bed. In correspondence, Modix customer support indicated that sliding the bed toward the right would not damage the functionality of the Z motor system. After sliding the bed to the right ~5mm, the heater contacts the angle brackets on the underside of the bed.
 <center>
 <table>
   <tr>
@@ -1108,7 +1108,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * It is difficult to know if you made a mistake, so read the assembly instructions carefully and follow every step exactly.
+  * It is difficult to know if mistakes in programming the heater box are made. Read the assembly instructions carefully and follow every step exactly.
 <center>
 <table>
   <tr>
