@@ -5,6 +5,15 @@
 ## General Discussion
 [Main Page - Variables List](README.md#printing-variables)
 
+### PrusaSlicer vs Slic3r vs Simplify3D
+* The Prusa company, a 3D printer manufacturer, has forked the code for Slic3r and improved the user interface. Modix instructions suggest changing the mode to Expert to gain access to all parameters.
+* Simplify3D is proprietary software, recommended by Modix, but it is unclear why Modix prefers this software.
+
+### PrusaSlicer vs Pronterface vs Marlin
+* It is not immediately clear how each software layer interacts with the others. Whenever possible, the goal is to allow the PrusaSlicer parameters to dominate the system. This design basis has several implications:
+  * Pronterface might not be necessary at all.
+  * The bed temperature is set only at the heater box and is thus not adjustable by any software.
+  * UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into slicing software and are controlled entirely by Marlin, the printer's firmware.
 
 ------------
 ## PrusaSlicer Plater Variables
