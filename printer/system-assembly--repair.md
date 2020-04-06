@@ -1619,7 +1619,7 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * It is worth revisiting [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task.
   * Be careful around the nozzle, as it is extremely hot.
-  * After heat tightening the nozzle, the hot end volcano block is still able to spin when pushed, indicating an imperfect threading of the heat sink, heat break, hot end volcano block and nozzle. In correspondence, Modix customer support suggested that the threading only needs to be addressed if stringing and oozing becomes a noticeable problem. 
+  * After heat tightening the nozzle, the hot end volcano block is still able to spin when pushed, indicating an imperfect threading of the heat sink, heat break, hot end volcano block and nozzle. In correspondence, Modix customer support suggested that the threading only needs to be redone if stringing and oozing becomes a noticeable problem. 
   * [Troubleshooting - Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
     * If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases the nozzle may need to be cleaned or replaced.
 <center>
