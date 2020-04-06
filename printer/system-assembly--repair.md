@@ -1711,7 +1711,24 @@
 
 ------------
 ### [Part 3 – Step 9. Running Your First Print](http://www.support.modix3d.com/running-your-first-print/)
-* Includes preferred settings for several variables, but does not appear to be comprehensive.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * This step lists the preferred values for several variables, but is not comprehensive. For more information on printer settings, see [Part 3 Step 8](#part-3--step-8-printing-settings-for-slicing-software).
+  * For details on Elo company procedures for running prints, see [Operating Procedures - Running a Print](operating-procedures.md#running-a-print).
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_08_Pictures_01_Plater.png><img src=img/Step_3_08_Pictures_01_Plater.png width=550px></a></td>
+    <td><a href=img/Step_3_08_Pictures_02_Settings.png><img src=img/Step_3_08_Pictures_02_Settings.png width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-09-02L - LCD Screen</p></td>
+    <td><p align="center">Figure 03-09-02C - Cleaning Materials and Filament Spool</p></td>
+  </tr>
+</table>
+</center>
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
