@@ -1655,6 +1655,18 @@
 ### [Part 3 – Step 5. Terminal Software and Basic G-Code](http://www.support.modix3d.com/terminal-software-basic-g-code/)
 * Fast, easy assembly task. Pronterface works great, but does not appear to be necessary for normal workflow.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_05_Pictures_01_Computer.jpg><img src=img/Step_3_05_Pictures_01_Computer.jpg width=550px></a></td>
+    <td><a href=img/Step_3_05_Pictures_02_Pronterface.png><img src=img/Step_3_05_Pictures_02_Pronterface.png width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-05-01 - Computer Connected to Printer</p></td>
+    <td><p align="center">Figure 03-05-02 - Pronterface GUI</p></td>
+  </tr>
+</table>
+</center>
 
 * Parts:
 
@@ -1668,8 +1680,24 @@
 ------------
 ### [Part 3 – Step 8. Printing Settings for Slicing Software](http://www.support.modix3d.com/printing-settings-for-slicing-software/)
 * Instructions could use quite a bit more detail here. Refer to tables of variables for details.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Step_3_08_Pictures_01_Plater.png><img src=img/Step_3_08_Pictures_01_Plater.png width=550px></a></td>
+    <td><a href=img/Step_3_08_Pictures_02_Settings.png><img src=img/Step_3_08_Pictures_02_Settings.png width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure 03-08-01 - PrusaSlicer Plater GUI</p></td>
+    <td><p align="center">Figure 03-08-02 - PrusaSlicer Settings GUI</p></td>
+  </tr>
+</table>
+</center>
+| Box Name | Item # | Packing List ID             | Qty Used | Part Name |
+|----------|--------|-----------------------------|----------|-----------|
+| [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle) |  |  | 1x | Assembled Structure |
 
 * Next Step: [Part 3 Step 9](#part-3--step-9-running-your-first-print)
+* Results Used in Step: [Part 3 Step 9](#part-3--step-9-running-your-first-print)
 
 ------------
 ### [Part 3 – Step 9. Running Your First Print](http://www.support.modix3d.com/running-your-first-print/)
