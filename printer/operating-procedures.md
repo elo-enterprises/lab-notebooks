@@ -8,7 +8,7 @@ This page contains step-by-step instructions for operating the printer.
 ## Recalibration
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 
-[System Assembly & Repair - Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code)
+[Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code)
 
 ### Frame Leveling Procedure
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
@@ -77,9 +77,9 @@ This page contains step-by-step instructions for operating the printer.
 ## Running a Print
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 
-[System Assembly & Repair - Part 3 Step 08](system-assembly--repair.md#part-3--step-8-printing-settings-for-slicing-software)
+[Part 3 Step 08](system-assembly--repair.md#part-3--step-8-printing-settings-for-slicing-software)
 
-[System Assembly & Repair - Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
+[Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
 
 ### Import an STL 3D Model File
 * Within PrusaSlicer, use the command File --> Import --> ImportSTL/OBJ/AMF/3MF/PRUSA to import an STL file. A typical STL file is tens of thousands of lines long and is human-unreadable. The file is the output of a 3D modeling tool that has been used to create a model of an object.
