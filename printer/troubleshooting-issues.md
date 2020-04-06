@@ -20,6 +20,17 @@ When first turning the printer on, serious trouble with the Z motors was encount
 * Check that there's nothing wrong in the firmware settings, so connect to Pronterface and send Modix the output log once connected, or send command M503. See [03-05, Terminal Software and Basic G-Code](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
 
 ------------
+## Stripped Set Screws
+[Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+At several steps, the 3mmx3mm set screws used to tighten gears stripped. To avoid causing damage requiring replacement of more expensive parts, the 3mmx3mm set screws were replaced with externally purchased [4mmx3mm set screws](parts-lists.md#tools). These screws added more contact surface area between the inside of the screw and the hex key. A new [hex key](parts-lists.md#tools) was also used, and no further stripping was detected. See the following steps: 
+* []();
+* []();
+* []();
+* []();
+* []();
+
+------------
 ## LCD Screen Button Friction
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
