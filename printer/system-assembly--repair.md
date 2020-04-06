@@ -672,6 +672,9 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * In the assembly instructions, the use of "2020 T-Nuts" does not specify M5 or M3; M5 chosen, and appears to be obviously correct.
+  * [Troubleshooting - Stripped Set Screws](troubleshooting-issues.md#stripped-set-screws)
+    * To avoid stripping, replace the 3mmx3mm set screws in the GT2 40 tooth gears with externally purchased [4mmx3mm set screws](parts-lists.md#tools).     
+    * Use of an externally purchased [hex key set](parts-lists.md#tools) may also be helpful.
 <table>
   <tr>
     <td><a href=img/Step_1_09_Pictures_01_Parts.jpg><img src=img/Step_1_09_Pictures_01_Parts.jpg width=550px></a></td>
