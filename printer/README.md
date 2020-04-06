@@ -53,6 +53,7 @@
 
 | Name |
 |------|
+| [General Discussion](printing-variables.md#general-discussion) |
 | [PrusaSlicer Plater Variables](printing-variables.md#prusaslicer-plater-variables) |
 | [PrusaSlicer Print Variables](printing-variables.md#prusaslicer-print-variables) |
 | [PrusaSlicer Filament Variables](printing-variables.md#prusaslicer-filament-variables) |
