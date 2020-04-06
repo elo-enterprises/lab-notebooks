@@ -710,9 +710,9 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Medium.
 * Issues:
+  * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
   * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
-  * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
     * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
 <table>
@@ -786,10 +786,13 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
-  * I did not initially tighten the set screws effectively to the flat sides of the motors, and consequently had problems with the motors turning without turning the gears, set screws being stripped, etc. I replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, used a new hex key, and have not noticed the problem since this maintenance.
-  * In correspondence, Modix customer support advised me to tighten the belts just tight enough to where they do not sag while stationary, and do not vibrate visibly while in motion. I initially tightened all the belts too tight, causing extra friction.
+  * [Troubleshooting - Stripped Set Screws](troubleshooting-issues.md#stripped-set-screws)
+    * To avoid stripping, replace the 3mmx3mm set screws in the 16 tooth pulleys with externally purchased [4mmx3mm set screws](parts-lists.md#tools).
+    * Use of an externally purchased [hex key set](parts-lists.md#tools) may also be helpful.
+    * Take extra care to tighten the set screws effectively to the flat sides of the motors to avoid problems with the motors spinning freely without turning the pulleys.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
   * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+    * In correspondence, Modix customer support advised me to tighten the belts just tight enough to where they do not sag while stationary, and do not vibrate visibly while in motion. I initially tightened all the belts too tight, causing extra friction.
 <center>
 <table>
   <tr>
