@@ -15,6 +15,22 @@
   * The bed temperature is set only at the heater box and is thus not adjustable by any software.
   * UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into slicing software and are controlled entirely by Marlin, the printer's firmware.
 
+### Slicing Objects
+When slicing an object, PrusaSlicer breaks it down into printer-relevant “feature types”:
+* Perimeter
+* External Perimeter
+* Overhang Perimeter
+* Internal Infill
+* Solid Infill
+* Top Solid Infill
+* Bridge Infill
+* Gap Fill
+* Skirt
+* Support Material
+* Support Material Interface
+* Wipe Tower
+* Custom
+
 ------------
 ## PrusaSlicer Plater Variables
 [Main Page - Variables List](README.md#printing-variables)
