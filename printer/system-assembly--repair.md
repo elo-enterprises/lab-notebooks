@@ -220,7 +220,9 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * None known.
+  * [Troubleshooting - Stripped Set Screws](troubleshooting-issues.md#stripped-set-screws)
+    * To avoid stripping, replace the 3mmx3mm set screws in the pillow bearing flanges with externally purchased [4mmx3mm set screws](parts-lists.md#tools).     
+    * Use of an externally purchased [hex key set](parts-lists.md#tools) may also be helpful.
 <center>
 <table>
   <tr>
