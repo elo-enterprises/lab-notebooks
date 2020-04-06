@@ -2,6 +2,20 @@
 
 ------------
 
+# Z Motors Binding Up
+[Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+When first turning the printer on, we encountered serious trouble with the Z motors and received support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move, and we would turn the printer off before causing more damage. The list of things to check included:
+* Before leveling the bed, make sure to level the base frame.
+* Check the bottom shaft of each z-screw, make sure it doesn't go all the way down and touching the aluminum profile.
+* Make sure that all pulleys and gears are well tightened and don't slip. See [01-10, Assembling the Z Axis Sets](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) and [01-14, Installing the Motors](system-assembly--repair.md#part-1--step-14-installing-the-motors).
+* Try to move each screw manually on both directions (when the z screws are disassembled from the bed brackets).
+* The belts that drive the z-screws could be to tightened too much, check that as well. They need to be tightened to point they sit straight and don't sag, no more than that
+* Try to move each screw with a separate cable, without a split. You can use the spare cable you have. Are they moving smoothly? Can you spot any damaged wire connections on the Z cable and motors? See [02-01, Wiring the Motors and End Stops](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* You can also replace the stepper driver for z with one of the spares you got with the kit.
+* Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time.
+* Check that there's nothing wrong in the firmware settings, so connect to Pronterface and send Modix the output log once connected, or send command M503. See [03-05, Terminal Software and Basic G-Code](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
+
 # Layer Shifts
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
@@ -26,20 +40,6 @@ Layer shifts can happen for a few reasons, please check the following:
 * Make sure the wiring isn't loose or torn both on the controller board and on the motor.
 * Make sure that the driver has enough current, it should be no more than 1.1 V. The current can be increased by turning the Vref clockwise 1/4 turn at the time. Attached is a photo on how to measure the current - (-) on the GND pin and (+) on the Vref
 * Try to replace a stepper driver (the kit comes with spares).
-
-# Z Motors Binding Up
-[Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
-
-When first turning the printer on, we encountered serious trouble with the Z motors and received support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move, and we would turn the printer off before causing more damage. The list of things to check included:
-* Before leveling the bed, make sure to level the base frame.
-* Check the bottom shaft of each z-screw, make sure it doesn't go all the way down and touching the aluminum profile.
-* Make sure that all pulleys and gears are well tightened and don't slip. See [01-10, Assembling the Z Axis Sets](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) and [01-14, Installing the Motors](system-assembly--repair.md#part-1--step-14-installing-the-motors).
-* Try to move each screw manually on both directions (when the z screws are disassembled from the bed brackets).
-* The belts that drive the z-screws could be to tightened too much, check that as well. They need to be tightened to point they sit straight and don't sag, no more than that
-* Try to move each screw with a separate cable, without a split. You can use the spare cable you have. Are they moving smoothly? Can you spot any damaged wire connections on the Z cable and motors? See [02-01, Wiring the Motors and End Stops](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
-* You can also replace the stepper driver for z with one of the spares you got with the kit.
-* Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time.
-* Check that there's nothing wrong in the firmware settings, so connect to Pronterface and send Modix the output log once connected, or send command M503. See [03-05, Terminal Software and Basic G-Code](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
 
 # Poor Bridging
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
