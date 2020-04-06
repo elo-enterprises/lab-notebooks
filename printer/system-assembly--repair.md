@@ -1261,11 +1261,11 @@
 <center>
 <table>
   <tr>
-    <td><a href=img/Step_2_01_Pictures_01_Diagram.jpg><img src=img/Step_2_01_Pictures_01_Diagram.jpg width=550px></a></td>
+    <td><a href=img/Step_2_01_Pictures_01_Parts.jpg><img src=img/Step_2_01_Pictures_01_Parts.jpg width=550px></a></td>
     <td><a href=img/Step_2_01_Pictures_02_Assembled.jpg><img src=img/Step_2_01_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-01-01 - Diagram</p></td>
+    <td><p align="center">Figure 02-01-01 - Parts</p></td>
     <td><p align="center">Figure 02-01-02 - Assembly</p></td>
   </tr>
 </table>
