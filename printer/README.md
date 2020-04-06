@@ -65,8 +65,8 @@
 
 | Name |
 |------|
-| [Layer Shifts](troubleshooting-issues.md#layer-shifts) |
 | [Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up) |
+| [Layer Shifts](troubleshooting-issues.md#layer-shifts) |
 | [Poor Bridging](troubleshooting-issues.md#poor-bridging) |
 | [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing) |
 | [Ugly Overhangs](troubleshooting-issues.md#ugly-overhangs) |
