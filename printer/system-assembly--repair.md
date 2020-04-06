@@ -117,7 +117,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
 <center>
 <table>
   <tr>
@@ -188,7 +188,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
 <center>
 <table>
   <tr>
@@ -259,7 +259,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
   * The assembly instructions contain a written description of where to put the conical screws that does not match the corresponding picture. Follow the text (front left) rather than the picture (back right) because the front left metal bracket has indentations for conical screws but the back right metal bracket does not.
 <center>
 <table>
@@ -347,7 +347,7 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * The assembly instructions do not list the twelve M5 nylon washers used as spacers for the heater box.
   * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the assembly instructions.
-  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
   * This step must be completed prior to completing [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen).
 <center>
 <table>
@@ -421,7 +421,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Slow.
   * Difficulty: Medium.
 * Issues:
-  * This step has detailed instructions that should be followed closely. Be sure to use right angle squares to make the angles between 40x40 profiles as perfect as possible.
+  * This step has detailed instructions that should be followed closely. Be sure to use [right angle squares](parts-lists.md#tools) to make the angles between 40x40 profiles as perfect as possible.
   * During this step, several other steps are worth revisiting for references to important screw locations. Those steps are 
     * [Part 1 Step 05](#part-1--step-5-connecting-the-x-top-profiles-to-z-profiles);
     * [Part 1 Step 07](#part-1--step-7-connecting-the-z-axis-top-to-z-profiles);
@@ -704,11 +704,12 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Medium.
 * Issues:
-  * I revisited this step when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws), careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
+  * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
   * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
   * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
-  * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop. See [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up).
-  * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, and used a new hex key. See the 'Hex Key Set' and 'Set Screw Replacement Kit' in the [Tools Parts List](parts-lists.md#tools)
+  * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+    * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
+    * We had problems with the pillow bearing set screws stripping and not holding the ball screws to the pillow bearings. We replaced the 3mmx3mm set screws with externally purchased 4mmx3mm set screws to add more contact surface area between the inside of the screw and the hex key, and used a new hex key. See the 'Hex Key Set' and 'Set Screw Replacement Kit' in the [Tools Parts List](parts-lists.md#tools)
 <table>
   <tr>
     <td><a href=img/Step_1_10_Pictures_01_Parts.jpg><img src=img/Step_1_10_Pictures_01_Parts.jpg width=550px></a></td>
