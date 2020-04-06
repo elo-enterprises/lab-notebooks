@@ -82,18 +82,18 @@ This page contains step-by-step instructions for operating the printer.
 [System Assembly & Repair - Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
 
 ### Import an STL 3D Model File
-I used File-Import-ImportSTL/OBJ/AMF/3MF/PRUSA to import a file,  terminator_pencil_holder_fixed.stl, and changed all three X/Y/Z scale factors to 25%. This STL file is 18,697 lines long and is human-unreadable in Atom; the file is the output of a 3D modeling tool that has been used to create a model of a terminator head hollowed out into a pencil holder.
+* Within PrusaSlicer, use the command File --> Import --> ImportSTL/OBJ/AMF/3MF/PRUSA to import an STL file. A typical STL file is tens of thousands of lines long and is human-unreadable. The file is the output of a 3D modeling tool that has been used to create a model of an object.
 
 ### Export an INI PrusaSlicer Configuration File
-I used File-Export-ExportConfig to produce a file, modix-terminator-config.ini, consisting of 235 lines of human-readable text that set values for alphabetically sorted parameters, specifying everything about the system except the details of the STL 3D model file(s), their position, scale, rotation, infill%, and support type.
+* Within PrusaSlicer, use the command File --> Export --> ExportConfig to produce an INI file. A typical INI file is a few hundred lines of human-readable text that set values for alphabetically sorted parameters, specifying everything about the system except the details of the STL 3D model file(s), e.g. position, scale, rotation, infill%, and support type.
 
 ### Create and Save a 3MF PrusaSlicer Project File
-I used File-SaveProject to produce a file, modix-terminator-project.3mf, that is an executable for PrusaSlicer. If you make changes to the project in the project file, any .ini files you have created will not be updated.
+* Within PrusaSlicer, use the command File --> SaveProject to produce a 3MF file, executable within PrusaSlicer. If changes are made to the project in the 3MF project file, any INI files will not be updated.
 
 ### Export a GCODE Output File
-I used ExportGCode to create a file, modix-terminator.gcode, consisting of 98,227 lines of code telling the printer every last little thing it has to do in what order with what parameter settings. While GCode is tedious, it is human readable, and there are lists of GCode commands e.g. http://marlinfw.org/docs/gcode/M206.html.
+* Within PrusaSlicer, use the command ExportGCode to create a GCODE file. A typical GCODE file is a hundred thousand lines of code telling the printer every mechanical operation it has to perform, in order, with specific parameter settings. While GCODE is tedious, it is human readable, and lists of common GCODE commands can be found, e.g. http://marlinfw.org/docs/gcode/M206.html.
 
-
+### At the Printer
 * Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
   * Note - DO NOT TOUCH THE HOT END WITH YOUR HANDS! The whole point is that it is very, very hot.
 * Clean the bed with isopropyl alcohol and a cloth.
