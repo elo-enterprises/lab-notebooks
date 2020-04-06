@@ -1662,7 +1662,9 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * None known.
+  * Firmware documentation website: http://marlinfw.org/docs/gcode/M206.html
+  * Video introduction to Pronterface recommended by Modix instructions: https://www.youtube.com/watch?v=yj0R2RxSZco
+
 <center>
 <table>
   <tr>
@@ -1758,22 +1760,6 @@
 
 * This is the final step in the assembly instructions.
 
-Firmware documentation website:
-http://marlinfw.org/docs/gcode/M206.html
-
-Video introduction to Pronterface recommended by Modix instructions:
-https://www.youtube.com/watch?v=yj0R2RxSZco
-
-### PrusaSlicer vs Slic3r vs Simplify3D
-* The Prusa company, which makes 3D Printers, has forked the code for Slic3r and made a much nicer user interface. As Modix instructions suggested, we changed the mode to Expert to get access to all parameters.
-* Simplify3D is proprietary software, recommended by Modix, but it is presently unclear why Modix prefers this software.
-
-### PrusaSlicer vs Pronterface vs Marlin
-It is not immediately clear to me how the various printer-related software interacts with each other. I get the impression that the goal is to allow the PrusaSlicer parameters to dominate the system. Thus
-Pronterface might not be necessary at all.
-I don’t think PrusaSlicer can control the bed temperature.
-I also think the UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into PrusaSlicer.
-
 ### Import an STL 3D Model File
 I used File-Import-ImportSTL/OBJ/AMF/3MF/PRUSA to import a file,  terminator_pencil_holder_fixed.stl, and changed all three X/Y/Z scale factors to 25%. This STL file is 18,697 lines long and is human-unreadable in Atom; the file is the output of a 3D modeling tool that has been used to create a model of a terminator head hollowed out into a pencil holder.
 
@@ -1783,27 +1769,6 @@ I used File-Export-ExportConfig to produce a file, modix-terminator-config.ini, 
 ### Create and Save a 3MF PrusaSlicer Project File
 I used File-SaveProject to produce a file, modix-terminator-project.3mf, that is an executable for PrusaSlicer. If you make changes to the project in the project file, any .ini files you have created will not be updated.
 
-### Slicing
-I used SliceNow to slice the object. PrusaSlicer breaks it down into printer-relevant “feature types”:
-* Perimeter
-* External Perimeter
-* Overhang Perimeter
-* Internal Infill
-* Solid Infill
-* Top Solid Infill
-* Bridge Infill
-* Gap Fill
-* Skirt
-* Support Material
-* Support Material Interface
-* Wipe Tower
-* Custom
-
 ### Export a GCODE Output File
 I used ExportGCode to create a file, modix-terminator.gcode, consisting of 98,227 lines of code telling the printer every last little thing it has to do in what order with what parameter settings. While GCode is tedious, it is human readable, and there are lists of GCode commands e.g. http://marlinfw.org/docs/gcode/M206.html.
 
-### Parameters
-A PrusaSlicer Configuration Snapshot is the collection of slicer version information, plus
-* Print settings
-* Filament settings
-* Printer settings
