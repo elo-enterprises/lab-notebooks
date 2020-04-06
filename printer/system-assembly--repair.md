@@ -975,8 +975,8 @@
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * The assembly instructions list the BLTouch sensor and cable parts separately, but they are listed together in the packing list. The M3 Nylock Nuts listed in the assembly instructions are not in the packing list, but were contained in the BLTouch bag.
-  * Wiring of this step discussed in Wiring System description.
+  * The assembly instructions list the BLTouch sensor and cable parts separately, but the parts are listed together in the packing list. The M3 Nylock Nuts listed in the assembly instructions are not in the packing list, but were contained in the BLTouch bag.
+  * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
 <center>
 <table>
   <tr>
@@ -1176,7 +1176,7 @@
   * Difficulty: Easy.
 * Issues:
   * This step cannot be completed until after the enclosure is in place, following [Part 2 Step 10](#part-2--10-installing-the-support-brackets).
-  * The assembly instructions do not specify which cable goes in which port, so I used blue painter's tape to label one.
+  * The assembly instructions do not specify which cable goes in which port. This wiring data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
   * I encountered a relatively serious problem with the main button. The button triggered the click action while turning to scroll through options lists. I removed the plastic cover from the button and have been using the metal knob underneath.  //TODO: replace the button and contact customer support if the problem persists.
 <center>
 <table>
@@ -1250,12 +1250,10 @@
 ------------
 ### [Part 2 – Step 1. Wiring the Motors and End Stops](http://www.support.modix3d.com/motors-end-stop-wiring/)
 * Assembly:
-  * Speed: Slow. Take the time to get this right.
+  * Speed: Slow.
   * Difficulty: Difficult.
 * Issues:
-  * The assembly instructions did not contain a unified repository of wiring information. I have compiled this data into two data sets, 
-    * a diagram of the connections between wires and terminals on the panel;
-    * a list of the cables, wires and signals propagating through the system.
+  * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
   * When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
   * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 <center>
@@ -1291,12 +1289,17 @@
 ------------
 ### [Part 2 – Step 2. Checking the Controller Wiring](http://www.support.modix3d.com/controller-wiring-check-v0/)
 * Assembly:
-  * Speed: Slow. Take the time to get this right.
+  * Speed: Slow.
   * Difficulty: Difficult.
 * Issues:
-  * The assembly instructions did not contain a unified repository of wiring information. I have compiled this data into two data sets, 
-    * a diagram of the connections between wires and terminals on the panel;
+  * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled into two data sets, 
+    * a diagram of the terminals on the panel including wire terminations;
     * a list of the cables, wires and signals propagating through the system.
+  * More wiring information can be found in other steps,
+    * [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor);
+    * [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen);
+    * [Part 2 Step 01](#part-2--step-1-wiring-the-motors-and-end-stops);
+    * [Part 2 Step 03](#part-2--step-3-wiring-the-extruder).
 <center>
 <table>
   <tr>
@@ -1304,11 +1307,48 @@
     <td><a href=img/Step_2_02_Pictures_02_Assembled.jpg><img src=img/Step_2_02_Pictures_02_Assembled.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 02-02-01 - Wiring Layout</p></td>
+    <td><p align="center">Figure 02-02-01 - Panel Layout</p></td>
     <td><p align="center">Figure 02-02-02 - Assembly</p></td>
   </tr>
 </table>
 </center>
+
+### Wiring Termination Schedule
+
+| Application | App Terminal | App Wire Color | Wire Color | Pair Name | Cable Name | Slot Name | Terminal | Notes |
+|-------------|--------------|----------------|------------|-----------|------------|-----------|----------|-------|
+| Hot End 1 |  | red | yellow | H1 | A |  |  | 3/4 positions |
+| Hot End 1 |  | red | black | H1 | A |  |  | 3/4 positions |
+| Hot End Fan 1 | + | red | green + brown | HF0 | B | J17 | 3 |  |
+| Hot End Fan 1 | - | black | white + green | HF0 | B | J17 | 4 |  |
+| Motor - Extruder | 6-pin |  | black | E0 | B | E0 | 6-pin |  |
+| Blower Fan 1 | + | red | green | BF0 | B |  |  | 5/6 positions |
+| Blower Fan 1 | - | black | yellow | BF0 | B |  |  | 5/6 positions |
+| Thermistor 1 |  | blue | pink + grey | T0 | C | J21 | + |  |
+| Thermistor 1 |  | blue | blue + red | T0 | C | J21 | - |  |
+| BL Touch Sensor | 5-pin | white | red | LVL2 | C | J9 |  |  |
+| BL Touch Sensor | 5-pin | black | blue | LVL2 | C | J9 |  |  |
+| BL Touch Sensor | 5-pin | yellow | white | SRV | C | Servos1 | 1 |  |
+| BL Touch Sensor | 5-pin | red | purple | SRV | C | Servos1 | 3 |  |
+| BL Touch Sensor | 5-pin | brown | black | SRV | C | Servos1 | 5 |  |
+| Motor - Z Axis Front Right | 6-pin |  | black |  | Unnamed Plastic Shielded | Z | 6-pin |  |
+| Motor - Z Axis Back Right | 6-pin |  | black |  | Unnamed Plastic Shielded | Z | 6-pin |  |
+| Motor - Z Axis Left | 6-pin |  | black |  | Unnamed Plastic Shielded | Z | 6-pin |  |
+| Motor - X Axis | 6-pin |  | black |  | Unnamed Plastic Shielded | X | 6-pin |  |
+| Motor - Y Axis | 6-pin |  | black |  | Unnamed Plastic Shielded | Y | 6-pin |  |
+| Y Axis End Stop |  | black | black |  | Unnamed 2-Wire | J10 |  |  |
+| Y Axis End Stop |  | black | black |  | Unnamed 2-Wire | J10 |  |  |
+| X Axis End Stop |  | black | black |  | Unnamed 2-Wire | J13 |  |  |
+| X Axis End Stop |  | black | black |  | Unnamed 2-Wire | J13 |  |  |
+| Filament Sensor 1 | + | red | red |  | Unnamed 2-Wire | Servos2 | 6 |  |
+| Filament Sensor 1 | - | black | black |  | Unnamed 2-Wire | Servos2 | 2 |  |
+| Electronics Box Fan | + | red |  |  |  |  |  |  |
+| Electronics Box Fan | - | black |  |  |  |  |  |  |
+| LCD Screen Left | 10-pin |  | black |  | Unnamed 10-Pin | EXP1 | 10-pin |  |
+| LCD Screen Right | 10-pin |  | black |  | Unnamed 10-Pin | EXP2 | 10-pin |  |
+| Bed Heater Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
+| Bed Heater |  |  | red | Grounding Cable | Unnamed Power Supply | Surge Protector |  |  |
+| Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
 
 * Parts:
 
@@ -1322,12 +1362,10 @@
 ------------
 ### [Part 2 – Step 3. Wiring the Extruder](http://www.support.modix3d.com/extruder-wiring-v0/)
 * Assembly:
-  * Speed: Slow. Take the time to get this right.
+  * Speed: Slow.
   * Difficulty: Difficult.
 * Issues:
-  * The assembly instructions did not contain a unified repository of wiring information. I have compiled this data into two data sets, 
-    * a diagram of the connections between wires and terminals on the panel;
-    * a list of the cables, wires and signals propagating through the system.
+  * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
 <center>
 <table>
   <tr>
@@ -1412,44 +1450,6 @@
 
 * Next Step: [Part 3 Step 04](#part-3--step-4-testing-x--y-homing)
 * Results Used in Step: [Part 3 Step 04](#part-3--step-4-testing-x--y-homing)
-
-------------
-### Wiring Information
-
-| Application | App Terminal | App Wire Color | Wire Color | Pair Name | Cable Name | Slot Name | Terminal | Notes |
-|-------------|--------------|----------------|------------|-----------|------------|-----------|----------|-------|
-| Hot End 1 |  | red | yellow | H1 | A |  |  | 3/4 positions |
-| Hot End 1 |  | red | black | H1 | A |  |  | 3/4 positions |
-| Hot End Fan 1 | + | red | green + brown | HF0 | B | J17 | 3 |  |
-| Hot End Fan 1 | - | black | white + green | HF0 | B | J17 | 4 |  |
-| Motor - Extruder | 6-pin |  | black | E0 | B | E0 | 6-pin |  |
-| Blower Fan 1 | + | red | green | BF0 | B |  |  | 5/6 positions |
-| Blower Fan 1 | - | black | yellow | BF0 | B |  |  | 5/6 positions |
-| Thermistor 1 |  | blue | pink + grey | T0 | C | J21 | + |  |
-| Thermistor 1 |  | blue | blue + red | T0 | C | J21 | - |  |
-| BL Touch Sensor | 5-pin | white | red | LVL2 | C | J9 |  |  |
-| BL Touch Sensor | 5-pin | black | blue | LVL2 | C | J9 |  |  |
-| BL Touch Sensor | 5-pin | yellow | white | SRV | C | Servos1 | 1 |  |
-| BL Touch Sensor | 5-pin | red | purple | SRV | C | Servos1 | 3 |  |
-| BL Touch Sensor | 5-pin | brown | black | SRV | C | Servos1 | 5 |  |
-| Motor - Z Axis Front Right | 6-pin |  | black |  | Unnamed Plastic Shielded | Z | 6-pin |  |
-| Motor - Z Axis Back Right | 6-pin |  | black |  | Unnamed Plastic Shielded | Z | 6-pin |  |
-| Motor - Z Axis Left | 6-pin |  | black |  | Unnamed Plastic Shielded | Z | 6-pin |  |
-| Motor - X Axis | 6-pin |  | black |  | Unnamed Plastic Shielded | X | 6-pin |  |
-| Motor - Y Axis | 6-pin |  | black |  | Unnamed Plastic Shielded | Y | 6-pin |  |
-| Y Axis End Stop |  | black | black |  | Unnamed 2-Wire | J10 |  |  |
-| Y Axis End Stop |  | black | black |  | Unnamed 2-Wire | J10 |  |  |
-| X Axis End Stop |  | black | black |  | Unnamed 2-Wire | J13 |  |  |
-| X Axis End Stop |  | black | black |  | Unnamed 2-Wire | J13 |  |  |
-| Filament Sensor 1 | + | red | red |  | Unnamed 2-Wire | Servos2 | 6 |  |
-| Filament Sensor 1 | - | black | black |  | Unnamed 2-Wire | Servos2 | 2 |  |
-| Electronics Box Fan | + | red |  |  |  |  |  |  |
-| Electronics Box Fan | - | black |  |  |  |  |  |  |
-| LCD Screen Left | 10-pin |  | black |  | Unnamed 10-Pin | EXP1 | 10-pin |  |
-| LCD Screen Right | 10-pin |  | black |  | Unnamed 10-Pin | EXP2 | 10-pin |  |
-| Bed Heater Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
-| Bed Heater |  |  | red | Grounding Cable | Unnamed Power Supply | Surge Protector |  |  |
-| Electronics Box |  |  |  |  | Unnamed Power Supply | Surge Protector |  |  |
 
 ------------
 ## Chemical - HotEnd, Extruder & Filament
