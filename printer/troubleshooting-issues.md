@@ -27,10 +27,7 @@ At several steps, the 3mmx3mm set screws used to tighten gears stripped. To avoi
 * [Part 1 Step 08](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets);
 * [Part 1 Step 09](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets);
 * [Part 1 Step 12](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft);
-* []();
-* []();
-* []();
-* []();
+* [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors);
 
 ------------
 ## LCD Screen Button Friction
