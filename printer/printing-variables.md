@@ -2,8 +2,13 @@
 
 ------------
 
-# PrusaSlicer Plater Variables
-[Printer Variables List](README.md#printing-variables)
+## General Discussion
+[Main Page - Variables List](README.md#printing-variables)
+
+
+------------
+## PrusaSlicer Plater Variables
+[Main Page - Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -19,8 +24,9 @@
 | General | scale Y | float | 50 | 50 | % | not in the INI file;  |
 | General | scale Z | float | 50 | 50 | % | not in the INI file;  |
 
-# PrusaSlicer Print Variables
-[Printer Variables List](README.md#printing-variables)
+------------
+## PrusaSlicer Print Variables
+[Main Page - Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -130,8 +136,9 @@
 | Output Options | post_process | script text |  |  |  |  |
 | Notes | notes | text |  |  |  |  |
 
-# PrusaSlicer Filament Variables
-[Printer Variables List](README.md#printing-variables)
+------------
+## PrusaSlicer Filament Variables
+[Main Page - Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -184,8 +191,9 @@
 | Custom G-Code | end_filament_gcode | g-code | ; Filament-specific end gcode \n;END gcode for filament\n | ; Filament-specific end gcode \n;END gcode for filament\n |  |  |
 | Filament Notes | filament_notes | text |  |  |  |  |
 
-# PrusaSlicer Printer Variables
-[Printer Variables List](README.md#printing-variables)
+------------
+## PrusaSlicer Printer Variables
+[Main Page - Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -247,8 +255,9 @@
 | Extruder 1 | extruder_colour | color code |  |  |  |  |
 | Printer Notes | printer_notes |  |  |  |  |  |
 
-# PrusaSlicer Unidentified INI Variables
-[Printer Variables List](README.md#printing-variables)
+------------
+## PrusaSlicer Unidentified INI Variables
+[Main Page - Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Big60_PLA Value | Elo Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-----------|-------|-------|
@@ -278,8 +287,9 @@
 | wiping_volumes_extruders |  | 70, 70 |  |  |  |
 | wiping_volumes_matrix |  | 0 |  |  |  |
 
-# Marlin Variables
-[Printer Variables List](README.md#printing-variables)
+------------
+## Marlin Variables
+[Main Page - Variables List](README.md#printing-variables)
 
 | Group Name | Parameter Name | Data Type | Parameter Value | Units | Notes |
 |------------|----------------|-----------|-----------------|-------|-------|
