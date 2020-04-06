@@ -1214,7 +1214,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Easy.
 * Issues:
   * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
-  * After completing the wiring connections, I reopened the drag chains and repositioned the cables to lay smoothly.
+  * After completing the wiring connections, it is worth reopening the drag chains and repositioning the cables to lay smoothly.
 <center>
 <table>
   <tr>
