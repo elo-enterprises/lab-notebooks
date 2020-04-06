@@ -10,10 +10,11 @@ This page contains step-by-step instructions for operating the printer.
 
 [System Assembly & Repair - Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code)
 
+### Frame Leveling Procedure
 * To begin, check the level of the frame itself. Place a level on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
 * Before running the Tilt calibration procedure, place two levels on the bed at a right angle and manually twist the gears at the base of the ball screws until both directions appear level.
 
-* Next, run the Tilt calibration procedure. 
+### Tilt Calibration Procedure
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 2. Tilt Calibration](http://www.support.modix3d.com/tilt-calibration/)
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Start Process. The print head will move to the center of the bed and the bed height will auto-home. Place a metal bracket, preferably [BIG-00-EXT-008](parts-lists.md#box-18---mtl1), under the print head in the center of the bed. 
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
@@ -22,7 +23,7 @@ This page contains step-by-step instructions for operating the printer.
     * Note - this process should be repeated several times until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
     * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while it is completely over the PEI sheet.
 
-* Next, run the Unified Bed Leveling (UBL) calibration procedure. 
+### Unified Bed Leveling (UBL) Calibration Procedure
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 3. Unified Bed Leveling Calibration](http://www.support.modix3d.com/ubl/)
   * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Deactivate UBL (scroll down, as this option is at the bottom of the menu).
 * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Step-By-Step UBL --> 1 Build Mesh. The printer will undergo an automated procedure for ~15 minutes, moving the print head around the bed, raising and lowering the bed.
@@ -38,7 +39,8 @@ This page contains step-by-step instructions for operating the printer.
     * If the maximum variance is 1mm or more, repeat the Tilt calibration step.
     * If the Tilt calibration does not fix the problem, look for damage to the PEI sheet, or even the bed itself. They may need to be replaced.
 
-* Next, use the Modix online tool for UBL adjustment, found [here](http://www.support.modix3d.com/ubl-editor-119/)
+### UBL Adjustment Procedure
+  * Use the online tool built by Modix, found [here](http://www.support.modix3d.com/ubl-editor-119/)
   * In the Modix UBL tool, change the size of the grid to 10 x 10.
   * With the computer connected to the printer via Pronterface, once the mesh has been sent to the PC, click 'Upload' on the Modix UBL tool, then 'Click to Process.' 
   * Manually adjust the numbers //INSERT RULES FOR UPDATING NUMBERS
@@ -46,7 +48,7 @@ This page contains step-by-step instructions for operating the printer.
   * Load the gcode file into Pronterface, then click 'Print.'
   * Enter the command 'G29 T' into Pronterface and verify that the updated mesh numbers have been saved into Marlin, the printer firmware.
 
-* Next, run the Z Offset calibration procedure. 
+### Z Offset Calibration Procedure 
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 4. Z Offset Calibration](http://www.support.modix3d.com/z-offset-calibration/)
   * Make sure the bed heater is turned on to ~65 degrees and that filament is ready to load, i.e. passed through the filament sensor through the PTFE tube until it touches the gears of the extruder, or is already loaded.
   * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center front of the printer, making it easy to see the filament purging process.
@@ -63,7 +65,7 @@ This page contains step-by-step instructions for operating the printer.
   * Once you are satisfied with the test line, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 5 Save Z Offset.
     * Note that if the UBL mesh is nonuniform across the space of the bed, the X and Y placement of the print head while it is printing the test line is relevant to the correctness of the Z Offset setting.
     
-* Next, run the Validate Mesh calibration procedure.
+### Validate Mesh Calibration Procedure
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 5. Validate Mesh](http://www.support.modix3d.com/validate-mesh/)
   * Make sure the bed heater is on, set to e.g. ~65 degrees.
   * On the printer console, go to Big-60 Calibration --> Unified Bed Leveling --> Validate Mesh. Select the filament material and nozzle size in use, e.g. 'PLA, Nozzle:0.4.' The printer will begin printing a pattern of lines and circles across the entire print bed, lasting ~20 minutes. Constant monitoring is not necessary, but several useful conclusions can be drawn from the mesh grid output.
@@ -76,6 +78,19 @@ This page contains step-by-step instructions for operating the printer.
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 
 [System Assembly & Repair - Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
+
+### Import an STL 3D Model File
+I used File-Import-ImportSTL/OBJ/AMF/3MF/PRUSA to import a file,  terminator_pencil_holder_fixed.stl, and changed all three X/Y/Z scale factors to 25%. This STL file is 18,697 lines long and is human-unreadable in Atom; the file is the output of a 3D modeling tool that has been used to create a model of a terminator head hollowed out into a pencil holder.
+
+### Export an INI PrusaSlicer Configuration File
+I used File-Export-ExportConfig to produce a file, modix-terminator-config.ini, consisting of 235 lines of human-readable text that set values for alphabetically sorted parameters, specifying everything about the system except the details of the STL 3D model file(s), their position, scale, rotation, infill%, and support type.
+
+### Create and Save a 3MF PrusaSlicer Project File
+I used File-SaveProject to produce a file, modix-terminator-project.3mf, that is an executable for PrusaSlicer. If you make changes to the project in the project file, any .ini files you have created will not be updated.
+
+### Export a GCODE Output File
+I used ExportGCode to create a file, modix-terminator.gcode, consisting of 98,227 lines of code telling the printer every last little thing it has to do in what order with what parameter settings. While GCode is tedious, it is human readable, and there are lists of GCode commands e.g. http://marlinfw.org/docs/gcode/M206.html.
+
 
 * Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
   * Note - DO NOT TOUCH THE HOT END WITH YOUR HANDS! The whole point is that it is very, very hot.
