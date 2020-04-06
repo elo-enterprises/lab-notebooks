@@ -74,6 +74,9 @@ This page contains step-by-step instructions for operating the printer.
 ------------
 ## Running a Print
 [Main Page - Operating Procedures List](README.md#operating-procedures)
+
+[System Assembly & Repair - Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
+
 * Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
   * Note - DO NOT TOUCH THE HOT END WITH YOUR HANDS! The whole point is that it is very, very hot.
 * Clean the bed with isopropyl alcohol and a cloth.
