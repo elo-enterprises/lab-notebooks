@@ -2,6 +2,9 @@
 
 ------------
 
+This page contains data on individual printer variables, as well as a discussion of the software tools used to operate the printer.
+
+------------
 ## General Discussion
 [Main Page - Variables List](README.md#printing-variables)
 
