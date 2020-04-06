@@ -1611,12 +1611,12 @@ This page contains supplemental information to accompany the assembly instructio
 
 ------------
 ### [Part 3 – Step 7. Heat Tightening the Nozzle](http://www.support.modix3d.com/heat-tightening-the-nozzle/)
-* Fast assembly, somewhat confusing, seemed to work to prevent oozing.
 * Assembly:
   * Speed: Fast.
   * Difficulty: Medium. The equipment is small and delicate. Be careful to avoid breaking pieces.
 * Issues:
-  * I revisited [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task to familiarize myself with the arrangement of the parts.
+  * It is worth revisiting [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task.
+  * somewhat confusing, seemed to work to prevent oozing.
 <center>
 <table>
   <tr>
