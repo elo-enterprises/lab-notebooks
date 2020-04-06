@@ -349,6 +349,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Quantities of T-Nuts and 5M 12mm Screws are not accurate in the assembly instructions.
   * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use [right angle squares](parts-lists.md#tools). Slight imperfections in the angles can make the printer less accurate.
   * This step must be completed prior to completing [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen).
+  * After completing this step, revisit [Part 2 Step 05](#part-2--step-5-installing-the-filament-sensor).
 <center>
 <table>
   <tr>
@@ -1575,10 +1576,10 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy, though the assembly instructions are somewhat confusing.
 * Issues:
-  * The packing list does not match the parts list in the assembly instructions. All necessary parts appear to be present, though not counted or grouped identically. Also, the assembly instructions do not include 4040-M5 T nuts or M5 12mm screws necessary to attach the filament sensor to the printer. 
-  * I was confused about the "foam dust filter." It really is just a piece of foam, cut to size, with a hole cut into it for the filament to pass through and scrape off dust along the way.
+  * The packing list does not match the parts list in the assembly instructions. All necessary parts appear to be present, though not counted or grouped identically. Also, the assembly instructions do not include the 4040-M5 T nuts or M5 12mm screws necessary to attach the filament sensor to the printer. 
+  * The "foam dust filter" is not explained thoroughly in the assembly instructions. It really is just a piece of foam, cut to size, with a hole cut into it for the filament to pass through and scrape off dust along the way.
   * I am not entirely sure how the PTFE tube is supposed to sit in the extruder. When unloading filament using the Marlin command, the extruder runs backwards and kicks out not only the filament but also the PTFE tube. The assembly instructions indicate that it is necessary to chamfer the tube, i.e. shave off some of the exterior with a razorblade. I was nervous about cutting the PTFE tube, and may have cut too much.
-  * I waited to install the filament sensor until the enclosure was complete.
+  * This step can be revisited after the enclosure is in place, following [Part 2 Step 10](#part-2--10-installing-the-support-brackets).
   * I had some trouble keeping the PTFE tube from snagging on the frame, especially when traveling from the front right side to the back right side. I installed two clips to the inside top of the enclosure lid, which seem to be keeping the PTFE tube out of snagging risk while also allowing the PTFE tube to reach all corners of the bed.
 <center>
 <table>
