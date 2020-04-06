@@ -5,6 +5,10 @@
 ## General Discussion
 [Main Page - Variables List](README.md#printing-variables)
 
+[System Assembly & Repair - Part 3 Step 08](system-assembly--repair.md#part-3--step-8-printing-settings-for-slicing-software)
+
+[System Assembly & Repair - Part 3 Step 09](system-assembly--repair.md#part-3--step-9-running-your-first-print)
+
 ### PrusaSlicer vs Slic3r vs Simplify3D
 * The Prusa company, a 3D printer manufacturer, has forked the code for Slic3r and improved the user interface. Modix instructions suggest changing the mode to Expert to gain access to all parameters.
 * Simplify3D is proprietary software, recommended by Modix, but it is unclear why Modix prefers this software.
