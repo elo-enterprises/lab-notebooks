@@ -66,6 +66,7 @@
 | Name |
 |------|
 | [Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up) |
+| [LCD Screen Button Friction](troubleshooting-issues.md#lcd-screen-button-friction) |
 | [Layer Shifts](troubleshooting-issues.md#layer-shifts) |
 | [Poor Bridging](troubleshooting-issues.md#poor-bridging) |
 | [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing) |
