@@ -260,7 +260,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Easy.
 * Issues:
   * This step is worth revisiting when tightening screws in [Part 2 Step 15](#part-2--step-15-tightening-all-screws). Be careful to use right angle squares. Slight imperfections in the angles can make the printer less accurate.
-  * The assembly instructions contain a written description of where to put the conical screws that does not match the corresponding picture. I followed the text (front left) rather than the picture (back right) because the front left metal bracket has indentations for conical screws but the back right metal bracket does not.
+  * The assembly instructions contain a written description of where to put the conical screws that does not match the corresponding picture. Follow the text (front left) rather than the picture (back right) because the front left metal bracket has indentations for conical screws but the back right metal bracket does not.
 <center>
 <table>
   <tr>
