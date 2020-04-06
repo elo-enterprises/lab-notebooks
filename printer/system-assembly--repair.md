@@ -715,9 +715,6 @@ This page contains supplemental information to accompany the assembly instructio
   * Be careful when handling the ball screws. They are delicate, important and difficult to replace.
   * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
     * We had problems related to the ball screws and Z axis motors, and one of Modix's suggestions was to check that the ball screws did not fall all the way down to the bottom of the pillow bearings. If this happens, the bottom of the ball screw will cause additional friction, which can overpower the motors or just cause one of the ball screws to rotate less than the others, warping the bed angle and causing the motors to stop.
-  * [Troubleshooting - Stripped Set Screws](troubleshooting-issues.md#stripped-set-screws)
-    * To avoid stripping, replace the 3mmx3mm set screws with externally purchased [4mmx3mm set screws](parts-lists.md#tools).
-    * Use of an externally purchased [hex key set](parts-lists.md#tools) may also be helpful.
 <table>
   <tr>
     <td><a href=img/Step_1_10_Pictures_01_Parts.jpg><img src=img/Step_1_10_Pictures_01_Parts.jpg width=550px></a></td>
@@ -750,6 +747,9 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Easy.
 * Issues:
   * Be careful when handling the X shaft. It is delicate, important and difficult to replace.
+  * [Troubleshooting - Stripped Set Screws](troubleshooting-issues.md#stripped-set-screws)
+    * To avoid stripping, replace the 3mmx3mm set screws in the gears of the X shaft with externally purchased [4mmx3mm set screws](parts-lists.md#tools).
+    * Use of an externally purchased [hex key set](parts-lists.md#tools) may also be helpful.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
 <center>
 <table>
