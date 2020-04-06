@@ -1759,16 +1759,3 @@
 | [Part 3 Step 13](#part-3--step-13-converting-to-3-mm-filament) |  |  | 1x | Assembled Structure |
 
 * This is the final step in the assembly instructions.
-
-### Import an STL 3D Model File
-I used File-Import-ImportSTL/OBJ/AMF/3MF/PRUSA to import a file,  terminator_pencil_holder_fixed.stl, and changed all three X/Y/Z scale factors to 25%. This STL file is 18,697 lines long and is human-unreadable in Atom; the file is the output of a 3D modeling tool that has been used to create a model of a terminator head hollowed out into a pencil holder.
-
-### Export an INI PrusaSlicer Configuration File
-I used File-Export-ExportConfig to produce a file, modix-terminator-config.ini, consisting of 235 lines of human-readable text that set values for alphabetically sorted parameters, specifying everything about the system except the details of the STL 3D model file(s), their position, scale, rotation, infill%, and support type.
-
-### Create and Save a 3MF PrusaSlicer Project File
-I used File-SaveProject to produce a file, modix-terminator-project.3mf, that is an executable for PrusaSlicer. If you make changes to the project in the project file, any .ini files you have created will not be updated.
-
-### Export a GCODE Output File
-I used ExportGCode to create a file, modix-terminator.gcode, consisting of 98,227 lines of code telling the printer every last little thing it has to do in what order with what parameter settings. While GCode is tedious, it is human readable, and there are lists of GCode commands e.g. http://marlinfw.org/docs/gcode/M206.html.
-
