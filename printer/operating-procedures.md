@@ -124,3 +124,8 @@ This page contains step-by-step instructions for operating the printer.
     * If the purge is unsuccessful, try purging more while manually applying forward pressure on the filament at the filament sensor, pushing it toward the extruder. 
     * If several purge attempts are unsuccessful, the nozzle may be clogged. While the printer is hot, try scraping off any plastic around the nozzle. If this is unsuccessful, power off and let everything cool down, then remove the nozzle and try cleaning it out.
 * Resume the print, careful to verify that the print head correctly moved back to the location where the print was paused.
+
+------------
+## Grease Maintenance
+[Main Page - Operating Procedures List](README.md#operating-procedures)
+* Every few months, spray white [litium grease](parts-lists.md#tools) to the [smooth rods](parts-lists.md#box-38---bed) and [ball screws](parts-lists.md#box-38---bed). It may be helpful to remove the side enclosure panels before application.
