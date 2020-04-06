@@ -8,10 +8,10 @@ This page contains data on problems encountered in printer operation, as well as
 ## Z Motors Binding Up
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-When first turning the printer on, we encountered serious trouble with the Z motors and received support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move, and we would turn the printer off before causing more damage. The list of things to check included:
+When first turning the printer on, we encountered serious trouble with the Z motors and received repeated support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move. The printer was turned off before causing more damage. Modix sent a checklist of issues to check:
 * Before leveling the bed, make sure to level the base frame.
-* Check the bottom shaft of each z-screw, make sure it doesn't go all the way down and touching the aluminum profile.
-* Make sure that all pulleys and gears are well tightened and don't slip. See [01-10, Assembling the Z Axis Sets](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) and [01-14, Installing the Motors](system-assembly--repair.md#part-1--step-14-installing-the-motors).
+* Check the bottom shaft of each ball screw. Make sure it does not sit all the way down; the base of the ball screws should not touch the base of the pillow bearings, or excess friction will result.
+* Make sure that all pulleys and gears are well tightened and do not slip. See [Part 1 Step 10](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) and [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
 * Try to move each screw manually on both directions (when the z screws are disassembled from the bed brackets).
 * The belts that drive the z-screws could be to tightened too much, check that as well. They need to be tightened to point they sit straight and don't sag, no more than that
 * Try to move each screw with a separate cable, without a split. You can use the spare cable you have. Are they moving smoothly? Can you spot any damaged wire connections on the Z cable and motors? See [02-01, Wiring the Motors and End Stops](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
