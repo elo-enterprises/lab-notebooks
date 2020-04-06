@@ -1720,12 +1720,12 @@
 <center>
 <table>
   <tr>
-    <td><a href=img/Step_3_08_Pictures_01_Plater.png><img src=img/Step_3_08_Pictures_01_Plater.png width=550px></a></td>
-    <td><a href=img/Step_3_08_Pictures_02_Settings.png><img src=img/Step_3_08_Pictures_02_Settings.png width=550px></a></td>
+    <td><a href=img/Step_3_09_Pictures_01_Cleaning.jpg><img src=img/Step_3_09_Pictures_01_Cleaning.jpg width=550px></a></td>
+    <td><a href=img/Step_3_09_Pictures_02_LCD.jpg><img src=img/Step_3_09_Pictures_02_LCD.jpg width=550px></a></td>
   </tr>
  <tr>
-    <td><p align="center">Figure 03-09-02L - LCD Screen</p></td>
     <td><p align="center">Figure 03-09-02C - Cleaning Materials and Filament Spool</p></td>
+    <td><p align="center">Figure 03-09-02L - LCD Screen</p></td>
   </tr>
 </table>
 </center>
