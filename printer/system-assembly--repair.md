@@ -1176,7 +1176,8 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * This step cannot be completed until after the enclosure is in place, following [Part 2 Step 10](#part-2--10-installing-the-support-brackets).
   * The assembly instructions do not specify which cable goes in which port. This wiring data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
-  * I encountered a relatively serious problem with the main button. The button triggered the click action while turning to scroll through options lists. I removed the plastic cover from the button and have been using the metal knob underneath.  //TODO: replace the button and contact customer support if the problem persists.
+  * [Troubleshooting - LCD Screen Button Friction](troubleshooting-issues.md#lcd-screen-button-friction)
+    * In the case of excess friction, the main LCD screen button can trigger the click action while turning to scroll through options lists. Removing the plastic cover from the button and using the metal knob underneath suffices as a temporary solution.
 <center>
 <table>
   <tr>
