@@ -1514,10 +1514,15 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Medium.
   * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
 * Issues:
-  * If I made a mistake during this step I probably would not know how to recognize it.
+  * If mistakes are made during this step, it is difficult to know before encountering troubleshooting issues during printing. Follow the assembly instructions exactly.
   * The assembly instructions parts list does not include the blower fan, the three 35mm screws, or the hot end assembled in [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end).
-  * Troubleshooting - 01/13/2020 - The extruder was making a screeching noise, and midway through a print would fail to grab the filament, ending the print. I took apart the extruder, repositioned the gears and filament tube, and noticed friction in the tube, possibly also at the end. After reassembly, the gears do not make the screeching noise, and the filament is successfully grabbed. I do not know how tight to tighten the adjustment screw, and still do not know the source of the problem for sure.
-  * We have had some trouble getting the extruder to grip the filament, and are unsure exactly how tight to tighten the extruder screw.
+  * [Troubleshooting - Grinding or Stripping Filament](troubleshooting-issues.md#grinding-or-stripping-filament)
+    * If the extruder grips the filament too tightly, it creates extra friction, which can result in a screeching noise. The filament can become ground up in the extruder gear, and can even be stripped so much that it fails to push forward at all, ending the print. Take the extruder apart, clean the parts, reposition and check for improvement. The extruder screw should be just tight enough to push the filament into the extruder gear.
+  * [Troubleshooting - Stops Extruding Mid Print](troubleshooting-issues.md#stops-extruding-mid-print)
+    * If the extruder stops extruding during a print, this problem could be caused at several places, each with the result of not sufficiently gripping the filament. Check the following:
+      * The extruder screw could be too loose or disconnected.
+      * The extruder gear could be clogged with shavings from grinding filament.
+      * The filament itself may have become kinked or have unnecessary friction with the PTFE tube.
 <center>
 <table>
   <tr>
