@@ -183,6 +183,8 @@ Testing
 ## Grinding or Stripping Filament
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+If the extruder grips the filament too tightly, it creates extra friction, which can result in a screeching noise. The filament can become ground up in the extruder gear, and can even be stripped so much that it fails to push forward at all, ending the print. Take the extruder apart, clean the parts, reposition and check for improvement. The extruder screw should be just tight enough to push the filament into the extruder gear. See [Part 1 Step 19](system-assembly--repair.md#part-1--step-19-assembling-the-extruder).
+
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
 
@@ -198,6 +200,13 @@ This issue has not yet been encountered.
 ------------
 ## Stops Extruding Mid Print
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+If the extruder stops extruding during a print, this problem could be caused at several places, each with the result of not sufficiently gripping the filament. Check the following:
+* The extruder screw could be too loose or disconnected.
+* The extruder gear could be clogged with shavings from grinding filament.
+* The filament itself may have become kinked or have unnecessary friction with the PTFE tube.
+
+Take the extruder cover off and look for problems. If no obvious problem is found, check that the nozzle is not clogged. See [Part 1 Step 19](system-assembly--repair.md#part-1--step-19-assembling-the-extruder).
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/)
