@@ -1663,7 +1663,6 @@
   * Difficulty: Easy.
 * Issues:
   * None known.
-* [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 <center>
 <table>
   <tr>
