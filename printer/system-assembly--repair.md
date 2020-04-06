@@ -1461,9 +1461,9 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Medium.
   * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
 * Issues:
-  * I do not fully understand the ideal screw-tightening procedure for the heat sink, heat break, hot end volcano block and nozzle. I have heat-tightened the nozzle as per [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle), but the block still tries to spin when pushed, indicating that I have not fully threaded the threaded pieces correctly. 
-  * I stripped a screw for the volcano block by attempting to insert it in the wrong side of the volcano block. I used a small screw from the spares bag to replace.
-  * I initially assembled the hot end without the thermal paste, then revisited the step and applied it.
+  * There is room for confusion regarding the ideal screw-tightening procedure for the heat sink, heat break, hot end volcano block and nozzle. This task will be revisited and finished in [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle). 
+  * After stripping a screw for the volcano block by attempting to insert it in the wrong side of the volcano block, a small screw from the spares bag was used as a replacement.
+  * Initial assembly of the hot end was performed without the thermal paste. After successful assembly, the heat sink was unscrewed and the thermal paste applied.
 <center>
 <table>
   <tr>
@@ -1618,7 +1618,10 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Medium. The equipment is small and delicate. Be careful to avoid breaking pieces.
 * Issues:
   * It is worth revisiting [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task.
-  * somewhat confusing, seemed to work to prevent oozing.
+  * Be careful around the nozzle, as it is extremely hot.
+  * After heat tightening the nozzle, the hot end volcano block is still able to spin when pushed, indicating an imperfect threading of the heat sink, heat break, hot end volcano block and nozzle. In correspondence, Modix customer support suggested this was not necessarily a problem and only needs to be addressed if string and oozing becomes a noticeable problem. 
+  * [Troubleshooting - Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
+    * If the nozzle is not sufficiently tightened, leaks in the hot end can result, leading to strings being left behind on a print and the nozzle oozing filament while not printing. In extreme cases the nozzle may need to be replaced.
 <center>
 <table>
   <tr>
