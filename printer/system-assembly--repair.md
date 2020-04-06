@@ -1643,7 +1643,7 @@
 
 ------------
 ### [Part 3 – Step 13. Converting to 3 mm Filament](http://www.support.modix3d.com/converting-to-3-mm-filament/)
-* Have not tried to do this yet.
+* This step has not yet been attempted.
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
@@ -1719,19 +1719,18 @@
 
 ------------
 ### [Part 3 – Step 11. Updating the Modix Big-60-120X Firmware](http://www.support.modix3d.com/updating-the-modix-big-60-firmware/)
-* Have not tried to do this yet.
+* This step has not yet been attempted.
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 3 Step 9](#part-3--step-9-running-your-first-print) |  |  | 1x | Assembled Structure |
 
-* Next Step: [Troubleshooting]()
 * Next Step: [Part 3 Step 13](#part-3--step-13-converting-to-3-mm-filament)
 * Results Used in Step: [Part 3 Step 13](#part-3--step-13-converting-to-3-mm-filament)
 
 ------------
 ### [Part 3 – Step 14. Fine Tuning the Printer Dimension Accuracy](http://www.support.modix3d.com/fine-tuning-the-printer-dimension-accuracy/)
-* Have not tried to do this yet.
+* This step has not yet been attempted.
 
 | Box Name | Item # | Packing List ID             | Qty Used | Part Name |
 |----------|--------|-----------------------------|----------|-----------|
