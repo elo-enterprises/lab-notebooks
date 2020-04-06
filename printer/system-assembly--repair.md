@@ -1658,7 +1658,11 @@
 
 ------------
 ### [Part 3 – Step 5. Terminal Software and Basic G-Code](http://www.support.modix3d.com/terminal-software-basic-g-code/)
-* Fast, easy assembly task. Pronterface works great, but does not appear to be necessary for normal workflow.
+* Assembly:
+  * Speed: Fast.
+  * Difficulty: Easy.
+* Issues:
+  * None known.
 * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
 <center>
 <table>
@@ -1679,7 +1683,7 @@
 |----------|--------|-----------------------------|----------|-----------|
 | [Part 3 Step 04](#part-3--step-4-testing-x--y-homing) |  |  | 1x | Assembled Structure |
 
-* Next Step: [Calibration]()
+* Next Step: [Calibration](operating-procedures.md#recalibration)
 * Next Step: [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle)
 * Results Used in Step: [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle)
 
