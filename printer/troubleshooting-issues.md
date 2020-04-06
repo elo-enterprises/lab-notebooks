@@ -26,7 +26,7 @@ When first turning the printer on, serious trouble with the Z motors was encount
 At several steps, the 3mmx3mm set screws used to tighten gears stripped. To avoid causing damage requiring replacement of more expensive parts, the 3mmx3mm set screws were replaced with externally purchased [4mmx3mm set screws](parts-lists.md#tools). These screws added more contact surface area between the inside of the screw and the hex key. A new [hex key](parts-lists.md#tools) was also used, and no further stripping was detected. See the following steps: 
 * [Part 1 Step 08](system-assembly--repair.md#part-1--step-8-assembling-the-z-axis-bottom-brackets);
 * [Part 1 Step 09](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets);
-* [Part 1 Step 10](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets);
+* [Part 1 Step 12](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft);
 * []();
 * []();
 * []();
