@@ -83,9 +83,10 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 ## Stringing & Oozing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-If the nozzle is not sufficiently tightened, leaks in the hot end can result, leading to strings being left behind on a print and the nozzle oozing filament while not printing. In extreme cases the nozzle may need to be replaced. See [Part 1 Step 18](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) and [Part 3 Step 7](system-assembly--repair.md#part-3--step-7-heat-tightening-the-nozzle).
+If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases the nozzle may need to be cleaned or replaced. See [Part 1 Step 18](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) and [Part 3 Step 7](system-assembly--repair.md#part-3--step-7-heat-tightening-the-nozzle).
  
-[Simplify3D](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
+* Articles:
+  * [Simplify3D](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
 
 ------------
 ## Ugly Overhangs
