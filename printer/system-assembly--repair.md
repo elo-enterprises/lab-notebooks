@@ -1008,7 +1008,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Difficult.
 * Issues:
   * Be careful not to damage the bed itself, or the heater, or the heater box.
-  * The assembly instructions includes a detailed procedure for applying the heater to the bed in order to minimize air bubbles between the surfaces. I tried to follow this procedure but it is difficult to know if this effort was successful.
+  * The assembly instructions include a detailed procedure for applying the heater to the bed in order to minimize air bubbles between the surfaces. It is difficult to know if this effort is successful since air bubbles cannot be seen under the heater.
 <center>
 <table>
   <tr>
@@ -1043,8 +1043,8 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * Be careful when installing the bed, especially since the bed is heavy, and both the bed and the ball screws are delicate. The assembly instructions advise using two people to perform this step.
   * The assembly instructions parts list for this step lists two 860mm 20x20 profiles and 4 5M 12mm cone screws which are already attached in Part 2 Step 07.
-  * I bought a pair of levels to make sure the bed frame was level before tightening its screws or installing the bed.
-  * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head starts 52mm from the left side of the bed and printed off the right side of the bed. In correspondence, Modix customer support indicated that sliding the bed over toward the right would not damage the functionality of the Z motor system. Consequently, I slid the bed to the right ~5mm, until the heater contacted the angle brackets on the underside of the bed.
+  * Buy a pair of levels to make sure the bed frame is level before tightening its screws or installing the bed.
+  * The bed is supposed to be positioned with a 10mm gap between the bed and the right side 2020 profile. However, the print head starts 52mm from the left side of the bed and printed off the right side of the bed. In correspondence, Modix customer support indicated that sliding the bed over toward the right would not damage the functionality of the Z motor system. After sliding the bed to the right ~5mm, the heater contacted the angle brackets on the underside of the bed.
 <center>
 <table>
   <tr>
@@ -1077,8 +1077,8 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Slow.
   * Difficulty: Difficult.
 * Issues:
-  * Using two people and a roller, we still ended up with several air bubbles between the bed and the PEI sheet. Perhaps practice makes perfect, but be sure to read the assembly instructions carefully before getting started on this step. The assembly instructions clearly state that it is better to leave the PEI sheet down imperfectly than to pull it up and try to reapply. 
-  * We also erroneously positioned the PEI sheet front-to-back, leaving ~2cm strips of exposed metal on either side. It is supposed to be positioned side-to-side, leaving strips of exposed metal on the front and back. This is somewhat confusing given that the recommended placement of the PEI sheet covers up the screws used to remove the bed for maintenance.
+  * Using two people and a roller, it is still easily possible to trap several air bubbles between the bed and the PEI sheet. Be sure to read the assembly instructions carefully before getting started on this step. The assembly instructions clearly state that it is better to leave the PEI sheet down imperfectly than to pull it up and try to reapply. 
+  * Pay attention to the positioning of the PEI sheet. It is supposed to be positioned side-to-side, leaving strips of exposed metal on the front and back. This is somewhat confusing given that the recommended placement of the PEI sheet covers up the screws used to remove the bed for maintenance. When positioned incorrectly, the PEI sheet sits front-to-back, leaving ~2cm strips of exposed metal on either side. 
 <center>
 <table>
   <tr>
