@@ -96,7 +96,7 @@ This page contains step-by-step instructions for operating the printer.
 ### At the Printer
 * Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
   * Note - DO NOT TOUCH THE HOT END WITH YOUR HANDS! The whole point is that it is very, very hot.
-* Clean the bed with isopropyl alcohol and a cloth.
+* Clean the bed with [isopropyl alcohol](parts-lists#tools) and a cloth.
 * Turn on the bed heater by flipping both switches. Use the up/down arrow buttons on the bed heater box to set the temperature, currently in the range 60-70. The switches will start flashing when the target temperature is reached.
 * Turn the printer on by flipping the switch on the electronics box.
 * Insert an SD card with the desired gcode file into the LCD Panel.
