@@ -2,7 +2,10 @@
 
 ------------
 
-# Z Motors Binding Up
+This page contains data on problems encountered in printer operation, as well as a list of troubleshooting references at the bottom of the page.
+
+------------
+## Z Motors Binding Up
 [Printer Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 When first turning the printer on, we encountered serious trouble with the Z motors and received support from Modix. The motors could lower the bed down, but when going up, seemingly randomly, would encounter friction and try to move, but the bed did not move, and we would turn the printer off before causing more damage. The list of things to check included:
