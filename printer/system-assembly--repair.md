@@ -1681,6 +1681,7 @@
 
 * Next Step: [Calibration]()
 * Next Step: [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle)
+* Results Used in Step: [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle)
 
 ------------
 ### [Part 3 – Step 8. Printing Settings for Slicing Software](http://www.support.modix3d.com/printing-settings-for-slicing-software/)
