@@ -88,6 +88,7 @@
 | [Recalibration](operating-procedures.md#recalibration) |
 | [Running a Print](operating-procedures.md#running-a-print) |
 | [Filament Change](operating-procedures.md#filament-change) |
+| [Grease Maintenance](operating-procedures.md#grease-maintenance) |
 
 # Test Prints
 
