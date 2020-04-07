@@ -39,7 +39,7 @@ The main LCD screen button is vulnerable to a relatively serious problem. In the
 ## Layer Shifts
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-Layer shifts were a serious early issue. Correspondence with Modix customer support yielded the following checklist:
+Layer shifts were a serious early issue. When printing test patterns, circles printed as ellipses. In correspondence, Modix customer support indicated that this problem is caused by the Y axis not being perfectly square and supplied the following checklist:
 
 ### Y-axis
 * Make sure the belts on the Y axis and on the Y motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors) and [Part 1 Step 15](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt).
@@ -48,13 +48,22 @@ Layer shifts were a serious early issue. Correspondence with Modix customer supp
 * Replace the stepper driver for the Y motor with one of the spares. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 
 ### X-axis
-* Make sure the pulleys on the X shaft and on the X motor are tightened and do not slip. See [01-12, Installing the X Shaft](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) and [01-14, Installing the Motors](system-assembly--repair.md#part-1--step-14-installing-the-motors).
-* Make sure the Y-axis rail is parallel to the X shaft and doesn't have an angle. See [01-13, Assembling the Y Axis](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis).
-
+* Make sure the pulleys on the X shaft and on the X motor are tightened and do not slip. See [Part 1 Step 12](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) and [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
+* Make sure the Y axis rail is parallel to the X shaft and does not have an angle. 
+  * Loosen the front X idler and the set screw of the pulley connecting the front X belt to the X shaft.
+  * Loosen the front X belt.
+  * Connect the Y axis to the frame using the calibration jigs.
+  * Loosen the screws holding the Y axis profile to the X rails.
+  * Tighten the X belt.
+  * Tighten the Y axis screws.
+  * Tighten the pulley connecting the front X belt to the X shaft and the X idler.
+  * Remove the calibration jigs.
+   See [Part 1 Step 13](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis).
 * Make sure the belts on the X axis and on the X motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors), [Part 1 Step 16](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) and [Part 1 Step 17](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis).
 * Make sure the wiring is not loose or torn either on the controller board or on the X motor. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Make sure that the stepper driver for the X motor has enough current. It should be no more than 1.1 V, as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at a time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Replace the stepper driver for the X motor with one of the spares. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* To be completely thorough, revisit [Part 2 Step 15](system-assembly--repair.md#part-2--step-15-tightening-all-screws), loosen and tighten the screws, being extremely careful to measure right angles. 
 
 ### Overall
 * Make sure that the fan on the electronics box is working and successfully cooling the stepper drivers. See [Part 2 Step 04](system-assembly--repair.md#part-2--step-4-installing-the-electronics-box-cover).
