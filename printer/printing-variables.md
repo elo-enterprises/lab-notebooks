@@ -272,7 +272,7 @@ When slicing an object, PrusaSlicer breaks it down into printer-relevant “feat
 | Extruder 1 | max_layer_height | float | 0 | 0 | mm |  |
 | Extruder 1 | extruder_offset | float | 0x0 | 0x0 | mm, mm |  |
 | Extruder 1 | retract_length | float | 2 | 2 | mm |  |
-| Extruder 1 | retract_lift | float | 0.2 | 0 | mm |  |
+| Extruder 1 | retract_lift | float | 0.2 | 0 | mm | [Layer Shifts](troubleshooting-issues.md#layer-shifts) |
 | Extruder 1 | retract_lift_above | float | 0 | 0 | mm |  |
 | Extruder 1 | retract_lift_below | float | 0 | 0 | mm |  |
 | Extruder 1 | retract_speed | float | 40 | 40 | mm/s |  |
