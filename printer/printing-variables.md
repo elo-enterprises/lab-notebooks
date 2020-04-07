@@ -121,13 +121,13 @@ When slicing an object, PrusaSlicer breaks it down into printer-relevant “feat
 | Speed | bridge_speed | float | 80 | 60 | mm/s |  |
 | Speed | gap_fill_speed | float | 20 | 20 | mm/s |  |
 | Speed | travel_speed | float | 70 | 130 | mm/s |  |
-| Speed | first_layer_speed | float | 30% | 30 | mm/s or % |  |
+| Speed | first_layer_speed | float | 30% | 30 | mm/s or % | [Layer Shifts](troubleshooting-issues.md#layer-shifts) |
 | Speed | perimeter_acceleration | float | 0 | 0 | mm/s2 |  |
 | Speed | infill_acceleration | float | 0 | 0 | mm/s2 |  |
 | Speed | bridge_acceleration | float | 0 | 0 | mm/s2 |  |
 | Speed | first_layer_acceleration | float | 0 | 0 | mm/s2 |  |
 | Speed | default_acceleration | float | 0 | 0 | mm/s2 |  |
-| Speed | max_print_speed | float | 80 | 50 | mm/s | 3-13 - start with 50mm/s and increase for draft up to 100 mm/s, can be as slow as 40 for a detailed print (or even slower for maximum detail) |
+| Speed | max_print_speed | float | 80 | 50 | mm/s | 3-13 - start with 50mm/s and increase for draft up to 100 mm/s, can be as slow as 40 for a detailed print (or even slower for maximum detail); [Layer Shifts](troubleshooting-issues.md#layer-shifts) |
 | Speed | max_volumetric_speed | float | 0 | 0 | mm3/s |  |
 | Multiple Extruders | perimeter_extruder | integer | 1 | 1 |  |  |
 | Multiple Extruders | infill_extruder | integer | 1 | 1 |  |  |
