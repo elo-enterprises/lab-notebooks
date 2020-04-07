@@ -19,7 +19,7 @@ This page contains supplemental information to accompany the assembly instructio
 </center>
 
 ### Notes on Inventory
-* The packing list in each box does not always match the overall packing list in the Modix documentation. Further, the assembly instructions do not use the same part names as the packing lists. For this reason, the parts list page in this document set contains cross references between the part names in the packing lists and the part names in the assembly instructions.
+* The packing list in each box does not always match the overall packing list in the Modix documentation. Further, the assembly instructions do not use the same part names as the packing lists. For this reason, the parts list page in this document set contains cross-references between the part names in the packing lists and the part names in the assembly instructions.
 * Almost all parts arrived, with the exception of a few screws, and the spares bag contained enough to cover the gap. No parts appeared damaged.
 * It is definitely worthwhile to set aside an entire room, cleared of anything except the printer parts, then carefully lay out the parts before beginning assembly. 
 
@@ -841,7 +841,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
-  * During assembly, it is acceptble to wait several more steps before trimming the excess belt, especially if a spare or backup is not available.
+  * During assembly, it is acceptable to wait several more steps before trimming the excess belt, especially if a spare or backup is not available.
   * When tightening the belt, make sure to actually follow the directions and 
     * loosen the screw pushing against the Y motor and the Y motor screws;
     * hand-tighten the belt;
@@ -892,7 +892,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
   * The assembly instructions parts list includes parts for both Part 1 Step 16 and Part 1 Step 17.
-  * During assembly, it is acceptble to wait several more steps before trimming the excess belt, especially if a spare or backup is not available.
+  * During assembly, it is acceptable to wait several more steps before trimming the excess belt, especially if a spare or backup is not available.
   * When tightening the belt, make sure to actually follow the directions and 
     * loosen the screws holding the back X idler pulley and the set screw on the gear on the X shaft;
     * hand-tighten the belt;
@@ -931,7 +931,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Medium. The task is straightforward, but pay attention to the notes below.
 * Issues:
-  * During assembly, it is acceptble to wait several more steps before trimming the excess belt, especially if a spare or backup is not available.
+  * During assembly, it is acceptable to wait several more steps before trimming the excess belt, especially if a spare or backup is not available.
   * When tightening the belt, make sure to actually follow the directions and 
     * loosen the screws holding the front X idler pulley and the set screw on the gear on the X shaft;
     * hand-tighten the belt;
@@ -1003,7 +1003,7 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * The assembly instructions list the BLTouch sensor and cable parts separately, but the parts are listed together in the packing list. The M3 Nylock Nuts listed in the assembly instructions are not in the packing list, but were contained in the BLTouch bag.
+  * The assembly instructions list the BLTouch sensor and cable parts separately, but the parts are listed together in the packing list. The M3 Nylock Nuts listed in the assembly instructions are not in the packing list but were contained in the BLTouch bag.
   * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
 <center>
 <table>
@@ -1287,7 +1287,7 @@ This page contains supplemental information to accompany the assembly instructio
     * If the Z motors are struggling to raise or lower the bed, several steps should be revisited, including this one.
     * Try to move each screw individually with the spare motor cable. Make sure they are moving smoothly. Look for damaged wire connections on the Z cable and on the motors. 
     * Replace the stepper driver for the Z motors with one of the spares. 
-    * Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If the current is lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time. 
+    * Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on the GND pin on the stepper driver. If the current is lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time. 
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
     * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
     * Make sure the wiring is not loose or torn either on the controller board or on the Y motor.
@@ -1334,7 +1334,7 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled into two data sets, 
     * a diagram of the terminals on the panel including wire terminations;
-    * a list of the cables, wires and signals propagating through the system.
+    * a list of the cables, wires, and signals propagating through the system.
   * More wiring information can be found in other steps. Those steps are 
     * [Part 1 Step 20](#part-1---step-20-installing-the-bltouch-bed-leveling-sensor);
     * [Part 1 Step 22](#part-1--step-22-assembling-the-lcd-screen);
@@ -1503,8 +1503,8 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Medium.
   * Difficulty: Medium. The assembly instructions are thorough for this step, but the equipment is small and delicate. Be careful to avoid breaking or losing pieces.
 * Issues:
-  * There is room for confusion regarding the ideal screw-tightening procedure for the heat sink, heat break, hot end volcano block and nozzle. This task will be revisited and finished in [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle). 
-  * After stripping a screw for the volcano block by attempting to insert it in the wrong side of the volcano block, a small screw from the spares bag was used as a replacement.
+  * There is room for confusion regarding the ideal screw-tightening procedure for the heat sink, heat break, hot end volcano block, and nozzle. This task will be revisited and finished in [Part 3 Step 7](#part-3--step-7-heat-tightening-the-nozzle). 
+  * After stripping a screw for the volcano block by attempting to insert it on the wrong side of the volcano block, a small screw from the spares bag was used as a replacement.
   * Initial assembly of the hot end was performed without the thermal paste. After successful assembly, the heat sink was unscrewed and the thermal paste applied.
 <center>
 <table>
@@ -1624,7 +1624,7 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * The packing list does not match the parts list in the assembly instructions. All necessary parts appear to be present, though not counted or grouped identically. Also, the assembly instructions do not include the 4040-M5 T nuts or M5 12mm screws necessary to attach the filament sensor to the printer. 
   * The "foam dust filter" is not explained thoroughly in the assembly instructions. It really is just a piece of foam, cut to size, with a hole cut into it for the filament to pass through and scrape off dust along the way.
-  * It is not entirely clear how the PTFE tube is supposed to sit in the extruder. When unloading filament using the printer console, the extruder runs backwards and kicks out not only the filament but also the PTFE tube. The assembly instructions indicate that it is necessary to chamfer the tube, i.e. shave off some of the exterior with a razorblade. An imperfect chamfer may be responsible for the PTFE tube not staying in place during filament unloading.
+  * It is not entirely clear how the PTFE tube is supposed to sit in the extruder. When unloading filament using the printer console, the extruder runs backward and kicks out not only the filament but also the PTFE tube. The assembly instructions indicate that it is necessary to chamfer the tube, i.e. shave off some of the exteriors with a razor blade. An imperfect chamfer may be responsible for the PTFE tube not staying in place during filament unloading.
   * This step can be revisited after the enclosure is in place, following [Part 2 Step 10](#part-2--10-installing-the-support-brackets).
   * To prevent the PTFE tube from snagging on the frame, especially when traveling from the front right side to the back right side, install at least two clips to the inside top of the enclosure lid and pass the PTFE tube through the clips. This arrangement should keep the PTFE tube out of snagging risk while also allowing the PTFE tube to reach all corners of the bed.
 <center>
@@ -1666,9 +1666,9 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * It is worth revisiting [Part 1 Step 18](#part-1--step-18-assembling-the-hot-end) before beginning this task.
   * Be careful around the nozzle, as it is extremely hot.
-  * After heat tightening the nozzle, the hot end volcano block is still able to spin when pushed, indicating an imperfect threading of the heat sink, heat break, hot end volcano block and nozzle. In correspondence, Modix customer support suggested that the threading only needs to be redone if stringing and oozing becomes a noticeable problem. 
+  * After heat tightening the nozzle, the hot end volcano block is still able to spin when pushed, indicating imperfect threading of the heat sink, heat break, hot end volcano block, and nozzle. In correspondence, Modix customer support suggested that the threading only needs to be redone if stringing and oozing becomes a noticeable problem. 
   * [Troubleshooting - Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
-    * If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases the nozzle may need to be cleaned or replaced.
+    * If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases, the nozzle may need to be cleaned or replaced.
 <center>
 <table>
   <tr>
