@@ -801,7 +801,7 @@ This page contains supplemental information to accompany the assembly instructio
     * Take extra care to tighten the set screws effectively to the flat sides of the motors to avoid problems with the motors spinning freely without turning the pulleys.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
     * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
-    * Make sure the belts on the Y-axis and on the Y motor are tightened and do not slip.
+    * Make sure the belts on the Y axis and on the Y motor are tightened and do not slip.
 <center>
 <table>
   <tr>
@@ -842,7 +842,7 @@ This page contains supplemental information to accompany the assembly instructio
     * tighten the Y motor screws.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
     * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
-    * Make sure the belts on the Y-axis and on the Y motor are tightened and do not slip.
+    * Make sure the belts on the Y axis and on the Y motor are tightened and do not slip.
 <center>
 <table>
   <tr>
@@ -892,6 +892,8 @@ This page contains supplemental information to accompany the assembly instructio
     * tighten the screws holding the back X idler pulley to remove excess sagging;
     * tighten the set screw on the gear on the X shaft.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * Make sure the belts on the X axis and on the X motor are tightened and do not slip.
 <center>
 <table>
   <tr>
@@ -928,8 +930,9 @@ This page contains supplemental information to accompany the assembly instructio
     * hand-tighten the belt;
     * tighten the screws holding the front X idler pulley to remove excess sagging;
     * tighten the set screw on the gear on the X shaft.
-  * When dealing with the Y axis not being perfectly perpendicular/parallel, we had to revisit this step and re-tighten the X axis belts.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * Make sure the belts on the X axis and on the X motor are tightened and do not slip.
 <center>
 <table>
   <tr>
