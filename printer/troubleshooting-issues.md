@@ -67,8 +67,8 @@ Layer shifts were a serious early issue. When printing test patterns, circles pr
 
 ### Overall
 * Make sure that the fan on the electronics box is working and successfully cooling the stepper drivers. See [Part 2 Step 04](system-assembly--repair.md#part-2--step-4-installing-the-electronics-box-cover).
-* Reducing printing speed (40-50mm/s), traveling and acceleration will definitely help. The first layer is especially important and should be 50% or less than the main speed.
-* Make sure to use the "Z lift" setting in the slicer (lifting the nozzle when traveling).
+* Reducing [printing speed](printing-variables.md#prusaslicer-print-variables) (40-50mm/s), traveling and acceleration will definitely help. The [first layer speed](printing-variables.md#prusaslicer-print-variables) is especially important and should be 50% or less than the main speed.
+* Make sure to use the [Z retract lift](printing-variables.md#prusaslicer-printer-variables) setting in the slicer (lifting the nozzle when traveling).
 
 
 ------------
