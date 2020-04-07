@@ -298,17 +298,17 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Medium.
 * Issues:
   * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
-  * When printing test patterns, I noticed that circles came out warped, as ellipses. Modix said this is caused by the Y axis not being perfectly square. I
-    * loosened the front X idler and the set screw of the pulley connecting the front X belt to the X shaft,
-    * loosened the front X belt,
-    * connected the Y axis to the frame using the calibration jigs,
-    * loosened the screws holding the Y axis profile to the X rails,
-    * retightened the X belt,
-    * retightened the Y axis screws,
-    * retightened the pulley connecting the front X belt to the X shaft and the X idler,
-    * removed the calibration jigs.
-   This helped, but I also revisited this procedure after retightening the frame screws.
-* [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * Make sure the Y axis rail is parallel to the X shaft and does not have an angle. 
+      * Loosen the front X idler and the set screw of the pulley connecting the front X belt to the X shaft.
+      * Loosen the front X belt.
+      * Connect the Y axis to the frame using the calibration jigs.
+      * Loosen the screws holding the Y axis profile to the X rails.
+      * Tighten the X belt.
+      * Tighten the Y axis screws.
+      * Tighten the pulley connecting the front X belt to the X shaft and the X idler.
+      * Remove the calibration jigs.
 <center>
 <table>
   <tr>
@@ -431,6 +431,9 @@ This page contains supplemental information to accompany the assembly instructio
     * [Part 1 Step 10](#part-1--step-10-assembling-the-z-axis-sets);
     * [Part 1 Step 11](#part-1--step-11-assembling-the-x-axis-bottom-profiles); 
     * [Part 2 Step 10](#part-2--10-installing-the-support-brackets).
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * To be completely thorough, loosen and tighten the screws, being extremely careful to measure right angles. 
 <center>
 <table>
   <tr>
@@ -756,6 +759,8 @@ This page contains supplemental information to accompany the assembly instructio
     * To avoid stripping, replace the 3mmx3mm set screws in the gears of the X shaft with externally purchased [4mmx3mm set screws](parts-lists.md#tools).
     * Use of an externally purchased [hex key set](parts-lists.md#tools) may also be helpful.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * Make sure the pulleys on the X shaft and on the X motor are tightened and do not slip.
 <center>
 <table>
   <tr>
