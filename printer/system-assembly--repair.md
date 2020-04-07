@@ -807,6 +807,7 @@ This page contains supplemental information to accompany the assembly instructio
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
     * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
     * Make sure the belts on the Y axis and on the Y motor are tightened and do not slip. 
+    * Make sure the pulleys on the X shaft and on the X motor are tightened and do not slip. 
     * Make sure the belts on the X axis and on the X motor are tightened and do not slip. 
 <center>
 <table>
