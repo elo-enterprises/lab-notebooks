@@ -12,23 +12,22 @@ This page contains data on prints performed with the Modix Big-60, including lin
 |-------------|-------|
 | [All in One 3D Printer Test](https://www.thingiverse.com/thing:2656594) |  |
 | [3D Calibration Ruler](https://www.thingiverse.com/thing:25763) |  |
+| [Desk Mount Headphone Holder - Mount - Clamp](https://www.thingiverse.com/thing:2076034) |  |
 
-Cases:
-* 1: 01/24/2020
-  * Object: hinged icosahedron at 150% scale dbl-ico.gcode
-  * HotEnd Temp: 200
-  * Bed Temp: 70
-  * Speed: 50
-  * Flow: 120
-  * Z Offset: -.6
-  * All 3 PrusaSlicer Settings Pages Named dbl-ico
-  * Infill: 100%
-  * Supports: all turned off
-  * Notes: 
-    * currently moved to the back of the bed to avoid a trouble spot; 
-    * some of the smaller featutres, such as folding lines, did not print; 
-    * the first layer was not sticking to the bed; 
-    * the print head was too close to the bed.
+### Cases
+* 2020-01-01 [All in One 3D Printer Test](https://www.thingiverse.com/thing:2656594)
+  * Settings:
+    * Scale: 100%
+    * Infill: 100%
+  * Issues:
+    * Scars on Top Surface
+* 2020-04-01 [Desk Mount Headphone Holder - Mount - Clamp](https://www.thingiverse.com/thing:2076034)
+  * Settings:
+    * Scale: 100%
+    * Infill: 100%
+  * Issues:
+    * Stringing & Oozing
+
 
 ------------
 ## SketchUp
