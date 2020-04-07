@@ -1683,7 +1683,9 @@ This page contains supplemental information to accompany the assembly instructio
 * Issues:
   * Firmware documentation website: http://marlinfw.org/docs/gcode/M206.html
   * Video introduction to Pronterface recommended by Modix instructions: https://www.youtube.com/watch?v=yj0R2RxSZco
-
+  * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
+    * If the Z motors are struggling to raise or lower the bed, several steps should be revisited, including this one.
+    * Check that there is nothing wrong in the firmware settings. Connect to Pronterface and send Modix the output log once connected, or send command M503
 <center>
 <table>
   <tr>
