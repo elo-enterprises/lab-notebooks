@@ -73,6 +73,7 @@ Layer shifts were a serious early issue. When printing test patterns, circles pr
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/layer-shifting/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue8)
 
 ------------
 ## Poor Bridging
@@ -113,6 +114,7 @@ If the nozzle is not sufficiently tightened, leaks in the hot end can result. Du
  
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue9)
 
 ------------
 ## Ugly Overhangs
@@ -122,6 +124,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/poor-surface-above-supports/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue10)
 
 ------------
 ## Z Wobble
@@ -129,7 +132,9 @@ This issue has not yet been encountered.
 
 This issue has not yet been encountered.
 
-
+* Articles:
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue14)
+  
 ------------
 ## Scars on Top Surface
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -138,7 +143,8 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/scars-on-top-surface/)
-
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue17)
+  
 ------------
 ## Blobs and Zits
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -147,7 +153,8 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/blobs-and-zits/)
-
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue18)
+  
 ------------
 ## Curling or Rough Corners
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -174,6 +181,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/warping/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue6)
 
 ------------
 ## Vibrations and Ringing
@@ -208,6 +216,7 @@ Testing
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue2)
 
 ------------
 ## Grinding or Stripping Filament
@@ -217,6 +226,7 @@ If the extruder grips the filament too tightly, it creates extra friction, which
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue13)
 
 ------------
 ## Clogged Extruder
@@ -226,6 +236,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue3)
 
 ------------
 ## Stops Extruding Mid Print
@@ -240,7 +251,8 @@ Take the extruder cover off and look for problems. If no obvious problem is foun
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stops-extruding-mid-print/)
-
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue20)
+  
 ------------
 ## Not Extruding at Start of Print
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -249,6 +261,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/)
+  * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue1)
 
 ------------
 ## Troubleshooting Data Sources
