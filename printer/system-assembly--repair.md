@@ -1278,6 +1278,11 @@ This page contains supplemental information to accompany the assembly instructio
     * Try to move each screw individually with the spare motor cable. Make sure they are moving smoothly. Look for damaged wire connections on the Z cable and on the motors. 
     * Replace the stepper driver for the Z motors with one of the spares. 
     * Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If the current is lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time. 
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * Make sure the wiring is not loose or torn either on the controller board or on the motor.
+    * Make sure that the driver has enough current. It should be no more than 1.1 V, as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at a time. 
+    * Replace the stepper driver for the Y motor with one of the spares. 
 <center>
 <table>
   <tr>
@@ -1418,7 +1423,9 @@ This page contains supplemental information to accompany the assembly instructio
   * Speed: Fast.
   * Difficulty: Easy.
 * Issues:
-  * None known.
+  * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
+    * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
+    * Make sure that the fan on the electronics box is working and successfully cooling the stepper drivers. 
 <center>
 <table>
   <tr>
