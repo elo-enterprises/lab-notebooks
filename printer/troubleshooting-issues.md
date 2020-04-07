@@ -41,6 +41,8 @@ The main LCD screen button is vulnerable to a relatively serious problem. In the
 ## Layer Shifts
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
+[Operating Procedures - Calibration - Validate Mesh](operating-procedures.md#validate-mesh-calibration-procedure)
+
 Layer shifts were a serious early issue. When printing test patterns, circles printed as ellipses. In correspondence, Modix customer support indicated that this problem is caused by the Y axis not being perfectly square and supplied the following checklist:
 
 ### Y Axis
@@ -204,6 +206,8 @@ This issue has not yet been encountered.
 ------------
 ## First Layer Not Sticking to the Bed
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+[Operating Procedures - Calibration - Validate Mesh](operating-procedures.md#validate-mesh-calibration-procedure)
 
 The issue of the first layer not sticking to the bed has several possible causes, such as 
  * the bed is not level;
