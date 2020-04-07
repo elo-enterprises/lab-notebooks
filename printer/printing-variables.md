@@ -17,7 +17,7 @@ This page contains data on individual printer variables, as well as a discussion
 * Simplify3D is proprietary software, recommended by Modix, but it is unclear why Modix prefers this software.
 
 ### PrusaSlicer vs Pronterface vs Marlin
-* It is not immediately clear how each software layer interacts with the others. Whenever possible, the goal is to allow the PrusaSlicer parameters to dominate the system. This design basis has several implications:
+* It is not immediately clear how each software layer interacts with the others. Whenever possible, Elo's design goal is to allow the PrusaSlicer parameters to dominate the system. This design basis has several implications:
   * Pronterface might not be necessary at all.
   * The bed temperature is set only at the heater box and is thus not adjustable by any software.
   * UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into slicing software and are controlled entirely by Marlin, the printer's firmware.
