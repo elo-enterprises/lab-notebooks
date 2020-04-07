@@ -42,7 +42,7 @@ The main LCD screen button is vulnerable to a relatively serious problem. In the
 Layer shifts were a serious early issue. Correspondence with Modix customer support yielded the following checklist:
 
 ### Y-axis
-* Make sure the belts on the Y-axis and on the Y motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors) and [Part 1 Step 15](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt).
+* Make sure the belts on the Y axis and on the Y motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors) and [Part 1 Step 15](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt).
 * Make sure the wiring is not loose or torn either on the controller board or on the motor. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Make sure that the driver has enough current. It should be no more than 1.1 V, as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at a time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Replace the stepper driver for the Y motor with one of the spares. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
@@ -51,7 +51,7 @@ Layer shifts were a serious early issue. Correspondence with Modix customer supp
 * Make sure to use the "Z lift" setting in the slicer (lifting the nozzle when traveling).
 
 ### X-axis
-* Make sure the belts on the X-axis and on the X motor are tightened and don't slip. See [01-16, Installing the Timing Belt at the Back X Axis ](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) and [01-17, Installing the Timing Belt at the Front X Axis](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis).
+* Make sure the belts on the X axis and on the X motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors), [Part 1 Step 16](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) and [Part 1 Step 17](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis).
 * Make sure the pulleys on the X-shaft and on the X-motor are tightened and don't slip. See [01-12, Installing the X Shaft](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) and [01-14, Installing the Motors](system-assembly--repair.md#part-1--step-14-installing-the-motors).
 * Reducing printing speed (40-50mm/s), traveling and acceleration will definitely help. Especially the first layer should be 50% or less than the main speed.
 * Make sure to set 'Z-hop' in the slicer (lifting the nozzle when traveling).
