@@ -28,6 +28,7 @@ At several steps, the 3mmx3mm set screws used to tighten gears stripped. To avoi
 * [Part 1 Step 09](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets);
 * [Part 1 Step 12](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft);
 * [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
+* Take extra care to tighten the set screws effectively to the flat sides of the motors to avoid problems with the motors spinning freely without turning the pulleys.
 
 ------------
 ## LCD Screen Button Friction
