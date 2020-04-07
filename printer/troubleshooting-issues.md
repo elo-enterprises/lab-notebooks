@@ -8,7 +8,7 @@ This page contains data on problems encountered in printer operation, as well as
 ## Z Motors Binding Up
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-When first turning the printer on, serious trouble with the Z motors was encountered, prompting repeated customer support interactions with Modix. The motors could lower the bed down correctly. When going up, however, seemingly at random, the motors would encounter friction and try to move without moving the bed up. The printer was turned off before causing further damage. Modix sent a checklist of issues to check:
+When first turning the printer on, serious trouble with the Z motors was encountered, prompting repeated customer support interactions with Modix. The motors could lower the bed down correctly. When going up, however, seemingly at random, the motors would encounter friction and try to move without moving the bed up. The printer was turned off before causing further damage. Modix sent a checklist of potential issues:
 * Before leveling the bed, make sure to level the base frame.
 * Try to move each screw manually in both directions when the ball screws are disassembled from the bed brackets. See [Part 1 Step 09](system-assembly--repair.md#part-1--step-9-assembling-the-z-axis-mid-brackets)
 * Check the bottom shaft of each ball screw. Make sure it does not sit all the way down; the base of the ball screws should not touch the base of the pillow bearings, or excess friction will result. See [Part 1 Step 10](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets).
