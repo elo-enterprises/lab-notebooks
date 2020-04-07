@@ -104,4 +104,5 @@
 | Name                |
 |---------------------|
 | [Troubleshooting Data Sources](troubleshooting-issues.md#troubleshooting-data-sources) |
-| [Ecostruder -- 6 part youtube tutorial](https://www.youtube.com/watch?v=3HWh1tLboyQ) |
+| [Ecostruder - 6-Part YouTube Assembly Tutorial](https://www.youtube.com/watch?v=3HWh1tLboyQ) |
+| [Ecostruder - Big 60 Review After 1 Year](https://www.youtube.com/watch?v=eg2md7riRfc) |
