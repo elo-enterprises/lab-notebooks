@@ -71,12 +71,17 @@ Layer shifts were a serious early issue. When printing test patterns, circles pr
 * Reducing [printing speed](printing-variables.md#prusaslicer-print-variables) (40-50mm/s), traveling and acceleration will definitely help. The [first layer speed](printing-variables.md#prusaslicer-print-variables) is especially important and should be 50% or less than the main speed.
 * Make sure to use the [Z retract lift](printing-variables.md#prusaslicer-printer-variables) setting in the slicer (lifting the nozzle when traveling).
 
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/layer-shifting/)
 
 ------------
 ## Poor Bridging
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 This issue has not yet been encountered.
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/poor-bridging/)
 
 ------------
 ## Spaghetti Monster
@@ -115,6 +120,8 @@ If the nozzle is not sufficiently tightened, leaks in the hot end can result. Du
 
 This issue has not yet been encountered.
 
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/poor-surface-above-supports/)
 
 ------------
 ## Z Wobble
@@ -129,6 +136,8 @@ This issue has not yet been encountered.
 
 This issue has not yet been encountered.
 
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/scars-on-top-surface/)
 
 ------------
 ## Blobs and Zits
@@ -136,6 +145,8 @@ This issue has not yet been encountered.
 
 This issue has not yet been encountered.
 
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/blobs-and-zits/)
 
 ------------
 ## Curling or Rough Corners
@@ -161,11 +172,17 @@ This issue has not yet been encountered.
 
 This issue has not yet been encountered.
 
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/warping/)
+
 ------------
 ## Vibrations and Ringing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 This issue has not yet been encountered.
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/vibrations-and-ringing/)
 
 ------------
 ## First Layer Not Sticking to the Bed
