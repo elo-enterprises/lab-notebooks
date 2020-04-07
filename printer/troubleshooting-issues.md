@@ -39,16 +39,16 @@ The main LCD screen button is vulnerable to a relatively serious problem. In the
 ## Layer Shifts
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-Layer shifts can happen for a few reasons, please check the following:
+Layer shifts were a serious early issue. Correspondence with Modix customer support yielded the following checklist:
 
 ### Y-axis
-* Make sure the belt on the Y-axis and on the Y motor is tightened and doesn't slip. See [01-15, Installing the Y Axis Timing Belt](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt).
-* Reducing printing speed (40-50mm/s), traveling and acceleration will definitely help. Especially the first layer should be 50% or less than the main speed.
+* Make sure the belt on the Y-axis and the belt on the Y motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors) and [Part 1 Step 15](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt).
+* Make sure the wiring is not loose or torn both on the controller board and on the motor. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* Make sure that the driver has enough current. It should be no more than 1.1 V, as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at the time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* Replace the stepper driver for the Y motor with one of the spares. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* Make sure that the fan on the electronics box is working and successfully cooling the stepper drivers. See [Part 2 Step 04](system-assembly--repair.md#part-2--step-4-installing-the-electronics-box-cover).
+* Reducing printing speed (40-50mm/s), traveling and acceleration will definitely help. The first layer is especially important and should be 50% or less than the main speed.
 * Make sure to set 'Z-hop' or 'vertical lift' in the slicer (lifting the nozzle when traveling).
-* Make sure that the fan on the electronics box is cooling the stepper drivers.
-* Make sure the wiring isn't loose or torn both on the controller board and on the motor.
-* Make sure that the driver has enough current, it should be no more than 1.1 V. But as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at the time. Attached is a photo on how to measure the current - (-) on the GND pin and (+) on the Vref.
-* Try to replace a stepper driver (the kit comes with spares).
 
 ### X-axis
 * Make sure the belts on the X-axis and on the X motor are tightened and don't slip. See [01-16, Installing the Timing Belt at the Back X Axis ](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) and [01-17, Installing the Timing Belt at the Front X Axis](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis).
