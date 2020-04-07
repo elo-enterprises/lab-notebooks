@@ -8,7 +8,7 @@ This page contains step-by-step instructions for operating the printer.
 ## Recalibration
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 
-[Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code)
+[System Assembly & Repair - Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code)
 
 ### Frame Leveling Procedure
 * To begin, check the level of the frame itself. Place a [level](parts-lists.md#tools) on the four bottom frame walls, and use a wrench to make adjustments to the height of the printer's feet until all sides are level and the printer is stable on all four feet and not wobbling.
