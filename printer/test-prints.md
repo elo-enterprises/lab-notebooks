@@ -2,8 +2,11 @@
 
 ------------
 
-# Thingiverse
-[Printer Test Print List](README.md#test-prints)
+This page contains data on prints performed with the Modix Big-60, including links to source models.
+
+------------
+## Thingiverse
+[Main Page - Test Print List](README.md#test-prints)
 
 | Test Object | Notes |
 |-------------|-------|
@@ -27,5 +30,6 @@ Cases:
     * the first layer was not sticking to the bed; 
     * the print head was too close to the bed.
 
-# SketchUp
-[Printer Test Print List](README.md#test-prints)
+------------
+## SketchUp
+[Main Page - Test Print List](README.md#test-prints)
