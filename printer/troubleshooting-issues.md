@@ -51,7 +51,7 @@ Layer shifts were a serious early issue. When printing test patterns, circles pr
 
 ### X Axis
 * Make sure the pulleys on the X shaft and on the X motor are tightened and do not slip. See [Part 1 Step 12](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) and [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
-  * Make sure the Y axis rail is parallel to the X shaft and does not have an angle. To reposition the Y axis, 
+  * Make sure the Y axis rail is parallel to the X shaft and does not have an angle. See [Part 1 Step 13](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis). To reposition the Y axis, 
     * loosen the front X idler and the set screw of the pulley connecting the front X belt to the X shaft;
     * loosen the front X belt;
     * connect the Y axis to the frame using the calibration jigs;
@@ -60,7 +60,6 @@ Layer shifts were a serious early issue. When printing test patterns, circles pr
     * tighten the Y axis screws;
     * tighten the pulley connecting the front X belt to the X shaft and the X idler;
     * remove the calibration jigs.
-   See [Part 1 Step 13](system-assembly--repair.md#part-1--step-13-assembling-the-y-axis).
 * Make sure the belts on the X axis and on the X motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors), [Part 1 Step 16](system-assembly--repair.md#part-1--step-16-installing-the-timing-belt-at-the-back-x-axis) and [Part 1 Step 17](system-assembly--repair.md#part-1--step-17-installing-the-timing-belt-at-the-front-x-axis).
 * Make sure the wiring is not loose or torn either on the controller board or on the X motor. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Make sure that the stepper driver for the X motor has enough current. It should be no more than 1.1 V, as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at a time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
