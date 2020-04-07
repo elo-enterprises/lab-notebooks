@@ -19,24 +19,24 @@ This page contains data on individual printer variables, as well as a discussion
 ### PrusaSlicer vs Pronterface vs Marlin
 * It is not immediately clear how each software layer interacts with the others. Whenever possible, Elo's design goal is to allow the PrusaSlicer parameters to dominate the system. This design basis has several implications:
   * Pronterface might not be necessary at all.
-  * The bed temperature is set only at the heater box and is thus not adjustable by any software.
-  * UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into slicing software and are controlled entirely by Marlin, the printer's firmware.
+  * The bed temperature is set only at the heater box. Thus this setting is not adjustable by any software and is a design outlier.
+  * UBL mesh data, along with the manual overrides to correct weak spots in the validate mesh pattern, are not entered into slicing software and are controlled entirely by Marlin, the printer's firmware. This data is thus also a design outlier.
 
 ### Breaking 3D Model Objects into Feature Types
-When slicing an object, PrusaSlicer breaks it down into printer-relevant “feature types”:
-* Perimeter
-* External Perimeter
-* Overhang Perimeter
-* Internal Infill
-* Solid Infill
-* Top Solid Infill
-* Bridge Infill
-* Gap Fill
-* Skirt
-* Support Material
-* Support Material Interface
-* Wipe Tower
-* Custom
+When slicing an object, PrusaSlicer breaks it down into Feature Types relevant to the printer, such as
+* Perimeter;
+* External Perimeter;
+* Overhang Perimeter;
+* Internal Infill;
+* Solid Infill;
+* Top Solid Infill;
+* Bridge Infill;
+* Gap Fill;
+* Skirt;
+* Support Material;
+* Support Material Interface;
+* Wipe Tower;
+* Custom.
 
 ------------
 ## PrusaSlicer Plater Variables
