@@ -16,8 +16,8 @@ When first turning the printer on, serious trouble with the Z motors was encount
 * Check whether the belts that drive the ball screws are tightened too much. They need to be tightened to the point that they sit straight and do not sag and no further. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
 * Try to move each screw individually with the spare motor cable. Make sure they are moving smoothly. Look for damaged wire connections on the Z cable and on the motors. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Replace the stepper driver for the Z motors with one of the spares. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
-* Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If the current is lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
-* Check that there is nothing wrong in the firmware settings. Connect to Pronterface and send Modix the output log once connected or send command M503. See [Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
+* Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on the GND pin on the stepper driver. If the current is lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* Check that there is nothing wrong with the firmware settings. Connect to Pronterface and send Modix the output log once connected or send command M503. See [Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
 
 ------------
 ## Stripped Set Screws
@@ -41,13 +41,13 @@ The main LCD screen button is vulnerable to a relatively serious problem. In the
 
 Layer shifts were a serious early issue. When printing test patterns, circles printed as ellipses. In correspondence, Modix customer support indicated that this problem is caused by the Y axis not being perfectly square and supplied the following checklist:
 
-### Y-axis
+### Y Axis
 * Make sure the belts on the Y axis and on the Y motor are tightened and do not slip. See [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors) and [Part 1 Step 15](system-assembly--repair.md#part-1--step-15-installing-the-y-axis-timing-belt).
 * Make sure the wiring is not loose or torn either on the controller board or on the Y motor. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Make sure that the stepper driver for the Y motor has enough current. It should be no more than 1.1 V, as low as possible. The current can be increased by turning the Vref clockwise 1/4 turn at a time. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 * Replace the stepper driver for the Y motor with one of the spares. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
 
-### X-axis
+### X Axis
 * Make sure the pulleys on the X shaft and on the X motor are tightened and do not slip. See [Part 1 Step 12](system-assembly--repair.md#part-1--step-12-installing-the-x-shaft) and [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
 * Make sure the Y axis rail is parallel to the X shaft and does not have an angle. 
   * Loosen the front X idler and the set screw of the pulley connecting the front X belt to the X shaft.
@@ -103,7 +103,7 @@ On the print MU75_joint_ring_extension, I encountered the same failure scenario 
 ## Stringing & Oozing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases the nozzle may need to be cleaned or replaced. See [Part 1 Step 18](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) and [Part 3 Step 7](system-assembly--repair.md#part-3--step-7-heat-tightening-the-nozzle).
+If the nozzle is not sufficiently tightened, leaks in the hot end can result. During printing, the leaks will appear as strings being left behind on a print; while not printing, the nozzle may be visibly oozing filament. In extreme cases, the nozzle may need to be cleaned or replaced. See [Part 1 Step 18](system-assembly--repair.md#part-1--step-18-assembling-the-hot-end) and [Part 3 Step 7](system-assembly--repair.md#part-3--step-7-heat-tightening-the-nozzle).
  
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
@@ -185,8 +185,8 @@ On 2020-02-06, the issue of curling was noticed in addition to the issue of the 
 The first layer speed is set to 30 mm/s. The Z offset is set to -0.7mm.
 
 Testing
- * For the first test, I lowered the bed temperature to 65, and cleaned the bed surface with isopropyl alcohol. This did not work, and the first layer is still not sticking.
- * For the second test, I started the print, then tuned the Z offset to -0.75mm. The problem persists, with a few notes: (1) the test print first layer consists of thin circular walls, which could be more difficult to make the first layer stick than e.g. a single rectangle with more continuous surface area. (2) the circles in the middle y with higher x stick better than the others, which could be explained by differences in height across the bed.
+ * For the first test, I lowered the bed temperature to 65 and cleaned the bed surface with isopropyl alcohol. This did not work, and the first layer is still not sticking.
+ * For the second test, I started the print, then tuned the Z offset to -0.75mm. The problem persists, with a few notes: (1) the test print first layer consists of thin circular walls, which could be more difficult to make the first layer stick than e.g. a single rectangle with a more continuous surface area. (2) the circles in the middle y with higher x stick better than the others, which could be explained by differences in height across the bed.
   * For the third test, I lowered the first layer speed to 30% of the 50 mm/s total, rather than 30 mm/s, leaving the Z offset at -0.75.
 
 ------------
