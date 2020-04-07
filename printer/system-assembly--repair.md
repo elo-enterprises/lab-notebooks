@@ -26,7 +26,7 @@ This page contains supplemental information to accompany the assembly instructio
 ### Notes on Clearing Customs
 * The printer components are made all over the world and shipped from Hong Kong to the United States. In our case, the shipment was held up in Alaska until we submitted a [CF5106](https://www.cbp.gov/document/forms/form-5106-importer-id-input-record), which
   * is a form under the authority of the Department of Homeland Security, Customs and Border Protection;
-  * registers the business as an importer, requiring very simple information, e.g. 
+  * registers the business as an importer, requiring very simple information, such as 
     * Company Name;
     * Company EIN;
     * Company Headquarters Address;
