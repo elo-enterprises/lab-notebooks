@@ -1272,7 +1272,6 @@ This page contains supplemental information to accompany the assembly instructio
   * Difficulty: Difficult.
 * Issues:
   * The assembly instructions did not contain a unified repository of wiring information. This data has now been compiled in [Part 2 Step 02](#part-2--step-2-checking-the-controller-wiring).
-  * When troubleshooting the Z motors, I replaced the stepper driver for the Z motors and needed to tune its voltage. Modix suggested using a multimeter set to 2V, touching the red pin to the Vref (phillips head screw in the center of the driver), touching the black pin to a GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer)  clockwise, no more than 1/4 turn at a time.
   * [Troubleshooting - Z Motors Binding Up](troubleshooting-issues.md#z-motors-binding-up)
     * If the Z motors are struggling to raise or lower the bed, several steps should be revisited, including this one.
     * Try to move each screw individually with the spare motor cable. Make sure they are moving smoothly. Look for damaged wire connections on the Z cable and on the motors. 
