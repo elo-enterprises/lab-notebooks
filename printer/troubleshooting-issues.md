@@ -73,6 +73,7 @@ Layer shifts were a serious early issue. When printing test patterns, circles pr
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/layer-shifting/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#layers-shifting-misaligned-layers-19)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue8)
 
 ------------
@@ -83,7 +84,8 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/poor-bridging/)
-
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#poor-bridging-37)
+  
 ------------
 ## Spaghetti Monster
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -114,6 +116,7 @@ If the nozzle is not sufficiently tightened, leaks in the hot end can result. Du
  
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/stringing-or-oozing/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#stringing-and-oozing-13)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue9)
 
 ------------
@@ -143,6 +146,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/scars-on-top-surface/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#scratches-on-top-layers-26)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue17)
   
 ------------
@@ -153,6 +157,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/blobs-and-zits/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#blobs-and-3d-printing-zits-24)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue18)
   
 ------------
@@ -163,6 +168,7 @@ On 2020-02-06, the issue of curling was noticed in addition to the issue of the 
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/curling-or-rough-corners/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#curling-and-rough-corners-17)
 
 ------------
 ## Overheating
@@ -171,6 +177,7 @@ On 2020-02-06, the issue of curling was noticed in addition to the issue of the 
 This issue has not yet been encountered.
 
 * Articles:
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#overheating-14)
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/overheating/)
 
 ------------
@@ -181,6 +188,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/warping/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#warping-4)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue6)
 
 ------------
@@ -191,7 +199,8 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/vibrations-and-ringing/)
-
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#vibrations-and-3d-printing-ringing-31)
+  
 ------------
 ## First Layer Not Sticking to the Bed
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
@@ -216,6 +225,7 @@ Testing
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#print-not-sticking-to-the-bed-2)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue2)
 
 ------------
@@ -226,6 +236,7 @@ If the extruder grips the filament too tightly, it creates extra friction, which
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#extruder-is-grinding-filament-8)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue13)
 
 ------------
@@ -236,6 +247,7 @@ This issue has not yet been encountered.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/clogged-extruder/)
+  * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#clogged-nozzle-11)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue3)
 
 ------------
