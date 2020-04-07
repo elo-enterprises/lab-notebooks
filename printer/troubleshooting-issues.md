@@ -14,10 +14,10 @@ When first turning the printer on, serious trouble with the Z motors was encount
 * Make sure that all pulleys and gears are well tightened and do not slip. See [Part 1 Step 10](system-assembly--repair.md#part-1--step-10-assembling-the-z-axis-sets) and [Part 1 Step 14](system-assembly--repair.md#part-1--step-14-installing-the-motors).
 * Try to move each screw manually in both directions when the ball screws are disassembled from the bed brackets.
 * Check whether the belts that drive the ball screws are tightened too much. They need to be tightened to the point that they sit straight and do not sag and no further.
-* Try to move each screw with a separate cable, without a split. You can use the spare cable you have. Are they moving smoothly? Can you spot any damaged wire connections on the Z cable and motors? See [02-01, Wiring the Motors and End Stops](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
-* You can also replace the stepper driver for z with one of the spares you got with the kit.
-* Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If it's lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time.
-* Check that there's nothing wrong in the firmware settings, so connect to Pronterface and send Modix the output log once connected, or send command M503. See [03-05, Terminal Software and Basic G-Code](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
+* Try to move each screw individually with the spare motor cable. Make sure they are moving smoothly. Look for damaged wire connections on the Z cable and on the motors. See [Part 2 Step 01](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops).
+* Replace the stepper driver for the Z motors with one of the spares.
+* Check the current on the stepper driver with a multimeter. It should be no more than 1.2V. The way to measure it is to set the multimeter to 2V, red pin on the Vref, black pin on GND pin on the stepper driver. If the current is lower than 1.2V, turn the Vref (potentiometer) clockwise, no more than 1/4 turn at a time.
+* Check that there is nothing wrong in the firmware settings. Connect to Pronterface and send Modix the output log once connected, or send command M503. See [Part 3 Step 05](system-assembly--repair.md#part-3--step-5-terminal-software-and-basic-g-code).
 
 ------------
 ## Stripped Set Screws
