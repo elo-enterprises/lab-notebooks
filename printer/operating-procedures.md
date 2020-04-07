@@ -20,7 +20,7 @@ This page contains step-by-step instructions for operating the printer.
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Adjust height (Z). Reduce the height until you can slide the bracket while feeling resistance from the print head. 
     * Note - start by adjusting 10mm at a time, then switch to adjusting 1mm at a time, then switch to adjusting 0.1mm at a time. Switch to a smaller interval well in advance to avoid crashing the print head.
   * On the printer console, go to Big-60 Calibration --> Tilt Calibration --> Calibrate Left --> Go to L Screw. The print head will move to a position over the left ball screw. Place the bracket under the print head, then manually twist the gear at the base of the left ball screw until the bracket slides between the bed and the print head with the same level of resistance as in the previous step. Repeat this process for the other two ball screws with the commands Calibrate Right --> Go to R Front Screw and Calibrate Right --> Go to R Rear Screw.
-    * Note - this process should be repeated several times until the manual adjustments are not necessary, since changing one screw will change the bed's position at the other screws. 
+    * Note - this process should be repeated several times until the manual adjustments are not necessary since changing one screw will change the bed's position at the other screws. 
     * Note - if the print head is not over the PEI sheet on the right side, go to Prepare --> Move Axis --> Move X on the printer console and move the X axis back 20-30mm toward the center until the bracket can slide under the print head while it is completely over the PEI sheet.
 
 ### Unified Bed Leveling (UBL) Calibration Procedure
@@ -51,19 +51,19 @@ This page contains step-by-step instructions for operating the printer.
 ### Z Offset Calibration Procedure 
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 4. Z Offset Calibration](http://www.support.modix3d.com/z-offset-calibration/)
   * Make sure the bed heater is turned on to ~65 degrees and that filament is ready to load, i.e. passed through the filament sensor through the PTFE tube until it touches the gears of the extruder, or is already loaded.
-  * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center front of the printer, making it easy to see the filament purging process.
+  * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center in the front of the printer, making it easy to see the filament purging process.
   * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Preheat PLA (200). The print head heater will begin heating and a message to wait will appear.
   * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Purge E0. Once the print head is heated, the extruder will attempt to grab the filament and purge through the nozzle. 
     * If the purge is unsuccessful, try purging more while manually applying forward pressure on the filament at the filament sensor, pushing it toward the extruder. 
     * If several purge attempts are unsuccessful, the nozzle may be clogged. While the printer is hot, try scraping off any plastic around the nozzle. If this is unsuccessful, power off and let everything cool down, then remove the nozzle and try cleaning it out.
   * After a successful purge, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 1 Set Temperature. Set the temperature to 200 for PLA.
   * On the printer console, go to Big-60 Calibration --> Z Offset Calibration and inspect the current saved Z Offset value. For normal operation in Las Vegas, we have been using -.7mm, but the initial factory setting is 1.5mm to avoid crashing the print head during calibration. If the printer has been significantly moved, reset to 1.5mm and start over.
-  * Itertively perform the following operations until you are satisfied that the test line is successful.
+  * Iteratively perform the following operations until you are satisfied that the test line is successful.
     * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 3 Verify Height. The bed will move to the saved Z Offset height.
     * On the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 4 Print Test Line. The printer will print out a straight line. 
     * If the print head is too far away from the bed, you will see the vertical gap between the filament and the bed as the test line is printed. In this case, adjust the saved Z Offset value down. If the print head is too close to the bed, the test line will be smeared by the print head itself, and the line will appear flat and nonuniform. In this case, adjust the Z Offset value up.
   * Once you are satisfied with the test line, on the printer console, go to Big-60 Calibration --> Z Offset Calibration --> 5 Save Z Offset.
-    * Note that if the UBL mesh is nonuniform across the space of the bed, the X and Y placement of the print head while it is printing the test line is relevant to the correctness of the Z Offset setting.
+    * Note that if the UBL mesh is nonuniform across the space of the bed, while it is printing the test line, the X and Y placement of the print head is relevant to the correctness of the Z Offset setting.
     
 ### Validate Mesh Calibration Procedure
   * Details can be found in the Modix Customer Zone under [Calibration Guide – 5. Validate Mesh](http://www.support.modix3d.com/validate-mesh/)
@@ -91,7 +91,7 @@ This page contains step-by-step instructions for operating the printer.
 * Within PrusaSlicer, use the command File --> SaveProject to produce a 3MF file, executable within PrusaSlicer. If changes are made to the project in the 3MF project file, any INI files will not be updated.
 
 ### Export a GCODE Output File
-* Within PrusaSlicer, use the command ExportGCode to create a GCODE file. A typical GCODE file is a hundred thousand lines of code telling the printer every mechanical operation it has to perform, in order, with specific parameter settings. While GCODE is tedious, it is human readable, and lists of common GCODE commands can be found, e.g. http://marlinfw.org/docs/gcode/M206.html.
+* Within PrusaSlicer, use the command ExportGCode to create a GCODE file. A typical GCODE file is a hundred thousand lines of code telling the printer every mechanical operation it has to perform, in order, with specific parameter settings. While GCODE is tedious, it is human-readable, and lists of common GCODE commands can be found, e.g. http://marlinfw.org/docs/gcode/M206.html.
 
 ### At the Printer
 * Clean out any print material from previous prints. If there is filament stuck to the hot-end, on the printer console, go to Prepare --> Preheat PLA --> Preheat PLA 1. Once the hot-end is hot, peel the filament loose from the hot-end using a scraping tool.
@@ -118,7 +118,7 @@ This page contains step-by-step instructions for operating the printer.
 * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Unload Filament. The extruder gears will turn in reverse, ejecting the filament. While this is happening, gently pull on the filament at the filament sensor to assist in unthreading. 
   * If the PTFE tube comes loose, reinsert it into the extruder, careful not to cause dents, kinks or excess friction.
 * Insert the new filament. 
-  * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center front of the printer, making it easy to see the filament purging process. If this location overlaps with the print in progress, go to Prepare --> Move Axis --> Move X (and/or Y) and find a suitable purge location.
+  * On the printer console, go to Load/Unload Filament --> Go to the Front. The print head will travel to the center in the front of the printer, making it easy to see the filament purging process. If this location overlaps with the print in progress, go to Prepare --> Move Axis --> Move X (and/or Y) and find a suitable purge location.
   * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Preheat PLA (200). The print head heater will begin heating and a message to wait will appear.
   * On the printer console, go to Load/Unload Filament --> Load/Unload E0 --> Purge E0. Once the print head is heated, the extruder will attempt to grab the filament and purge through the nozzle. 
     * If the purge is unsuccessful, try purging more while manually applying forward pressure on the filament at the filament sensor, pushing it toward the extruder. 
@@ -128,4 +128,4 @@ This page contains step-by-step instructions for operating the printer.
 ------------
 ## Grease Maintenance
 [Main Page - Operating Procedures List](README.md#operating-procedures)
-* Every few months, spray white [litium grease](parts-lists.md#tools) to the [smooth rods](parts-lists.md#box-38---bed) and [ball screws](parts-lists.md#box-38---bed). It may be helpful to remove the side enclosure panels before application.
+* Every few months, spray white [lithium grease](parts-lists.md#tools) to the [smooth rods](parts-lists.md#box-38---bed) and [ball screws](parts-lists.md#box-38---bed). It may be helpful to remove the side enclosure panels before the application.
