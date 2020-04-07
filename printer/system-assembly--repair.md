@@ -300,15 +300,15 @@ This page contains supplemental information to accompany the assembly instructio
   * Lock-tight glue was not applied when screwing in the screws in case a mistake in assembly was made. //TODO: Check the screws after a few months of operation, and if any have come loose due to vibration, unscrew each, add a drop of glue and screw in again.
   * [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts)
     * If the layers shift, or shapes print with distorted X and Y coordinates, several steps should be revisited, including this one.
-    * Make sure the Y axis rail is parallel to the X shaft and does not have an angle. 
-      * Loosen the front X idler and the set screw of the pulley connecting the front X belt to the X shaft.
-      * Loosen the front X belt.
-      * Connect the Y axis to the frame using the calibration jigs.
-      * Loosen the screws holding the Y axis profile to the X rails.
-      * Tighten the X belt.
-      * Tighten the Y axis screws.
-      * Tighten the pulley connecting the front X belt to the X shaft and the X idler.
-      * Remove the calibration jigs.
+    * Make sure the Y axis rail is parallel to the X shaft and does not have an angle. To reposition the Y axis, 
+      * loosen the front X idler and the set screw of the pulley connecting the front X belt to the X shaft;
+      * loosen the front X belt;
+      * connect the Y axis to the frame using the calibration jigs;
+      * loosen the screws holding the Y axis profile to the X rails;
+      * tighten the X belt;
+      * tighten the Y axis screws;
+      * tighten the pulley connecting the front X belt to the X shaft and the X idler;
+      * remove the calibration jigs.
 <center>
 <table>
   <tr>
