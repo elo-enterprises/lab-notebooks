@@ -125,7 +125,9 @@ If the nozzle is not sufficiently tightened, leaks in the hot end can result. Du
 ## Ugly Overhangs
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-This issue has not yet been encountered.
+This issue, also known as "Poor Surface Above Supports," presents as visibly poor surface quality directly above supports, or in overhangs where there is no support underneath.
+* The first solution to try is lowering the Layer Height setting in the slicer. By dropping the height of each layer, more layers will be printed, allowing for a smoother surface without need of supports. Of course, this technique will result in a longer print time.
+* The second solution to try is to adjust the Support Infill Percentage setting in the slicer. If supports are designed too densely, they will be difficult to remove from the finished part, leading to situations where less-dense supports could effectively support the structure but are not used to avoid more-dense supports.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/poor-surface-above-supports/)
@@ -144,12 +146,24 @@ This issue has not yet been encountered.
 ## Scars on Top Surface
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-This issue has not yet been encountered.
+This issue presents literally from the nozzle being too close to the print, scraping as it moves and creating the appearance of scars.
+* The first solution to try is adjusting the Z Offset. Adding even half a millimeter in extra space between the nozzle and the print can help. In addition, consider readjusting the UBL mesh if the problem occurs consistently in some parts of the bed but not in others.
+* The second solution to try is making sure the printer is not extruding too much plastic. See the [Over-Extrusion](#over_extrusion) section for details.
+* The third solution to try is to make sure the Z Lift setting is enabled in the slicer. This will cause the print head to raise relative to the bed while moving and not extruding, minimizing the time that the print head is close to the surface.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/scars-on-top-surface/)
   * [Rigid.Ink](https://rigid.ink/pages/ultimate-troubleshooting-guide#scratches-on-top-layers-26)
   * [Matter Hackers](https://www.matterhackers.com/articles/3d-printer-troubleshooting-guide#Issue17)
+  
+------------
+## Over-Extrusion
+[Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
+
+This issue presents 
+
+* Articles:
+  * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/over-extrusion/)
   
 ------------
 ## Blobs and Zits
