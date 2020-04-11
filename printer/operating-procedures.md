@@ -72,6 +72,24 @@ This page contains step-by-step instructions for operating the printer.
     * If the circles appear as ellipses, this is likely due to improperly aligned X and Y axis belts. See [Troubleshooting - Layer Shifts](troubleshooting-issues.md#layer-shifts).
     * If the circles and lines are clearer in some parts of the bed than others, revisit the previous calibration step using the Modix online tool for UBL adjustment.
     * If the entire pattern is not sticking to the bed, see [Troubleshooting - First Layer Not Sticking to the Bed](troubleshooting-issues.md#first-layer-not-sticking-to-the-bed).
+<center>
+<table>
+  <tr>
+    <td><a href=img/Calibrate_Mesh_1_BadLines.jpg><img src=img/Calibrate_Mesh_1_BadLines.jpg width=550px></a></td>
+  </tr>
+  <tr>
+    <td><p align="center">Figure OPMesh1 - Poor Line Consistency</p></td>
+  </tr>
+  <tr>
+    <td><a href=img/Calibrate_Mesh_2_CloseupEllipse.jpg><img src=img/Calibrate_Mesh_2_CloseupEllipse.jpg width=550px></a></td>
+    <td><a href=img/Calibrate_Mesh_3_CloseupCircle.jpg><img src=img/Calibrate_Mesh_3_CloseupCircle.jpg width=550px></a></td>
+  </tr>
+  <tr>
+    <td><p align="center">Figure OPMesh2 - Ellipses</p></td>
+    <td><p align="center">Figure OPMesh3 - Circles</p></td>
+  </tr>
+</table>
+</center>
 
 ------------
 ## Running a Print
