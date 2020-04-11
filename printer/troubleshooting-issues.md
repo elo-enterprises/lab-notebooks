@@ -246,6 +246,18 @@ Testing
    * The test print first layer consists of thin circular walls, which could be more difficult to make the first layer stick than e.g. a single rectangle with a more continuous surface area. 
    * The circles in the middle Y with higher X stick better than the others, which could be explained by differences in height across the bed.
   * For the third test, the first layer speed was lowered to 30% of the 50 mm/s total, rather than 30 mm/s, leaving the Z offset at -0.75. The first layer successfully stuck to the bed.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Troubleshooting_1stLayerNotSticking_1.jpg><img src=img/Troubleshooting_1stLayerNotSticking_1.jpg width=550px></a></td>
+   <td><a href=img/Troubleshooting_1stLayerNotSticking_2.jpg><img src=img/Troubleshooting_1stLayerNotSticking_2.jpg width=550px></a></td>
+  </tr>
+  <tr>
+    <td><p align="center">Figure T1stLayer1</p></td>
+    <td><p align="center">Figure T1stLayer2</p></td>
+  </tr>
+</table>
+</center>
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-sticking-to-the-bed/)
