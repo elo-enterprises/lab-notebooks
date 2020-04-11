@@ -260,7 +260,7 @@ If the extruder grips the filament too tightly, it creates extra friction, which
 <center>
 <table>
   <tr>
-    <td><a href=img/Troubleshooting_Grinding_Filament.jpg><img src=img/Troubleshooting_Grinding_Filament.jpg width=300px></a></td>
+    <td><a href=img/Troubleshooting_Grinding_Filament.jpg><img src=img/Troubleshooting_Grinding_Filament.jpg width=550px></a></td>
   </tr>
   <tr>
     <td><p align="center">Figure TGrinding1 - Stripped Filament Shavings</p></td>
