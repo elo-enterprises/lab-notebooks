@@ -97,26 +97,26 @@ On the print MU75_joint_ring_extension, the same failure scenario was encountere
 <center>
 <table>
   <tr>
-    <td><a href=img/fail1.png><img src=img/20200209_152227.jpg width=300px></a></td>
-    <td><a href=img/fail1.png><img src=img/20200209_164950.jpg width=300px></a></td>
+    <td><a href=img/Troubleshooting_Spaghetti_Cylinder_1.jpg><img src=img/Troubleshooting_Spaghetti_Cylinder_1.jpg width=550px></a></td>
+    <td><a href=img/Troubleshooting_Spaghetti_Cylinder_2.jpg><img src=img/Troubleshooting_Spaghetti_Cylinder_2.jpg width=550px></a></td>
   </tr>
   <tr>
-    <td><p align="center">Figure TSpaghetti1</p></td>
-    <td><p align="center">Figure TSpaghetti2</p></td>
+    <td><p align="center">Figure TSpaghetti1 - Cylinder 1</p></td>
+    <td><p align="center">Figure TSpaghetti2 - Cylinder 2</p></td>
   </tr>
   <tr>
-    <td><a href=img/fail1.png><img src=img/20200209_172458.jpg width=300px></a></td>
-    <td><a href=img/fail1.png><img src=img/20200209_222938.jpg width=300px></a></td>
+    <td><a href=img/Troubleshooting_Spaghetti_Dome_1.jpg><img src=img/Troubleshooting_Spaghetti_Dome_1.jpg width=550px></a></td>
+    <td><a href=img/Troubleshooting_Spaghetti_Dome_2.jpg><img src=img/Troubleshooting_Spaghetti_Dome_2.jpg width=550px></a></td>
   </tr>
   <tr>
-    <td><p align="center">Figure TSpaghetti3</p></td>
-    <td><p align="center">Figure TSpaghetti4</p></td>
+    <td><p align="center">Figure TSpaghetti3 - Dome 1</p></td>
+    <td><p align="center">Figure TSpaghetti4 - Dome 2</p></td>
   </tr>
   <tr>
-    <td><a href=img/fail1.png><img src=img/20200209_230735.jpg width=300px></a></td>
+    <td><a href=img/Troubleshooting_Spaghetti_Array.jpg><img src=img/Troubleshooting_Spaghetti_Array.jpg width=550px></a></td>
   </tr>
   <tr>
-    <td><p align="center">Figure TSpaghetti5</p></td>
+    <td><p align="center">Figure TSpaghetti5 - Array of Objects</p></td>
   </tr>
 </table>
 </center>
