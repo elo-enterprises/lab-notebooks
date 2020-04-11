@@ -148,7 +148,7 @@ This issue has not yet been encountered.
 
 This issue presents literally from the nozzle being too close to the print, scraping as it moves and creating the appearance of scars.
 * The first solution to try is adjusting the Z Offset. Adding even half a millimeter in extra space between the nozzle and the print can help. In addition, consider readjusting the UBL mesh if the problem occurs consistently in some parts of the bed but not in others.
-* The second solution to try is making sure the printer is not extruding too much plastic. See the [Over-Extrusion](#over_extrusion) section for details.
+* The second solution to try is making sure the printer is not extruding too much plastic. See the [Over-Extrusion](#over-extrusion) section for details.
 * The third solution to try is to make sure the Z Lift setting is enabled in the slicer. This will cause the print head to raise relative to the bed while moving and not extruding, minimizing the time that the print head is close to the surface.
 
 * Articles:
