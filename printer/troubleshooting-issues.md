@@ -315,7 +315,17 @@ Take the extruder cover off and look for problems. If no obvious problem is foun
 ## Not Extruding at Start of Print
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-This issue has not yet been encountered.
+This issue was briefly encountered during early testing. Several different problems can cause this result, including a clogged nozzle. In this case, the problem disappeared after replacing the Modix-supplied INI file with a custom Elo INI without ever truly understanding what caused the problem.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Troubleshooting_NotExtrudingAtStart.jpg><img src=img/Troubleshooting_NotExtrudingAtStart.jpg width=550px></a></td>
+  </tr>
+  <tr>
+    <td><p align="center">Figure TNotExtrudingAtStart1</p></td>
+  </tr>
+</table>
+</center>
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/not-extruding-at-start-of-print/)
