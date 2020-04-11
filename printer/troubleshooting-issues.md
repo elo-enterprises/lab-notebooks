@@ -160,7 +160,13 @@ This issue presents literally from the nozzle being too close to the print, scra
 ## Over-Extrusion
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
-This issue presents 
+This issue presents as a deformed print, lines that are not crisp, lines that overlap with each other and change the size and shape of the print in progress. 
+* The first solution to try is to verify that the filament diameter is correctly recorded in the slicer. Also check the Extrusion Multiplier setting. Manually reducing this setting can ameliorate the problem.
+* Several variables could potentially impact the amount of plastic extruded, and on 2020-04-11 it is unclear exactly how these variables interact within the slicer. It is possible that the problem is in the interaction of inconsistent variables, though adjusting the Extrusion Multiplier could potentially override the visible outcome without addressing the underlying variables. These include
+  * printing speed; 
+  * printing flow rate;
+  * layer height;
+  * printing thickness.
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/over-extrusion/)
