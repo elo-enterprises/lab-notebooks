@@ -257,6 +257,16 @@ Testing
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
 
 If the extruder grips the filament too tightly, it creates extra friction, which can result in a screeching noise. The filament can become ground up in the extruder gear, and can even be stripped so much that it fails to push forward at all, ending the print. Take the extruder apart, clean the parts, reposition and check for improvement. The extruder screw should be just tight enough to push the filament into the extruder gear. See [Part 1 Step 19](system-assembly--repair.md#part-1--step-19-assembling-the-extruder).
+<center>
+<table>
+  <tr>
+    <td><a href=img/Troubleshooting_Grinding_Filament.jpg><img src=img/Troubleshooting_Grinding_Filament.jpg width=300px></a></td>
+  </tr>
+  <tr>
+    <td><p align="center">Figure TGrinding1 - Stripped Filament Shavings</p></td>
+  </tr>
+</table>
+</center>
 
 * Articles:
   * [Simplify3D Print Quality Guide](https://www.simplify3d.com/support/print-quality-troubleshooting/grinding-filament/)
