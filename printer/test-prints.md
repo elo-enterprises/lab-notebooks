@@ -21,7 +21,8 @@ This page contains data on prints performed with the Modix Big-60, including lin
     * Scale: 100%
     * Infill: 100%
   * Issues:
-    * Scars on Top Surface
+    * [Scars on Top Surface](troubleshooting-issues.md#scars-on-top-surface)
+    * [Ugly Overhangs](troubleshooting-issues.md#ugly-overhangs)
 <center>
 <table>
   <tr>
@@ -59,7 +60,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
     * Scale: 100%
     * Infill: 100%
   * Issues:
-    * Stringing & Oozing
+    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
 <center>
 <table>
   <tr>
@@ -78,7 +79,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
     * Scale: 100%
     * Infill: 70%
   * Issues:
-    * Weak Surface Under Supports
+    * None known.
 <center>
 <table>
   <tr>
@@ -116,7 +117,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
     * Scale: 100%
     * Infill: 70%
   * Issues:
-    * Stringing & Oozing
+    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
 <center>
 <table>
   <tr>
@@ -135,7 +136,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
     * Scale: 100%
     * Infill: 10%
   * Issues:
-    * Stringing & Oozing
+    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
 <center>
 <table>
   <tr>
