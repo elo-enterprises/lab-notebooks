@@ -101,11 +101,22 @@ On the print MU75_joint_ring_extension, the same failure scenario was encountere
     <td><a href=img/fail1.png><img src=img/20200209_164950.jpg width=300px></a></td>
   </tr>
   <tr>
+    <td><p align="center">Figure TSpaghetti1</p></td>
+    <td><p align="center">Figure TSpaghetti2</p></td>
+  </tr>
+  <tr>
     <td><a href=img/fail1.png><img src=img/20200209_172458.jpg width=300px></a></td>
     <td><a href=img/fail1.png><img src=img/20200209_222938.jpg width=300px></a></td>
   </tr>
   <tr>
+    <td><p align="center">Figure TSpaghetti3</p></td>
+    <td><p align="center">Figure TSpaghetti4</p></td>
+  </tr>
+  <tr>
     <td><a href=img/fail1.png><img src=img/20200209_230735.jpg width=300px></a></td>
+  </tr>
+  <tr>
+    <td><p align="center">Figure TSpaghetti5</p></td>
   </tr>
 </table>
 </center>
