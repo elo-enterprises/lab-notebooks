@@ -12,7 +12,7 @@ This page contains supplemental information to accompany the assembly instructio
   <tr>
     <td><a href=img/Inventory.jpg><img src=img/Inventory.jpg width=800px></a></td>
   </tr>
- <tr>
+  <tr>
     <td><p align="center">Figure 01-01-01 - Inventory</p></td>
   </tr>
 </table>
