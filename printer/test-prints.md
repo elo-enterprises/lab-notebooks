@@ -98,7 +98,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
     * Scale: 100%
     * Infill: 70%
   * Issues:
-    * Weak Surface Under Supports
+    * [Ugly Overhangs](troubleshooting-issues.md#ugly-overhangs)
 <center>
 <table>
   <tr>
