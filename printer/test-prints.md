@@ -44,8 +44,8 @@ This page contains data on prints performed with the Modix Big-60, including lin
 <center>
 <table>
   <tr>
-    <td><a href=img/><img src=img/ width=550px></a></td>
-    <td><a href=img/><img src=img/ width=550px></a></td>
+    <td><a href=img/Print_MastConn_20200405_1.jpg><img src=img/Print_MastConn_20200405_1.jpg width=550px></a></td>
+    <td><a href=img/Print_MastConn_20200405_2.jpg><img src=img/Print_MastConn_20200405_2.jpg width=550px></a></td>
   </tr>
  <tr>
     <td><p align="center">Figure P_AntennaMastConn 20200405 1</p></td>
