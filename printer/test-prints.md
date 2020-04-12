@@ -5,6 +5,18 @@
 This page contains data on prints performed with the Modix Big-60, including links to source models.
 
 ------------
+## Local Models
+[Main Page - Test Print List](README.md#test-prints)
+
+| Test Object | Notes |
+|-------------|-------|
+| [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl) |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+
+------------
 ## Thingiverse
 [Main Page - Test Print List](README.md#test-prints)
 
@@ -93,7 +105,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
 </table>
 </center>
 
-* 2020-04-09 [Antenna Mast End Cap]()
+* 2020-04-09 [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl)
   * Settings:
     * Scale: 100%
     * Infill: 70%
