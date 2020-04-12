@@ -12,9 +12,85 @@ This page contains data on prints performed with the Modix Big-60, including lin
 |-------------|-------|
 | [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl) |  |
 | [Desk Organizer](files/models/organizer_large.stl) |  |
+| [1U Rack Mount Cable Ring Vertical](files/models/1U_Cable_Ring_Vertical.stl) |  |
 | []() |  |
 | []() |  |
-| []() |  |
+
+* 2020-04-09 [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl)
+  * Settings:
+    * Scale: 100%
+    * Infill: 70%
+  * Issues:
+    * [Ugly Overhangs](troubleshooting-issues.md#ugly-overhangs)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Print_Mast_End_Cap_20200409_1.jpg><img src=img/Print_Mast_End_Cap_20200409_1.jpg width=550px></a></td>
+    <td><a href=img/Print_Mast_End_Cap_20200409_2.jpg><img src=img/Print_Mast_End_Cap_20200409_2.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure P_AntennaMastEndCap 20200409 1</p></td>
+    <td><p align="center">Figure P_AntennaMastEndCap 20200409 2</p></td>
+  </tr>
+</table>
+</center>
+
+* 2020-04-09 [Desk Organizer](files/models/organizer_large.stl)
+  * Settings:
+    * Scale: 100%
+    * Infill: 70%
+  * Issues:
+    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Print_Desk_Organizer_20200409_1.jpg><img src=img/Print_Desk_Organizer_20200409_1.jpg width=550px></a></td>
+    <td><a href=img/Print_Desk_Organizer_20200409_2.jpg><img src=img/Print_Desk_Organizer_20200409_2.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure P_DeskOrganizer 20200409 1</p></td>
+    <td><p align="center">Figure P_DeskOrganizer 20200409 2</p></td>
+  </tr>
+</table>
+</center>
+
+* 2020-04-11 [Desk Organizer](files/models/organizer_large.stl)
+  * Settings:
+    * Scale: 100%
+    * Infill: 10%
+  * Issues:
+    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
+<center>
+<table>
+  <tr>
+    <td><a href=img/Print_Desk_Organizer_20200411_1.jpg><img src=img/Print_Desk_Organizer_20200411_1.jpg width=550px></a></td>
+    <td><a href=img/Print_Desk_Organizer_20200411_2.jpg><img src=img/Print_Desk_Organizer_20200411_2.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure P_DeskOrganizer 20200411 1</p></td>
+    <td><p align="center">Figure P_DeskOrganizer 20200411 2</p></td>
+  </tr>
+</table>
+</center>
+
+* 2020-04-07 [1U Rack Mount Cable Ring Vertical](files/models/1U_Cable_Ring_Vertical.stl)
+  * Settings:
+    * Scale: 100%
+    * Infill: 70%
+  * Issues:
+    * None known.
+<center>
+<table>
+  <tr>
+    <td><a href=img/Print_Rack_Mount_Clip_20200407_1.jpg><img src=img/Print_Rack_Mount_Clip_20200407_1.jpg width=550px></a></td>
+    <td><a href=img/Print_Rack_Mount_Clip_20200407_2.jpg><img src=img/Print_Rack_Mount_Clip_20200407_2.jpg width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure P_RackMountClip 20200407 1</p></td>
+    <td><p align="center">Figure P_RackMountClip 20200407 2</p></td>
+  </tr>
+</table>
+</center>
 
 ------------
 ## Thingiverse
@@ -85,84 +161,6 @@ This page contains data on prints performed with the Modix Big-60, including lin
   </tr>
 </table>
 </center>
-
-* 2020-04-07 [Rack Mount Clip]()
-  * Settings:
-    * Scale: 100%
-    * Infill: 70%
-  * Issues:
-    * None known.
-<center>
-<table>
-  <tr>
-    <td><a href=img/Print_Rack_Mount_Clip_20200407_1.jpg><img src=img/Print_Rack_Mount_Clip_20200407_1.jpg width=550px></a></td>
-    <td><a href=img/Print_Rack_Mount_Clip_20200407_2.jpg><img src=img/Print_Rack_Mount_Clip_20200407_2.jpg width=550px></a></td>
-  </tr>
- <tr>
-    <td><p align="center">Figure P_RackMountClip 20200407 1</p></td>
-    <td><p align="center">Figure P_RackMountClip 20200407 2</p></td>
-  </tr>
-</table>
-</center>
-
-* 2020-04-09 [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl)
-  * Settings:
-    * Scale: 100%
-    * Infill: 70%
-  * Issues:
-    * [Ugly Overhangs](troubleshooting-issues.md#ugly-overhangs)
-<center>
-<table>
-  <tr>
-    <td><a href=img/Print_Mast_End_Cap_20200409_1.jpg><img src=img/Print_Mast_End_Cap_20200409_1.jpg width=550px></a></td>
-    <td><a href=img/Print_Mast_End_Cap_20200409_2.jpg><img src=img/Print_Mast_End_Cap_20200409_2.jpg width=550px></a></td>
-  </tr>
- <tr>
-    <td><p align="center">Figure P_AntennaMastEndCap 20200409 1</p></td>
-    <td><p align="center">Figure P_AntennaMastEndCap 20200409 2</p></td>
-  </tr>
-</table>
-</center>
-
-* 2020-04-09 [Desk Organizer](files/models/organizer_large.stl)
-  * Settings:
-    * Scale: 100%
-    * Infill: 70%
-  * Issues:
-    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
-<center>
-<table>
-  <tr>
-    <td><a href=img/Print_Desk_Organizer_20200409_1.jpg><img src=img/Print_Desk_Organizer_20200409_1.jpg width=550px></a></td>
-    <td><a href=img/Print_Desk_Organizer_20200409_2.jpg><img src=img/Print_Desk_Organizer_20200409_2.jpg width=550px></a></td>
-  </tr>
- <tr>
-    <td><p align="center">Figure P_DeskOrganizer 20200409 1</p></td>
-    <td><p align="center">Figure P_DeskOrganizer 20200409 2</p></td>
-  </tr>
-</table>
-</center>
-
-* 2020-04-11 [Desk Organizer]()
-  * Settings:
-    * Scale: 100%
-    * Infill: 10%
-  * Issues:
-    * [Stringing & Oozing](troubleshooting-issues.md#stringing--oozing)
-<center>
-<table>
-  <tr>
-    <td><a href=img/Print_Desk_Organizer_20200411_1.jpg><img src=img/Print_Desk_Organizer_20200411_1.jpg width=550px></a></td>
-    <td><a href=img/Print_Desk_Organizer_20200411_2.jpg><img src=img/Print_Desk_Organizer_20200411_2.jpg width=550px></a></td>
-  </tr>
- <tr>
-    <td><p align="center">Figure P_DeskOrganizer 20200411 1</p></td>
-    <td><p align="center">Figure P_DeskOrganizer 20200411 2</p></td>
-  </tr>
-</table>
-</center>
-
-
 
 ------------
 ## SketchUp
