@@ -11,10 +11,10 @@ This page contains data on prints performed with the Modix Big-60, including lin
 | Test Object | Notes |
 |-------------|-------|
 | [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl) |  |
+| [Antenna Mast Connector](files/models/pipe_reducer_1-0_20161115-11635-e0hipp-0.stl) |  |
 | [Desk Organizer](files/models/organizer_large.stl) |  |
 | [1U Rack Mount Cable Ring Vertical](files/models/1U_Cable_Ring_Vertical.stl) |  |
-| []() |  |
-| []() |  |
+| [Overarching Hex 8](files/models/overarching_hex_8.stl) |  |
 
 * 2020-04-09 [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl)
   * Settings:
@@ -31,6 +31,25 @@ This page contains data on prints performed with the Modix Big-60, including lin
  <tr>
     <td><p align="center">Figure P_AntennaMastEndCap 20200409 1</p></td>
     <td><p align="center">Figure P_AntennaMastEndCap 20200409 2</p></td>
+  </tr>
+</table>
+</center>
+
+* 2020-04-05 [Antenna Mast Connector](files/models/pipe_reducer_1-0_20161115-11635-e0hipp-0.stl)
+  * Settings:
+    * Scale: 100%
+    * Infill: 70%
+  * Issues:
+    * None known.
+<center>
+<table>
+  <tr>
+    <td><a href=img/><img src=img/ width=550px></a></td>
+    <td><a href=img/><img src=img/ width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure P_AntennaMastConn 20200405 1</p></td>
+    <td><p align="center">Figure P_AntennaMastConn 20200405 2</p></td>
   </tr>
 </table>
 </center>
@@ -88,6 +107,25 @@ This page contains data on prints performed with the Modix Big-60, including lin
  <tr>
     <td><p align="center">Figure P_RackMountClip 20200407 1</p></td>
     <td><p align="center">Figure P_RackMountClip 20200407 2</p></td>
+  </tr>
+</table>
+</center>
+
+* 2020-03-15 [Overarching Hex 8](files/models/overarching_hex_8.stl)
+  * Settings:
+    * Scale: 100%
+    * Infill: 70%
+  * Issues:
+    * [Blobs and Zits](troubleshooting-issues.md#blobs-and-zits)
+<center>
+<table>
+  <tr>
+    <td><a href=img/><img src=img/ width=550px></a></td>
+    <td><a href=img/><img src=img/ width=550px></a></td>
+  </tr>
+ <tr>
+    <td><p align="center">Figure P_Hex8 20200315 1</p></td>
+    <td><p align="center">Figure P_Hex8 20200315 2</p></td>
   </tr>
 </table>
 </center>
