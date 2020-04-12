@@ -11,7 +11,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
 | Test Object | Notes |
 |-------------|-------|
 | [Antenna Mast End Cap](files/models/End%20Cap%20v1.stl) |  |
-| []() |  |
+| [Desk Organizer](files/models/organizer_large.stl) |  |
 | []() |  |
 | []() |  |
 | []() |  |
@@ -124,7 +124,7 @@ This page contains data on prints performed with the Modix Big-60, including lin
 </table>
 </center>
 
-* 2020-04-09 [Desk Organizer]()
+* 2020-04-09 [Desk Organizer](files/models/organizer_large.stl)
   * Settings:
     * Scale: 100%
     * Infill: 70%
