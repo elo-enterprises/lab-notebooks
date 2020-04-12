@@ -120,8 +120,8 @@ This page contains data on prints performed with the Modix Big-60, including lin
 <center>
 <table>
   <tr>
-    <td><a href=img/><img src=img/ width=550px></a></td>
-    <td><a href=img/><img src=img/ width=550px></a></td>
+    <td><a href=img/Print_Hex8_20200315_1.jpg><img src=img/Print_Hex8_20200315_1.jpg width=550px></a></td>
+    <td><a href=img/Print_Hex8_20200315_2.jpg><img src=img/Print_Hex8_20200315_2.jpg width=550px></a></td>
   </tr>
  <tr>
     <td><p align="center">Figure P_Hex8 20200315 1</p></td>
