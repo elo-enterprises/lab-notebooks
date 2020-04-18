@@ -147,3 +147,8 @@ This page contains step-by-step instructions for operating the printer.
 ## Grease Maintenance
 [Main Page - Operating Procedures List](README.md#operating-procedures)
 * Every few months, spray white [lithium grease](parts-lists.md#tools) to the [smooth rods](parts-lists.md#box-38---bed) and [ball screws](parts-lists.md#box-38---bed). It may be helpful to remove the side enclosure panels before the application.
+
+------------
+## Temperature towers 
+
+TODO: create pre-sliced gcode for [a tower](https://hobbyhoarder.net/temperature-tower/)

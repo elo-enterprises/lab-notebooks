@@ -252,7 +252,7 @@ On 2020-02-06, the issue of curling was noticed in addition to the issue of the 
 The first layer speed was set to 30 mm/s. The Z offset was set to -0.7mm.
 
 Testing
- * For the first test, the bed temperature was lowered to 65 and the bed surface was clened with isopropyl alcohol. This did not solve the problem, and the first layer was still not sticking.
+ * For the first test, the bed temperature was lowered to 65 and the bed surface was cleaned with isopropyl alcohol. This did not solve the problem, and the first layer was still not sticking.
  * For the second test, after starting the print, the Z offset was tuned to -0.75mm. The problem persisted, with a few notes: 
    * The test print first layer consists of thin circular walls, which could be more difficult to make the first layer stick than e.g. a single rectangle with a more continuous surface area. 
    * The circles in the middle Y with higher X stick better than the others, which could be explained by differences in height across the bed.
