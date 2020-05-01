@@ -26,6 +26,7 @@ Type ctrl+C to exit the jupyter notebook kernel.
 To end work:
 In the iTerm command prompt, type 
  * "git status" to show you what files you changed.
+ * "git add data" if you added new files.
  * "git commit -a -m"commit message"" to commit the changed files to the local store.
  * "git push" to push the local changes to the git repository.
 
