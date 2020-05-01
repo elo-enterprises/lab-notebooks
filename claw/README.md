@@ -3,6 +3,25 @@ claw
 
 computational law
 
+Standard Operating Procedures
+------------
+
+To begin work:
+In the iTerm command prompt, type the shortcut "claw".
+This will:
+ * open the claw folder within iTerm
+ * open the claw environment so that software versions are consistent
+ * open the claw git connection
+Open Atom and open the claw folder.
+
+To run python files:
+
+
+To end work:
+In the iTerm command prompt, type "git commit".
+type "git push" to push your work into the git repository.
+
+
 Project Organization
 ------------
 
