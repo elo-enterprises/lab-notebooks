@@ -12,14 +12,23 @@ This will:
  * open the claw folder within iTerm
  * open the claw environment so that software versions are consistent
  * open the claw git connection
-Open Atom and open the claw folder.
+Type "atom ." and the Atom editor will open to the claw folder.
 
 To run python files:
+In the iTerm command prompt, 
+ * type "python scripts/script_name.py" to run a python file.
+ * type "ipython -i scripts/script_name.py" to enter interactive mode. (Type "exit" to leave interactive mode.)
 
+To open Jupyter notebooks:
+In the iTerm command prompt, type "jupyter notebook" to open a browser displaying all notebooks.
+Type ctrl+C to exit the jupyter notebook kernel.
 
 To end work:
-In the iTerm command prompt, type "git commit".
-type "git push" to push your work into the git repository.
+In the iTerm command prompt, type 
+ * "git status" to show you what files you changed.
+ * "git commit -a -m"commit message"" to commit the changed files to the local store.
+ * "git push" to push the local changes to the git repository.
+
 
 
 Project Organization
