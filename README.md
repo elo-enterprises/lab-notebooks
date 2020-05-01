@@ -1,52 +1,76 @@
-<table>
-  <tr>
-    <th col><strong>Elo Engineering</strong></th>
-    <th style="padding:0px 5px;text-align:right;float:right;">
-      <small><small>
-        <a href=https://github.com/elo-enterprises/lab-notebooks>Index</a> |
-        <a href=#overview>Overview</a> |
-        <a href=#related-work>Related Work</a> |
-        <a href=#workflows>Workflows</a>
-      </small><small>
-    </th>
-  </tr>
-  <tr>
-    <td width=15%><img src="img/icon.png" style="width:150px"></td>
-    <td width=100%>
-    <center>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <table style="width:100%;">
-      <tr>
-        <th colspan=2>Public Hardware Projects</th>
-      </tr>
-      <tr>
-        <td>
-          <a href="printer/">
-            <img src="img/printer.png" width=45px>
-            3d-Printing
-          </a>
-        </td>
-        <td>
-          <a href="water-tower/">
-            <img src="img/water-tower.png" width=45px>
-            WaterTower
-          </a>
-        </td>
-      </tr>
-    </table></center>
-    </td>
-  </tr>
-</table>
+claw
+==============================
 
-## Overview
+computational law
 
-This is the project index.  Choose a project below
+Standard Operating Procedures
+------------
 
-### [WaterTower](water-tower/)
+To begin work:
+In the iTerm command prompt, type the shortcut "claw".
+This will:
+ * open the claw folder within iTerm
+ * open the claw environment so that software versions are consistent
+ * open the claw git connection
+Open Atom and open the claw folder.
 
-Open design for a modular, smart, self-contained, off-grid water system / misting cabinet.
+To run python files:
 
-### [Printer](printer/)
 
-Build details, calibration notes, and test prints for a [Modix](http://www.modix3d.com/) large-format 3d printer.
- 
+To end work:
+In the iTerm command prompt, type "git commit".
+type "git push" to push your work into the git repository.
+
+
+Project Organization
+------------
+
+    ├── LICENSE
+    ├── Makefile           <- Makefile with commands like `make data` or `make train`
+    ├── README.md          <- The top-level README for developers using this project.
+    ├── data
+    │   ├── external       <- Data from third party sources.
+    │   ├── interim        <- Intermediate data that has been transformed.
+    │   ├── processed      <- The final, canonical data sets for modeling.
+    │   └── raw            <- The original, immutable data dump.
+    │
+    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    │
+    ├── models             <- Trained and serialized models, model predictions, or model summaries
+    │
+    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+    │                         the creator's initials, and a short `-` delimited description, e.g.
+    │                         `1.0-jqp-initial-data-exploration`.
+    │
+    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+    │
+    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    │   └── figures        <- Generated graphics and figures to be used in reporting
+    │
+    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+    │                         generated with `pip freeze > requirements.txt`
+    │
+    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
+    ├── src                <- Source code for use in this project.
+    │   ├── __init__.py    <- Makes src a Python module
+    │   │
+    │   ├── data           <- Scripts to download or generate data
+    │   │   └── make_dataset.py
+    │   │
+    │   ├── features       <- Scripts to turn raw data into features for modeling
+    │   │   └── build_features.py
+    │   │
+    │   ├── models         <- Scripts to train models and then use trained models to make
+    │   │   │                 predictions
+    │   │   ├── predict_model.py
+    │   │   └── train_model.py
+    │   │
+    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
+    │       └── visualize.py
+    │
+    └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
+
+
+--------
+
+<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
