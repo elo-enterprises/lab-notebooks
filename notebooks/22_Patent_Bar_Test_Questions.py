@@ -26,7 +26,7 @@ cypherString = 'CREATE \n'
 for index, row in df.iterrows():
     doc = str(row['Doc']).replace('\n',' ').strip()
     q = str(row['Q']).strip().replace('.0','')
-    cypherString += '(pbtq' + str(x) + ':PatentBar_TestQuestion { ' 
+    cypherString += '(pbtq' + str(x) + ':PatentBarTestQuestion { ' 
     cypherString += 'name: \'' + doc + ' - ' + q + '\', '
     cypherString += 'doc: \'' + doc + '\', '
     cypherString += 'q: \'' + q + '\''

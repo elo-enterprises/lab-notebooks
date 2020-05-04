@@ -17,11 +17,12 @@ Type "atom ." and the Atom editor will open to the claw folder.
 To run python files:
 In the iTerm command prompt, 
  * type "python scripts/script_name.py" to run a python file.
- * type "ipython -i scripts/script_name.py" to enter interactive mode. (Type "exit" to leave interactive mode.)
+ * type "ipython -i scripts/script_name.py" to enter interactive mode. 
+ * Type "exit" to leave interactive mode.
 
 To open Jupyter notebooks:
-In the iTerm command prompt, type "jupyter notebook" to open a browser displaying all notebooks.
-Type ctrl+C to exit the jupyter notebook kernel.
+ * In the iTerm command prompt, type "jupyter notebook" to open a browser displaying all notebooks.
+ * Type ctrl+C to exit the jupyter notebook kernel.
 
 To end work:
 In the iTerm command prompt, type 
