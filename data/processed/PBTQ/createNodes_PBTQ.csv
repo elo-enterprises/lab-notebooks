@@ -1,1225 +1,613 @@
-0
-"(_0:PatentBarTestQuestion {doc: 'QB', name: 'QB - 1', q: '1'})"
-"(_1:PatentBarTestQuestion {doc: 'QB', name: 'QB - 2', q: '2'})"
-"(_2:PatentBarTestQuestion {doc: 'QB', name: 'QB - 3', q: '3'})"
-"(_3:PatentBarTestQuestion {doc: 'QB', name: 'QB - 4', q: '4'})"
-"(_4:PatentBarTestQuestion {doc: 'QB', name: 'QB - 5', q: '5'})"
-"(_5:PatentBarTestQuestion {doc: 'QB', name: 'QB - 6', q: '6'})"
-"(_6:PatentBarTestQuestion {doc: 'QB', name: 'QB - 7', q: '7'})"
-"(_7:PatentBarTestQuestion {doc: 'QB', name: 'QB - 8', q: '8'})"
-"(_8:PatentBarTestQuestion {doc: 'QB', name: 'QB - 9', q: '9'})"
-"(_9:PatentBarTestQuestion {doc: 'QB', name: 'QB - 10', q: '10'})"
-"(_10:PatentBarTestQuestion {doc: 'QB', name: 'QB - 11', q: '11'})"
-"(_11:PatentBarTestQuestion {doc: 'QB', name: 'QB - 12', q: '12'})"
-"(_12:PatentBarTestQuestion {doc: 'QB', name: 'QB - 13', q: '13'})"
-"(_13:PatentBarTestQuestion {doc: 'QB', name: 'QB - 14', q: '14'})"
-"(_14:PatentBarTestQuestion {doc: 'QB', name: 'QB - 15', q: '15'})"
-"(_15:PatentBarTestQuestion {doc: 'QB', name: 'QB - 16', q: '16'})"
-"(_16:PatentBarTestQuestion {doc: 'QB', name: 'QB - 17', q: '17'})"
-"(_17:PatentBarTestQuestion {doc: 'QB', name: 'QB - 18', q: '18'})"
-"(_18:PatentBarTestQuestion {doc: 'QB', name: 'QB - 19', q: '19'})"
-"(_19:PatentBarTestQuestion {doc: 'QB', name: 'QB - 20', q: '20'})"
-"(_20:PatentBarTestQuestion {doc: 'QB', name: 'QB - 21', q: '21'})"
-"(_21:PatentBarTestQuestion {doc: 'QB', name: 'QB - 22', q: '22'})"
-"(_22:PatentBarTestQuestion {doc: 'QB', name: 'QB - 23', q: '23'})"
-"(_23:PatentBarTestQuestion {doc: 'QB', name: 'QB - 24', q: '24'})"
-"(_24:PatentBarTestQuestion {doc: 'QB', name: 'QB - 25', q: '25'})"
-"(_25:PatentBarTestQuestion {doc: 'QB', name: 'QB - 26', q: '26'})"
-"(_26:PatentBarTestQuestion {doc: 'QB', name: 'QB - 27', q: '27'})"
-"(_27:PatentBarTestQuestion {doc: 'QB', name: 'QB - 28', q: '28'})"
-"(_28:PatentBarTestQuestion {doc: 'QB', name: 'QB - 29', q: '29'})"
-"(_29:PatentBarTestQuestion {doc: 'QB', name: 'QB - 30', q: '30'})"
-"(_30:PatentBarTestQuestion {doc: 'QB', name: 'QB - 31', q: '31'})"
-"(_31:PatentBarTestQuestion {doc: 'QB', name: 'QB - 32', q: '32'})"
-"(_32:PatentBarTestQuestion {doc: 'QB', name: 'QB - 33', q: '33'})"
-"(_33:PatentBarTestQuestion {doc: 'QB', name: 'QB - 34', q: '34'})"
-"(_34:PatentBarTestQuestion {doc: 'QB', name: 'QB - 35', q: '35'})"
-"(_35:PatentBarTestQuestion {doc: 'QB', name: 'QB - 36', q: '36'})"
-"(_36:PatentBarTestQuestion {doc: 'QB', name: 'QB - 37', q: '37'})"
-"(_37:PatentBarTestQuestion {doc: 'QB', name: 'QB - 38', q: '38'})"
-"(_38:PatentBarTestQuestion {doc: 'QB', name: 'QB - 39', q: '39'})"
-"(_39:PatentBarTestQuestion {doc: 'QB', name: 'QB - 40', q: '40'})"
-"(_40:PatentBarTestQuestion {doc: 'QB', name: 'QB - 41', q: '41'})"
-"(_41:PatentBarTestQuestion {doc: 'QB', name: 'QB - 42', q: '42'})"
-"(_42:PatentBarTestQuestion {doc: 'QB', name: 'QB - 43', q: '43'})"
-"(_43:PatentBarTestQuestion {doc: 'QB', name: 'QB - 44', q: '44'})"
-"(_44:PatentBarTestQuestion {doc: 'QB', name: 'QB - 45', q: '45'})"
-"(_45:PatentBarTestQuestion {doc: 'QB', name: 'QB - 46', q: '46'})"
-"(_46:PatentBarTestQuestion {doc: 'QB', name: 'QB - 47', q: '47'})"
-"(_47:PatentBarTestQuestion {doc: 'QB', name: 'QB - 48', q: '48'})"
-"(_48:PatentBarTestQuestion {doc: 'QB', name: 'QB - 49', q: '49'})"
-"(_49:PatentBarTestQuestion {doc: 'QB', name: 'QB - 50', q: '50'})"
-"(_50:PatentBarTestQuestion {doc: 'QB', name: 'QB - 51', q: '51'})"
-"(_51:PatentBarTestQuestion {doc: 'QB', name: 'QB - 52', q: '52'})"
-"(_52:PatentBarTestQuestion {doc: 'QB', name: 'QB - 53', q: '53'})"
-"(_53:PatentBarTestQuestion {doc: 'QB', name: 'QB - 54', q: '54'})"
-"(_54:PatentBarTestQuestion {doc: 'QB', name: 'QB - 55', q: '55'})"
-"(_55:PatentBarTestQuestion {doc: 'QB', name: 'QB - 56', q: '56'})"
-"(_56:PatentBarTestQuestion {doc: 'QB', name: 'QB - 57', q: '57'})"
-"(_57:PatentBarTestQuestion {doc: 'QB', name: 'QB - 58', q: '58'})"
-"(_58:PatentBarTestQuestion {doc: 'QB', name: 'QB - 59', q: '59'})"
-"(_59:PatentBarTestQuestion {doc: 'QB', name: 'QB - 60', q: '60'})"
-"(_60:PatentBarTestQuestion {doc: 'QB', name: 'QB - 61', q: '61'})"
-"(_61:PatentBarTestQuestion {doc: 'QB', name: 'QB - 62', q: '62'})"
-"(_62:PatentBarTestQuestion {doc: 'QB', name: 'QB - 63', q: '63'})"
-"(_63:PatentBarTestQuestion {doc: 'QB', name: 'QB - 64', q: '64'})"
-"(_64:PatentBarTestQuestion {doc: 'QB', name: 'QB - 65', q: '65'})"
-"(_65:PatentBarTestQuestion {doc: 'QB', name: 'QB - 66', q: '66'})"
-"(_66:PatentBarTestQuestion {doc: 'QB', name: 'QB - 67', q: '67'})"
-"(_67:PatentBarTestQuestion {doc: 'QB', name: 'QB - 68', q: '68'})"
-"(_68:PatentBarTestQuestion {doc: 'QB', name: 'QB - 69', q: '69'})"
-"(_69:PatentBarTestQuestion {doc: 'QB', name: 'QB - 70', q: '70'})"
-"(_70:PatentBarTestQuestion {doc: 'QB', name: 'QB - 71', q: '71'})"
-"(_71:PatentBarTestQuestion {doc: 'QB', name: 'QB - 72', q: '72'})"
-"(_72:PatentBarTestQuestion {doc: 'QB', name: 'QB - 73', q: '73'})"
-"(_73:PatentBarTestQuestion {doc: 'QB', name: 'QB - 74', q: '74'})"
-"(_74:PatentBarTestQuestion {doc: 'QB', name: 'QB - 75', q: '75'})"
-"(_75:PatentBarTestQuestion {doc: 'QB', name: 'QB - 76', q: '76'})"
-"(_76:PatentBarTestQuestion {doc: 'QB', name: 'QB - 77', q: '77'})"
-"(_77:PatentBarTestQuestion {doc: 'QB', name: 'QB - 78', q: '78'})"
-"(_78:PatentBarTestQuestion {doc: 'QB', name: 'QB - 79', q: '79'})"
-"(_79:PatentBarTestQuestion {doc: 'QB', name: 'QB - 80', q: '80'})"
-"(_80:PatentBarTestQuestion {doc: 'QB', name: 'QB - 81', q: '81'})"
-"(_81:PatentBarTestQuestion {doc: 'QB', name: 'QB - 82', q: '82'})"
-"(_82:PatentBarTestQuestion {doc: 'QB', name: 'QB - 83', q: '83'})"
-"(_83:PatentBarTestQuestion {doc: 'QB', name: 'QB - 84', q: '84'})"
-"(_84:PatentBarTestQuestion {doc: 'QB', name: 'QB - 85', q: '85'})"
-"(_85:PatentBarTestQuestion {doc: 'QB', name: 'QB - 86', q: '86'})"
-"(_86:PatentBarTestQuestion {doc: 'QB', name: 'QB - 87', q: '87'})"
-"(_87:PatentBarTestQuestion {doc: 'QB', name: 'QB - 88', q: '88'})"
-"(_88:PatentBarTestQuestion {doc: 'QB', name: 'QB - 89', q: '89'})"
-"(_89:PatentBarTestQuestion {doc: 'QB', name: 'QB - 90', q: '90'})"
-"(_90:PatentBarTestQuestion {doc: 'QB', name: 'QB - 91', q: '91'})"
-"(_91:PatentBarTestQuestion {doc: 'QB', name: 'QB - 92', q: '92'})"
-"(_92:PatentBarTestQuestion {doc: 'QB', name: 'QB - 93', q: '93'})"
-"(_93:PatentBarTestQuestion {doc: 'QB', name: 'QB - 94', q: '94'})"
-"(_94:PatentBarTestQuestion {doc: 'QB', name: 'QB - 95', q: '95'})"
-"(_95:PatentBarTestQuestion {doc: 'QB', name: 'QB - 96', q: '96'})"
-"(_96:PatentBarTestQuestion {doc: 'QB', name: 'QB - 97', q: '97'})"
-"(_97:PatentBarTestQuestion {doc: 'QB', name: 'QB - 98', q: '98'})"
-"(_98:PatentBarTestQuestion {doc: 'QB', name: 'QB - 99', q: '99'})"
-"(_99:PatentBarTestQuestion {doc: 'QB', name: 'QB - 100', q: '100'})"
-"(_100:PatentBarTestQuestion {doc: 'QB', name: 'QB - 101', q: '101'})"
-"(_101:PatentBarTestQuestion {doc: 'QB', name: 'QB - 102', q: '102'})"
-"(_102:PatentBarTestQuestion {doc: 'QB', name: 'QB - 103', q: '103'})"
-"(_103:PatentBarTestQuestion {doc: 'QB', name: 'QB - 104', q: '104'})"
-"(_104:PatentBarTestQuestion {doc: 'QB', name: 'QB - 105', q: '105'})"
-"(_105:PatentBarTestQuestion {doc: 'QB', name: 'QB - 106', q: '106'})"
-"(_106:PatentBarTestQuestion {doc: 'QB', name: 'QB - 107', q: '107'})"
-"(_107:PatentBarTestQuestion {doc: 'QB', name: 'QB - 108', q: '108'})"
-"(_108:PatentBarTestQuestion {doc: 'QB', name: 'QB - 109', q: '109'})"
-"(_109:PatentBarTestQuestion {doc: 'QB', name: 'QB - 110', q: '110'})"
-"(_110:PatentBarTestQuestion {doc: 'QB', name: 'QB - 111', q: '111'})"
-"(_111:PatentBarTestQuestion {doc: 'QB', name: 'QB - 112', q: '112'})"
-"(_112:PatentBarTestQuestion {doc: 'QB', name: 'QB - 113', q: '113'})"
-"(_113:PatentBarTestQuestion {doc: 'QB', name: 'QB - 114', q: '114'})"
-"(_114:PatentBarTestQuestion {doc: 'QB', name: 'QB - 115', q: '115'})"
-"(_115:PatentBarTestQuestion {doc: 'QB', name: 'QB - 116', q: '116'})"
-"(_116:PatentBarTestQuestion {doc: 'QB', name: 'QB - 117', q: '117'})"
-"(_117:PatentBarTestQuestion {doc: 'QB', name: 'QB - 118', q: '118'})"
-"(_118:PatentBarTestQuestion {doc: 'QB', name: 'QB - 119', q: '119'})"
-"(_119:PatentBarTestQuestion {doc: 'QB', name: 'QB - 120', q: '120'})"
-"(_120:PatentBarTestQuestion {doc: 'QB', name: 'QB - 121', q: '121'})"
-"(_121:PatentBarTestQuestion {doc: 'QB', name: 'QB - 122', q: '122'})"
-"(_122:PatentBarTestQuestion {doc: 'QB', name: 'QB - 123', q: '123'})"
-"(_123:PatentBarTestQuestion {doc: 'QB', name: 'QB - 124', q: '124'})"
-"(_124:PatentBarTestQuestion {doc: 'QB', name: 'QB - 125', q: '125'})"
-"(_125:PatentBarTestQuestion {doc: 'QB', name: 'QB - 126', q: '126'})"
-"(_126:PatentBarTestQuestion {doc: 'QB', name: 'QB - 127', q: '127'})"
-"(_127:PatentBarTestQuestion {doc: 'QB', name: 'QB - 128', q: '128'})"
-"(_128:PatentBarTestQuestion {doc: 'QB', name: 'QB - 129', q: '129'})"
-"(_129:PatentBarTestQuestion {doc: 'QB', name: 'QB - 130', q: '130'})"
-"(_130:PatentBarTestQuestion {doc: 'QB', name: 'QB - 131', q: '131'})"
-"(_131:PatentBarTestQuestion {doc: 'QB', name: 'QB - 132', q: '132'})"
-"(_132:PatentBarTestQuestion {doc: 'QB', name: 'QB - 133', q: '133'})"
-"(_133:PatentBarTestQuestion {doc: 'QB', name: 'QB - 134', q: '134'})"
-"(_134:PatentBarTestQuestion {doc: 'QB', name: 'QB - 135', q: '135'})"
-"(_135:PatentBarTestQuestion {doc: 'QB', name: 'QB - 136', q: '136'})"
-"(_136:PatentBarTestQuestion {doc: 'QB', name: 'QB - 137', q: '137'})"
-"(_137:PatentBarTestQuestion {doc: 'QB', name: 'QB - 138', q: '138'})"
-"(_138:PatentBarTestQuestion {doc: 'QB', name: 'QB - 139', q: '139'})"
-"(_139:PatentBarTestQuestion {doc: 'QB', name: 'QB - 140', q: '140'})"
-"(_140:PatentBarTestQuestion {doc: 'QB', name: 'QB - 141', q: '141'})"
-"(_141:PatentBarTestQuestion {doc: 'QB', name: 'QB - 142', q: '142'})"
-"(_142:PatentBarTestQuestion {doc: 'QB', name: 'QB - 143', q: '143'})"
-"(_143:PatentBarTestQuestion {doc: 'QB', name: 'QB - 144', q: '144'})"
-"(_144:PatentBarTestQuestion {doc: 'QB', name: 'QB - 145', q: '145'})"
-"(_145:PatentBarTestQuestion {doc: 'QB', name: 'QB - 146', q: '146'})"
-"(_146:PatentBarTestQuestion {doc: 'QB', name: 'QB - 147', q: '147'})"
-"(_147:PatentBarTestQuestion {doc: 'QB', name: 'QB - 148', q: '148'})"
-"(_148:PatentBarTestQuestion {doc: 'QB', name: 'QB - 149', q: '149'})"
-"(_149:PatentBarTestQuestion {doc: 'QB', name: 'QB - 150', q: '150'})"
-"(_150:PatentBarTestQuestion {doc: 'QB', name: 'QB - 151', q: '151'})"
-"(_151:PatentBarTestQuestion {doc: 'QB', name: 'QB - 152', q: '152'})"
-"(_152:PatentBarTestQuestion {doc: 'QB', name: 'QB - 153', q: '153'})"
-"(_153:PatentBarTestQuestion {doc: 'QB', name: 'QB - 154', q: '154'})"
-"(_154:PatentBarTestQuestion {doc: 'QB', name: 'QB - 155', q: '155'})"
-"(_155:PatentBarTestQuestion {doc: 'QB', name: 'QB - 156', q: '156'})"
-"(_156:PatentBarTestQuestion {doc: 'QB', name: 'QB - 157', q: '157'})"
-"(_157:PatentBarTestQuestion {doc: 'QB', name: 'QB - 158', q: '158'})"
-"(_158:PatentBarTestQuestion {doc: 'QB', name: 'QB - 159', q: '159'})"
-"(_159:PatentBarTestQuestion {doc: 'QB', name: 'QB - 160', q: '160'})"
-"(_160:PatentBarTestQuestion {doc: 'QB', name: 'QB - 161', q: '161'})"
-"(_161:PatentBarTestQuestion {doc: 'QB', name: 'QB - 162', q: '162'})"
-"(_162:PatentBarTestQuestion {doc: 'QB', name: 'QB - 163', q: '163'})"
-"(_163:PatentBarTestQuestion {doc: 'QB', name: 'QB - 163', q: '163'})"
-"(_164:PatentBarTestQuestion {doc: 'QB', name: 'QB - 164', q: '164'})"
-"(_165:PatentBarTestQuestion {doc: 'QB', name: 'QB - 165', q: '165'})"
-"(_166:PatentBarTestQuestion {doc: 'QB', name: 'QB - 166', q: '166'})"
-"(_167:PatentBarTestQuestion {doc: 'QB', name: 'QB - 167', q: '167'})"
-"(_168:PatentBarTestQuestion {doc: 'QB', name: 'QB - 168', q: '168'})"
-"(_169:PatentBarTestQuestion {doc: 'QB', name: 'QB - 169', q: '169'})"
-"(_170:PatentBarTestQuestion {doc: 'QB', name: 'QB - 170', q: '170'})"
-"(_171:PatentBarTestQuestion {doc: 'QB', name: 'QB - 171', q: '171'})"
-"(_172:PatentBarTestQuestion {doc: 'QB', name: 'QB - 172', q: '172'})"
-"(_173:PatentBarTestQuestion {doc: 'QB', name: 'QB - 173', q: '173'})"
-"(_174:PatentBarTestQuestion {doc: 'QB', name: 'QB - 174', q: '174'})"
-"(_175:PatentBarTestQuestion {doc: 'QB', name: 'QB - 175', q: '175'})"
-"(_176:PatentBarTestQuestion {doc: 'QB', name: 'QB - 176', q: '176'})"
-"(_177:PatentBarTestQuestion {doc: 'QB', name: 'QB - 177', q: '177'})"
-"(_178:PatentBarTestQuestion {doc: 'QB', name: 'QB - 178', q: '178'})"
-"(_179:PatentBarTestQuestion {doc: 'QB', name: 'QB - 179', q: '179'})"
-"(_180:PatentBarTestQuestion {doc: 'QB', name: 'QB - 180', q: '180'})"
-"(_181:PatentBarTestQuestion {doc: 'QB', name: 'QB - 181', q: '181'})"
-"(_182:PatentBarTestQuestion {doc: 'QB', name: 'QB - 182', q: '182'})"
-"(_183:PatentBarTestQuestion {doc: 'QB', name: 'QB - 183', q: '183'})"
-"(_184:PatentBarTestQuestion {doc: 'QB', name: 'QB - 184', q: '184'})"
-"(_185:PatentBarTestQuestion {doc: 'QB', name: 'QB - 185', q: '185'})"
-"(_186:PatentBarTestQuestion {doc: 'QB', name: 'QB - 186', q: '186'})"
-"(_187:PatentBarTestQuestion {doc: 'QB', name: 'QB - 187', q: '187'})"
-"(_188:PatentBarTestQuestion {doc: 'QB', name: 'QB - 188', q: '188'})"
-"(_189:PatentBarTestQuestion {doc: 'QB', name: 'QB - 189', q: '189'})"
-"(_190:PatentBarTestQuestion {doc: 'QB', name: 'QB - 190', q: '190'})"
-"(_191:PatentBarTestQuestion {doc: 'QB', name: 'QB - 191', q: '191'})"
-"(_192:PatentBarTestQuestion {doc: 'QB', name: 'QB - 192', q: '192'})"
-"(_193:PatentBarTestQuestion {doc: 'QB', name: 'QB - 193', q: '193'})"
-"(_194:PatentBarTestQuestion {doc: 'QB', name: 'QB - 194', q: '194'})"
-"(_195:PatentBarTestQuestion {doc: 'QB', name: 'QB - 195', q: '195'})"
-"(_196:PatentBarTestQuestion {doc: 'QB', name: 'QB - 196', q: '196'})"
-"(_197:PatentBarTestQuestion {doc: 'QB', name: 'QB - 197', q: '197'})"
-"(_198:PatentBarTestQuestion {doc: 'QB', name: 'QB - 198', q: '198'})"
-"(_199:PatentBarTestQuestion {doc: 'QB', name: 'QB - 199', q: '199'})"
-"(_200:PatentBarTestQuestion {doc: 'QB', name: 'QB - 200', q: '200'})"
-"(_201:PatentBarTestQuestion {doc: 'QB', name: 'QB - 201', q: '201'})"
-"(_202:PatentBarTestQuestion {doc: 'QB', name: 'QB - 202', q: '202'})"
-"(_203:PatentBarTestQuestion {doc: 'QB', name: 'QB - 203', q: '203'})"
-"(_204:PatentBarTestQuestion {doc: 'QB', name: 'QB - 204', q: '204'})"
-"(_205:PatentBarTestQuestion {doc: 'QB', name: 'QB - 205', q: '205'})"
-"(_206:PatentBarTestQuestion {doc: 'QB', name: 'QB - 206', q: '206'})"
-"(_207:PatentBarTestQuestion {doc: 'QB', name: 'QB - 207', q: '207'})"
-"(_208:PatentBarTestQuestion {doc: 'QB', name: 'QB - 208', q: '208'})"
-"(_209:PatentBarTestQuestion {doc: 'QB', name: 'QB - 209', q: '209'})"
-"(_210:PatentBarTestQuestion {doc: 'QB', name: 'QB - 210', q: '210'})"
-"(_211:PatentBarTestQuestion {doc: 'QB', name: 'QB - 211', q: '211'})"
-"(_212:PatentBarTestQuestion {doc: 'QB', name: 'QB - 212', q: '212'})"
-"(_213:PatentBarTestQuestion {doc: 'QB', name: 'QB - 213', q: '213'})"
-"(_214:PatentBarTestQuestion {doc: 'QB', name: 'QB - 214', q: '214'})"
-"(_215:PatentBarTestQuestion {doc: 'QB', name: 'QB - 215', q: '215'})"
-"(_216:PatentBarTestQuestion {doc: 'QB', name: 'QB - 216', q: '216'})"
-"(_217:PatentBarTestQuestion {doc: 'QB', name: 'QB - 217', q: '217'})"
-"(_218:PatentBarTestQuestion {doc: 'QB', name: 'QB - 218', q: '218'})"
-"(_219:PatentBarTestQuestion {doc: 'QB', name: 'QB - 219', q: '219'})"
-"(_220:PatentBarTestQuestion {doc: 'QB', name: 'QB - 220', q: '220'})"
-"(_221:PatentBarTestQuestion {doc: 'QB', name: 'QB - 221', q: '221'})"
-"(_222:PatentBarTestQuestion {doc: 'QB', name: 'QB - 222', q: '222'})"
-"(_223:PatentBarTestQuestion {doc: 'QB', name: 'QB - 223', q: '223'})"
-"(_224:PatentBarTestQuestion {doc: 'QB', name: 'QB - 224', q: '224'})"
-"(_225:PatentBarTestQuestion {doc: 'QB', name: 'QB - 225', q: '225'})"
-"(_226:PatentBarTestQuestion {doc: 'QB', name: 'QB - 226', q: '226'})"
-"(_227:PatentBarTestQuestion {doc: 'QB', name: 'QB - 227', q: '227'})"
-"(_228:PatentBarTestQuestion {doc: 'QB', name: 'QB - 228', q: '228'})"
-"(_229:PatentBarTestQuestion {doc: 'QB', name: 'QB - 229', q: '229'})"
-"(_230:PatentBarTestQuestion {doc: 'QB', name: 'QB - 230', q: '230'})"
-"(_231:PatentBarTestQuestion {doc: 'QB', name: 'QB - 231', q: '231'})"
-"(_232:PatentBarTestQuestion {doc: 'QB', name: 'QB - 232', q: '232'})"
-"(_233:PatentBarTestQuestion {doc: 'QB', name: 'QB - 233', q: '233'})"
-"(_234:PatentBarTestQuestion {doc: 'QB', name: 'QB - 234', q: '234'})"
-"(_235:PatentBarTestQuestion {doc: 'QB', name: 'QB - 235', q: '235'})"
-"(_236:PatentBarTestQuestion {doc: 'QB', name: 'QB - 236', q: '236'})"
-"(_237:PatentBarTestQuestion {doc: 'QB', name: 'QB - 237', q: '237'})"
-"(_238:PatentBarTestQuestion {doc: 'QB', name: 'QB - 238', q: '238'})"
-"(_239:PatentBarTestQuestion {doc: 'QB', name: 'QB - 239', q: '239'})"
-"(_240:PatentBarTestQuestion {doc: 'QB', name: 'QB - 240', q: '240'})"
-"(_241:PatentBarTestQuestion {doc: 'QB', name: 'QB - 241', q: '241'})"
-"(_242:PatentBarTestQuestion {doc: 'QB', name: 'QB - 242', q: '242'})"
-"(_243:PatentBarTestQuestion {doc: 'QB', name: 'QB - 243', q: '243'})"
-"(_244:PatentBarTestQuestion {doc: 'QB', name: 'QB - 244', q: '244'})"
-"(_245:PatentBarTestQuestion {doc: 'QB', name: 'QB - 245', q: '245'})"
-"(_246:PatentBarTestQuestion {doc: 'QB', name: 'QB - 246', q: '246'})"
-"(_247:PatentBarTestQuestion {doc: 'QB', name: 'QB - 247', q: '247'})"
-"(_248:PatentBarTestQuestion {doc: 'QB', name: 'QB - 248', q: '248'})"
-"(_249:PatentBarTestQuestion {doc: 'QB', name: 'QB - 249', q: '249'})"
-"(_250:PatentBarTestQuestion {doc: 'QB', name: 'QB - 250', q: '250'})"
-"(_251:PatentBarTestQuestion {doc: 'QB', name: 'QB - 251', q: '251'})"
-"(_252:PatentBarTestQuestion {doc: 'QB', name: 'QB - 252', q: '252'})"
-"(_253:PatentBarTestQuestion {doc: 'QB', name: 'QB - 253', q: '253'})"
-"(_254:PatentBarTestQuestion {doc: 'QB', name: 'QB - 254', q: '254'})"
-"(_255:PatentBarTestQuestion {doc: 'QB', name: 'QB - 255', q: '255'})"
-"(_256:PatentBarTestQuestion {doc: 'QB', name: 'QB - 256', q: '256'})"
-"(_257:PatentBarTestQuestion {doc: 'QB', name: 'QB - 257', q: '257'})"
-"(_258:PatentBarTestQuestion {doc: 'QB', name: 'QB - 258', q: '258'})"
-"(_259:PatentBarTestQuestion {doc: 'QB', name: 'QB - 259', q: '259'})"
-"(_260:PatentBarTestQuestion {doc: 'QB', name: 'QB - 260', q: '260'})"
-"(_261:PatentBarTestQuestion {doc: 'QB', name: 'QB - 261', q: '261'})"
-"(_262:PatentBarTestQuestion {doc: 'QB', name: 'QB - 262', q: '262'})"
-"(_263:PatentBarTestQuestion {doc: 'QB', name: 'QB - 263', q: '263'})"
-"(_264:PatentBarTestQuestion {doc: 'QB', name: 'QB - 264', q: '264'})"
-"(_265:PatentBarTestQuestion {doc: 'QB', name: 'QB - 265', q: '265'})"
-"(_266:PatentBarTestQuestion {doc: 'QB', name: 'QB - 266', q: '266'})"
-"(_267:PatentBarTestQuestion {doc: 'QB', name: 'QB - 267', q: '267'})"
-"(_268:PatentBarTestQuestion {doc: 'QB', name: 'QB - 268', q: '268'})"
-"(_269:PatentBarTestQuestion {doc: 'QB', name: 'QB - 269', q: '269'})"
-"(_270:PatentBarTestQuestion {doc: 'QB', name: 'QB - 270', q: '270'})"
-"(_271:PatentBarTestQuestion {doc: 'QB', name: 'QB - 271', q: '271'})"
-"(_272:PatentBarTestQuestion {doc: 'QB', name: 'QB - 272', q: '272'})"
-"(_273:PatentBarTestQuestion {doc: 'QB', name: 'QB - 273', q: '273'})"
-"(_274:PatentBarTestQuestion {doc: 'QB', name: 'QB - 274', q: '274'})"
-"(_275:PatentBarTestQuestion {doc: 'QB', name: 'QB - 275', q: '275'})"
-"(_276:PatentBarTestQuestion {doc: 'QB', name: 'QB - 276', q: '276'})"
-"(_277:PatentBarTestQuestion {doc: 'QB', name: 'QB - 277', q: '277'})"
-"(_278:PatentBarTestQuestion {doc: 'QB', name: 'QB - 278', q: '278'})"
-"(_279:PatentBarTestQuestion {doc: 'QB', name: 'QB - 279', q: '279'})"
-"(_280:PatentBarTestQuestion {doc: 'QB', name: 'QB - 280', q: '280'})"
-"(_281:PatentBarTestQuestion {doc: 'QB', name: 'QB - 281', q: '281'})"
-"(_282:PatentBarTestQuestion {doc: 'QB', name: 'QB - 282', q: '282'})"
-"(_283:PatentBarTestQuestion {doc: 'QB', name: 'QB - 283', q: '283'})"
-"(_284:PatentBarTestQuestion {doc: 'QB', name: 'QB - 284', q: '284'})"
-"(_285:PatentBarTestQuestion {doc: 'QB', name: 'QB - 285', q: '285'})"
-"(_286:PatentBarTestQuestion {doc: 'QB', name: 'QB - 286', q: '286'})"
-"(_287:PatentBarTestQuestion {doc: 'QB', name: 'QB - 287', q: '287'})"
-"(_288:PatentBarTestQuestion {doc: 'QB', name: 'QB - 288', q: '288'})"
-"(_289:PatentBarTestQuestion {doc: 'QB', name: 'QB - 289', q: '289'})"
-"(_290:PatentBarTestQuestion {doc: 'QB', name: 'QB - 290', q: '290'})"
-"(_291:PatentBarTestQuestion {doc: 'QB', name: 'QB - 291', q: '291'})"
-"(_292:PatentBarTestQuestion {doc: 'QB', name: 'QB - 292', q: '292'})"
-"(_293:PatentBarTestQuestion {doc: 'QB', name: 'QB - 293', q: '293'})"
-"(_294:PatentBarTestQuestion {doc: 'QB', name: 'QB - 294', q: '294'})"
-"(_295:PatentBarTestQuestion {doc: 'QB', name: 'QB - 295', q: '295'})"
-"(_296:PatentBarTestQuestion {doc: 'QB', name: 'QB - 296', q: '296'})"
-"(_297:PatentBarTestQuestion {doc: 'QB', name: 'QB - 297', q: '297'})"
-"(_298:PatentBarTestQuestion {doc: 'QB', name: 'QB - 298', q: '298'})"
-"(_299:PatentBarTestQuestion {doc: 'QB', name: 'QB - 299', q: '299'})"
-"(_300:PatentBarTestQuestion {doc: 'QB', name: 'QB - 300', q: '300'})"
-"(_301:PatentBarTestQuestion {doc: 'QB', name: 'QB - 301', q: '301'})"
-"(_302:PatentBarTestQuestion {doc: 'QB', name: 'QB - 302', q: '302'})"
-"(_303:PatentBarTestQuestion {doc: 'QB', name: 'QB - 303', q: '303'})"
-"(_304:PatentBarTestQuestion {doc: 'QB', name: 'QB - 304', q: '304'})"
-"(_305:PatentBarTestQuestion {doc: 'QB', name: 'QB - 305', q: '305'})"
-"(_306:PatentBarTestQuestion {doc: 'QB', name: 'QB - 306', q: '306'})"
-"(_307:PatentBarTestQuestion {doc: 'QB', name: 'QB - 307', q: '307'})"
-"(_308:PatentBarTestQuestion {doc: 'QB', name: 'QB - 308', q: '308'})"
-"(_309:PatentBarTestQuestion {doc: 'QB', name: 'QB - 309', q: '309'})"
-"(_310:PatentBarTestQuestion {doc: 'QB', name: 'QB - 310', q: '310'})"
-"(_311:PatentBarTestQuestion {doc: 'QB', name: 'QB - 311', q: '311'})"
-"(_312:PatentBarTestQuestion {doc: 'QB', name: 'QB - 312', q: '312'})"
-"(_313:PatentBarTestQuestion {doc: 'QB', name: 'QB - 313', q: '313'})"
-"(_314:PatentBarTestQuestion {doc: 'QB', name: 'QB - 314', q: '314'})"
-"(_315:PatentBarTestQuestion {doc: 'QB', name: 'QB - 315', q: '315'})"
-"(_316:PatentBarTestQuestion {doc: 'QB', name: 'QB - 316', q: '316'})"
-"(_317:PatentBarTestQuestion {doc: 'QB', name: 'QB - 317', q: '317'})"
-"(_318:PatentBarTestQuestion {doc: 'QB', name: 'QB - 318', q: '318'})"
-"(_319:PatentBarTestQuestion {doc: 'QB', name: 'QB - 319', q: '319'})"
-"(_320:PatentBarTestQuestion {doc: 'QB', name: 'QB - 320', q: '320'})"
-"(_321:PatentBarTestQuestion {doc: 'QB', name: 'QB - 321', q: '321'})"
-"(_322:PatentBarTestQuestion {doc: 'QB', name: 'QB - 322', q: '322'})"
-"(_323:PatentBarTestQuestion {doc: 'QB', name: 'QB - 323', q: '323'})"
-"(_324:PatentBarTestQuestion {doc: 'QB', name: 'QB - 324', q: '324'})"
-"(_325:PatentBarTestQuestion {doc: 'QB', name: 'QB - 325', q: '325'})"
-"(_326:PatentBarTestQuestion {doc: 'QB', name: 'QB - 326', q: '326'})"
-"(_327:PatentBarTestQuestion {doc: 'QB', name: 'QB - 327', q: '327'})"
-"(_328:PatentBarTestQuestion {doc: 'QB', name: 'QB - 328', q: '328'})"
-"(_329:PatentBarTestQuestion {doc: 'QB', name: 'QB - 329', q: '329'})"
-"(_330:PatentBarTestQuestion {doc: 'QB', name: 'QB - 330', q: '330'})"
-"(_331:PatentBarTestQuestion {doc: 'QB', name: 'QB - 331', q: '331'})"
-"(_332:PatentBarTestQuestion {doc: 'QB', name: 'QB - 332', q: '332'})"
-"(_333:PatentBarTestQuestion {doc: 'QB', name: 'QB - 333', q: '333'})"
-"(_334:PatentBarTestQuestion {doc: 'QB', name: 'QB - 334', q: '334'})"
-"(_335:PatentBarTestQuestion {doc: 'QB', name: 'QB - 335', q: '335'})"
-"(_336:PatentBarTestQuestion {doc: 'QB', name: 'QB - 336', q: '336'})"
-"(_337:PatentBarTestQuestion {doc: 'QB', name: 'QB - 337', q: '337'})"
-"(_338:PatentBarTestQuestion {doc: 'QB', name: 'QB - 338', q: '338'})"
-"(_339:PatentBarTestQuestion {doc: 'QB', name: 'QB - 339', q: '339'})"
-"(_340:PatentBarTestQuestion {doc: 'QB', name: 'QB - 340', q: '340'})"
-"(_341:PatentBarTestQuestion {doc: 'QB', name: 'QB - 341', q: '341'})"
-"(_342:PatentBarTestQuestion {doc: 'QB', name: 'QB - 342', q: '342'})"
-"(_343:PatentBarTestQuestion {doc: 'QB', name: 'QB - 343', q: '343'})"
-"(_344:PatentBarTestQuestion {doc: 'QB', name: 'QB - 344', q: '344'})"
-"(_345:PatentBarTestQuestion {doc: 'QB', name: 'QB - 345', q: '345'})"
-"(_346:PatentBarTestQuestion {doc: 'QB', name: 'QB - 346', q: '346'})"
-"(_347:PatentBarTestQuestion {doc: 'QB', name: 'QB - 347', q: '347'})"
-"(_348:PatentBarTestQuestion {doc: 'QB', name: 'QB - 348', q: '348'})"
-"(_349:PatentBarTestQuestion {doc: 'QB', name: 'QB - 349', q: '349'})"
-"(_350:PatentBarTestQuestion {doc: 'QB', name: 'QB - 350', q: '350'})"
-"(_351:PatentBarTestQuestion {doc: 'QB', name: 'QB - 351', q: '351'})"
-"(_352:PatentBarTestQuestion {doc: 'QB', name: 'QB - 352', q: '352'})"
-"(_353:PatentBarTestQuestion {doc: 'QB', name: 'QB - 353', q: '353'})"
-"(_354:PatentBarTestQuestion {doc: 'QB', name: 'QB - 354', q: '354'})"
-"(_355:PatentBarTestQuestion {doc: 'QB', name: 'QB - 355', q: '355'})"
-"(_356:PatentBarTestQuestion {doc: 'QB', name: 'QB - 356', q: '356'})"
-"(_357:PatentBarTestQuestion {doc: 'QB', name: 'QB - 357', q: '357'})"
-"(_358:PatentBarTestQuestion {doc: 'QB', name: 'QB - 358', q: '358'})"
-"(_359:PatentBarTestQuestion {doc: 'QB', name: 'QB - 359', q: '359'})"
-"(_360:PatentBarTestQuestion {doc: 'QB', name: 'QB - 360', q: '360'})"
-"(_361:PatentBarTestQuestion {doc: 'QB', name: 'QB - 361', q: '361'})"
-"(_362:PatentBarTestQuestion {doc: 'QB', name: 'QB - 362', q: '362'})"
-"(_363:PatentBarTestQuestion {doc: 'QB', name: 'QB - 363', q: '363'})"
-"(_364:PatentBarTestQuestion {doc: 'QB', name: 'QB - 364', q: '364'})"
-"(_365:PatentBarTestQuestion {doc: 'QB', name: 'QB - 365', q: '365'})"
-"(_366:PatentBarTestQuestion {doc: 'QB', name: 'QB - 366', q: '366'})"
-"(_367:PatentBarTestQuestion {doc: 'QB', name: 'QB - 367', q: '367'})"
-"(_368:PatentBarTestQuestion {doc: 'QB', name: 'QB - 368', q: '368'})"
-"(_369:PatentBarTestQuestion {doc: 'QB', name: 'QB - 369', q: '369'})"
-"(_370:PatentBarTestQuestion {doc: 'QB', name: 'QB - 370', q: '370'})"
-"(_371:PatentBarTestQuestion {doc: 'QB', name: 'QB - 371', q: '371'})"
-"(_372:PatentBarTestQuestion {doc: 'QB', name: 'QB - 372', q: '372'})"
-"(_373:PatentBarTestQuestion {doc: 'QB', name: 'QB - 373', q: '373'})"
-"(_374:PatentBarTestQuestion {doc: 'QB', name: 'QB - 374', q: '374'})"
-"(_375:PatentBarTestQuestion {doc: 'QB', name: 'QB - 375', q: '375'})"
-"(_376:PatentBarTestQuestion {doc: 'QB', name: 'QB - 376', q: '376'})"
-"(_377:PatentBarTestQuestion {doc: 'QB', name: 'QB - 377', q: '377'})"
-"(_378:PatentBarTestQuestion {doc: 'QB', name: 'QB - 378', q: '378'})"
-"(_379:PatentBarTestQuestion {doc: 'QB', name: 'QB - 379', q: '379'})"
-"(_380:PatentBarTestQuestion {doc: 'QB', name: 'QB - 380', q: '380'})"
-"(_381:PatentBarTestQuestion {doc: 'QB', name: 'QB - 380', q: '380'})"
-"(_382:PatentBarTestQuestion {doc: 'QB', name: 'QB - 380', q: '380'})"
-"(_383:PatentBarTestQuestion {doc: 'QB', name: 'QB - 381', q: '381'})"
-"(_384:PatentBarTestQuestion {doc: 'EPC1 May 2015', name: 'EPC1 May 2015 - 1', q: '1'})"
-"(_385:PatentBarTestQuestion {doc: 'EPC1 May 2015', name: 'EPC1 May 2015 - 2', q: '2'})"
-"(_386:PatentBarTestQuestion {doc: 'EPC1 April 2015', name: 'EPC1 April 2015 - 1', q: '1'})"
-"(_387:PatentBarTestQuestion {doc: 'EPC1 April 2015', name: 'EPC1 April 2015 - 2', q: '2'})"
-"(_388:PatentBarTestQuestion {doc: 'EPC1 March 2015', name: 'EPC1 March 2015 - 1', q: '1'})"
-"(_389:PatentBarTestQuestion {doc: 'EPC1 March 2015', name: 'EPC1 March 2015 - 2', q: '2'})"
-"(_390:PatentBarTestQuestion {doc: 'EPC1 February 2015', name: 'EPC1 February 2015 - 1', q: '1'})"
-"(_391:PatentBarTestQuestion {doc: 'EPC1 February 2015', name: 'EPC1 February 2015 - 2', q: '2'})"
-"(_392:PatentBarTestQuestion {doc: 'EPC1 January 2015', name: 'EPC1 January 2015 - 1', q: '1'})"
-"(_393:PatentBarTestQuestion {doc: 'EPC1 January 2015', name: 'EPC1 January 2015 - 2', q: '2'})"
-"(_394:PatentBarTestQuestion {doc: 'EPC1 December 2014', name: 'EPC1 December 2014 - 1', q: '1'})"
-"(_395:PatentBarTestQuestion {doc: 'EPC1 December 2014', name: 'EPC1 December 2014 - 2', q: '2'})"
-"(_396:PatentBarTestQuestion {doc: 'EPC1 November 2014', name: 'EPC1 November 2014 - 1', q: '1'})"
-"(_397:PatentBarTestQuestion {doc: 'EPC1 October 2014', name: 'EPC1 October 2014 - 1', q: '1'})"
-"(_398:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 1', q: '1'})"
-"(_399:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 2', q: '2'})"
-"(_400:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 3', q: '3'})"
-"(_401:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 4', q: '4'})"
-"(_402:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 5', q: '5'})"
-"(_403:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 5', q: '5'})"
-"(_404:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 6', q: '6'})"
-"(_405:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 7', q: '7'})"
-"(_406:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 8', q: '8'})"
-"(_407:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 1', q: '1'})"
-"(_408:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 2', q: '2'})"
-"(_409:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 3', q: '3'})"
-"(_410:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 4', q: '4'})"
-"(_411:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 5', q: '5'})"
-"(_412:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 6', q: '6'})"
-"(_413:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 1', q: '1'})"
-"(_414:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 2', q: '2'})"
-"(_415:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 3', q: '3'})"
-"(_416:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 4', q: '4'})"
-"(_417:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 5', q: '5'})"
-"(_418:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 6', q: '6'})"
-"(_419:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 7', q: '7'})"
-"(_420:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 8', q: '8'})"
-"(_421:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 9', q: '9'})"
-"(_422:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 10', q: '10'})"
-"(_423:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 11', q: '11'})"
-"(_424:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 12', q: '12'})"
-"(_425:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 13', q: '13'})"
-"(_426:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 14', q: '14'})"
-"(_427:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 15', q: '15'})"
-"(_428:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 16', q: '16'})"
-"(_429:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 17', q: '17'})"
-"(_430:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 18', q: '18'})"
-"(_431:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 19', q: '19'})"
-"(_432:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 1', q: '1'})"
-"(_433:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 2', q: '2'})"
-"(_434:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 3', q: '3'})"
-"(_435:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 4', q: '4'})"
-"(_436:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 1', q: '1'})"
-"(_437:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 2', q: '2'})"
-"(_438:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 3', q: '3'})"
-"(_439:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 4', q: '4'})"
-"(_440:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 5', q: '5'})"
-"(_441:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 1', q: '1'})"
-"(_442:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 2', q: '2'})"
-"(_443:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 3', q: '3'})"
-"(_444:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 4', q: '4'})"
-"(_445:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 1', q: '1'})"
-"(_446:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 2', q: '2'})"
-"(_447:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 3', q: '3'})"
-"(_448:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 4', q: '4'})"
-"(_449:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 5', q: '5'})"
-"(_450:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 1', q: '1'})"
-"(_451:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 2', q: '2'})"
-"(_452:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 3', q: '3'})"
-"(_453:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 4', q: '4'})"
-"(_454:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 5', q: '5'})"
-"(_455:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 1', q: '1'})"
-"(_456:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 2', q: '2'})"
-"(_457:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 3', q: '3'})"
-"(_458:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 4', q: '4'})"
-"(_459:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 5', q: '5'})"
-"(_460:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 6', q: '6'})"
-"(_461:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 7', q: '7'})"
-"(_462:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 1', q: '1'})"
-"(_463:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 2', q: '2'})"
-"(_464:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 3', q: '3'})"
-"(_465:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 4', q: '4'})"
-"(_466:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 5', q: '5'})"
-"(_467:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 6', q: '6'})"
-"(_468:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 7', q: '7'})"
-"(_469:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 1', q: '1'})"
-"(_470:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 2', q: '2'})"
-"(_471:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 3', q: '3'})"
-"(_472:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 4', q: '4'})"
-"(_473:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 5', q: '5'})"
-"(_474:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 6', q: '6'})"
-"(_475:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 7', q: '7'})"
-"(_476:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 8', q: '8'})"
-"(_477:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 1', q: '1'})"
-"(_478:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 2', q: '2'})"
-"(_479:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 3', q: '3'})"
-"(_480:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 4', q: '4'})"
-"(_481:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 5', q: '5'})"
-"(_482:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 6', q: '6'})"
-"(_483:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 7', q: '7'})"
-"(_484:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 8', q: '8'})"
-"(_485:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 9', q: '9'})"
-"(_486:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 1', q: '1'})"
-"(_487:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 2', q: '2'})"
-"(_488:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 3', q: '3'})"
-"(_489:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 4', q: '4'})"
-"(_490:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 5', q: '5'})"
-"(_491:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 6', q: '6'})"
-"(_492:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 7', q: '7'})"
-"(_493:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 8', q: '8'})"
-"(_494:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 9', q: '9'})"
-"(_495:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 10', q: '10'})"
-"(_496:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 11', q: '11'})"
-"(_497:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 1', q: '1'})"
-"(_498:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 2', q: '2'})"
-"(_499:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 3', q: '3'})"
-"(_500:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 4', q: '4'})"
-"(_501:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 5', q: '5'})"
-"(_502:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 6', q: '6'})"
-"(_503:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 7', q: '7'})"
-"(_504:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 8', q: '8'})"
-"(_505:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 9', q: '9'})"
-"(_506:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 10', q: '10'})"
-"(_507:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 11', q: '11'})"
-"(_508:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 12', q: '12'})"
-"(_509:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 1', q: '1'})"
-"(_510:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 2', q: '2'})"
-"(_511:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 3', q: '3'})"
-"(_512:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 4', q: '4'})"
-"(_513:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 5', q: '5'})"
-"(_514:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 1', q: '1'})"
-"(_515:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 2', q: '2'})"
-"(_516:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 3', q: '3'})"
-"(_517:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 4', q: '4'})"
-"(_518:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 5', q: '5'})"
-"(_519:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 1', q: '1'})"
-"(_520:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 2', q: '2'})"
-"(_521:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 3', q: '3'})"
-"(_522:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 4', q: '4'})"
-"(_523:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 5', q: '5'})"
-"(_524:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 1', q: '1'})"
-"(_525:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 2', q: '2'})"
-"(_526:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 3', q: '3'})"
-"(_527:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 4', q: '4'})"
-"(_528:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 5', q: '5'})"
-"(_529:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 1', q: '1'})"
-"(_530:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 2', q: '2'})"
-"(_531:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 3', q: '3'})"
-"(_532:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 4', q: '4'})"
-"(_533:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 5', q: '5'})"
-"(_534:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 1', q: '1'})"
-"(_535:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 2', q: '2'})"
-"(_536:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 3', q: '3'})"
-"(_537:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 4', q: '4'})"
-"(_538:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 5', q: '5'})"
-"(_539:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 1', q: '1'})"
-"(_540:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 2', q: '2'})"
-"(_541:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 3', q: '3'})"
-"(_542:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 4', q: '4'})"
-"(_543:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 5', q: '5'})"
-"(_544:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 1', q: '1'})"
-"(_545:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 2', q: '2'})"
-"(_546:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 3', q: '3'})"
-"(_547:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 4', q: '4'})"
-"(_548:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 5', q: '5'})"
-"(_549:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 1', q: '1'})"
-"(_550:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 2', q: '2'})"
-"(_551:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 3', q: '3'})"
-"(_552:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 4', q: '4'})"
-"(_553:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 5', q: '5'})"
-"(_554:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 1', q: '1'})"
-"(_555:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 2', q: '2'})"
-"(_556:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 3', q: '3'})"
-"(_557:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 4', q: '4'})"
-"(_558:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 5', q: '5'})"
-"(_559:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 1', q: '1'})"
-"(_560:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 2', q: '2'})"
-"(_561:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 3', q: '3'})"
-"(_562:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 4', q: '4'})"
-"(_563:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 5', q: '5'})"
-"(_564:PatentBarTestQuestion {doc: 'EPC3 May 2017', name: 'EPC3 May 2017 - 1', q: '1'})"
-"(_565:PatentBarTestQuestion {doc: 'EPC3 June 2017', name: 'EPC3 June 2017 - 1', q: '1'})"
-"(_566:PatentBarTestQuestion {doc: 'EPC3 July 2017', name: 'EPC3 July 2017 - 1', q: '1'})"
-"(_567:PatentBarTestQuestion {doc: 'EPC3 July 2017', name: 'EPC3 July 2017 - 2', q: '2'})"
-"(_568:PatentBarTestQuestion {doc: 'EPC3 August 2017', name: 'EPC3 August 2017 - 1', q: '1'})"
-"(_569:PatentBarTestQuestion {doc: 'EPC3 September 2017', name: 'EPC3 September 2017 - 1', q: '1'})"
-"(_570:PatentBarTestQuestion {doc: 'EPC3 November 2017', name: 'EPC3 November 2017 - 1', q: '1'})"
-"(_571:PatentBarTestQuestion {doc: 'EPC3 November 2017', name: 'EPC3 November 2017 - 2', q: '2'})"
-"(_572:PatentBarTestQuestion {doc: 'EPC3 December 2017', name: 'EPC3 December 2017 - 1', q: '1'})"
-"(_573:PatentBarTestQuestion {doc: 'EPC3 December 2017', name: 'EPC3 December 2017 - 2', q: '2'})"
-"(_574:PatentBarTestQuestion {doc: 'EPC3 January 2018', name: 'EPC3 January 2018 - 1', q: '1'})"
-"(_575:PatentBarTestQuestion {doc: 'EPC3 January 2018', name: 'EPC3 January 2018 - 2', q: '2'})"
-"(_576:PatentBarTestQuestion {doc: 'EPC3 March 2018', name: 'EPC3 March 2018 - 1', q: '1'})"
-"(_577:PatentBarTestQuestion {doc: 'EPC3 April 2018', name: 'EPC3 April 2018 - 1', q: '1'})"
-"(_578:PatentBarTestQuestion {doc: 'EPC3 April 2018', name: 'EPC3 April 2018 - 2', q: '2'})"
-"(_579:PatentBarTestQuestion {doc: 'EPC3 May 2018', name: 'EPC3 May 2018 - 1', q: '1'})"
-"(_580:PatentBarTestQuestion {doc: 'EPC3 May 2018', name: 'EPC3 May 2018 - 2', q: '2'})"
-"(_581:PatentBarTestQuestion {doc: 'EPC3 June 2018', name: 'EPC3 June 2018 - 1', q: '1'})"
-"(_582:PatentBarTestQuestion {doc: 'EPC3 July 2018', name: 'EPC3 July 2018 - 1', q: '1'})"
-"(_583:PatentBarTestQuestion {doc: 'EPC3 July 2018', name: 'EPC3 July 2018 - 2', q: '2'})"
-"(_584:PatentBarTestQuestion {doc: 'EPC3 August 2018', name: 'EPC3 August 2018 - 1', q: '1'})"
-"(_585:PatentBarTestQuestion {doc: 'EPC3 August 2018', name: 'EPC3 August 2018 - 2', q: '2'})"
-"(_586:PatentBarTestQuestion {doc: 'EPC3 September 2018', name: 'EPC3 September 2018 - 1', q: '1'})"
-"(_587:PatentBarTestQuestion {doc: 'EPC3 October 2018', name: 'EPC3 October 2018 - 1', q: '1'})"
-"(_588:PatentBarTestQuestion {doc: 'EPC3 November 2018', name: 'EPC3 November 2018 - 1', q: '1'})"
-"(_589:PatentBarTestQuestion {doc: 'EPC3 November 2018', name: 'EPC3 November 2018 - 2', q: '2'})"
-"(_590:PatentBarTestQuestion {doc: 'EPC3 December 2018', name: 'EPC3 December 2018 - 1', q: '1'})"
-"(_591:PatentBarTestQuestion {doc: 'EPC3 January 2019', name: 'EPC3 January 2019 - 1', q: '1'})"
-"(_592:PatentBarTestQuestion {doc: 'EPC3 January 2019', name: 'EPC3 January 2019 - 2', q: '2'})"
-"(_593:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 1', q: '1'})"
-"(_594:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 2', q: '2'})"
-"(_595:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 3', q: '3'})"
-"(_596:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 4', q: '4'})"
-"(_597:PatentBarTestQuestion {doc: 'EPC3 March 2019', name: 'EPC3 March 2019 - 1', q: '1'})"
-"(_598:PatentBarTestQuestion {doc: 'EPC3 March 2019', name: 'EPC3 March 2019 - 2', q: '2'})"
-"(_599:PatentBarTestQuestion {doc: 'EPC3 March 2019', name: 'EPC3 March 2019 - 3', q: '3'})"
-"(_600:PatentBarTestQuestion {doc: 'EPC3 April 2019', name: 'EPC3 April 2019 - 1', q: '1'})"
-"(_601:PatentBarTestQuestion {doc: 'EPC3 April 2019', name: 'EPC3 April 2019 - 2', q: '2'})"
-"(_602:PatentBarTestQuestion {doc: 'EPC3 May 2019', name: 'EPC3 May 2019 - 1', q: '1'})"
-"(_603:PatentBarTestQuestion {doc: 'EPC3 May 2019', name: 'EPC3 May 2019 - 2', q: '2'})"
-"(_604:PatentBarTestQuestion {doc: 'EPC3 May 2019', name: 'EPC3 May 2019 - 3', q: '3'})"
-"(_605:PatentBarTestQuestion {doc: 'EPC3 June 2019', name: 'EPC3 June 2019 - 1', q: '1'})"
-"(_606:PatentBarTestQuestion {doc: 'EPC3 June 2019', name: 'EPC3 June 2019 - 2', q: '2'})"
-"(_607:PatentBarTestQuestion {doc: 'EPC3 June 2019', name: 'EPC3 June 2019 - 3', q: '3'})"
-"(_608:PatentBarTestQuestion {doc: 'EPC3 July 2019', name: 'EPC3 July 2019 - 1', q: '1'})"
-"(_609:PatentBarTestQuestion {doc: 'EPC3 August 2019', name: 'EPC3 August 2019 - 1', q: '1'})"
-"(_610:PatentBarTestQuestion {doc: 'EPC3 August 2019', name: 'EPC3 August 2019 - 2', q: '2'})"
-"(_611:PatentBarTestQuestion {doc: 'EPC3 August 2019', name: 'EPC3 August 2019 - 3', q: '3'})"
-"(_2964:PatentBarTestQuestion {doc: 'QB', name: 'QB - 1', q: '1'})"
-"(_2965:PatentBarTestQuestion {doc: 'QB', name: 'QB - 2', q: '2'})"
-"(_2966:PatentBarTestQuestion {doc: 'QB', name: 'QB - 3', q: '3'})"
-"(_2967:PatentBarTestQuestion {doc: 'QB', name: 'QB - 4', q: '4'})"
-"(_2968:PatentBarTestQuestion {doc: 'QB', name: 'QB - 5', q: '5'})"
-"(_2969:PatentBarTestQuestion {doc: 'QB', name: 'QB - 6', q: '6'})"
-"(_2970:PatentBarTestQuestion {doc: 'QB', name: 'QB - 7', q: '7'})"
-"(_2971:PatentBarTestQuestion {doc: 'QB', name: 'QB - 8', q: '8'})"
-"(_2972:PatentBarTestQuestion {doc: 'QB', name: 'QB - 9', q: '9'})"
-"(_2973:PatentBarTestQuestion {doc: 'QB', name: 'QB - 10', q: '10'})"
-"(_2974:PatentBarTestQuestion {doc: 'QB', name: 'QB - 11', q: '11'})"
-"(_2975:PatentBarTestQuestion {doc: 'QB', name: 'QB - 12', q: '12'})"
-"(_2976:PatentBarTestQuestion {doc: 'QB', name: 'QB - 13', q: '13'})"
-"(_2977:PatentBarTestQuestion {doc: 'QB', name: 'QB - 14', q: '14'})"
-"(_2978:PatentBarTestQuestion {doc: 'QB', name: 'QB - 15', q: '15'})"
-"(_2979:PatentBarTestQuestion {doc: 'QB', name: 'QB - 16', q: '16'})"
-"(_2980:PatentBarTestQuestion {doc: 'QB', name: 'QB - 17', q: '17'})"
-"(_2981:PatentBarTestQuestion {doc: 'QB', name: 'QB - 18', q: '18'})"
-"(_2982:PatentBarTestQuestion {doc: 'QB', name: 'QB - 19', q: '19'})"
-"(_2983:PatentBarTestQuestion {doc: 'QB', name: 'QB - 20', q: '20'})"
-"(_2984:PatentBarTestQuestion {doc: 'QB', name: 'QB - 21', q: '21'})"
-"(_2985:PatentBarTestQuestion {doc: 'QB', name: 'QB - 22', q: '22'})"
-"(_2986:PatentBarTestQuestion {doc: 'QB', name: 'QB - 23', q: '23'})"
-"(_2987:PatentBarTestQuestion {doc: 'QB', name: 'QB - 24', q: '24'})"
-"(_2988:PatentBarTestQuestion {doc: 'QB', name: 'QB - 25', q: '25'})"
-"(_2989:PatentBarTestQuestion {doc: 'QB', name: 'QB - 26', q: '26'})"
-"(_2990:PatentBarTestQuestion {doc: 'QB', name: 'QB - 27', q: '27'})"
-"(_2991:PatentBarTestQuestion {doc: 'QB', name: 'QB - 28', q: '28'})"
-"(_2992:PatentBarTestQuestion {doc: 'QB', name: 'QB - 29', q: '29'})"
-"(_2993:PatentBarTestQuestion {doc: 'QB', name: 'QB - 30', q: '30'})"
-"(_2994:PatentBarTestQuestion {doc: 'QB', name: 'QB - 31', q: '31'})"
-"(_2995:PatentBarTestQuestion {doc: 'QB', name: 'QB - 32', q: '32'})"
-"(_2996:PatentBarTestQuestion {doc: 'QB', name: 'QB - 33', q: '33'})"
-"(_2997:PatentBarTestQuestion {doc: 'QB', name: 'QB - 34', q: '34'})"
-"(_2998:PatentBarTestQuestion {doc: 'QB', name: 'QB - 35', q: '35'})"
-"(_2999:PatentBarTestQuestion {doc: 'QB', name: 'QB - 36', q: '36'})"
-"(_3000:PatentBarTestQuestion {doc: 'QB', name: 'QB - 37', q: '37'})"
-"(_3001:PatentBarTestQuestion {doc: 'QB', name: 'QB - 38', q: '38'})"
-"(_3002:PatentBarTestQuestion {doc: 'QB', name: 'QB - 39', q: '39'})"
-"(_3003:PatentBarTestQuestion {doc: 'QB', name: 'QB - 40', q: '40'})"
-"(_3004:PatentBarTestQuestion {doc: 'QB', name: 'QB - 41', q: '41'})"
-"(_3005:PatentBarTestQuestion {doc: 'QB', name: 'QB - 42', q: '42'})"
-"(_3006:PatentBarTestQuestion {doc: 'QB', name: 'QB - 43', q: '43'})"
-"(_3007:PatentBarTestQuestion {doc: 'QB', name: 'QB - 44', q: '44'})"
-"(_3008:PatentBarTestQuestion {doc: 'QB', name: 'QB - 45', q: '45'})"
-"(_3009:PatentBarTestQuestion {doc: 'QB', name: 'QB - 46', q: '46'})"
-"(_3010:PatentBarTestQuestion {doc: 'QB', name: 'QB - 47', q: '47'})"
-"(_3011:PatentBarTestQuestion {doc: 'QB', name: 'QB - 48', q: '48'})"
-"(_3012:PatentBarTestQuestion {doc: 'QB', name: 'QB - 49', q: '49'})"
-"(_3013:PatentBarTestQuestion {doc: 'QB', name: 'QB - 50', q: '50'})"
-"(_3014:PatentBarTestQuestion {doc: 'QB', name: 'QB - 51', q: '51'})"
-"(_3015:PatentBarTestQuestion {doc: 'QB', name: 'QB - 52', q: '52'})"
-"(_3016:PatentBarTestQuestion {doc: 'QB', name: 'QB - 53', q: '53'})"
-"(_3017:PatentBarTestQuestion {doc: 'QB', name: 'QB - 54', q: '54'})"
-"(_3018:PatentBarTestQuestion {doc: 'QB', name: 'QB - 55', q: '55'})"
-"(_3019:PatentBarTestQuestion {doc: 'QB', name: 'QB - 56', q: '56'})"
-"(_3020:PatentBarTestQuestion {doc: 'QB', name: 'QB - 57', q: '57'})"
-"(_3021:PatentBarTestQuestion {doc: 'QB', name: 'QB - 58', q: '58'})"
-"(_3022:PatentBarTestQuestion {doc: 'QB', name: 'QB - 59', q: '59'})"
-"(_3023:PatentBarTestQuestion {doc: 'QB', name: 'QB - 60', q: '60'})"
-"(_3024:PatentBarTestQuestion {doc: 'QB', name: 'QB - 61', q: '61'})"
-"(_3025:PatentBarTestQuestion {doc: 'QB', name: 'QB - 62', q: '62'})"
-"(_3026:PatentBarTestQuestion {doc: 'QB', name: 'QB - 63', q: '63'})"
-"(_3027:PatentBarTestQuestion {doc: 'QB', name: 'QB - 64', q: '64'})"
-"(_3028:PatentBarTestQuestion {doc: 'QB', name: 'QB - 65', q: '65'})"
-"(_3029:PatentBarTestQuestion {doc: 'QB', name: 'QB - 66', q: '66'})"
-"(_3030:PatentBarTestQuestion {doc: 'QB', name: 'QB - 67', q: '67'})"
-"(_3031:PatentBarTestQuestion {doc: 'QB', name: 'QB - 68', q: '68'})"
-"(_3032:PatentBarTestQuestion {doc: 'QB', name: 'QB - 69', q: '69'})"
-"(_3033:PatentBarTestQuestion {doc: 'QB', name: 'QB - 70', q: '70'})"
-"(_3034:PatentBarTestQuestion {doc: 'QB', name: 'QB - 71', q: '71'})"
-"(_3035:PatentBarTestQuestion {doc: 'QB', name: 'QB - 72', q: '72'})"
-"(_3036:PatentBarTestQuestion {doc: 'QB', name: 'QB - 73', q: '73'})"
-"(_3037:PatentBarTestQuestion {doc: 'QB', name: 'QB - 74', q: '74'})"
-"(_3038:PatentBarTestQuestion {doc: 'QB', name: 'QB - 75', q: '75'})"
-"(_3039:PatentBarTestQuestion {doc: 'QB', name: 'QB - 76', q: '76'})"
-"(_3040:PatentBarTestQuestion {doc: 'QB', name: 'QB - 77', q: '77'})"
-"(_3041:PatentBarTestQuestion {doc: 'QB', name: 'QB - 78', q: '78'})"
-"(_3042:PatentBarTestQuestion {doc: 'QB', name: 'QB - 79', q: '79'})"
-"(_3043:PatentBarTestQuestion {doc: 'QB', name: 'QB - 80', q: '80'})"
-"(_3044:PatentBarTestQuestion {doc: 'QB', name: 'QB - 81', q: '81'})"
-"(_3045:PatentBarTestQuestion {doc: 'QB', name: 'QB - 82', q: '82'})"
-"(_3046:PatentBarTestQuestion {doc: 'QB', name: 'QB - 83', q: '83'})"
-"(_3047:PatentBarTestQuestion {doc: 'QB', name: 'QB - 84', q: '84'})"
-"(_3048:PatentBarTestQuestion {doc: 'QB', name: 'QB - 85', q: '85'})"
-"(_3049:PatentBarTestQuestion {doc: 'QB', name: 'QB - 86', q: '86'})"
-"(_3050:PatentBarTestQuestion {doc: 'QB', name: 'QB - 87', q: '87'})"
-"(_3051:PatentBarTestQuestion {doc: 'QB', name: 'QB - 88', q: '88'})"
-"(_3052:PatentBarTestQuestion {doc: 'QB', name: 'QB - 89', q: '89'})"
-"(_3053:PatentBarTestQuestion {doc: 'QB', name: 'QB - 90', q: '90'})"
-"(_3054:PatentBarTestQuestion {doc: 'QB', name: 'QB - 91', q: '91'})"
-"(_3055:PatentBarTestQuestion {doc: 'QB', name: 'QB - 92', q: '92'})"
-"(_3056:PatentBarTestQuestion {doc: 'QB', name: 'QB - 93', q: '93'})"
-"(_3057:PatentBarTestQuestion {doc: 'QB', name: 'QB - 94', q: '94'})"
-"(_3058:PatentBarTestQuestion {doc: 'QB', name: 'QB - 95', q: '95'})"
-"(_3059:PatentBarTestQuestion {doc: 'QB', name: 'QB - 96', q: '96'})"
-"(_3060:PatentBarTestQuestion {doc: 'QB', name: 'QB - 97', q: '97'})"
-"(_3061:PatentBarTestQuestion {doc: 'QB', name: 'QB - 98', q: '98'})"
-"(_3062:PatentBarTestQuestion {doc: 'QB', name: 'QB - 99', q: '99'})"
-"(_3063:PatentBarTestQuestion {doc: 'QB', name: 'QB - 100', q: '100'})"
-"(_3064:PatentBarTestQuestion {doc: 'QB', name: 'QB - 101', q: '101'})"
-"(_3065:PatentBarTestQuestion {doc: 'QB', name: 'QB - 102', q: '102'})"
-"(_3066:PatentBarTestQuestion {doc: 'QB', name: 'QB - 103', q: '103'})"
-"(_3067:PatentBarTestQuestion {doc: 'QB', name: 'QB - 104', q: '104'})"
-"(_3068:PatentBarTestQuestion {doc: 'QB', name: 'QB - 105', q: '105'})"
-"(_3069:PatentBarTestQuestion {doc: 'QB', name: 'QB - 106', q: '106'})"
-"(_3070:PatentBarTestQuestion {doc: 'QB', name: 'QB - 107', q: '107'})"
-"(_3071:PatentBarTestQuestion {doc: 'QB', name: 'QB - 108', q: '108'})"
-"(_3072:PatentBarTestQuestion {doc: 'QB', name: 'QB - 109', q: '109'})"
-"(_3073:PatentBarTestQuestion {doc: 'QB', name: 'QB - 110', q: '110'})"
-"(_3074:PatentBarTestQuestion {doc: 'QB', name: 'QB - 111', q: '111'})"
-"(_3075:PatentBarTestQuestion {doc: 'QB', name: 'QB - 112', q: '112'})"
-"(_3076:PatentBarTestQuestion {doc: 'QB', name: 'QB - 113', q: '113'})"
-"(_3077:PatentBarTestQuestion {doc: 'QB', name: 'QB - 114', q: '114'})"
-"(_3078:PatentBarTestQuestion {doc: 'QB', name: 'QB - 115', q: '115'})"
-"(_3079:PatentBarTestQuestion {doc: 'QB', name: 'QB - 116', q: '116'})"
-"(_3080:PatentBarTestQuestion {doc: 'QB', name: 'QB - 117', q: '117'})"
-"(_3081:PatentBarTestQuestion {doc: 'QB', name: 'QB - 118', q: '118'})"
-"(_3082:PatentBarTestQuestion {doc: 'QB', name: 'QB - 119', q: '119'})"
-"(_3083:PatentBarTestQuestion {doc: 'QB', name: 'QB - 120', q: '120'})"
-"(_3084:PatentBarTestQuestion {doc: 'QB', name: 'QB - 121', q: '121'})"
-"(_3085:PatentBarTestQuestion {doc: 'QB', name: 'QB - 122', q: '122'})"
-"(_3086:PatentBarTestQuestion {doc: 'QB', name: 'QB - 123', q: '123'})"
-"(_3087:PatentBarTestQuestion {doc: 'QB', name: 'QB - 124', q: '124'})"
-"(_3088:PatentBarTestQuestion {doc: 'QB', name: 'QB - 125', q: '125'})"
-"(_3089:PatentBarTestQuestion {doc: 'QB', name: 'QB - 126', q: '126'})"
-"(_3090:PatentBarTestQuestion {doc: 'QB', name: 'QB - 127', q: '127'})"
-"(_3091:PatentBarTestQuestion {doc: 'QB', name: 'QB - 128', q: '128'})"
-"(_3092:PatentBarTestQuestion {doc: 'QB', name: 'QB - 129', q: '129'})"
-"(_3093:PatentBarTestQuestion {doc: 'QB', name: 'QB - 130', q: '130'})"
-"(_3094:PatentBarTestQuestion {doc: 'QB', name: 'QB - 131', q: '131'})"
-"(_3095:PatentBarTestQuestion {doc: 'QB', name: 'QB - 132', q: '132'})"
-"(_3096:PatentBarTestQuestion {doc: 'QB', name: 'QB - 133', q: '133'})"
-"(_3097:PatentBarTestQuestion {doc: 'QB', name: 'QB - 134', q: '134'})"
-"(_3098:PatentBarTestQuestion {doc: 'QB', name: 'QB - 135', q: '135'})"
-"(_3099:PatentBarTestQuestion {doc: 'QB', name: 'QB - 136', q: '136'})"
-"(_3100:PatentBarTestQuestion {doc: 'QB', name: 'QB - 137', q: '137'})"
-"(_3101:PatentBarTestQuestion {doc: 'QB', name: 'QB - 138', q: '138'})"
-"(_3102:PatentBarTestQuestion {doc: 'QB', name: 'QB - 139', q: '139'})"
-"(_3103:PatentBarTestQuestion {doc: 'QB', name: 'QB - 140', q: '140'})"
-"(_3104:PatentBarTestQuestion {doc: 'QB', name: 'QB - 141', q: '141'})"
-"(_3105:PatentBarTestQuestion {doc: 'QB', name: 'QB - 142', q: '142'})"
-"(_3106:PatentBarTestQuestion {doc: 'QB', name: 'QB - 143', q: '143'})"
-"(_3107:PatentBarTestQuestion {doc: 'QB', name: 'QB - 144', q: '144'})"
-"(_3108:PatentBarTestQuestion {doc: 'QB', name: 'QB - 145', q: '145'})"
-"(_3109:PatentBarTestQuestion {doc: 'QB', name: 'QB - 146', q: '146'})"
-"(_3110:PatentBarTestQuestion {doc: 'QB', name: 'QB - 147', q: '147'})"
-"(_3111:PatentBarTestQuestion {doc: 'QB', name: 'QB - 148', q: '148'})"
-"(_3112:PatentBarTestQuestion {doc: 'QB', name: 'QB - 149', q: '149'})"
-"(_3113:PatentBarTestQuestion {doc: 'QB', name: 'QB - 150', q: '150'})"
-"(_3114:PatentBarTestQuestion {doc: 'QB', name: 'QB - 151', q: '151'})"
-"(_3115:PatentBarTestQuestion {doc: 'QB', name: 'QB - 152', q: '152'})"
-"(_3116:PatentBarTestQuestion {doc: 'QB', name: 'QB - 153', q: '153'})"
-"(_3117:PatentBarTestQuestion {doc: 'QB', name: 'QB - 154', q: '154'})"
-"(_3118:PatentBarTestQuestion {doc: 'QB', name: 'QB - 155', q: '155'})"
-"(_3119:PatentBarTestQuestion {doc: 'QB', name: 'QB - 156', q: '156'})"
-"(_3120:PatentBarTestQuestion {doc: 'QB', name: 'QB - 157', q: '157'})"
-"(_3121:PatentBarTestQuestion {doc: 'QB', name: 'QB - 158', q: '158'})"
-"(_3122:PatentBarTestQuestion {doc: 'QB', name: 'QB - 159', q: '159'})"
-"(_3123:PatentBarTestQuestion {doc: 'QB', name: 'QB - 160', q: '160'})"
-"(_3124:PatentBarTestQuestion {doc: 'QB', name: 'QB - 161', q: '161'})"
-"(_3125:PatentBarTestQuestion {doc: 'QB', name: 'QB - 162', q: '162'})"
-"(_3126:PatentBarTestQuestion {doc: 'QB', name: 'QB - 163', q: '163'})"
-"(_3127:PatentBarTestQuestion {doc: 'QB', name: 'QB - 163', q: '163'})"
-"(_3128:PatentBarTestQuestion {doc: 'QB', name: 'QB - 164', q: '164'})"
-"(_3129:PatentBarTestQuestion {doc: 'QB', name: 'QB - 165', q: '165'})"
-"(_3130:PatentBarTestQuestion {doc: 'QB', name: 'QB - 166', q: '166'})"
-"(_3131:PatentBarTestQuestion {doc: 'QB', name: 'QB - 167', q: '167'})"
-"(_3132:PatentBarTestQuestion {doc: 'QB', name: 'QB - 168', q: '168'})"
-"(_3133:PatentBarTestQuestion {doc: 'QB', name: 'QB - 169', q: '169'})"
-"(_3134:PatentBarTestQuestion {doc: 'QB', name: 'QB - 170', q: '170'})"
-"(_3135:PatentBarTestQuestion {doc: 'QB', name: 'QB - 171', q: '171'})"
-"(_3136:PatentBarTestQuestion {doc: 'QB', name: 'QB - 172', q: '172'})"
-"(_3137:PatentBarTestQuestion {doc: 'QB', name: 'QB - 173', q: '173'})"
-"(_3138:PatentBarTestQuestion {doc: 'QB', name: 'QB - 174', q: '174'})"
-"(_3139:PatentBarTestQuestion {doc: 'QB', name: 'QB - 175', q: '175'})"
-"(_3140:PatentBarTestQuestion {doc: 'QB', name: 'QB - 176', q: '176'})"
-"(_3141:PatentBarTestQuestion {doc: 'QB', name: 'QB - 177', q: '177'})"
-"(_3142:PatentBarTestQuestion {doc: 'QB', name: 'QB - 178', q: '178'})"
-"(_3143:PatentBarTestQuestion {doc: 'QB', name: 'QB - 179', q: '179'})"
-"(_3144:PatentBarTestQuestion {doc: 'QB', name: 'QB - 180', q: '180'})"
-"(_3145:PatentBarTestQuestion {doc: 'QB', name: 'QB - 181', q: '181'})"
-"(_3146:PatentBarTestQuestion {doc: 'QB', name: 'QB - 182', q: '182'})"
-"(_3147:PatentBarTestQuestion {doc: 'QB', name: 'QB - 183', q: '183'})"
-"(_3148:PatentBarTestQuestion {doc: 'QB', name: 'QB - 184', q: '184'})"
-"(_3149:PatentBarTestQuestion {doc: 'QB', name: 'QB - 185', q: '185'})"
-"(_3150:PatentBarTestQuestion {doc: 'QB', name: 'QB - 186', q: '186'})"
-"(_3151:PatentBarTestQuestion {doc: 'QB', name: 'QB - 187', q: '187'})"
-"(_3152:PatentBarTestQuestion {doc: 'QB', name: 'QB - 188', q: '188'})"
-"(_3153:PatentBarTestQuestion {doc: 'QB', name: 'QB - 189', q: '189'})"
-"(_3154:PatentBarTestQuestion {doc: 'QB', name: 'QB - 190', q: '190'})"
-"(_3155:PatentBarTestQuestion {doc: 'QB', name: 'QB - 191', q: '191'})"
-"(_3156:PatentBarTestQuestion {doc: 'QB', name: 'QB - 192', q: '192'})"
-"(_3157:PatentBarTestQuestion {doc: 'QB', name: 'QB - 193', q: '193'})"
-"(_3158:PatentBarTestQuestion {doc: 'QB', name: 'QB - 194', q: '194'})"
-"(_3159:PatentBarTestQuestion {doc: 'QB', name: 'QB - 195', q: '195'})"
-"(_3160:PatentBarTestQuestion {doc: 'QB', name: 'QB - 196', q: '196'})"
-"(_3161:PatentBarTestQuestion {doc: 'QB', name: 'QB - 197', q: '197'})"
-"(_3162:PatentBarTestQuestion {doc: 'QB', name: 'QB - 198', q: '198'})"
-"(_3163:PatentBarTestQuestion {doc: 'QB', name: 'QB - 199', q: '199'})"
-"(_3164:PatentBarTestQuestion {doc: 'QB', name: 'QB - 200', q: '200'})"
-"(_3165:PatentBarTestQuestion {doc: 'QB', name: 'QB - 201', q: '201'})"
-"(_3166:PatentBarTestQuestion {doc: 'QB', name: 'QB - 202', q: '202'})"
-"(_3167:PatentBarTestQuestion {doc: 'QB', name: 'QB - 203', q: '203'})"
-"(_3168:PatentBarTestQuestion {doc: 'QB', name: 'QB - 204', q: '204'})"
-"(_3169:PatentBarTestQuestion {doc: 'QB', name: 'QB - 205', q: '205'})"
-"(_3170:PatentBarTestQuestion {doc: 'QB', name: 'QB - 206', q: '206'})"
-"(_3171:PatentBarTestQuestion {doc: 'QB', name: 'QB - 207', q: '207'})"
-"(_3172:PatentBarTestQuestion {doc: 'QB', name: 'QB - 208', q: '208'})"
-"(_3173:PatentBarTestQuestion {doc: 'QB', name: 'QB - 209', q: '209'})"
-"(_3174:PatentBarTestQuestion {doc: 'QB', name: 'QB - 210', q: '210'})"
-"(_3175:PatentBarTestQuestion {doc: 'QB', name: 'QB - 211', q: '211'})"
-"(_3176:PatentBarTestQuestion {doc: 'QB', name: 'QB - 212', q: '212'})"
-"(_3177:PatentBarTestQuestion {doc: 'QB', name: 'QB - 213', q: '213'})"
-"(_3178:PatentBarTestQuestion {doc: 'QB', name: 'QB - 214', q: '214'})"
-"(_3179:PatentBarTestQuestion {doc: 'QB', name: 'QB - 215', q: '215'})"
-"(_3180:PatentBarTestQuestion {doc: 'QB', name: 'QB - 216', q: '216'})"
-"(_3181:PatentBarTestQuestion {doc: 'QB', name: 'QB - 217', q: '217'})"
-"(_3182:PatentBarTestQuestion {doc: 'QB', name: 'QB - 218', q: '218'})"
-"(_3183:PatentBarTestQuestion {doc: 'QB', name: 'QB - 219', q: '219'})"
-"(_3184:PatentBarTestQuestion {doc: 'QB', name: 'QB - 220', q: '220'})"
-"(_3185:PatentBarTestQuestion {doc: 'QB', name: 'QB - 221', q: '221'})"
-"(_3186:PatentBarTestQuestion {doc: 'QB', name: 'QB - 222', q: '222'})"
-"(_3187:PatentBarTestQuestion {doc: 'QB', name: 'QB - 223', q: '223'})"
-"(_3188:PatentBarTestQuestion {doc: 'QB', name: 'QB - 224', q: '224'})"
-"(_3189:PatentBarTestQuestion {doc: 'QB', name: 'QB - 225', q: '225'})"
-"(_3190:PatentBarTestQuestion {doc: 'QB', name: 'QB - 226', q: '226'})"
-"(_3191:PatentBarTestQuestion {doc: 'QB', name: 'QB - 227', q: '227'})"
-"(_3192:PatentBarTestQuestion {doc: 'QB', name: 'QB - 228', q: '228'})"
-"(_3193:PatentBarTestQuestion {doc: 'QB', name: 'QB - 229', q: '229'})"
-"(_3194:PatentBarTestQuestion {doc: 'QB', name: 'QB - 230', q: '230'})"
-"(_3195:PatentBarTestQuestion {doc: 'QB', name: 'QB - 231', q: '231'})"
-"(_3196:PatentBarTestQuestion {doc: 'QB', name: 'QB - 232', q: '232'})"
-"(_3197:PatentBarTestQuestion {doc: 'QB', name: 'QB - 233', q: '233'})"
-"(_3198:PatentBarTestQuestion {doc: 'QB', name: 'QB - 234', q: '234'})"
-"(_3199:PatentBarTestQuestion {doc: 'QB', name: 'QB - 235', q: '235'})"
-"(_3200:PatentBarTestQuestion {doc: 'QB', name: 'QB - 236', q: '236'})"
-"(_3201:PatentBarTestQuestion {doc: 'QB', name: 'QB - 237', q: '237'})"
-"(_3202:PatentBarTestQuestion {doc: 'QB', name: 'QB - 238', q: '238'})"
-"(_3203:PatentBarTestQuestion {doc: 'QB', name: 'QB - 239', q: '239'})"
-"(_3204:PatentBarTestQuestion {doc: 'QB', name: 'QB - 240', q: '240'})"
-"(_3205:PatentBarTestQuestion {doc: 'QB', name: 'QB - 241', q: '241'})"
-"(_3206:PatentBarTestQuestion {doc: 'QB', name: 'QB - 242', q: '242'})"
-"(_3207:PatentBarTestQuestion {doc: 'QB', name: 'QB - 243', q: '243'})"
-"(_3208:PatentBarTestQuestion {doc: 'QB', name: 'QB - 244', q: '244'})"
-"(_3209:PatentBarTestQuestion {doc: 'QB', name: 'QB - 245', q: '245'})"
-"(_3210:PatentBarTestQuestion {doc: 'QB', name: 'QB - 246', q: '246'})"
-"(_3211:PatentBarTestQuestion {doc: 'QB', name: 'QB - 247', q: '247'})"
-"(_3212:PatentBarTestQuestion {doc: 'QB', name: 'QB - 248', q: '248'})"
-"(_3213:PatentBarTestQuestion {doc: 'QB', name: 'QB - 249', q: '249'})"
-"(_3214:PatentBarTestQuestion {doc: 'QB', name: 'QB - 250', q: '250'})"
-"(_3215:PatentBarTestQuestion {doc: 'QB', name: 'QB - 251', q: '251'})"
-"(_3216:PatentBarTestQuestion {doc: 'QB', name: 'QB - 252', q: '252'})"
-"(_3217:PatentBarTestQuestion {doc: 'QB', name: 'QB - 253', q: '253'})"
-"(_3218:PatentBarTestQuestion {doc: 'QB', name: 'QB - 254', q: '254'})"
-"(_3219:PatentBarTestQuestion {doc: 'QB', name: 'QB - 255', q: '255'})"
-"(_3220:PatentBarTestQuestion {doc: 'QB', name: 'QB - 256', q: '256'})"
-"(_3221:PatentBarTestQuestion {doc: 'QB', name: 'QB - 257', q: '257'})"
-"(_3222:PatentBarTestQuestion {doc: 'QB', name: 'QB - 258', q: '258'})"
-"(_3223:PatentBarTestQuestion {doc: 'QB', name: 'QB - 259', q: '259'})"
-"(_3224:PatentBarTestQuestion {doc: 'QB', name: 'QB - 260', q: '260'})"
-"(_3225:PatentBarTestQuestion {doc: 'QB', name: 'QB - 261', q: '261'})"
-"(_3226:PatentBarTestQuestion {doc: 'QB', name: 'QB - 262', q: '262'})"
-"(_3227:PatentBarTestQuestion {doc: 'QB', name: 'QB - 263', q: '263'})"
-"(_3228:PatentBarTestQuestion {doc: 'QB', name: 'QB - 264', q: '264'})"
-"(_3229:PatentBarTestQuestion {doc: 'QB', name: 'QB - 265', q: '265'})"
-"(_3230:PatentBarTestQuestion {doc: 'QB', name: 'QB - 266', q: '266'})"
-"(_3231:PatentBarTestQuestion {doc: 'QB', name: 'QB - 267', q: '267'})"
-"(_3232:PatentBarTestQuestion {doc: 'QB', name: 'QB - 268', q: '268'})"
-"(_3233:PatentBarTestQuestion {doc: 'QB', name: 'QB - 269', q: '269'})"
-"(_3234:PatentBarTestQuestion {doc: 'QB', name: 'QB - 270', q: '270'})"
-"(_3235:PatentBarTestQuestion {doc: 'QB', name: 'QB - 271', q: '271'})"
-"(_3236:PatentBarTestQuestion {doc: 'QB', name: 'QB - 272', q: '272'})"
-"(_3237:PatentBarTestQuestion {doc: 'QB', name: 'QB - 273', q: '273'})"
-"(_3238:PatentBarTestQuestion {doc: 'QB', name: 'QB - 274', q: '274'})"
-"(_3239:PatentBarTestQuestion {doc: 'QB', name: 'QB - 275', q: '275'})"
-"(_3240:PatentBarTestQuestion {doc: 'QB', name: 'QB - 276', q: '276'})"
-"(_3241:PatentBarTestQuestion {doc: 'QB', name: 'QB - 277', q: '277'})"
-"(_3242:PatentBarTestQuestion {doc: 'QB', name: 'QB - 278', q: '278'})"
-"(_3243:PatentBarTestQuestion {doc: 'QB', name: 'QB - 279', q: '279'})"
-"(_3244:PatentBarTestQuestion {doc: 'QB', name: 'QB - 280', q: '280'})"
-"(_3245:PatentBarTestQuestion {doc: 'QB', name: 'QB - 281', q: '281'})"
-"(_3246:PatentBarTestQuestion {doc: 'QB', name: 'QB - 282', q: '282'})"
-"(_3247:PatentBarTestQuestion {doc: 'QB', name: 'QB - 283', q: '283'})"
-"(_3248:PatentBarTestQuestion {doc: 'QB', name: 'QB - 284', q: '284'})"
-"(_3249:PatentBarTestQuestion {doc: 'QB', name: 'QB - 285', q: '285'})"
-"(_3250:PatentBarTestQuestion {doc: 'QB', name: 'QB - 286', q: '286'})"
-"(_3251:PatentBarTestQuestion {doc: 'QB', name: 'QB - 287', q: '287'})"
-"(_3252:PatentBarTestQuestion {doc: 'QB', name: 'QB - 288', q: '288'})"
-"(_3253:PatentBarTestQuestion {doc: 'QB', name: 'QB - 289', q: '289'})"
-"(_3254:PatentBarTestQuestion {doc: 'QB', name: 'QB - 290', q: '290'})"
-"(_3255:PatentBarTestQuestion {doc: 'QB', name: 'QB - 291', q: '291'})"
-"(_3256:PatentBarTestQuestion {doc: 'QB', name: 'QB - 292', q: '292'})"
-"(_3257:PatentBarTestQuestion {doc: 'QB', name: 'QB - 293', q: '293'})"
-"(_3258:PatentBarTestQuestion {doc: 'QB', name: 'QB - 294', q: '294'})"
-"(_3259:PatentBarTestQuestion {doc: 'QB', name: 'QB - 295', q: '295'})"
-"(_3260:PatentBarTestQuestion {doc: 'QB', name: 'QB - 296', q: '296'})"
-"(_3261:PatentBarTestQuestion {doc: 'QB', name: 'QB - 297', q: '297'})"
-"(_3262:PatentBarTestQuestion {doc: 'QB', name: 'QB - 298', q: '298'})"
-"(_3263:PatentBarTestQuestion {doc: 'QB', name: 'QB - 299', q: '299'})"
-"(_3264:PatentBarTestQuestion {doc: 'QB', name: 'QB - 300', q: '300'})"
-"(_3265:PatentBarTestQuestion {doc: 'QB', name: 'QB - 301', q: '301'})"
-"(_3266:PatentBarTestQuestion {doc: 'QB', name: 'QB - 302', q: '302'})"
-"(_3267:PatentBarTestQuestion {doc: 'QB', name: 'QB - 303', q: '303'})"
-"(_3268:PatentBarTestQuestion {doc: 'QB', name: 'QB - 304', q: '304'})"
-"(_3269:PatentBarTestQuestion {doc: 'QB', name: 'QB - 305', q: '305'})"
-"(_3270:PatentBarTestQuestion {doc: 'QB', name: 'QB - 306', q: '306'})"
-"(_3271:PatentBarTestQuestion {doc: 'QB', name: 'QB - 307', q: '307'})"
-"(_3272:PatentBarTestQuestion {doc: 'QB', name: 'QB - 308', q: '308'})"
-"(_3273:PatentBarTestQuestion {doc: 'QB', name: 'QB - 309', q: '309'})"
-"(_3274:PatentBarTestQuestion {doc: 'QB', name: 'QB - 310', q: '310'})"
-"(_3275:PatentBarTestQuestion {doc: 'QB', name: 'QB - 311', q: '311'})"
-"(_3276:PatentBarTestQuestion {doc: 'QB', name: 'QB - 312', q: '312'})"
-"(_3277:PatentBarTestQuestion {doc: 'QB', name: 'QB - 313', q: '313'})"
-"(_3278:PatentBarTestQuestion {doc: 'QB', name: 'QB - 314', q: '314'})"
-"(_3279:PatentBarTestQuestion {doc: 'QB', name: 'QB - 315', q: '315'})"
-"(_3280:PatentBarTestQuestion {doc: 'QB', name: 'QB - 316', q: '316'})"
-"(_3281:PatentBarTestQuestion {doc: 'QB', name: 'QB - 317', q: '317'})"
-"(_3282:PatentBarTestQuestion {doc: 'QB', name: 'QB - 318', q: '318'})"
-"(_3283:PatentBarTestQuestion {doc: 'QB', name: 'QB - 319', q: '319'})"
-"(_3284:PatentBarTestQuestion {doc: 'QB', name: 'QB - 320', q: '320'})"
-"(_3285:PatentBarTestQuestion {doc: 'QB', name: 'QB - 321', q: '321'})"
-"(_3286:PatentBarTestQuestion {doc: 'QB', name: 'QB - 322', q: '322'})"
-"(_3287:PatentBarTestQuestion {doc: 'QB', name: 'QB - 323', q: '323'})"
-"(_3288:PatentBarTestQuestion {doc: 'QB', name: 'QB - 324', q: '324'})"
-"(_3289:PatentBarTestQuestion {doc: 'QB', name: 'QB - 325', q: '325'})"
-"(_3290:PatentBarTestQuestion {doc: 'QB', name: 'QB - 326', q: '326'})"
-"(_3291:PatentBarTestQuestion {doc: 'QB', name: 'QB - 327', q: '327'})"
-"(_3292:PatentBarTestQuestion {doc: 'QB', name: 'QB - 328', q: '328'})"
-"(_3293:PatentBarTestQuestion {doc: 'QB', name: 'QB - 329', q: '329'})"
-"(_3294:PatentBarTestQuestion {doc: 'QB', name: 'QB - 330', q: '330'})"
-"(_3295:PatentBarTestQuestion {doc: 'QB', name: 'QB - 331', q: '331'})"
-"(_3296:PatentBarTestQuestion {doc: 'QB', name: 'QB - 332', q: '332'})"
-"(_3297:PatentBarTestQuestion {doc: 'QB', name: 'QB - 333', q: '333'})"
-"(_3298:PatentBarTestQuestion {doc: 'QB', name: 'QB - 334', q: '334'})"
-"(_3299:PatentBarTestQuestion {doc: 'QB', name: 'QB - 335', q: '335'})"
-"(_3300:PatentBarTestQuestion {doc: 'QB', name: 'QB - 336', q: '336'})"
-"(_3301:PatentBarTestQuestion {doc: 'QB', name: 'QB - 337', q: '337'})"
-"(_3302:PatentBarTestQuestion {doc: 'QB', name: 'QB - 338', q: '338'})"
-"(_3303:PatentBarTestQuestion {doc: 'QB', name: 'QB - 339', q: '339'})"
-"(_3304:PatentBarTestQuestion {doc: 'QB', name: 'QB - 340', q: '340'})"
-"(_3305:PatentBarTestQuestion {doc: 'QB', name: 'QB - 341', q: '341'})"
-"(_3306:PatentBarTestQuestion {doc: 'QB', name: 'QB - 342', q: '342'})"
-"(_3307:PatentBarTestQuestion {doc: 'QB', name: 'QB - 343', q: '343'})"
-"(_3308:PatentBarTestQuestion {doc: 'QB', name: 'QB - 344', q: '344'})"
-"(_3309:PatentBarTestQuestion {doc: 'QB', name: 'QB - 345', q: '345'})"
-"(_3310:PatentBarTestQuestion {doc: 'QB', name: 'QB - 346', q: '346'})"
-"(_3311:PatentBarTestQuestion {doc: 'QB', name: 'QB - 347', q: '347'})"
-"(_3312:PatentBarTestQuestion {doc: 'QB', name: 'QB - 348', q: '348'})"
-"(_3313:PatentBarTestQuestion {doc: 'QB', name: 'QB - 349', q: '349'})"
-"(_3314:PatentBarTestQuestion {doc: 'QB', name: 'QB - 350', q: '350'})"
-"(_3315:PatentBarTestQuestion {doc: 'QB', name: 'QB - 351', q: '351'})"
-"(_3316:PatentBarTestQuestion {doc: 'QB', name: 'QB - 352', q: '352'})"
-"(_3317:PatentBarTestQuestion {doc: 'QB', name: 'QB - 353', q: '353'})"
-"(_3318:PatentBarTestQuestion {doc: 'QB', name: 'QB - 354', q: '354'})"
-"(_3319:PatentBarTestQuestion {doc: 'QB', name: 'QB - 355', q: '355'})"
-"(_3320:PatentBarTestQuestion {doc: 'QB', name: 'QB - 356', q: '356'})"
-"(_3321:PatentBarTestQuestion {doc: 'QB', name: 'QB - 357', q: '357'})"
-"(_3322:PatentBarTestQuestion {doc: 'QB', name: 'QB - 358', q: '358'})"
-"(_3323:PatentBarTestQuestion {doc: 'QB', name: 'QB - 359', q: '359'})"
-"(_3324:PatentBarTestQuestion {doc: 'QB', name: 'QB - 360', q: '360'})"
-"(_3325:PatentBarTestQuestion {doc: 'QB', name: 'QB - 361', q: '361'})"
-"(_3326:PatentBarTestQuestion {doc: 'QB', name: 'QB - 362', q: '362'})"
-"(_3327:PatentBarTestQuestion {doc: 'QB', name: 'QB - 363', q: '363'})"
-"(_3328:PatentBarTestQuestion {doc: 'QB', name: 'QB - 364', q: '364'})"
-"(_3329:PatentBarTestQuestion {doc: 'QB', name: 'QB - 365', q: '365'})"
-"(_3330:PatentBarTestQuestion {doc: 'QB', name: 'QB - 366', q: '366'})"
-"(_3331:PatentBarTestQuestion {doc: 'QB', name: 'QB - 367', q: '367'})"
-"(_3332:PatentBarTestQuestion {doc: 'QB', name: 'QB - 368', q: '368'})"
-"(_3333:PatentBarTestQuestion {doc: 'QB', name: 'QB - 369', q: '369'})"
-"(_3334:PatentBarTestQuestion {doc: 'QB', name: 'QB - 370', q: '370'})"
-"(_3335:PatentBarTestQuestion {doc: 'QB', name: 'QB - 371', q: '371'})"
-"(_3336:PatentBarTestQuestion {doc: 'QB', name: 'QB - 372', q: '372'})"
-"(_3337:PatentBarTestQuestion {doc: 'QB', name: 'QB - 373', q: '373'})"
-"(_3338:PatentBarTestQuestion {doc: 'QB', name: 'QB - 374', q: '374'})"
-"(_3339:PatentBarTestQuestion {doc: 'QB', name: 'QB - 375', q: '375'})"
-"(_3340:PatentBarTestQuestion {doc: 'QB', name: 'QB - 376', q: '376'})"
-"(_3341:PatentBarTestQuestion {doc: 'QB', name: 'QB - 377', q: '377'})"
-"(_3342:PatentBarTestQuestion {doc: 'QB', name: 'QB - 378', q: '378'})"
-"(_3343:PatentBarTestQuestion {doc: 'QB', name: 'QB - 379', q: '379'})"
-"(_3344:PatentBarTestQuestion {doc: 'QB', name: 'QB - 380', q: '380'})"
-"(_3345:PatentBarTestQuestion {doc: 'QB', name: 'QB - 380', q: '380'})"
-"(_3346:PatentBarTestQuestion {doc: 'QB', name: 'QB - 380', q: '380'})"
-"(_3347:PatentBarTestQuestion {doc: 'QB', name: 'QB - 381', q: '381'})"
-"(_3348:PatentBarTestQuestion {doc: 'EPC1 May 2015', name: 'EPC1 May 2015 - 1', q: '1'})"
-"(_3349:PatentBarTestQuestion {doc: 'EPC1 May 2015', name: 'EPC1 May 2015 - 2', q: '2'})"
-"(_3350:PatentBarTestQuestion {doc: 'EPC1 April 2015', name: 'EPC1 April 2015 - 1', q: '1'})"
-"(_3351:PatentBarTestQuestion {doc: 'EPC1 April 2015', name: 'EPC1 April 2015 - 2', q: '2'})"
-"(_3352:PatentBarTestQuestion {doc: 'EPC1 March 2015', name: 'EPC1 March 2015 - 1', q: '1'})"
-"(_3353:PatentBarTestQuestion {doc: 'EPC1 March 2015', name: 'EPC1 March 2015 - 2', q: '2'})"
-"(_3354:PatentBarTestQuestion {doc: 'EPC1 February 2015', name: 'EPC1 February 2015 - 1', q: '1'})"
-"(_3355:PatentBarTestQuestion {doc: 'EPC1 February 2015', name: 'EPC1 February 2015 - 2', q: '2'})"
-"(_3356:PatentBarTestQuestion {doc: 'EPC1 January 2015', name: 'EPC1 January 2015 - 1', q: '1'})"
-"(_3357:PatentBarTestQuestion {doc: 'EPC1 January 2015', name: 'EPC1 January 2015 - 2', q: '2'})"
-"(_3358:PatentBarTestQuestion {doc: 'EPC1 December 2014', name: 'EPC1 December 2014 - 1', q: '1'})"
-"(_3359:PatentBarTestQuestion {doc: 'EPC1 December 2014', name: 'EPC1 December 2014 - 2', q: '2'})"
-"(_3360:PatentBarTestQuestion {doc: 'EPC1 November 2014', name: 'EPC1 November 2014 - 1', q: '1'})"
-"(_3361:PatentBarTestQuestion {doc: 'EPC1 October 2014', name: 'EPC1 October 2014 - 1', q: '1'})"
-"(_3362:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 1', q: '1'})"
-"(_3363:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 2', q: '2'})"
-"(_3364:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 3', q: '3'})"
-"(_3365:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 4', q: '4'})"
-"(_3366:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 5', q: '5'})"
-"(_3367:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 5', q: '5'})"
-"(_3368:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 6', q: '6'})"
-"(_3369:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 7', q: '7'})"
-"(_3370:PatentBarTestQuestion {doc: 'EPC1 September 2014', name: 'EPC1 September 2014 - 8', q: '8'})"
-"(_3371:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 1', q: '1'})"
-"(_3372:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 2', q: '2'})"
-"(_3373:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 3', q: '3'})"
-"(_3374:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 4', q: '4'})"
-"(_3375:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 5', q: '5'})"
-"(_3376:PatentBarTestQuestion {doc: 'EPC1 August 2014', name: 'EPC1 August 2014 - 6', q: '6'})"
-"(_3377:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 1', q: '1'})"
-"(_3378:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 2', q: '2'})"
-"(_3379:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 3', q: '3'})"
-"(_3380:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 4', q: '4'})"
-"(_3381:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 5', q: '5'})"
-"(_3382:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 6', q: '6'})"
-"(_3383:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 7', q: '7'})"
-"(_3384:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 8', q: '8'})"
-"(_3385:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 9', q: '9'})"
-"(_3386:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 10', q: '10'})"
-"(_3387:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 11', q: '11'})"
-"(_3388:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 12', q: '12'})"
-"(_3389:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 13', q: '13'})"
-"(_3390:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 14', q: '14'})"
-"(_3391:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 15', q: '15'})"
-"(_3392:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 16', q: '16'})"
-"(_3393:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 17', q: '17'})"
-"(_3394:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 18', q: '18'})"
-"(_3395:PatentBarTestQuestion {doc: 'EPC1 July 2014', name: 'EPC1 July 2014 - 19', q: '19'})"
-"(_3396:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 1', q: '1'})"
-"(_3397:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 2', q: '2'})"
-"(_3398:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 3', q: '3'})"
-"(_3399:PatentBarTestQuestion {doc: 'EPC1 June 2014', name: 'EPC1 June 2014 - 4', q: '4'})"
-"(_3400:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 1', q: '1'})"
-"(_3401:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 2', q: '2'})"
-"(_3402:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 3', q: '3'})"
-"(_3403:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 4', q: '4'})"
-"(_3404:PatentBarTestQuestion {doc: 'EPC1 May 2014', name: 'EPC1 May 2014 - 5', q: '5'})"
-"(_3405:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 1', q: '1'})"
-"(_3406:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 2', q: '2'})"
-"(_3407:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 3', q: '3'})"
-"(_3408:PatentBarTestQuestion {doc: 'EPC1 April 2014', name: 'EPC1 April 2014 - 4', q: '4'})"
-"(_3409:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 1', q: '1'})"
-"(_3410:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 2', q: '2'})"
-"(_3411:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 3', q: '3'})"
-"(_3412:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 4', q: '4'})"
-"(_3413:PatentBarTestQuestion {doc: 'EPC1 March 2014', name: 'EPC1 March 2014 - 5', q: '5'})"
-"(_3414:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 1', q: '1'})"
-"(_3415:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 2', q: '2'})"
-"(_3416:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 3', q: '3'})"
-"(_3417:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 4', q: '4'})"
-"(_3418:PatentBarTestQuestion {doc: 'EPC1 February 2014', name: 'EPC1 February 2014 - 5', q: '5'})"
-"(_3419:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 1', q: '1'})"
-"(_3420:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 2', q: '2'})"
-"(_3421:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 3', q: '3'})"
-"(_3422:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 4', q: '4'})"
-"(_3423:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 5', q: '5'})"
-"(_3424:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 6', q: '6'})"
-"(_3425:PatentBarTestQuestion {doc: 'EPC1 November 2013', name: 'EPC1 November 2013 - 7', q: '7'})"
-"(_3426:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 1', q: '1'})"
-"(_3427:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 2', q: '2'})"
-"(_3428:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 3', q: '3'})"
-"(_3429:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 4', q: '4'})"
-"(_3430:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 5', q: '5'})"
-"(_3431:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 6', q: '6'})"
-"(_3432:PatentBarTestQuestion {doc: 'EPC1 October 2013', name: 'EPC1 October 2013 - 7', q: '7'})"
-"(_3433:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 1', q: '1'})"
-"(_3434:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 2', q: '2'})"
-"(_3435:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 3', q: '3'})"
-"(_3436:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 4', q: '4'})"
-"(_3437:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 5', q: '5'})"
-"(_3438:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 6', q: '6'})"
-"(_3439:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 7', q: '7'})"
-"(_3440:PatentBarTestQuestion {doc: 'EPC1 September 2013', name: 'EPC1 September 2013 - 8', q: '8'})"
-"(_3441:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 1', q: '1'})"
-"(_3442:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 2', q: '2'})"
-"(_3443:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 3', q: '3'})"
-"(_3444:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 4', q: '4'})"
-"(_3445:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 5', q: '5'})"
-"(_3446:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 6', q: '6'})"
-"(_3447:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 7', q: '7'})"
-"(_3448:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 8', q: '8'})"
-"(_3449:PatentBarTestQuestion {doc: 'EPC1 August 2013', name: 'EPC1 August 2013 - 9', q: '9'})"
-"(_3450:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 1', q: '1'})"
-"(_3451:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 2', q: '2'})"
-"(_3452:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 3', q: '3'})"
-"(_3453:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 4', q: '4'})"
-"(_3454:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 5', q: '5'})"
-"(_3455:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 6', q: '6'})"
-"(_3456:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 7', q: '7'})"
-"(_3457:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 8', q: '8'})"
-"(_3458:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 9', q: '9'})"
-"(_3459:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 10', q: '10'})"
-"(_3460:PatentBarTestQuestion {doc: 'EPC1 July 2013', name: 'EPC1 July 2013 - 11', q: '11'})"
-"(_3461:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 1', q: '1'})"
-"(_3462:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 2', q: '2'})"
-"(_3463:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 3', q: '3'})"
-"(_3464:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 4', q: '4'})"
-"(_3465:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 5', q: '5'})"
-"(_3466:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 6', q: '6'})"
-"(_3467:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 7', q: '7'})"
-"(_3468:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 8', q: '8'})"
-"(_3469:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 9', q: '9'})"
-"(_3470:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 10', q: '10'})"
-"(_3471:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 11', q: '11'})"
-"(_3472:PatentBarTestQuestion {doc: 'EPC1 June 2013', name: 'EPC1 June 2013 - 12', q: '12'})"
-"(_3473:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 1', q: '1'})"
-"(_3474:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 2', q: '2'})"
-"(_3475:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 3', q: '3'})"
-"(_3476:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 4', q: '4'})"
-"(_3477:PatentBarTestQuestion {doc: 'EPC2 April 2017', name: 'EPC2 April 2017 - 5', q: '5'})"
-"(_3478:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 1', q: '1'})"
-"(_3479:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 2', q: '2'})"
-"(_3480:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 3', q: '3'})"
-"(_3481:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 4', q: '4'})"
-"(_3482:PatentBarTestQuestion {doc: 'EPC2 February 2017', name: 'EPC2 February 2017 - 5', q: '5'})"
-"(_3483:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 1', q: '1'})"
-"(_3484:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 2', q: '2'})"
-"(_3485:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 3', q: '3'})"
-"(_3486:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 4', q: '4'})"
-"(_3487:PatentBarTestQuestion {doc: 'EPC2 December 2016', name: 'EPC2 December 2016 - 5', q: '5'})"
-"(_3488:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 1', q: '1'})"
-"(_3489:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 2', q: '2'})"
-"(_3490:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 3', q: '3'})"
-"(_3491:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 4', q: '4'})"
-"(_3492:PatentBarTestQuestion {doc: 'EPC2 October 2016', name: 'EPC2 October 2016 - 5', q: '5'})"
-"(_3493:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 1', q: '1'})"
-"(_3494:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 2', q: '2'})"
-"(_3495:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 3', q: '3'})"
-"(_3496:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 4', q: '4'})"
-"(_3497:PatentBarTestQuestion {doc: 'EPC2 August 2016', name: 'EPC2 August 2016 - 5', q: '5'})"
-"(_3498:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 1', q: '1'})"
-"(_3499:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 2', q: '2'})"
-"(_3500:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 3', q: '3'})"
-"(_3501:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 4', q: '4'})"
-"(_3502:PatentBarTestQuestion {doc: 'EPC2 June 2016', name: 'EPC2 June 2016 - 5', q: '5'})"
-"(_3503:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 1', q: '1'})"
-"(_3504:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 2', q: '2'})"
-"(_3505:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 3', q: '3'})"
-"(_3506:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 4', q: '4'})"
-"(_3507:PatentBarTestQuestion {doc: 'EPC2 March 2016', name: 'EPC2 March 2016 - 5', q: '5'})"
-"(_3508:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 1', q: '1'})"
-"(_3509:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 2', q: '2'})"
-"(_3510:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 3', q: '3'})"
-"(_3511:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 4', q: '4'})"
-"(_3512:PatentBarTestQuestion {doc: 'EPC2 January 2016', name: 'EPC2 January 2016 - 5', q: '5'})"
-"(_3513:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 1', q: '1'})"
-"(_3514:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 2', q: '2'})"
-"(_3515:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 3', q: '3'})"
-"(_3516:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 4', q: '4'})"
-"(_3517:PatentBarTestQuestion {doc: 'EPC2 November 2015', name: 'EPC2 November 2015 - 5', q: '5'})"
-"(_3518:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 1', q: '1'})"
-"(_3519:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 2', q: '2'})"
-"(_3520:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 3', q: '3'})"
-"(_3521:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 4', q: '4'})"
-"(_3522:PatentBarTestQuestion {doc: 'EPC2 September 2015', name: 'EPC2 September 2015 - 5', q: '5'})"
-"(_3523:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 1', q: '1'})"
-"(_3524:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 2', q: '2'})"
-"(_3525:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 3', q: '3'})"
-"(_3526:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 4', q: '4'})"
-"(_3527:PatentBarTestQuestion {doc: 'EPC2 July 2015', name: 'EPC2 July 2015 - 5', q: '5'})"
-"(_3528:PatentBarTestQuestion {doc: 'EPC3 May 2017', name: 'EPC3 May 2017 - 1', q: '1'})"
-"(_3529:PatentBarTestQuestion {doc: 'EPC3 June 2017', name: 'EPC3 June 2017 - 1', q: '1'})"
-"(_3530:PatentBarTestQuestion {doc: 'EPC3 July 2017', name: 'EPC3 July 2017 - 1', q: '1'})"
-"(_3531:PatentBarTestQuestion {doc: 'EPC3 July 2017', name: 'EPC3 July 2017 - 2', q: '2'})"
-"(_3532:PatentBarTestQuestion {doc: 'EPC3 August 2017', name: 'EPC3 August 2017 - 1', q: '1'})"
-"(_3533:PatentBarTestQuestion {doc: 'EPC3 September 2017', name: 'EPC3 September 2017 - 1', q: '1'})"
-"(_3534:PatentBarTestQuestion {doc: 'EPC3 November 2017', name: 'EPC3 November 2017 - 1', q: '1'})"
-"(_3535:PatentBarTestQuestion {doc: 'EPC3 November 2017', name: 'EPC3 November 2017 - 2', q: '2'})"
-"(_3536:PatentBarTestQuestion {doc: 'EPC3 December 2017', name: 'EPC3 December 2017 - 1', q: '1'})"
-"(_3537:PatentBarTestQuestion {doc: 'EPC3 December 2017', name: 'EPC3 December 2017 - 2', q: '2'})"
-"(_3538:PatentBarTestQuestion {doc: 'EPC3 January 2018', name: 'EPC3 January 2018 - 1', q: '1'})"
-"(_3539:PatentBarTestQuestion {doc: 'EPC3 January 2018', name: 'EPC3 January 2018 - 2', q: '2'})"
-"(_3540:PatentBarTestQuestion {doc: 'EPC3 March 2018', name: 'EPC3 March 2018 - 1', q: '1'})"
-"(_3541:PatentBarTestQuestion {doc: 'EPC3 April 2018', name: 'EPC3 April 2018 - 1', q: '1'})"
-"(_3542:PatentBarTestQuestion {doc: 'EPC3 April 2018', name: 'EPC3 April 2018 - 2', q: '2'})"
-"(_3543:PatentBarTestQuestion {doc: 'EPC3 May 2018', name: 'EPC3 May 2018 - 1', q: '1'})"
-"(_3544:PatentBarTestQuestion {doc: 'EPC3 May 2018', name: 'EPC3 May 2018 - 2', q: '2'})"
-"(_3545:PatentBarTestQuestion {doc: 'EPC3 June 2018', name: 'EPC3 June 2018 - 1', q: '1'})"
-"(_3546:PatentBarTestQuestion {doc: 'EPC3 July 2018', name: 'EPC3 July 2018 - 1', q: '1'})"
-"(_3547:PatentBarTestQuestion {doc: 'EPC3 July 2018', name: 'EPC3 July 2018 - 2', q: '2'})"
-"(_3548:PatentBarTestQuestion {doc: 'EPC3 August 2018', name: 'EPC3 August 2018 - 1', q: '1'})"
-"(_3549:PatentBarTestQuestion {doc: 'EPC3 August 2018', name: 'EPC3 August 2018 - 2', q: '2'})"
-"(_3550:PatentBarTestQuestion {doc: 'EPC3 September 2018', name: 'EPC3 September 2018 - 1', q: '1'})"
-"(_3551:PatentBarTestQuestion {doc: 'EPC3 October 2018', name: 'EPC3 October 2018 - 1', q: '1'})"
-"(_3552:PatentBarTestQuestion {doc: 'EPC3 November 2018', name: 'EPC3 November 2018 - 1', q: '1'})"
-"(_3553:PatentBarTestQuestion {doc: 'EPC3 November 2018', name: 'EPC3 November 2018 - 2', q: '2'})"
-"(_3554:PatentBarTestQuestion {doc: 'EPC3 December 2018', name: 'EPC3 December 2018 - 1', q: '1'})"
-"(_3555:PatentBarTestQuestion {doc: 'EPC3 January 2019', name: 'EPC3 January 2019 - 1', q: '1'})"
-"(_3556:PatentBarTestQuestion {doc: 'EPC3 January 2019', name: 'EPC3 January 2019 - 2', q: '2'})"
-"(_3557:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 1', q: '1'})"
-"(_3558:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 2', q: '2'})"
-"(_3559:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 3', q: '3'})"
-"(_3560:PatentBarTestQuestion {doc: 'EPC3 February 2019', name: 'EPC3 February 2019 - 4', q: '4'})"
-"(_3561:PatentBarTestQuestion {doc: 'EPC3 March 2019', name: 'EPC3 March 2019 - 1', q: '1'})"
-"(_3562:PatentBarTestQuestion {doc: 'EPC3 March 2019', name: 'EPC3 March 2019 - 2', q: '2'})"
-"(_3563:PatentBarTestQuestion {doc: 'EPC3 March 2019', name: 'EPC3 March 2019 - 3', q: '3'})"
-"(_3564:PatentBarTestQuestion {doc: 'EPC3 April 2019', name: 'EPC3 April 2019 - 1', q: '1'})"
-"(_3565:PatentBarTestQuestion {doc: 'EPC3 April 2019', name: 'EPC3 April 2019 - 2', q: '2'})"
-"(_3566:PatentBarTestQuestion {doc: 'EPC3 May 2019', name: 'EPC3 May 2019 - 1', q: '1'})"
-"(_3567:PatentBarTestQuestion {doc: 'EPC3 May 2019', name: 'EPC3 May 2019 - 2', q: '2'})"
-"(_3568:PatentBarTestQuestion {doc: 'EPC3 May 2019', name: 'EPC3 May 2019 - 3', q: '3'})"
-"(_3569:PatentBarTestQuestion {doc: 'EPC3 June 2019', name: 'EPC3 June 2019 - 1', q: '1'})"
-"(_3570:PatentBarTestQuestion {doc: 'EPC3 June 2019', name: 'EPC3 June 2019 - 2', q: '2'})"
-"(_3571:PatentBarTestQuestion {doc: 'EPC3 June 2019', name: 'EPC3 June 2019 - 3', q: '3'})"
-"(_3572:PatentBarTestQuestion {doc: 'EPC3 July 2019', name: 'EPC3 July 2019 - 1', q: '1'})"
-"(_3573:PatentBarTestQuestion {doc: 'EPC3 August 2019', name: 'EPC3 August 2019 - 1', q: '1'})"
-"(_3574:PatentBarTestQuestion {doc: 'EPC3 August 2019', name: 'EPC3 August 2019 - 2', q: '2'})"
-"(_3575:PatentBarTestQuestion {doc: 'EPC3 August 2019', name: 'EPC3 August 2019 - 3', q: '3'})"
+0,1,2
+QB - 1,QB,1
+QB - 2,QB,2
+QB - 3,QB,3
+QB - 4,QB,4
+QB - 5,QB,5
+QB - 6,QB,6
+QB - 7,QB,7
+QB - 8,QB,8
+QB - 9,QB,9
+QB - 10,QB,10
+QB - 11,QB,11
+QB - 12,QB,12
+QB - 13,QB,13
+QB - 14,QB,14
+QB - 15,QB,15
+QB - 16,QB,16
+QB - 17,QB,17
+QB - 18,QB,18
+QB - 19,QB,19
+QB - 20,QB,20
+QB - 21,QB,21
+QB - 22,QB,22
+QB - 23,QB,23
+QB - 24,QB,24
+QB - 25,QB,25
+QB - 26,QB,26
+QB - 27,QB,27
+QB - 28,QB,28
+QB - 29,QB,29
+QB - 30,QB,30
+QB - 31,QB,31
+QB - 32,QB,32
+QB - 33,QB,33
+QB - 34,QB,34
+QB - 35,QB,35
+QB - 36,QB,36
+QB - 37,QB,37
+QB - 38,QB,38
+QB - 39,QB,39
+QB - 40,QB,40
+QB - 41,QB,41
+QB - 42,QB,42
+QB - 43,QB,43
+QB - 44,QB,44
+QB - 45,QB,45
+QB - 46,QB,46
+QB - 47,QB,47
+QB - 48,QB,48
+QB - 49,QB,49
+QB - 50,QB,50
+QB - 51,QB,51
+QB - 52,QB,52
+QB - 53,QB,53
+QB - 54,QB,54
+QB - 55,QB,55
+QB - 56,QB,56
+QB - 57,QB,57
+QB - 58,QB,58
+QB - 59,QB,59
+QB - 60,QB,60
+QB - 61,QB,61
+QB - 62,QB,62
+QB - 63,QB,63
+QB - 64,QB,64
+QB - 65,QB,65
+QB - 66,QB,66
+QB - 67,QB,67
+QB - 68,QB,68
+QB - 69,QB,69
+QB - 70,QB,70
+QB - 71,QB,71
+QB - 72,QB,72
+QB - 73,QB,73
+QB - 74,QB,74
+QB - 75,QB,75
+QB - 76,QB,76
+QB - 77,QB,77
+QB - 78,QB,78
+QB - 79,QB,79
+QB - 80,QB,80
+QB - 81,QB,81
+QB - 82,QB,82
+QB - 83,QB,83
+QB - 84,QB,84
+QB - 85,QB,85
+QB - 86,QB,86
+QB - 87,QB,87
+QB - 88,QB,88
+QB - 89,QB,89
+QB - 90,QB,90
+QB - 91,QB,91
+QB - 92,QB,92
+QB - 93,QB,93
+QB - 94,QB,94
+QB - 95,QB,95
+QB - 96,QB,96
+QB - 97,QB,97
+QB - 98,QB,98
+QB - 99,QB,99
+QB - 100,QB,100
+QB - 101,QB,101
+QB - 102,QB,102
+QB - 103,QB,103
+QB - 104,QB,104
+QB - 105,QB,105
+QB - 106,QB,106
+QB - 107,QB,107
+QB - 108,QB,108
+QB - 109,QB,109
+QB - 110,QB,110
+QB - 111,QB,111
+QB - 112,QB,112
+QB - 113,QB,113
+QB - 114,QB,114
+QB - 115,QB,115
+QB - 116,QB,116
+QB - 117,QB,117
+QB - 118,QB,118
+QB - 119,QB,119
+QB - 120,QB,120
+QB - 121,QB,121
+QB - 122,QB,122
+QB - 123,QB,123
+QB - 124,QB,124
+QB - 125,QB,125
+QB - 126,QB,126
+QB - 127,QB,127
+QB - 128,QB,128
+QB - 129,QB,129
+QB - 130,QB,130
+QB - 131,QB,131
+QB - 132,QB,132
+QB - 133,QB,133
+QB - 134,QB,134
+QB - 135,QB,135
+QB - 136,QB,136
+QB - 137,QB,137
+QB - 138,QB,138
+QB - 139,QB,139
+QB - 140,QB,140
+QB - 141,QB,141
+QB - 142,QB,142
+QB - 143,QB,143
+QB - 144,QB,144
+QB - 145,QB,145
+QB - 146,QB,146
+QB - 147,QB,147
+QB - 148,QB,148
+QB - 149,QB,149
+QB - 150,QB,150
+QB - 151,QB,151
+QB - 152,QB,152
+QB - 153,QB,153
+QB - 154,QB,154
+QB - 155,QB,155
+QB - 156,QB,156
+QB - 157,QB,157
+QB - 158,QB,158
+QB - 159,QB,159
+QB - 160,QB,160
+QB - 161,QB,161
+QB - 162,QB,162
+QB - 163,QB,163
+QB - 163,QB,163
+QB - 164,QB,164
+QB - 165,QB,165
+QB - 166,QB,166
+QB - 167,QB,167
+QB - 168,QB,168
+QB - 169,QB,169
+QB - 170,QB,170
+QB - 171,QB,171
+QB - 172,QB,172
+QB - 173,QB,173
+QB - 174,QB,174
+QB - 175,QB,175
+QB - 176,QB,176
+QB - 177,QB,177
+QB - 178,QB,178
+QB - 179,QB,179
+QB - 180,QB,180
+QB - 181,QB,181
+QB - 182,QB,182
+QB - 183,QB,183
+QB - 184,QB,184
+QB - 185,QB,185
+QB - 186,QB,186
+QB - 187,QB,187
+QB - 188,QB,188
+QB - 189,QB,189
+QB - 190,QB,190
+QB - 191,QB,191
+QB - 192,QB,192
+QB - 193,QB,193
+QB - 194,QB,194
+QB - 195,QB,195
+QB - 196,QB,196
+QB - 197,QB,197
+QB - 198,QB,198
+QB - 199,QB,199
+QB - 200,QB,200
+QB - 201,QB,201
+QB - 202,QB,202
+QB - 203,QB,203
+QB - 204,QB,204
+QB - 205,QB,205
+QB - 206,QB,206
+QB - 207,QB,207
+QB - 208,QB,208
+QB - 209,QB,209
+QB - 210,QB,210
+QB - 211,QB,211
+QB - 212,QB,212
+QB - 213,QB,213
+QB - 214,QB,214
+QB - 215,QB,215
+QB - 216,QB,216
+QB - 217,QB,217
+QB - 218,QB,218
+QB - 219,QB,219
+QB - 220,QB,220
+QB - 221,QB,221
+QB - 222,QB,222
+QB - 223,QB,223
+QB - 224,QB,224
+QB - 225,QB,225
+QB - 226,QB,226
+QB - 227,QB,227
+QB - 228,QB,228
+QB - 229,QB,229
+QB - 230,QB,230
+QB - 231,QB,231
+QB - 232,QB,232
+QB - 233,QB,233
+QB - 234,QB,234
+QB - 235,QB,235
+QB - 236,QB,236
+QB - 237,QB,237
+QB - 238,QB,238
+QB - 239,QB,239
+QB - 240,QB,240
+QB - 241,QB,241
+QB - 242,QB,242
+QB - 243,QB,243
+QB - 244,QB,244
+QB - 245,QB,245
+QB - 246,QB,246
+QB - 247,QB,247
+QB - 248,QB,248
+QB - 249,QB,249
+QB - 250,QB,250
+QB - 251,QB,251
+QB - 252,QB,252
+QB - 253,QB,253
+QB - 254,QB,254
+QB - 255,QB,255
+QB - 256,QB,256
+QB - 257,QB,257
+QB - 258,QB,258
+QB - 259,QB,259
+QB - 260,QB,260
+QB - 261,QB,261
+QB - 262,QB,262
+QB - 263,QB,263
+QB - 264,QB,264
+QB - 265,QB,265
+QB - 266,QB,266
+QB - 267,QB,267
+QB - 268,QB,268
+QB - 269,QB,269
+QB - 270,QB,270
+QB - 271,QB,271
+QB - 272,QB,272
+QB - 273,QB,273
+QB - 274,QB,274
+QB - 275,QB,275
+QB - 276,QB,276
+QB - 277,QB,277
+QB - 278,QB,278
+QB - 279,QB,279
+QB - 280,QB,280
+QB - 281,QB,281
+QB - 282,QB,282
+QB - 283,QB,283
+QB - 284,QB,284
+QB - 285,QB,285
+QB - 286,QB,286
+QB - 287,QB,287
+QB - 288,QB,288
+QB - 289,QB,289
+QB - 290,QB,290
+QB - 291,QB,291
+QB - 292,QB,292
+QB - 293,QB,293
+QB - 294,QB,294
+QB - 295,QB,295
+QB - 296,QB,296
+QB - 297,QB,297
+QB - 298,QB,298
+QB - 299,QB,299
+QB - 300,QB,300
+QB - 301,QB,301
+QB - 302,QB,302
+QB - 303,QB,303
+QB - 304,QB,304
+QB - 305,QB,305
+QB - 306,QB,306
+QB - 307,QB,307
+QB - 308,QB,308
+QB - 309,QB,309
+QB - 310,QB,310
+QB - 311,QB,311
+QB - 312,QB,312
+QB - 313,QB,313
+QB - 314,QB,314
+QB - 315,QB,315
+QB - 316,QB,316
+QB - 317,QB,317
+QB - 318,QB,318
+QB - 319,QB,319
+QB - 320,QB,320
+QB - 321,QB,321
+QB - 322,QB,322
+QB - 323,QB,323
+QB - 324,QB,324
+QB - 325,QB,325
+QB - 326,QB,326
+QB - 327,QB,327
+QB - 328,QB,328
+QB - 329,QB,329
+QB - 330,QB,330
+QB - 331,QB,331
+QB - 332,QB,332
+QB - 333,QB,333
+QB - 334,QB,334
+QB - 335,QB,335
+QB - 336,QB,336
+QB - 337,QB,337
+QB - 338,QB,338
+QB - 339,QB,339
+QB - 340,QB,340
+QB - 341,QB,341
+QB - 342,QB,342
+QB - 343,QB,343
+QB - 344,QB,344
+QB - 345,QB,345
+QB - 346,QB,346
+QB - 347,QB,347
+QB - 348,QB,348
+QB - 349,QB,349
+QB - 350,QB,350
+QB - 351,QB,351
+QB - 352,QB,352
+QB - 353,QB,353
+QB - 354,QB,354
+QB - 355,QB,355
+QB - 356,QB,356
+QB - 357,QB,357
+QB - 358,QB,358
+QB - 359,QB,359
+QB - 360,QB,360
+QB - 361,QB,361
+QB - 362,QB,362
+QB - 363,QB,363
+QB - 364,QB,364
+QB - 365,QB,365
+QB - 366,QB,366
+QB - 367,QB,367
+QB - 368,QB,368
+QB - 369,QB,369
+QB - 370,QB,370
+QB - 371,QB,371
+QB - 372,QB,372
+QB - 373,QB,373
+QB - 374,QB,374
+QB - 375,QB,375
+QB - 376,QB,376
+QB - 377,QB,377
+QB - 378,QB,378
+QB - 379,QB,379
+QB - 380,QB,380
+QB - 380,QB,380
+QB - 380,QB,380
+QB - 381,QB,381
+EPC1 May 2015 - 1,EPC1 May 2015,1
+EPC1 May 2015 - 2,EPC1 May 2015,2
+EPC1 April 2015 - 1,EPC1 April 2015,1
+EPC1 April 2015 - 2,EPC1 April 2015,2
+EPC1 March 2015 - 1,EPC1 March 2015,1
+EPC1 March 2015 - 2,EPC1 March 2015,2
+EPC1 February 2015 - 1,EPC1 February 2015,1
+EPC1 February 2015 - 2,EPC1 February 2015,2
+EPC1 January 2015 - 1,EPC1 January 2015,1
+EPC1 January 2015 - 2,EPC1 January 2015,2
+EPC1 December 2014 - 1,EPC1 December 2014,1
+EPC1 December 2014 - 2,EPC1 December 2014,2
+EPC1 November 2014 - 1,EPC1 November 2014,1
+EPC1 October 2014 - 1,EPC1 October 2014,1
+EPC1 September 2014 - 1,EPC1 September 2014,1
+EPC1 September 2014 - 2,EPC1 September 2014,2
+EPC1 September 2014 - 3,EPC1 September 2014,3
+EPC1 September 2014 - 4,EPC1 September 2014,4
+EPC1 September 2014 - 5,EPC1 September 2014,5
+EPC1 September 2014 - 5,EPC1 September 2014,5
+EPC1 September 2014 - 6,EPC1 September 2014,6
+EPC1 September 2014 - 7,EPC1 September 2014,7
+EPC1 September 2014 - 8,EPC1 September 2014,8
+EPC1 August 2014 - 1,EPC1 August 2014,1
+EPC1 August 2014 - 2,EPC1 August 2014,2
+EPC1 August 2014 - 3,EPC1 August 2014,3
+EPC1 August 2014 - 4,EPC1 August 2014,4
+EPC1 August 2014 - 5,EPC1 August 2014,5
+EPC1 August 2014 - 6,EPC1 August 2014,6
+EPC1 July 2014 - 1,EPC1 July 2014,1
+EPC1 July 2014 - 2,EPC1 July 2014,2
+EPC1 July 2014 - 3,EPC1 July 2014,3
+EPC1 July 2014 - 4,EPC1 July 2014,4
+EPC1 July 2014 - 5,EPC1 July 2014,5
+EPC1 July 2014 - 6,EPC1 July 2014,6
+EPC1 July 2014 - 7,EPC1 July 2014,7
+EPC1 July 2014 - 8,EPC1 July 2014,8
+EPC1 July 2014 - 9,EPC1 July 2014,9
+EPC1 July 2014 - 10,EPC1 July 2014,10
+EPC1 July 2014 - 11,EPC1 July 2014,11
+EPC1 July 2014 - 12,EPC1 July 2014,12
+EPC1 July 2014 - 13,EPC1 July 2014,13
+EPC1 July 2014 - 14,EPC1 July 2014,14
+EPC1 July 2014 - 15,EPC1 July 2014,15
+EPC1 July 2014 - 16,EPC1 July 2014,16
+EPC1 July 2014 - 17,EPC1 July 2014,17
+EPC1 July 2014 - 18,EPC1 July 2014,18
+EPC1 July 2014 - 19,EPC1 July 2014,19
+EPC1 June 2014 - 1,EPC1 June 2014,1
+EPC1 June 2014 - 2,EPC1 June 2014,2
+EPC1 June 2014 - 3,EPC1 June 2014,3
+EPC1 June 2014 - 4,EPC1 June 2014,4
+EPC1 May 2014 - 1,EPC1 May 2014,1
+EPC1 May 2014 - 2,EPC1 May 2014,2
+EPC1 May 2014 - 3,EPC1 May 2014,3
+EPC1 May 2014 - 4,EPC1 May 2014,4
+EPC1 May 2014 - 5,EPC1 May 2014,5
+EPC1 April 2014 - 1,EPC1 April 2014,1
+EPC1 April 2014 - 2,EPC1 April 2014,2
+EPC1 April 2014 - 3,EPC1 April 2014,3
+EPC1 April 2014 - 4,EPC1 April 2014,4
+EPC1 March 2014 - 1,EPC1 March 2014,1
+EPC1 March 2014 - 2,EPC1 March 2014,2
+EPC1 March 2014 - 3,EPC1 March 2014,3
+EPC1 March 2014 - 4,EPC1 March 2014,4
+EPC1 March 2014 - 5,EPC1 March 2014,5
+EPC1 February 2014 - 1,EPC1 February 2014,1
+EPC1 February 2014 - 2,EPC1 February 2014,2
+EPC1 February 2014 - 3,EPC1 February 2014,3
+EPC1 February 2014 - 4,EPC1 February 2014,4
+EPC1 February 2014 - 5,EPC1 February 2014,5
+EPC1 November 2013 - 1,EPC1 November 2013,1
+EPC1 November 2013 - 2,EPC1 November 2013,2
+EPC1 November 2013 - 3,EPC1 November 2013,3
+EPC1 November 2013 - 4,EPC1 November 2013,4
+EPC1 November 2013 - 5,EPC1 November 2013,5
+EPC1 November 2013 - 6,EPC1 November 2013,6
+EPC1 November 2013 - 7,EPC1 November 2013,7
+EPC1 October 2013 - 1,EPC1 October 2013,1
+EPC1 October 2013 - 2,EPC1 October 2013,2
+EPC1 October 2013 - 3,EPC1 October 2013,3
+EPC1 October 2013 - 4,EPC1 October 2013,4
+EPC1 October 2013 - 5,EPC1 October 2013,5
+EPC1 October 2013 - 6,EPC1 October 2013,6
+EPC1 October 2013 - 7,EPC1 October 2013,7
+EPC1 September 2013 - 1,EPC1 September 2013,1
+EPC1 September 2013 - 2,EPC1 September 2013,2
+EPC1 September 2013 - 3,EPC1 September 2013,3
+EPC1 September 2013 - 4,EPC1 September 2013,4
+EPC1 September 2013 - 5,EPC1 September 2013,5
+EPC1 September 2013 - 6,EPC1 September 2013,6
+EPC1 September 2013 - 7,EPC1 September 2013,7
+EPC1 September 2013 - 8,EPC1 September 2013,8
+EPC1 August 2013 - 1,EPC1 August 2013,1
+EPC1 August 2013 - 2,EPC1 August 2013,2
+EPC1 August 2013 - 3,EPC1 August 2013,3
+EPC1 August 2013 - 4,EPC1 August 2013,4
+EPC1 August 2013 - 5,EPC1 August 2013,5
+EPC1 August 2013 - 6,EPC1 August 2013,6
+EPC1 August 2013 - 7,EPC1 August 2013,7
+EPC1 August 2013 - 8,EPC1 August 2013,8
+EPC1 August 2013 - 9,EPC1 August 2013,9
+EPC1 July 2013 - 1,EPC1 July 2013,1
+EPC1 July 2013 - 2,EPC1 July 2013,2
+EPC1 July 2013 - 3,EPC1 July 2013,3
+EPC1 July 2013 - 4,EPC1 July 2013,4
+EPC1 July 2013 - 5,EPC1 July 2013,5
+EPC1 July 2013 - 6,EPC1 July 2013,6
+EPC1 July 2013 - 7,EPC1 July 2013,7
+EPC1 July 2013 - 8,EPC1 July 2013,8
+EPC1 July 2013 - 9,EPC1 July 2013,9
+EPC1 July 2013 - 10,EPC1 July 2013,10
+EPC1 July 2013 - 11,EPC1 July 2013,11
+EPC1 June 2013 - 1,EPC1 June 2013,1
+EPC1 June 2013 - 2,EPC1 June 2013,2
+EPC1 June 2013 - 3,EPC1 June 2013,3
+EPC1 June 2013 - 4,EPC1 June 2013,4
+EPC1 June 2013 - 5,EPC1 June 2013,5
+EPC1 June 2013 - 6,EPC1 June 2013,6
+EPC1 June 2013 - 7,EPC1 June 2013,7
+EPC1 June 2013 - 8,EPC1 June 2013,8
+EPC1 June 2013 - 9,EPC1 June 2013,9
+EPC1 June 2013 - 10,EPC1 June 2013,10
+EPC1 June 2013 - 11,EPC1 June 2013,11
+EPC1 June 2013 - 12,EPC1 June 2013,12
+EPC2 April 2017 - 1,EPC2 April 2017,1
+EPC2 April 2017 - 2,EPC2 April 2017,2
+EPC2 April 2017 - 3,EPC2 April 2017,3
+EPC2 April 2017 - 4,EPC2 April 2017,4
+EPC2 April 2017 - 5,EPC2 April 2017,5
+EPC2 February 2017 - 1,EPC2 February 2017,1
+EPC2 February 2017 - 2,EPC2 February 2017,2
+EPC2 February 2017 - 3,EPC2 February 2017,3
+EPC2 February 2017 - 4,EPC2 February 2017,4
+EPC2 February 2017 - 5,EPC2 February 2017,5
+EPC2 December 2016 - 1,EPC2 December 2016,1
+EPC2 December 2016 - 2,EPC2 December 2016,2
+EPC2 December 2016 - 3,EPC2 December 2016,3
+EPC2 December 2016 - 4,EPC2 December 2016,4
+EPC2 December 2016 - 5,EPC2 December 2016,5
+EPC2 October 2016 - 1,EPC2 October 2016,1
+EPC2 October 2016 - 2,EPC2 October 2016,2
+EPC2 October 2016 - 3,EPC2 October 2016,3
+EPC2 October 2016 - 4,EPC2 October 2016,4
+EPC2 October 2016 - 5,EPC2 October 2016,5
+EPC2 August 2016 - 1,EPC2 August 2016,1
+EPC2 August 2016 - 2,EPC2 August 2016,2
+EPC2 August 2016 - 3,EPC2 August 2016,3
+EPC2 August 2016 - 4,EPC2 August 2016,4
+EPC2 August 2016 - 5,EPC2 August 2016,5
+EPC2 June 2016 - 1,EPC2 June 2016,1
+EPC2 June 2016 - 2,EPC2 June 2016,2
+EPC2 June 2016 - 3,EPC2 June 2016,3
+EPC2 June 2016 - 4,EPC2 June 2016,4
+EPC2 June 2016 - 5,EPC2 June 2016,5
+EPC2 March 2016 - 1,EPC2 March 2016,1
+EPC2 March 2016 - 2,EPC2 March 2016,2
+EPC2 March 2016 - 3,EPC2 March 2016,3
+EPC2 March 2016 - 4,EPC2 March 2016,4
+EPC2 March 2016 - 5,EPC2 March 2016,5
+EPC2 January 2016 - 1,EPC2 January 2016,1
+EPC2 January 2016 - 2,EPC2 January 2016,2
+EPC2 January 2016 - 3,EPC2 January 2016,3
+EPC2 January 2016 - 4,EPC2 January 2016,4
+EPC2 January 2016 - 5,EPC2 January 2016,5
+EPC2 November 2015 - 1,EPC2 November 2015,1
+EPC2 November 2015 - 2,EPC2 November 2015,2
+EPC2 November 2015 - 3,EPC2 November 2015,3
+EPC2 November 2015 - 4,EPC2 November 2015,4
+EPC2 November 2015 - 5,EPC2 November 2015,5
+EPC2 September 2015 - 1,EPC2 September 2015,1
+EPC2 September 2015 - 2,EPC2 September 2015,2
+EPC2 September 2015 - 3,EPC2 September 2015,3
+EPC2 September 2015 - 4,EPC2 September 2015,4
+EPC2 September 2015 - 5,EPC2 September 2015,5
+EPC2 July 2015 - 1,EPC2 July 2015,1
+EPC2 July 2015 - 2,EPC2 July 2015,2
+EPC2 July 2015 - 3,EPC2 July 2015,3
+EPC2 July 2015 - 4,EPC2 July 2015,4
+EPC2 July 2015 - 5,EPC2 July 2015,5
+EPC3 May 2017 - 1,EPC3 May 2017,1
+EPC3 June 2017 - 1,EPC3 June 2017,1
+EPC3 July 2017 - 1,EPC3 July 2017,1
+EPC3 July 2017 - 2,EPC3 July 2017,2
+EPC3 August 2017 - 1,EPC3 August 2017,1
+EPC3 September 2017 - 1,EPC3 September 2017,1
+EPC3 November 2017 - 1,EPC3 November 2017,1
+EPC3 November 2017 - 2,EPC3 November 2017,2
+EPC3 December 2017 - 1,EPC3 December 2017,1
+EPC3 December 2017 - 2,EPC3 December 2017,2
+EPC3 January 2018 - 1,EPC3 January 2018,1
+EPC3 January 2018 - 2,EPC3 January 2018,2
+EPC3 March 2018 - 1,EPC3 March 2018,1
+EPC3 April 2018 - 1,EPC3 April 2018,1
+EPC3 April 2018 - 2,EPC3 April 2018,2
+EPC3 May 2018 - 1,EPC3 May 2018,1
+EPC3 May 2018 - 2,EPC3 May 2018,2
+EPC3 June 2018 - 1,EPC3 June 2018,1
+EPC3 July 2018 - 1,EPC3 July 2018,1
+EPC3 July 2018 - 2,EPC3 July 2018,2
+EPC3 August 2018 - 1,EPC3 August 2018,1
+EPC3 August 2018 - 2,EPC3 August 2018,2
+EPC3 September 2018 - 1,EPC3 September 2018,1
+EPC3 October 2018 - 1,EPC3 October 2018,1
+EPC3 November 2018 - 1,EPC3 November 2018,1
+EPC3 November 2018 - 2,EPC3 November 2018,2
+EPC3 December 2018 - 1,EPC3 December 2018,1
+EPC3 January 2019 - 1,EPC3 January 2019,1
+EPC3 January 2019 - 2,EPC3 January 2019,2
+EPC3 February 2019 - 1,EPC3 February 2019,1
+EPC3 February 2019 - 2,EPC3 February 2019,2
+EPC3 February 2019 - 3,EPC3 February 2019,3
+EPC3 February 2019 - 4,EPC3 February 2019,4
+EPC3 March 2019 - 1,EPC3 March 2019,1
+EPC3 March 2019 - 2,EPC3 March 2019,2
+EPC3 March 2019 - 3,EPC3 March 2019,3
+EPC3 April 2019 - 1,EPC3 April 2019,1
+EPC3 April 2019 - 2,EPC3 April 2019,2
+EPC3 May 2019 - 1,EPC3 May 2019,1
+EPC3 May 2019 - 2,EPC3 May 2019,2
+EPC3 May 2019 - 3,EPC3 May 2019,3
+EPC3 June 2019 - 1,EPC3 June 2019,1
+EPC3 June 2019 - 2,EPC3 June 2019,2
+EPC3 June 2019 - 3,EPC3 June 2019,3
+EPC3 July 2019 - 1,EPC3 July 2019,1
+EPC3 August 2019 - 1,EPC3 August 2019,1
+EPC3 August 2019 - 2,EPC3 August 2019,2
+EPC3 August 2019 - 3,EPC3 August 2019,3

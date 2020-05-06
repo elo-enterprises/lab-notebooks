@@ -1,233 +1,2731 @@
-0,1
-QB - 2,2111.01
-QB - 3,2141.01
-QB - 5,2107.02
-QB - 5,2107.01
-QB - 6,2135
-QB - 8,2173.02
-QB - 11,2164.06(b)
-QB - 11,2164.01
-QB - 13,2144.03
-QB - 14,2121
-QB - 15,2131.05
-QB - 19,2181
-QB - 20,2181
-QB - 22,2144
-QB - 23,2128.02
-QB - 26,2164.04
-QB - 27,2173.05(e)
-QB - 30,2131.03
-QB - 30,2131
-QB - 35,2128.01
-QB - 41,2131.01
-QB - 42,2138.06
-QB - 46,2113
-QB - 48,2141.02
-QB - 51,2144.06
-QB - 57,2163.01
-QB - 58,2133.03(b)
-QB - 65,2107.02(II)(B)
-QB - 71,2111.03
-QB - 73,2131
-QB - 73,2111
-QB - 74,2132
-QB - 75,2138
-QB - 76,2138.05
-QB - 80,2145
-QB - 82,2163.06
-QB - 83,2113
-QB - 88,2131
-QB - 92,2144.05
-QB - 99,2107.02
-QB - 99,2107.01
-QB - 102,2131
-QB - 103,2136.02
-QB - 103,2127
-QB - 109,2141
-QB - 124,2113
-QB - 126,2173.05(i)
-QB - 128,2137.01
-QB - 136,2137
-QB - 140,2111.02
-QB - 144,2136.02
-QB - 144,2127
-QB - 146,2137
-QB - 149,2107.01
-QB - 151,2163
-QB - 152,2137.01
-QB - 154,2173.05(c)(III)
-QB - 176,2163.01
-QB - 178,2163.03
-QB - 180,2144
-QB - 183,2138.05
-QB - 188,2145
-QB - 189,2172.01
-QB - 191,2163.06
-QB - 192,2113
-QB - 199,2143.03
-QB - 201,2106.02
-QB - 202,2135.01
-QB - 205,2137.01
-QB - 206,2107.01
-QB - 213,2172
-QB - 215,2128.01
-QB - 219,2173.05(c)
-QB - 232,2141
-QB - 234,2145
-QB - 236,2144.05
-QB - 249,2136
-QB - 261,2165.01
-QB - 280,2173.05
-QB - 291,2173.05
-QB - 295,2181
-QB - 301,2183
-QB - 310,2128.01
-QB - 314,2144.05
-QB - 319,2136
-QB - 327,2165.01
-QB - 334,2173.05(u)
-QB - 361,2173.05(n)
-QB - 371,2183
-QB - 374,2161
-QB - 375,2144.05
-QB - 378,2125
-EPC1 February 2015 - 2,2132
-EPC1 July 2013 - 7,2163.07(a)
-EPC1 July 2013 - 10,2135
-EPC1 June 2013 - 10,2132
-EPC3 May 2017 - 1,2135.01
-EPC3 July 2017 - 1,2132
-EPC3 January 2018 - 2,2121.02
-EPC3 March 2018 - 1,2136.05
-EPC3 July 2018 - 1,2163.03
-EPC3 July 2018 - 2,2131.04
-EPC3 August 2018 - 2,2144.03
-EPC3 December 2018 - 1,2145
-EPC3 March 2019 - 1,2132.01
-EPC3 March 2019 - 3,2132
-EPC3 March 2019 - 3,2131.05
-EPC3 March 2019 - 3,2131.04
-EPC3 May 2019 - 1,2173.05(h)
-EPC3 May 2019 - 1,2111.03
-EPC3 July 2019 - 1,2145
-EPC3 July 2019 - 1,2144
-EPC3 July 2019 - 1,2143
-EPC3 August 2019 - 3,2136.05
-EPC3 August 2019 - 3,2136
-EPC3 August 2019 - 3,2131
-QB - 2,2111.01
-QB - 3,2141.01
-QB - 5,2107.02
-QB - 5,2107.01
-QB - 6,2135
-QB - 8,2173.02
-QB - 11,2164.06(b)
-QB - 11,2164.01
-QB - 13,2144.03
-QB - 14,2121
-QB - 15,2131.05
-QB - 19,2181
-QB - 20,2181
-QB - 22,2144
-QB - 23,2128.02
-QB - 26,2164.04
-QB - 27,2173.05(e)
-QB - 30,2131.03
-QB - 30,2131
-QB - 35,2128.01
-QB - 41,2131.01
-QB - 42,2138.06
-QB - 46,2113
-QB - 48,2141.02
-QB - 51,2144.06
-QB - 57,2163.01
-QB - 58,2133.03(b)
-QB - 65,2107.02(II)(B)
-QB - 71,2111.03
-QB - 73,2131
-QB - 73,2111
-QB - 74,2132
-QB - 75,2138
-QB - 76,2138.05
-QB - 80,2145
-QB - 82,2163.06
-QB - 83,2113
-QB - 88,2131
-QB - 92,2144.05
-QB - 99,2107.02
-QB - 99,2107.01
-QB - 102,2131
-QB - 103,2136.02
-QB - 103,2127
-QB - 109,2141
-QB - 124,2113
-QB - 126,2173.05(i)
-QB - 128,2137.01
-QB - 136,2137
-QB - 140,2111.02
-QB - 144,2136.02
-QB - 144,2127
-QB - 146,2137
-QB - 149,2107.01
-QB - 151,2163
-QB - 152,2137.01
-QB - 154,2173.05(c)(III)
-QB - 176,2163.01
-QB - 178,2163.03
-QB - 180,2144
-QB - 183,2138.05
-QB - 188,2145
-QB - 189,2172.01
-QB - 191,2163.06
-QB - 192,2113
-QB - 199,2143.03
-QB - 201,2106.02
-QB - 202,2135.01
-QB - 205,2137.01
-QB - 206,2107.01
-QB - 213,2172
-QB - 215,2128.01
-QB - 219,2173.05(c)
-QB - 232,2141
-QB - 234,2145
-QB - 236,2144.05
-QB - 249,2136
-QB - 261,2165.01
-QB - 280,2173.05
-QB - 291,2173.05
-QB - 295,2181
-QB - 301,2183
-QB - 310,2128.01
-QB - 314,2144.05
-QB - 319,2136
-QB - 327,2165.01
-QB - 334,2173.05(u)
-QB - 361,2173.05(n)
-QB - 371,2183
-QB - 374,2161
-QB - 375,2144.05
-QB - 378,2125
-EPC1 February 2015 - 2,2132
-EPC1 July 2013 - 7,2163.07(a)
-EPC1 July 2013 - 10,2135
-EPC1 June 2013 - 10,2132
-EPC3 May 2017 - 1,2135.01
-EPC3 July 2017 - 1,2132
-EPC3 January 2018 - 2,2121.02
-EPC3 March 2018 - 1,2136.05
-EPC3 July 2018 - 1,2163.03
-EPC3 July 2018 - 2,2131.04
-EPC3 August 2018 - 2,2144.03
-EPC3 December 2018 - 1,2145
-EPC3 March 2019 - 1,2132.01
-EPC3 March 2019 - 3,2132
-EPC3 March 2019 - 3,2131.05
-EPC3 March 2019 - 3,2131.04
-EPC3 May 2019 - 1,2173.05(h)
-EPC3 May 2019 - 1,2111.03
-EPC3 July 2019 - 1,2145
-EPC3 July 2019 - 1,2144
-EPC3 July 2019 - 1,2143
-EPC3 August 2019 - 3,2136.05
-EPC3 August 2019 - 3,2136
-EPC3 August 2019 - 3,2131
+text
+QB - 1
+"
+Inventor Joe is anxious to get a patent with the broadest claim coverage possible for the invention.
+ Joe retained a registered practitioner, Jane, to obtain the advantage of legal counsel in obtaining
+ broad protection. Jane filed a patent application for the invention. The inventor heard that, although
+ patent prosecution is conducted in writing, it is possible to get interviews with examiners. Joe believes
+ an interview might hasten the grant of a patent by providing the examiner a better understanding of
+ the true novelty of the invention. Which of the following are consistent with the patent law, rules
+ and procedures as related by the MPEP regarding usage of interviews?
+"
+"
+(A) Prior to the first Office action being mailed the inventor calls the examiner to whom the application
+ is docketed to offer help in understanding the specification. 
+(B) After receiving the first Office action Jane calls the examiner for an interview for the purpose
+ of clarifying the structure and operation of the invention as claimed and disclosed, because the examiner's
+ analysis regarding patentability in the rejection is novel and suggests that the examiner is interpreting
+ the claimed invention in a manner very different from the inventor's intent. 
+(C) Jane has Larry, a registered practitioner in the Washington D.C. area, who is more familiar with
+ interview practice to call the examiner. Jane gives Larry a copy of the first Office action, which suggests
+ that the primary examiner's analysis is incorrect, and offers to explain why. Jane instructs Larry that
+ because Larry is unfamiliar with the inventor, Larry should not agree to possible ways in which the
+ claims could be modified, or at least indicate to the examiner that Jane would have to approve of any
+ such agreement. 
+(D) Jane calls the primary examiner after receiving the final rejection, demanding that the examiner
+ withdraw the finality of the final action. When the examiner states that the final rejection is proper,
+ Jane demands an interview as a matter of right to explain the arguments. 
+(E) (B) and (D).
+"
+"
+
+
+(B) is the most correct answer. MPEP § 713.01, under the heading ""Scheduling And Conducting An Interview,""
+ states ""[a]n interview should be had only when the nature of the case is such that the interview could
+ serve to develop and clarify specific issues and lead to a mutual understanding between the examiner
+ and the applicant, and thereby advance the prosecution of the application.""
+
+
+"
+QB - 7
+"
+Smith's first invention is a new method of fabricating a semiconductor capacitor in a dynamic random
+ access memory (DRAM) cell. Smith filed a first patent application on December 13, 2001 disclosing and
+ claiming the first invention. Smith's later, second invention, is an improved semiconductor capacitor
+ in a DRAM cell and a method of making it. Smith filed a second application on December 16, 2002, claiming
+ the benefit of the filing date of the copending first application. The second application contains claims
+ 1-20, and a specification that provides support for the claimed subject matter in compliance with 35
+ USC 112, first paragraph. In the second application, claims 1-10 are drawn to Smith's first invention,
+ and claims 11-20 are drawn to Smith's second invention. The primary examiner found a non patent printed
+ publication authored by Jones published on February 4, 2002. The article discloses the both of Smith's
+ inventions. Which of the following courses of action by the examiner would be in accord with the patent
+ laws, rules and procedures as related in the MPEP?
+"
+"
+(A) The examiner can reject claims 1-20 in the second application using the article because the publication
+ date of the article is earlier than the filing date of the second application. 
+(B) The examiner cannot reject any of the claims in the second application using the article because
+ the second application claims the benefit of the filing date of the first application. 
+(C) The examiner can reject claims 1-20 in the second application using the article because the second
+ application is not entitled to the benefit of the filing date of the first application since the second
+ application was filed more than one year from the filing date of the first application. 
+(D) The examiner can reject claims 1-10, but cannot reject claims 11-20 in the second application because
+ the first application did not disclose the improved capacitor set forth in claims 11-20. 
+(E) The examiner cannot reject claims 1-10, but can reject claims 11-20 in the second application because
+ the first application did not disclose an improved capacitor set forth in claims 11-20.
+"
+"
+
+
+The most correct answer is (E). See MPEP § 201.11, under the heading ""VI. When Not Entitled To Benefit
+ Earlier Of Filing Date, "" states ""[a]ny claim in a continuation-in-part application which is directed
+ solely to subject matter adequately disclosed under 35 USC 112 in the parent nonprovisional application
+ is entitled to the benefit of the filing date of the parent nonprovisional application. However, if
+ a claim in a continuation-in-part application recites a feature which was not disclosed or adequately
+ supported by a proper disclosure under 35 USC 112 in the parent nonprovisional application, but which
+ was first introduced or adequately supported in the continuationin-part application such a claim is
+ entitled only to the filing date of the continuation-inpart application. See In re Chu, 66. F.3d 292,
+ 36 USPQ2d 1089 (Fed. Cir. 1995) and Transco Products, Inc. v. Performance Contracting Inc., 38 F.3d
+ 551, 32 USPQ2d 1077 (Fed. Cir. 1994)."" Accordingly, claims 1-10 are entitled to the benefit of the filing
+ date of the first application, but claims 11-20 are not entitled to the benefit of the filing date of
+ the first application because claims 11-20 recite an improved capacitor, which was not disclosed in
+ the first application. Claims 1-10 have an effective filing date earlier than the publication date of
+ the article. Claims 11-20 have a filing date later than the publication date of the article. For 35
+ USC 102(a) to apply, the reference must have a publication date earlier in time than the effective filing
+ date of the application. See MPEP 706.02(a), paragraph ""III. 35 USC 102(a).""
+
+
+"
+QB - 17
+"
+Patent application A was filed on January 12, 1995, containing claims 1-10. A primary examiner rejects
+ the claims under 35 USC 102(b) as being anticipated by a U.S. patent issued on June 2, 1992. The rejection
+ also relies on a technical paper published March 12, 1993 to show that a characteristic is inherent
+ in the patent, although not expressed in its disclosure. According to the patent laws, rules and procedures
+ as related in the MPEP, which of the following actions is most likely to overcome the rejection?
+"
+"
+(A) Filing a declaration and exhibits under 37 CFR 1.131 to antedate the reference U.S. patent. 
+(B) Filing evidence under 37 CFR 1.132 tending to show commercial success of the invention. 
+(C) Filing evidence under 37 CFR 1.132 tending to show unexpected results of the invention. 
+(D) Amending the specification of application A to claim priority under 35 USC 120 by a specific reference
+ to a prior copending application B that was filed before June 2, 1992 by the same inventor and discloses
+ the invention claimed in at least one claim of application A in the manner provided by the first paragraph
+ of 35 USC 112. 
+(E) Submitting arguments pointing out that the rejection under 35 USC 102(b) relies on more than one
+ reference.
+"
+"
+
+
+(D) is most correct. MPEP § 706.02(b) (8th ed., Rev. 1) states that “[a] rejection based on 35 USC §
+ 102(b) may be overcome by...(C) perfecting priority under...35 USC § 120 by amending the specification
+ of the application to contain a specific reference to a prior application...” Answer (A) is incorrect
+ because a declaration and evidence filed under 37 CFR § 1.131 cannot antedate a reference that qualifies
+ as prior art under 35 USC § 102(b), a statutory bar. See 37 CFR § 1.131(a); MPEP § 715, “SITUATIONS
+ WHERE 37 CFR 1.131 AFFIDAVITS OR DECLARATIONS ARE INAPPROPRIATE.”
+
+
+"
+QB - 17
+"
+Patent application A was filed on January 12, 1995, containing claims 1-10. A primary examiner rejects
+ the claims under 35 USC 102(b) as being anticipated by a U.S. patent issued on June 2, 1992. The rejection
+ also relies on a technical paper published March 12, 1993 to show that a characteristic is inherent
+ in the patent, although not expressed in its disclosure. According to the patent laws, rules and procedures
+ as related in the MPEP, which of the following actions is most likely to overcome the rejection?
+"
+"
+(A) Filing a declaration and exhibits under 37 CFR 1.131 to antedate the reference U.S. patent. 
+(B) Filing evidence under 37 CFR 1.132 tending to show commercial success of the invention. 
+(C) Filing evidence under 37 CFR 1.132 tending to show unexpected results of the invention. 
+(D) Amending the specification of application A to claim priority under 35 USC 120 by a specific reference
+ to a prior copending application B that was filed before June 2, 1992 by the same inventor and discloses
+ the invention claimed in at least one claim of application A in the manner provided by the first paragraph
+ of 35 USC 112. 
+(E) Submitting arguments pointing out that the rejection under 35 USC 102(b) relies on more than one
+ reference.
+"
+"
+
+
+(D) is most correct. MPEP § 706.02(b) (8th ed., Rev. 1) states that “[a] rejection based on 35 USC §
+ 102(b) may be overcome by...(C) perfecting priority under...35 USC § 120 by amending the specification
+ of the application to contain a specific reference to a prior application...” Answer (A) is incorrect
+ because a declaration and evidence filed under 37 CFR § 1.131 cannot antedate a reference that qualifies
+ as prior art under 35 USC § 102(b), a statutory bar. See 37 CFR § 1.131(a); MPEP § 715, “SITUATIONS
+ WHERE 37 CFR 1.131 AFFIDAVITS OR DECLARATIONS ARE INAPPROPRIATE.”
+
+
+"
+QB - 21
+"
+When, in accordance with the patent laws, rules and procedures as related in the MPEP, is a supplemental
+ oath or declaration treated as an amendment under 37 CFR 1.312?
+"
+"
+(A) When filed in a nonprovisional application after the Notice of Allowance has been mailed. 
+(B) When filed in a reissue application at any point during the prosecution. 
+(C) When filed in a nonprovisional application after the payment of the Issue Fee. 
+(D) When filed in a reissue application after the Notice of Allowance has been mailed. 
+(E) (A) and (D).
+"
+"
+
+
+(D) is the most correct answer. MPEP § 714.16, third paragraph, states ""a supplemental reissue oath or
+ declaration is treated as an amendment under 37 CFR 1.312 because the correction of the patent which
+ it provides is an amendment of the patent, even though no amendment is physically entered into the specification
+ or claim(s).""
+
+
+"
+QB - 29
+"
+A registered practitioner filed a patent application in the Office in 1999. Following examination and
+ a final rejection, the practitioner timely filed a proper notice of appeal and a proper appeal brief
+ in the application wherein claims 1-3 stand rejected, claims 4 and 5, which depend from claim 1, stand
+ objected to as depending from a rejected claim but are otherwise allowable, and claims 6-10 stand allowed.
+ The appeal involves claims 1-3. After the brief was filed but prior to a decision by the Board of Patent
+ Appeals and Interferences, the practitioner filed a request for continued examination (RCE) with a submission
+ in accordance with 37 CFR 1.114 without paying the fee set forth in 37 CFR 1.17(e). In accordance with
+ the patent laws, rules and procedures as related in the MPEP, what effect does the filing of the RCE
+ without the fee set forth in Rule 1.17(e) have on the application under appeal?
+"
+"
+(A) The application is abandoned. 
+(B) The application is still pending and under appeal awaiting a decision by the Board of Patent Appeals
+ and Interferences, because the RCE was improper. 
+(C) The application is still pending; the appeal is considered withdrawn and the application will be
+ passed to issue with claims 1-3 canceled and claims 4-10 allowed. 
+(D) The application is still pending; the appeal is considered withdrawn and the application will be
+ passed to issue with claims 1-5 canceled and claims 6-10 allowed. 
+(E) The appeal is withdrawn; the application is returned to the primary examiner and prosecution is reopened
+ as to claims 1-10.
+"
+"
+
+
+(D) is the correct answer. See MPEP §§ 706.07(h), under the heading ""X. After Appeal But Before Decision
+ By Board,"" and 1215.01. As explained in MPEP § 1215.01, ""The filing of an RCE will be treated as a withdrawal
+ of the appeal by the applicant, regardless of whether the RCE includes the appropriate fee or a submission.""
+ Thus, the filing of the RCE without the fee results in the withdrawal of the appeal in this application
+ and passage of the application to issue with the allowed claims 6-10 after the cancellation of both
+ rejected claims 1-15 and claims 4 and 5 which are allowable except for their dependency from rejected
+ claim 1.
+
+
+"
+QB - 30
+"
+Applicant filed an application containing a claim directed to a polishing wheel coated with diamond grit
+ particles. The application discloses, but does not claim, a diamond grit particle size of 5-7 microns.
+ The examiner rejected the claim under 35 USC 102(b) as being anticipated by a U.S. patent which disclosed
+ as its invention a polishing wheel in accordance with the claim of the application but coated with glass
+ grit particles instead of diamond grit particles. The applied patent, which issued more than 1 year
+ prior to the effective filing date of the application, also disclosed that diamond grit particles were
+ known for coating on polishing wheels but were inferior to glass grit particles because they were more
+ expensive and did not adhere as well to the polishing wheel. The applied patent disclosed a grit particle
+ size of 50-100 microns. Which of the following timely taken courses of action would comply with the
+ patent laws, rules and procedures as related in the MPEP for overcoming the rejection?
+"
+"
+(A) Argue that the patent teaches away from the use of a diamond grit particle coating on a polishing
+ wheel and thus does not teach the claimed invention. 
+(B) File a declaration under 37 CFR 1.132 showing unexpected results using diamond grit rather than glass
+ grit. 
+(C) Antedate the applied patent by filing a declaration under 37 CFR 1.131 showing that applicant invented
+ the claimed subject matter prior to the effective date of the applied patent. 
+(D) Argue the applied patent is nonanalogous art. 
+(E) Amend the claim by adding a limitation that the diamond grit particle size is 5-7 microns, and arguing
+ that the claimed invention differs from applied patent by limited the diamond grit particle size to
+ 5-7 microns.
+"
+"
+
+
+(E) is the correct answer. 35 USC § 102(b); 37 CFR § 1.111(b); MPEP §§ 706.02(b), 2131 and 2131.03. As
+ stated in MPEP 2131, under the heading ""To Anticipate A Claim, The Reference Must Teach Every Element
+ Of The Claim,"" ""A claim is anticipated only if each and every element as set forth in the claim is found,
+ either expressly or inherently described, in a single prior art reference."" Verdegaal Bros. v. Union
+ Oil Co. of California, 814 F.2d 628, 631, 2 USPQ2d 1051, 1053 (Fed. Cir. 1987). MPEP 2131.03, under
+ the heading, ""Prior Art Which Teaches A Range Within, Overlapping, Or Touching The Claimed Range Anticipates
+ If The Prior Art Range Discloses The Claimed Range With `Sufficient Specificity.' states ""When the prior
+ art discloses a range which touches, overlaps or is within the claimed range, but no specific examples
+ falling within the claimed range are disclosed, a case by case determination must be made as to anticipation.
+ In order to anticipate the claims, the claimed subject matter must be disclosed in the reference with
+ `sufficient specificity to constitute an anticipation under the statute.' A claim containing a limitation
+ that the grit particle size is 5-7 microns would not be anticipated by the applied reference, because
+ the applied reference discloses a different grit particle size well outside that range.
+
+
+"
+QB - 34
+"
+A registered practitioner filed in the USPTO a client's utility patent application on December 30, 2002.
+ The application was filed with a request for nonpublication, certifying that the invention disclosed
+ in the U.S. application has not and will not be the subject of an application in another country, or
+ under a multilateral international agreement, that requires eighteen month publication. Subsequently,
+ the client files an application in Japan on the invention and some recent improvements to the invention.
+ The improvements are not disclosed or supported in the utility application. Japan is a country that
+ requires eighteen month publication. Two months after filing the application in Japan, and before filing
+ any other papers in the USPTO, the client remembers that a nonpublication request was filed and informs
+ the practitioner about the application that was filed in Japan. Which of the following courses of action
+ is in accordance with the patent laws, rules and procedures as related in the MPEP?
+"
+"
+(A) The application is abandoned because the practitioner did not rescind the nonpublication request
+ and provide notice of foreign filing within 45 days of having filed the application in Japan. The applicant
+ must now file a petition and fee to revive under 37 CFR 1.137(b). 
+(B) The application is abandoned because the applicant did not rescind the nonpublication request before
+ filing the application in Japan. The applicant must now file a petition and fee to revive under 37 CFR
+ 1.137(b). 
+(C) The applicant should file an amendment to the specification of the U.S. application, adding the recent
+ improvements to the disclosure in the specification. 
+(D) The application is abandoned because the applicant did not rescind the nonpublication request by
+ notifying the Office under 37 CFR 1.213(c) within the appropriate time. The applicant must now file
+ a petition and fee to revive under 37 CFR 1.137(b). 
+(E) The applicant could today notify the USPTO of the foreign filing. It is not necessary to file a petition
+ and fee to revive for the application to continue to be examined in the USPTO.
+"
+"
+
+
+(A) is the most correct answer. See 35 USC 122(b)(2)(B)(iii); 37 CFR § 1.213; MPEP § 901.03 for information
+ on nonpublication requests. See 37 CFR § 1.137(f); MPEP § 711.03(c), under the heading ""3. Abandonment
+ for Failure to Notify the Office of a Foreign Filing After Submission of a Non-Publication Request.""
+
+
+"
+QB - 53
+"
+Which of the following would comply with the patent laws, rules and procedures as related in the MPEP
+ and would be a fully responsive reply to a non final Office action on the merits rejecting all the claims
+ in the application as being unpatentable under 35 USC 102 and/or 103 over prior art references?
+"
+"
+(A) A timely filed and properly signed written reply which does not include an amendment to the claims,
+ but includes a request for the examiner's rejections to be reconsidered supported by arguments replying
+ to every ground of rejection and distinctly and specifically points out the supposed errors in every
+ rejection. and pointing out the specific distinctions believed to render the claims patentable over
+ any applied references. 
+(B) A timely filed and properly signed written reply which includes an amendment canceling all the claims
+ in the application and adding new claims, and a request for the examiner's rejections to be reconsidered
+ in view of the newly presented claims. 
+(C) A timely filed and properly signed written reply which does not include an amendment to the claims,
+ but does generally alleges that the claims define a patentable invention. 
+(D) A timely filed and properly signed written request for continued examination (RCE). 
+(E) All of the above.
+"
+"
+
+
+(A) is the most correct answer. 37 CFR § 1.111; MPEP § 714.02. Section 1.111 states in pertinent part:
+ ""(a)(1) If the Office action after the first examination (§ 1.104) is adverse in any respect, the applicant
+ or patent owner, ... must reply and request reconsideration or further examination, with or without
+ amendment. ... (b) In order to be entitled to reconsideration or further examination, the applicant
+ or patent owner must reply to the Office action. The reply by the applicant or patent owner must be
+ reduced to a writing which distinctly and specifically points out the supposed errors in the examiner's
+ action and must reply to every ground of objection and rejection in the prior Office action. The reply
+ must present arguments pointing out the specific distinctions believed to render the claims, including
+ any newly presented claims, patentable over any applied references.... The applicant's or patent owner's
+ reply must appear throughout to be a bona fide attempt to advance the application or the reexamination
+ proceeding to final action. A general allegation that the claims define a patentable invention without
+ specifically pointing out how the language of the claims pate ntably distinguishes them from the references
+ does not comply with the requirements of this section."" MPEP § 714.02 states ""In all cases where reply
+ to a requirement is indicated as necessary to further consideration of the claims ... a complete reply
+ must either comply with the formal requirements or specifically traverse each one not complied with.""
+
+
+"
+QB - 55
+"
+A patent application is filed having one claim (claim 1). The most relevant prior art uncovered by the
+ primary examiner, after searching the claimed subject matter, is a published abstract summarizing the
+ disclosure of a foreign patent document. The abstract is in English, the foreign document is in German.
+ Both the published abstract and the foreign document are prior art under 35 USC 102(b). The published
+ abstract provides an adequate basis for concluding that claim 1 is prima facie obvious under 35 USC
+ 103. Which of the following actions is in accord with the patent laws, rules and procedures as related
+ in the MPEP?
+"
+"
+(A) Reject claim 1 under 35 USC 103, based on the abstract, because it is a publication in its own right
+ and provides sufficient basis for a prima facie case of obviousness. 
+(B) Reject claim 1 under 35 USC 103, based on the abstract, because disclosures that are not in English
+ cannot form the basis of a prior art rejection. 
+(C) Reject claim 1 under 35 USC 103, based on the German-language patent document, as evidenced by the
+ abstract. 
+(D) Do not reject claim 1 based on the abstract; instead, obtain a translation of the German-language
+ document and determine whether its full disclosure supports a rejection under 35 USC 102(b) or 103.
+ 
+(E) Do not reject the claims based on the abstract because an abstract can never provide sufficient disclosure
+ to be enabling.
+"
+"
+
+
+(A) or (D) is accepted as correct. As to (A), MPEP § 706.02, under the heading “Reliance Upon Abstracts
+ And Foreign Language Documents In Support Of A Rejection,” states “[i]n limited circumstances, it may
+ be appropriate for the examiner to make a rejection in a non-final Office action based in whole or in
+ part on the abstract only without relying on the full text document.” In the facts, the “published abstract
+ provides an adequate basis for concluding that claim 1 is prima facie obvious under 35 USC 103.” As
+ to (D) MPEP § 706.02, under the heading “Reliance Upon Abstracts And Foreign Language Documents In Support
+ Of A Rejection,” states “[c]itation of and reliance upon an abstract without citation of and reliance
+ upon the underlying scientific document is generally inappropriate where both the abstract and the underlying
+ document are prior art. See Ex parte Jones, 62 USPQ2d 1206, 1208 (Bd. Pat. App. & Int. 2001) (unpublished).”
+
+
+"
+QB - 59
+"
+A patent application is filed disclosing and claiming a system for detecting expired parking meters.
+ The specification fully supports the original, sole claim. The application discloses that the “electronics
+ control unit” contains a comparator and an alarm. The application includes several drawings. One of
+ the drawings shows a block diagram of the system, illustrating the electronics control unit as a box,
+ labeled “electronics control unit.” The sole claim of the application is as follows: 
+The claim. A system
+ for detecting expired parking meters, comprising: a timer mechanism; an infrared sensor for detecting
+ the presence of a parked vehicle; and an electronics control unit, including a comparator and an alarm,
+ coupled to the infrared sensor and the timer mechanism. 
+A final Office action, dated February 3, 2004,
+ indicates that the sole claim contains allowable subject matter, but includes an objection to the specification,
+ on the grounds that the subject matter of the electronics control unit, though described in a sufficiently
+ specific and detailed manner in the original specification, was required to be shown in the drawings
+ under 37 CFR 1.83. The Office action did not set a period for reply. Determine which of the following
+ actions, if any, comports with the patent laws, rules and procedures as related in the MPEP for overcoming
+ the objection.
+"
+"
+(A) On April 1, 2004, a Notice of Appeal is filed together with appropriate fees, and a brief pointing
+ out that a patent should issue since the subject matter of the electronics control unit was adequately
+ described in the original specification. 
+(B) On April 1, 2004, a drawing is filed in the USPTO illustrating only the comparator and alarm of the
+ electronics control unit that was described in the original specification. 
+(C) On April 1, 2004, a Notice of Appeal of appeal is filed together with appropriate fees, and a brief
+ pointing out that the addition of a drawing showing the electronics control unit would not constitute
+ addition of new matter since the electronics control unit was adequately described in the original specification.
+ 
+(D) On September 1, 2004, a petition is filed urging that no further drawing should be required because
+ the subject matter of the electronics control unit, for purposes of the application, was adequately
+ disclosed in the block diagram drawing. 
+(E) None of the above.
+"
+"
+
+
+(B). 37 CFR § 1.83(a); MPEP §§ 608.01(l) and 706.03(o). MPEP § 608.01(l) states “[w]here subject matter
+ not shown in a drawing...is claimed in the specification as filed, and such original claim itself constitutes
+ a clear disclosure of this subject matter, then the claim should be treated on its merits, and requirement
+ made to amend the drawing and description to show this subject matter...It is the drawing...that [is]
+ defective, not the claim. It is, of course, to be understood that this disclosure in the claim must
+ be sufficiently specific and detailed to support the necessary amendment of the drawing...” MPEP § 608.02(d)
+ and 706.03(o). MPEP § 706.03(o), state “[i]f subject matter capable of illustration is originally claimed
+ and it is not shown in the drawing, the claim is not rejected but applicant is required to add it to
+ the drawing. See MPEP § 608.01(l).”
+
+
+"
+QB - 68
+"
+Applicant files a patent application in Japan on January 5, 2000. Applicant files a PCT international
+ application designating the United States on January 5, 2001, based on the Japanese application. The
+ international application is published in English on July 5, 2001. The international application enters
+ the national stage in the United States on September 5, 2001. The USPTO publishes the application on
+ June 6, 2002. The application issues as a United States patent on December 3, 2002. What is its earliest
+ possible 35 USC 102(e) prior art date for the application published by the United States, in view of
+ the amendment to Title 35 by the American Inventors Protection Act of 1999 and the Intellectual Property
+ and High Technology Technical Amendments Act of 2002?
+"
+"
+(A) January 5, 2000. 
+(B) January 5, 2001. 
+(C) July 5, 2001. 
+(D) June 6, 2002. 
+(E) December 3, 2002.
+"
+"
+
+
+Answer (B) is the most correct answer. 35 USC § 102(e)(1) provides that a US published application of
+ a national stage of an international application filed on or after November 29, 2000 has a prior art
+ effect as of its international filing date, if the international application designated the United States,
+ and was published in English. Because in the above fact pattern, the international application designated
+ the United States and was published in English, and was filed on or after November 29, 2000, the USPTO
+ published application is entitled to its international filing date of January 5, 2001 for prior art
+ purposes under 35 USC § 102(e)(1). See Example 4 of MPEP § 706.02(f)(1).
+
+
+"
+QB - 77
+"
+A registered practitioner filed in the USPTO a client’s utility patent application on December 30, 2002.
+ The application was filed with a request for nonpublication, certifying that the invention disclosed
+ in the U.S. application has not and will not be the subject of an application in another country, or
+ under a multilateral international agreement, that requires eighteen month publication. Subsequently,
+ the client files an application in Japan on the invention and some recent improvements to the invention.
+ The improvements are not disclosed or supported in the utility application. Japan is a country that
+ requires eighteen month publication. Two months after filing the application in Japan, and before filing
+ any other papers in the USPTO, the client remembers that a nonpublication request was filed and informs
+ the practitioner about the application that was filed in Japan. Which of the following courses of action
+ is in accordance with the USPTO rules and the procedures set forth in the MPEP?
+"
+"
+(A) The application is abandoned because the practitioner did not rescind the nonpublication request
+ and provide notice of foreign filing within 45 days of having filed the application in Japan. The applicant
+ must now file a petition and fee to revive under 37 CFR 1.137(b). 
+(B) The application is abandoned because the applicant did not rescind the nonpublication request before
+ filing the application in Japan. The applicant must now file a petition and fee to revive under 37 CFR
+ 1.137(b). 
+(C) The applicant should file an amendment to the specification of the U.S. application, adding the recent
+ improvements to the disclosure in the specification. 
+(D) The application is abandoned because the applicant did not rescind the nonpublication request by
+ notifying the Office under 37 CFR 1.213(c) within the appropriate time. The applicant must now file
+ a petition and fee to revive under 37 CFR 1.137(b). 
+(E) The applicant could today notify the USPTO of the foreign filing. It is not necessary to file a petition
+ and fee to revive for the application to continue to be examined in the USPTO.
+"
+"
+
+
+(A) and (D) are accepted as the correct answers. Regarding answer (A), see 35 USC § 122(b)(2)(B)(iii);
+ 37 CFR § 1.213; MPEP § 901.03 for information on nonpublication requests. See 37 CFR § 1.137(f); MPEP
+ § 711.03(c), under the heading “3. Abandonment for Failure to Notify the Office of a Foreign Filing
+ After Submission of a Non-Publication Request.” (D) was also accepted because the statement characterizes
+ the status of the application as being abandoned, though the application has not necessarily attained
+ abandoned status. The course of action postulated in (D) is a proper reply if the application was abandoned.
+ Accordingly, (D) was accepted as a correct answer under these circumstances.
+
+
+"
+QB - 85
+"
+In accordance with USPTO rules and procedures set forth in the MPEP, which of the following is not a
+ proper basis on which the Board of Patent Appeals and Interferences may remand a case to the examiner?
+"
+"
+(A) Remand for a fuller description of the claimed invention. 
+(B) Remand for a clearer explanation of the pertinence of the references. 
+(C) Remand for a selection by the primary examiner of a preferred or best ground of rejection when multiple
+ rejections of a cumulative nature have been made by the examiner. 
+(D) Remand to the primary examiner with instructions to consider an affidavit not entered by the examiner
+ which was filed after the final rejection but before the appeal. 
+(E) Remand to the primary examiner to prepare a supplemental examiner's answer in response to a reply
+ brief.
+"
+"
+
+
+(D) is the most correct answer. See MPEP § 1211.02. (D) is not a proper basis for remand because the
+ Board has no authority to require the examiner to consider an affidavit which has not been entered after
+ final rejection and which was filed while the application was pending before the examiner. Pursuant
+ to 37 CFR § 1.195, ""[a]ffidavits... submitted after the case has been appealed will not be admitted
+ without a showing of good and sufficient reasons why they were not earlier presented."" The facts are
+ silent regarding whether such a showing was made. However, as discussed in MPEP § 715.09, ""Review of
+ an examiner's refusal to enter [and consider] an affidavit as untimely is by petition and not by appeal
+ to the Board of Patent Appeals and Interferences. In re Deters, 515 F.2d 1152, 185 USPQ 644 (CCPA 1975);
+ Ex parte Hale, 49 USPQ 209 (Bd. App. 1941)."" Thus, remand by the Board cannot be expected.
+
+
+"
+QB - 91
+"
+Which of the following practices or procedures may be employed in accordance with the USPTO rules and
+ the procedures set forth in the MPEP to overcome a rejection properly based on 35 USC 102(e)?
+"
+"
+(A) Persuasively arguing that the claims are patentably distinguishable from the prior art. 
+(B) Filing an affidavit or declaration under 37 CFR 1.132 showing that the reference invention is not
+ by “another.” 
+(C) Filing an affidavit or declaration under 37 CFR 1.131 showing prior invention, if the reference is
+ not a U.S. patent that either claims the same invention or claims an obvious variation of the subject
+ matter in the rejected claim(s). 
+(D) (A) and (C). 
+(E) (A), (B) and (C).
+"
+"
+
+
+(E) is the most correct answer. See MPEP § 706.02(b), under the heading “Overcoming A 35 USC § 102 Rejection
+ Based On A Printed Publication Or Patent.”
+
+
+"
+QB - 95
+"
+The Office mailed an Office action containing a proper final rejection dated July 8, 2002. The Office
+ action did not set a period for reply. On January 7, 2003, in reply to the final rejection, a registered
+ practitioner filed a request for continued examination under 37 CFR 1.114, a request for a suspension
+ of action under 37 CFR 1.103(c) to suspend action for three months, and proper payment all required
+ fees. No submission in reply to the outstanding Office action accompanied the request for continued
+ examination. No other paper was submitted and no communication with the Office was held until after
+ Midnight, January 8, 2003. Which of the following statements accords with the USPTO rules and the procedures
+ set forth in the MPEP?
+"
+"
+(A) If an appropriate reply is submitted within the three month period of suspension permitted under
+ 37 CFR 1.103(c), the application will not be held abandoned. 
+(B) The application will not be held abandoned if an appropriate reply is submitted within the three
+ month period of suspension and it is accompanied by a showing that the reply could not have been submitted
+ within the period set in the final rejection. For example, the reply includes a showing based on an
+ experiment that required 8 months to conduct. 
+(C) No reply will prevent the application from being held abandoned. 
+(D) If, on January 10, 2003, the primary examiner and applicant agree to an examiner’s amendment that
+ places the application in condition for allowance and a notice of allowance is mailed within the three
+ month period of suspension, application X will not be held abandoned. 
+(E) No other submission by applicant is necessary because application X is still pending. The examiner
+ is required to act on the request for continued examination after expiration of the three month period
+ of suspension.
+"
+"
+
+
+(C) is the most correct answer. As stated in MPEP § 709, under the heading “Request By The Applicant,”
+ subheading “Request for Suspension Under 37 CFR 1.103(b) or (c),” “The Office will not grant the requested
+ suspension of action unless the following requirements are met: (A) the request must be filed with the
+ filing of a CPA or an RCE...(1) if the request is filed with an RCE, the RCE must be in compliance with
+ 37 CFR 1.114, i.e., the RCE must be accompanied by a submission and the fee set forth in 37 CFR 1.17(e).
+ Note that the payment of the RCE filing fee may not be deferred and the request for suspension cannot
+ substitute for the submission.” The RCE was improper because no submission in reply to the outstanding
+ Office action accompanied the RCE. Since the RCE was improper, the Office will not recognize the request
+ for suspension. The time period set in the final rejection continues to run from the mail date of the
+ Office action. Since the Office action did not set a period for reply, applicant has a maximum period
+ of six months for reply. A reply was due on February 8, 2003. Since the RCE was improper and the Office
+ did not recognize the request for suspension, the application became abandoned at Midnight of February
+ 8, 2003.
+
+
+"
+QB - 98
+"
+In accordance with the USPTO rules and the procedures set forth in the MPEP, a petition to make a patent
+ application special may be filed without fee in which of the following cases?
+"
+"
+(A) The petition is supported by applicant's birth certificate showing applicant's age is 62. 
+(B) The petition is supported by applicant's unverified statement that applicant's age is 65. 
+(C) The petition is supported by applicant's statement that there is an infringing device actually on
+ the market, that a rigid comparison of the alleged infringing device with the claims of the application
+ has been made, and that applicant has made a careful and thorough search of the prior art. 
+(D) The petition is accompanied by a statement under 37 CFR 1.102 by applicant explaining the relationship
+ of the invention to safety of research in the field of recombinant DNA research. 
+(E) The petition is accompanied by applicant's statement explaining how the invention contributes to
+ the diagnosis, treatment or prevention of HIV/AIDS or cancer.
+"
+"
+
+
+(B) is the most correct answer. See MPEP § 708.02, under the heading ""IV. Applicant's Age.""
+
+
+"
+QB - 106
+"
+According to USPTO rules and procedure, which of the following can be overcome by an affidavit under
+ 37 CFR 1.131?
+"
+"
+(A) A rejection properly based on statutory double patenting. 
+(B) A rejection properly made under 35 USC 102(d) based on a foreign patent granted in a non-WTO country.
+ 
+(C) A rejection properly made under 35 USC 102(a) based on a journal article dated one month prior to
+ the effective filing date of the U.S. patent application. 
+(D) Applicant has clearly admitted on the record during the prosecution of the application that subject
+ matter in the journal article relied on by the examiner is prior art. 
+(E) A rejection properly made under 35 USC 102(b) based on a U.S. patent that issued 18 months before
+ the effective filing date of the application. The patent discloses, but does not claim, the invention.
+"
+"
+
+
+(E) is the correct answer. MPEP § 715.
+
+
+"
+QB - 108
+"
+Which of the following statements is true?
+"
+"
+(A) In the context of 35 USC 102(b), a magazine need only be placed in the mail to be effective as a
+ printed publication. 
+(B) The earliest date declassified printed material may be taken as prima facie evidence of prior knowledge
+ under 35 USC 102(a) is as of the date the material is cataloged and placed on the shelf of a public
+ library. 
+(C) Declassified printed material is effective as a printed publication under 35 USC 102(b) as of the
+ date of its release following declassification. 
+(D) The American Inventors Protection Act (AIPA) amended 35 USC 102(e) to provide that U.S. patents,
+ U.S. application publications, and certain international application publications can be used as prior
+ art under 35 USC 102(e) based on their earliest effective filing date only against applications filed
+ on or after November 29, 2000. 
+(E) The American Inventors Protection Act (AIPA) amended 35 USC 102(e) to provide that U.S. patents,
+ U.S. application publications, and certain international application publications can be used as prior
+ art under 35 USC 102(e) based on their earliest effective filing date only against applications filed
+ prior to November 29, 2000 which have been voluntarily published.
+"
+"
+
+
+(C) is correct. MPEP § 707.05(f) states, ""In the use of [declassified material] ... as an anticipatory
+ publication, the date of release following declassification is the effective date of publication within
+ the meaning of the statute.""
+
+
+"
+QB - 116
+"
+In 1995 Patent Agent filed a U.S. patent application containing five claims (Application 1). All five
+ claims are fully supported under 35 U.S.C. § 112 by the disclosure of Application 1. In 2000, Patent
+ Agent filed a U.S. patent application (Application 2) that was a continuation- in-part of Application
+ 1. Application 2 adds new subject matter to the disclosure of Application 1, and ten additional claims.
+ Of the fifteen claims in Application 2, claims 1-5 are exactly the same as Application 1, claims 6-10
+ are fully supported under 35 U.S.C. § 112 by the disclosure of Application 1, and claims 11- 15 are
+ fully supported under 35 U.S.C. § 112 only by the newly added subject matter of Application 2. The effective
+ filing date for claims in Application 2 is:
+"
+"
+(A) 1-15 is 2000. 
+(B) 1-15 is 1995. 
+(C) 1-10 is 1995. 
+(D) 11-15 is 2000. 
+(E) (C) and (D).
+"
+"
+
+
+(E) is the most correct answer. MPEP § 706.02 page 700-20 (8th ed.), under the heading “DETERMINING THE
+ EFFECTIVE FILING DATE OF THE APPLICATION” states “[t]he effective filing date of a U.S. application
+ may be determined as follows: ... (B) If the application is a continuation-in-part of an earlier U.S.
+ application, any claims in the new application not supported by the specification and claims of the
+ parent application have an effective filing date equal to the filing date of the new application. Any
+ claims which are fully supported under 35 USC § 112 by the earlier parent application have the effective
+ filing date of that earlier parent application.” Accordingly, the effective filing date of claims 1-10
+ is 1995 and the effective filing date of claims 11-15 is 2000.
+
+
+"
+QB - 129
+"
+Nonobviousness of a claimed invention may be demonstrated by:
+"
+"
+(A) producing evidence that all the beneficial results are expected based on the teachings of the prior
+ art references. 
+(B) producing evidence of the absence of a property the claimed invention would be expected to possess
+ based on the teachings of the prior art. 
+(C) producing evidence showing that unexpected results occur over less than the entire claimed range.
+ 
+(D) producing evidence showing that the unexpected properties of a claimed invention have a significance
+ less than equal to the expected properties. 
+(E) (A), (B), (C) and (D).
+"
+"
+
+
+(B). See Ex parte Mead Johnson & Co., 227 USPQ 78 (Bd. Pat. App. & Int. 1985); MPEP 716.02(a) page 700-155
+ (Absence of Expected Property is Evidence of Nonobviousness).
+
+
+"
+QB - 130
+"
+You have just received an Office action rejecting all of your claims in your patent application as anticipated
+ under 35 U.S.C. § 102(a) using published declassified material as the reference. The examiner explains
+ that the declassified material is being used as prima facie evidence of prior knowledge as of the printing
+ date. The published declassified material contains information showing that it was printed six months
+ before the filing date of the application, and that it was published two months after the application’s
+ filing date. You correctly note that although the printing date precedes your application filing date
+ by six months, you note that the publication was classified as of its printing date (thus, available
+ only for limited distribution even when the application was filed), and was not declassified until its
+ publication date (when it became available to the general public). Each element of the claimed invention
+ is described in the publication of the declassified material. Which of the following statements is true?
+"
+"
+(A) The rejection is not supported by the reference. 
+(B) The publication is not available as a reference because it did not become available to the general
+ public until after the filing date of your patent application. 
+(C) The publication is prima facie evidence of prior knowledge even though it was available only for
+ limited distribution as of its printing date. 
+(D) The publication constitutes an absolute statutory bar. 
+(E) It is not possible to use a Rule 131 affidavit or declaration to antedate the printing date of the
+ publication.
+"
+"
+
+
+(C). As stated in MPEP § 707.05(f), “For the purpose of anticipation predicated upon prior knowledge
+ under 35 USC 102(a), the above noted declassified material may be taken as prima facie evidence of such
+ prior knowledge as of its printing date even though such material was classified at that time.”
+
+
+"
+QB - 135
+"
+Which of the following may not be properly used as prior art for purposes of rejecting a claim under
+ 35 U.S.C. § 102(b) in an application having an effective filing date of Monday, May 3, 1999?
+"
+"
+(A) A journal article, published Saturday, May 2, 1998, disclosing all the claimed elements and fully
+ teaching how to make and use the invention as claimed. 
+(B) A foreign patent, published March 3, 1998, which applicant referenced in the application when claiming
+ foreign priority based on the foreign application date, and applicant submitted a certified copy of
+ the original foreign application. 
+(C) Applicant’s statement in a declaration under 37 C.F.R. § 1.132 that although the invention as claimed
+ had been offered for sale in department stores in New York during 1997, this was done only to analyze
+ consumer acceptance of the packaging in which the invention is marketed. 
+(D) A journal article, published May 1, 1997, disclosing all the elements of the claim and teaching how
+ to make and use the claimed invention. The examiner used the article in combination with another journal
+ article in a previous non-final Office action to reject the same claim under 35 U.S.C. § 103. 
+(E) All of the above.
+"
+"
+
+
+(A). MPEP 706.02(a).
+
+
+"
+QB - 137
+"
+Mario Lepieux was a member of a Canadian national hockey team touring Europe. While traveling through
+ Germany (a WTO member country) in December 1998, Mario conceived of an aerodynamic design for a hockey
+ helmet that offered players improved protection while reducing air resistance during skating. Upon Mario’s
+ return to Canada (a NAFTA country), he enlisted his brothers Luigi and Pepe Lepieux to help him market
+ the product under the tradename “Wing Cap.” On February 1, 1999, without Mario’s knowledge or permission,
+ Luigi anonymously published a promotional article written by Mario and fully disclosing how the Wing
+ Cap was made and used. The promotional article was published in Moose Jaw Monthly, a regional Canadian
+ magazine that is not distributed in the United States. The Wing Cap was first reduced to practice on
+ March 17, 1999. A United States patent application properly naming Mario as the sole inventor was filed
+ September 17, 1999. That application has now been rejected as being anticipated by the Moose Jaw Monthly
+ article. Which of the following statements is most correct?
+"
+"
+(A) The promotional article cannot be used as prior art because the Wing Cap had not been reduced to
+ practice at the time the article appeared in the regional Canadian magazine. 
+(B) The regional Canadian magazine article is not prima facie prior art because it was published without
+ Mario’s knowledge or permission. 
+(C) The regional Canadian magazine article is not prima facie prior art because it appeared in a regional
+ Canadian publication and does not evidence knowledge or use in the United States. 
+(D) The promotional article in the regional Canadian magazine constituted an offer to sell that operates
+ as an absolute bar against Mario’s patent application. 
+(E) Mario, as the inventor, can overcome the rejection by filing an affidavit under 37 C.F.R. § 1.132
+ establishing that he is the inventor, and the article describes his work.
+"
+"
+
+
+The correct answer is (E). MPEP § 716.10. There is no requirement that a publication describe something
+ that has actually been reduced to practice before the publication can act as a prior art reference.
+
+
+"
+QB - 138
+"
+Mario Lepieux was a member of a Canadian national hockey team touring Europe. While traveling through
+ Germany (a WTO member country) in December 1998, Mario conceived of an aerodynamic design for a hockey
+ helmet that offered players improved protection while reducing air resistance during skating. Upon Mario’s
+ return to Canada (a NAFTA country), he enlisted his brothers Luigi and Pepe Lepieux to help him market
+ the product under the tradename “Wing Cap.” On February 1, 1999, without Mario’s knowledge or permission,
+ Luigi anonymously published a promotional article written by Mario and fully disclosing how the Wing
+ Cap was made and used. The promotional article was published in Moose Jaw Monthly, a regional Canadian
+ magazine that is not distributed in the United States. The Wing Cap was first reduced to practice on
+ March 17, 1999. A United States patent application properly naming Mario as the sole inventor was filed
+ September 17, 1999. That application has now been rejected as being anticipated by the Moose Jaw Monthly
+ article. 
+Which of the following statements is most correct?
+"
+"
+(A) In a priority contest against another inventor, Mario can rely on his activities in Canada in establishing
+ a date of invention. 
+(B) In a priority contest against another inventor, Mario can rely on his activities in Germany in establishing
+ a date of invention. 
+(C) Mario can rely on his activities in Canada in establishing a date of invention prior to publication
+ of the regional Canadian magazine article. 
+(D) (A) and (C). 
+(E) (A), (B), and (C).
+"
+"
+
+
+The answer is (E). Mario may rely on activities in both Germany (a WTO member country) and Canada (a
+ NAFTA country) in establishing a date of invention prior to publication of the Moose Jaw Monthly article
+ or in establishing priority. 35 USC § 104; see also MPEP § 715.01(c).
+
+
+"
+QB - 139
+"
+On August 7, 1997, practitioner Costello filed a patent application identifying Laurel, Abbot, and Hardy
+ as inventors. Each named inventor assigned his patent rights to Burns just prior to the application
+ being filed. Laurel and Abbot, alone, jointly invented the subject matter of independent claim 1 in
+ the application. Hardy contributed to inventing the subject matter of claim 2. Claim 2 properly depends
+ upon claim 1. The examiner rejected claim 1 and claim 2 under 35 U.S.C. § 102(a) as anticipated by a
+ journal article by Allen, dated July 9, 1997. Laurel, Abbot, and Hardy are readily available to provide
+ evidence in support of and sign an antedating affidavit under 37 C.F.R. § 1.131 showing reduction to
+ practice of the subject matter of claims 1 and 2 prior to July 9, 1997. Which of the following may properly
+ make an affidavit under 37 C.F.R. § 1.131 to overcome the rejection of claims 1 and 2.?
+"
+"
+(A) Laurel and Abbot. 
+(B) Laurel, Abbot, and Hardy. 
+(C) Laurel, Hardy and Burns. 
+(D) Burns only. 
+(E) None of the above.
+"
+"
+
+
+(B). MPEP 715.04.
+
+
+"
+QB - 150
+"
+In which of the following final Office action rejections is the finality of the Office action rejection
+ proper?
+"
+"
+(A) The final Office action rejection is in a second Office action and uses newly cited art under 35
+ U.S.C. § 102(b) to reject unamended claims that were objected to but not rejected in a first Office
+ action. 
+(B) The final Office action rejection is in a first Office action in a continuation- in-part application
+ where at least one claim includes subject matter not present in the parent application. 
+(C) The final Office action rejection is in a first Office action in a continuing application, all claims
+ are drawn to the same inve ntion claimed in the parent application, and the claims would have been properly
+ finally rejected on the grounds and art of record in the next Office action if they had been entered
+ in the parent application. 
+(D) The final Office action rejection is in a first Office action in a substitute application that contains
+ material that was presented after final rejection in an earlier application but was denied entry because
+ the issue of new matter was raised. 
+(E) None of the above.
+"
+"
+
+
+(C) is the correct answer. MPEP § 706.07(b).
+
+
+"
+QB - 156
+"
+According to USPTO rules and procedure, which of the following can be overcome by an affidavit under
+ 37 CFR 1.131?
+"
+"
+(A) A rejection properly based on statutory double patenting. 
+(B) A rejection properly made under 35 U.S.C. § 102(d) based on a foreign patent granted in a non-WTO
+ country. 
+(C) A rejection properly made under 35 U.S.C. § 102(a) based on a journal article dated one month prior
+ to the effective filing date of the U.S. patent application. Applicant has clearly admitted on the record
+ during the prosecution of the application that subject matter in the journal article relied on by the
+ examiner is prior art. 
+(D) A rejection properly made under 35 U.S.C. § 102(b) based on a U.S. patent that issued 18 months before
+ the effective filing date of the application. The patent discloses, but does not claim, the invention.
+ 
+(E) None of the above.
+"
+"
+
+
+(E) is the correct answer. MPEP § 715.
+
+
+"
+QB - 170
+"
+Assume that conception of applicant’s complex invention occurred prior to the date of the reference,
+ but reduction to practice occurred after the date of the reference. Which of the following is sufficient
+ to overcome the reference in accordance with proper USPTO practice and procedure?
+"
+"
+(A) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to allege that applicant or patent owner
+ has been diligent. 
+(B) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to clearly establish conception of the
+ invention prior to the effective date of the reference, and diligence from just prior to the effective
+ date of the reference to actual reduction to practice. The presence of a lapse of time between the reduction
+ to practice of an invention and the filing of an application thereon is not relevant. 
+(C) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to clearly establish conception of the
+ invention prior to the effective date of the reference. Diligence need not be considered. 
+(D) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to show conception and reduction to
+ practice in any country. 
+(E) In a 37 CFR 1.131 affidavit or declaration, it is always sufficient to prove actual reduction to
+ practice for all mechanical inventions by showing plans for the construction of the claimed apparatus.
+"
+"
+
+
+(B) is the most correct answer. See Ex parte Merz, 75 USPQ 296 (Bd. App. 1947) (holding that the “lapse
+ of time between the completion or reduction to practice of an invention and the filing of an application
+ thereon” is not relevant to an affidavit or declaration under 37 CFR § 1.131(b)); MPEP § 715.07(a).
+
+
+"
+QB - 184
+"
+A registered practitioner filed in the USPTO a client’s utility patent application on December 30, 2002.
+ The application was filed with a request for nonpublication, certifying that the invention disclosed
+ in the U.S. application has not and will not be the subject of an application in another country, or
+ under a multilateral international agreement, that requires eighteen month publication. Subsequently,
+ the client files an application in Japan on the invention and some recent improvements to the invention.
+ The improvements are not disclosed or supported in the utility application. Japan is a country that
+ requires eighteen month publication. Two months after filing the application in Japan, and before filing
+ any other papers in the USPTO, the client remembers that a nonpublication request was filed and informs
+ the practitioner about the application that was filed in Japan. Which of the following courses of action
+ is in accordance with the USPTO rules and the procedures set forth in the MPEP?
+"
+"
+(A) The application is abandoned because the practitioner did not rescind the nonpublication request
+ and provide notice of foreign filing within 45 days of having filed the application in Japan. The applicant
+ must now file a petition and fee to revive under 37 CFR 1.137(b). 
+(B) The application is abandoned because the applicant did not rescind the nonpublication request before
+ filing the application in Japan. The applicant must now file a petition and fee to revive under 37 CFR
+ 1.137(b). 
+(C) The applicant should file an amendment to the specification of the U.S. application, adding the recent
+ improvements to the disclosure in the specification. 
+(D) The application is abandoned because the applicant did not rescind the nonpublication request by
+ notifying the Office under 37 CFR 1.213(c) within the appropriate time. The applicant must now file
+ a petition and fee to revive under 37 CFR 1.137(b). 
+(E) The applicant could today notify the USPTO of the foreign filing. It is not necessary to file a petition
+ and fee to revive for the application to continue to be examined in the USPTO.
+"
+"
+
+
+(A) and (D) are accepted as the correct answers. Regarding answer (A), see 35 USC § 122(b)(2)(B)(iii);
+ 37 CFR § 1.213; MPEP § 901.03 for information on nonpublication requests. See 37 CFR § 1.137(f); MPEP
+ § 711.03(c), under the heading “3. Abandonment for Failure to Notify the Office of a Foreign Filing
+ After Submission of a Non-Publication Request.” (D) was also accepted because the statement characterizes
+ the status of the application as being abandoned, though the application has not necessarily attained
+ abandoned status. The course of action postulated in (D) is a proper reply if the application was abandoned.
+ Accordingly, (D) was accepted as a correct answer under these circumstances.
+
+
+"
+QB - 190
+"
+Which of the following requests by the registered practitioner of record for an interview with an examiner
+ concerning an application will be granted in accordance with proper USPTO rules and procedure?
+"
+"
+(A) A request for an interview in a substitute application prior to the first Office action, for the
+ examiner and attorney of record to meet in the practitioner’s office without the authority of the Commissioner.
+ 
+(B) A request for an interview in a continued prosecution application prior to the first Office action,
+ to be held in the examiner’s office. 
+(C) A request for an interview in a non-continuing and non-substitute application, prior to the first
+ Office action to be held in the examiner’s office. 
+(D) All of the above. 
+(E) None of the above.
+"
+"
+
+
+(B) is the most correct answer. 37 CFR § 1.133; MPEP § 713.02. As stated in MPEP § 713.02, “[a] request
+ for an interview prior to the first Office action is ordinarily granted in continuing or substitute
+ applications. A request for an interview in all other applications before the first action is untimely
+ and will not be acknowledged if written, or granted if oral. 37 CFR 1.133(a).”
+
+
+"
+QB - 197
+"
+Applicant received a Final Rejection with a mail date of Tuesday, February 29, 2000. The Final Rejection
+ set a 3 month shortened statutory period for reply. Applicant files an Amendment and a Notice of Appeal
+ on Monday, March 27, 2000. The examiner indicates in an Advisory Action that the Amendment will be entered
+ for appeal purposes, and how the individual rejection(s) set forth in the final Office action will be
+ used to reject any added or amended claim(s). The mail date of the examiner’s Advisory Action is Wednesday,
+ May 31, 2000. In accordance with the USPTO rules and the procedures set forth in the MPEP, which of
+ the following dates is the last date for filing a Brief on Appeal without an extension of time?
+"
+"
+(A) Saturday, May 27, 2000. 
+(B) Monday, May 29, 2000 (a Federal holiday, Memorial Day). 
+(C) Tuesday, May 30, 2000. 
+(D) Wednesday, May 31, 2000. 
+(E) Tuesday, August 29, 2000.
+"
+"
+
+
+(D). MPEP § 710.02(e), under the heading “Final Rejection – Time For Reply” states, “If an applicant
+ initially replies within 2 months from the date of mailing of any final rejection setting a 3-month
+ shortened statutory period for reply and the Office does not mail an advisory action until after the
+ end of the 3-month shortened statutory period, the period for reply for purposes of determining the
+ amount of any extension fee will be the date on which the Office mails the Advisory Action advising
+ applicant of the status of the application...” Hence, since no extension fee was paid in the fact pattern,
+ the time allowed applicant for reply to the action from which the appeal was taken is the mail date
+ of the Advisory Action, i.e., May 31, 2000. 37 CFR § 1.192(a) recites, in pertinent part, “Appellant
+ must, within two months from the date of the notice of appeal under § 1.191 or within the time allowed
+ for reply to the action from which the appeal was taken, if such time is later, file a brief in triplicate.”
+
+
+"
+QB - 203
+"
+Which of the following practices or procedures may be properly employed in accordance with the USPTO
+ rules and the procedures set forth in the MPEP to overcome a rejection properly based on 35 USC 102(a)?
+"
+"
+(A) Perfecting a claim to priority under 35 USC 119(a)-(d) based on a foreign application having a foreign
+ priority filing date that antedates the reference. 
+(B) Filing a declaration under 37 CFR 1.131 showing that the cited prior art antedates the invention.
+ 
+(C) Filing a declaration under 37 CFR 1.132 showing that the reference invention is by “others.” 
+(D) Perfecting priority under 35 USC 119(e) or 120 by, in part, amending the declaration of the application
+ to contain a specific reference to a prior application having a filing date prior to the reference.
+ 
+(E) (A), (B) (C), and (D).
+"
+"
+
+
+(A) is the most correct answer. See MPEP § 706.02(b), under the heading “Overcoming a 35 USC § 102 Rejection
+ Based on a Printed Publication or Patent.”
+
+
+"
+QB - 204
+"
+Mark Twine obtains a patent directed to a machine for manufacturing string. The patent contains a single
+ claim (Claim 1) which recites six claim elements. The entire interest in Twine’s patent is assigned
+ to the S. Clemens String Co., and Twine is available and willing to cooperate with S. Clemens String
+ Co. to file a reissue application. A subsequent reissue application includes Claim 2, which is similar
+ to original Claim 1. However, one of the elements recited in Claim 2 is broader than its counterpart
+ element in the original claim. The remaining five elements are narrower than their respective counterpart
+ elements in the original patent claim. 
+Which of the following scenarios accords with the USPTO rules
+ and the procedures set forth in the MPEP?
+"
+"
+(A) The S. Clemens String Co. files the reissue application more than 2 years after the issue date of
+ the original patent application. 
+(B) The S. Clemens String Co. files the reissue application less than 2 years after the issue date of
+ the original patent but more than 2 years after original application filing date. 
+(C) Mark Twine files the reissue application less than 2 years after the issue date of the original patent
+ but more than 2 years after original application filing date. 
+(D) Mark Twine files the reissue application more than 2 years after the issue date of the original patent.
+ 
+(E) Mark Twine and the S. Clemens String Co. jointly file the reissue application more than 2 years after
+ the issue date of the original patent.
+"
+"
+
+
+(C) is the most correct answer. Answers (A), (D) and (E) are incorrect because a broadening reissue application
+ must be filed within two years of issuance of the original patent. 35 USC § 251; MPEP § 1412.03. Answer
+ (B) is incorrect because the assignee may not file a broadening reissue application. MPEP § 706.03(x).
+
+
+"
+QB - 207
+"
+Inventor Joe is anxious to get a patent with the broadest claim coverage possible for the invention.
+ Joe retained a registered practitioner, Jane, to obtain the advantage of legal counsel in obtaining
+ broad protection. Jane filed a patent application for the invention. The inventor heard that, although
+ patent prosecution is conducted in writing, it is possible to get interviews with examiners. Joe believes
+ an interview might hasten the grant of a patent by providing the examiner a better understanding of
+ the true novelty of the invention. Which of the following are consistent with the USPTO rules and the
+ procedures set forth in the MPEP regarding usage of interviews?
+"
+"
+(A) Prior to the first Office action being mailed the inventor calls the examiner to whom the application
+ is docketed to offer help in understanding the specification. 
+(B) After receiving the first Office action Jane calls the examiner for an interview for the purpose
+ of clarifying the structure and operation of the invention as claimed and disclosed, because the examiner’s
+ analysis regarding patentability in the rejection is novel and suggests that the examiner is interpreting
+ the claimed invention in a manner very different from the inventor’s intent. 
+(C) Jane has Larry, a registered practitioner in the Washington D.C. area, who is more familiar with
+ interview practice to call the examiner. Jane gives Larry a copy of the first Office action, which suggests
+ that the primary examiner’s analysis is incorrect, and offers to explain why. Jane instructs Larry that
+ because Larry is unfamiliar with the inventor, Larry should not agree to possible ways in which the
+ claims could be modified, or at least indicate to the examiner that Jane would have to approve of any
+ such agreement. 
+(D) Jane calls the primary examiner after receiving the final rejection, demanding that the examiner
+ withdraw the finality of the final action. When the examiner states that the final rejection is proper,
+ Jane demands an interview as a matter of right to explain the arguments. 
+(E) (B) and (D).
+"
+"
+
+
+(B) is the most correct answer. See MPEP § 713.01. An interview should be had only when the nature of
+ the case is such that the interview could serve to develop and clarify specific issues and lead to a
+ mutual understanding between the examiner and the applicant, and thereby advance the prosecution of
+ the application.
+
+
+"
+QB - 216
+"
+Application A was filed after November 29, 2000. Reference X and application A were commonly owned at
+ the time the invention of application A was made. In accordance with the patent laws, rules and procedures
+ as related in the MPEP the prior art exclusion of 35 USC 103(c) can be properly invoked to obviate which
+ of the following rejections?
+"
+"
+(A) A rejection under 35 USC 102(e) based on reference X, if reference X is prior art only under 35 USC
+ 102(e). 
+(B) A double patenting rejection based on reference X, if reference X is available as prior art only
+ under 35 USC 102(e). 
+(C) A rejection under 35 USC 103(a) based on reference X, if references X is available as prior art only
+ under 35 USC 102(e). 
+(D) (B) and (C). 
+(E) All of the above.
+"
+"
+
+
+The correct answer is (C). See MPEP § 706.02(l) et seq. In accordance with proper USPTO policy and procedure,
+ the prior art exclusion of 35 USC § 103(c) can only be invoked when the reference only qualifies as
+ prior art under 35 USC § 102(f), 35 USC § 102(g), or 35 USC 102(e) for applications filed on or after
+ November 29, 1999, the application and the reference were commonly owned, or subject to an assignment
+ to the same person, at the time the invention was made, and the reference was used in an obviousness
+ rejection under 35 USC § 103(a).
+
+
+"
+QB - 217
+"
+A utility application filed in May 2001 has been prosecuted through a second action final rejection.
+ In the final rejection some claims were allowed and other claims were finally rejected. Which of the
+ following accords with the patent laws, rules and the procedures as related in the MPEP for a proper
+ reply to a second action final rejection in the utility application?
+"
+"
+(A) An amendment canceling all rejected claims and complying with 37 CFR 1.116. 
+(B) Only a Notice of Appeal. 
+(C) The appropriate fee for a request for continued examination (RCE). 
+(D) A continued prosecution application (CPA) under 37 CFR 1.53(d). 
+(E) All of the above.
+"
+"
+
+
+(A) is the most correct answer. The filing of an amendment complying with 37 CFR § 1.116 is a proper
+ reply under 37 CFR § 1.113 to a final rejection. See MPEP § 714.13, under the heading “Entry Not A Matter
+ of Right,” which states, in pertinent part , “A reply under 37 CFR 1.113 is limited to: (A) an amendment
+ complying with 37 CFR 1.116.”
+
+
+"
+QB - 220
+"
+Co-inventors Smith and Jones filed an application for a patent on a cell phone, on May 15, 2002. They
+ received a first Office action from a primary examiner rejecting the claims under 35 USC 102(a) over
+ a publication by Bell and Watson, published on April 5, 2002, describing a cell phone having all the
+ same features as is claimed in the patent application. In reply, the co-inventors each submitted a declaration
+ under 37 CFR 1.131 stating that they had actually reduced the invention to practice no later than March
+ 13, 2002. However, the declarations failed to include two claimed features. Neither the particular antenna
+ needed to enable the cell phone could receive transmissions from the local cellular transmitting tower,
+ nor a detachable carrying strap was included in the declarations. As evidence of their prior reduction
+ to practice, Smith and Jones submitted their co-authored journal article. The journal article contained
+ a figure of the cell phone as described in the declarations. That is, the cell phone shown in the figure
+ of the article lacked an antenna and a detachable strap. The article was received by the journal on
+ March 13, 2002, and was published on April 30, 2002. The cell phones shown in the figure in the Bell
+ and Watson publication, and in the Smith and Jones patent application have the particular antenna and
+ a detachable strap. Which of the following actions, if taken by the examiner, would be the most proper
+ in accordance with the patent laws, rules and the procedures as related in the MPEP?
+"
+"
+(A) The examiner should maintain the rejection of the claims under 35 USC 102(a) and make the rejection
+ final. 
+(B) The examiner should withdraw the rejection and look for references which have a publication date
+ prior to May 15, 2001. 
+(C) The examiner should withdraw the rejection and notify Smith and Jones that their application is in
+ condition for allowance. 
+(D) The examiner should maintain the rejection, but indicate that the claims would be allowable if Smith
+ and Jones provided an original copy of the figure published in their journal article as factual support
+ for their declarations. 
+(E) The examiner should maintain the rejection and inform Smith and Jones that the declarations are insufficient
+ because they cannot “swear behind” a reference which is a statutory bar.
+"
+"
+
+
+(A) is the correct answer. MPEP § 715.07, under the heading “Facts and Documentary Evidence” states that
+ “The essential thing to be shown under 37 CFR 1.131 is priority of invention and this may be done by
+ any satisfactory evidence of the fact. FACTS, not conclusions, must be alleged. Evidence in the form
+ of exhibits may accompany the affidavit or declaration. ... The affidavit or declaration must state
+ FACTS and produce such documentary evidence and exhibits in support thereof as are available to show
+ conception and completion of invention in this country or in a NAFTA or WTO member country (MPEP § 715.07(c))
+ at least the conception being at a date prior to the effective date of the reference. ... In general,
+ proof of actual reduction to practice requires a showing that the apparatus actually existed and worked
+ for its intended purpose.” Here, the co-inventors admit, and the documentary exhibits relied upon demonstrate
+ that they failed to reduce the claimed invention to practice prior to the publication date of the Bell
+ and Watson reference. It is also apparent that due to the lack of an antenna in the cell phone described
+ in Smith’s and Jones’s declarations and journal article, that the cell phone which was reduced to practice
+ prior to the publication date of the Bell and Watson article would not have worked for its intended
+ purpose. Accordingly, the examiner should maintain the rejection and make it final.
+
+
+"
+QB - 223
+"
+Question regarding applications having many claims and when it would appropriate to limit the number
+ or nature of the initial inquiry. Some situations exist where examination of an application appears
+ best accomplished by limiting action on the claim thereof to a particular issue. These situations include
+ the following:
+"
+"
+(A) Where an application is too informal for a complete action on the merits. 
+(B) Where there is an undue multiplicity of claims, and there has been no successful telephone request
+ for election of a limited number of claims for full examination. 
+(C) Where there is a misjoinder of inventions and there has been no successful telephone request for
+ election. 
+(D) Where disclosure is directed to perpetual motion. 
+(E) All of the above.
+"
+"
+
+
+The correct answer is (E), see MPEP 707.07(g).
+
+
+"
+QB - 224
+"
+Question regarding claim number 4 that was canceled via a pre-examination amendment in a set of 6 claims,
+ but the registered practitioner wanted to later reinstate the exact same claim; answers were (approximately);
+"
+"
+(A) Submit an amendment uncanceling claim number 4. 
+(B) Submit an amendment adding claim number 7 with the exact words of the original claim number 4. 
+(C) It is not possible to reinstate claim number 4 because once it is canceled the matter cannot be reclaimed.
+ 
+(D) [Another answer changing the claim number inappropriately] 
+(E) [Another answer changing the claim number inappropriately]
+"
+"
+
+
+The correct answer is (B), see MPEP 714 Reinstatement of previously canceled claim.
+
+
+"
+QB - 235
+"
+Which of the following does not constitute probative evidence of commercial success to support a contention
+ of non-obviousness?
+"
+"
+(A) In a utility case, gross sales figures accompanied by evidence as to market share. 
+(B) In a utility case, gross sales figures accompanied by evidence as to the time period during which
+ the product was sold. 
+(C) In a utility case, gross sales figures accompanied by evidence as to what sales would normally be
+ expected in the market. 
+(D) In a utility case, gross sales figures accompanied by evidence of brand name recognition. 
+(E) In a design case, evidence of commercial success clearly attributable to the design, and not to improve
+ performance of the device.
+"
+"
+
+
+716.03(b) Commercial Success Derived From Claimed Invention
+
+
+"
+QB - 237
+"
+You represent Z, who files a nonprovisional application which claims the benefit of a priority claim
+ filed under 120. You receive a Notice of Allowance and Z decides that he wants to extend the term of
+ his patent and remove the benefit. How do you enter an amendment to do this?
+"
+"
+(A) Pay the issue fee then file a RCE with the amendment. 
+(B) Don’t pay the issue fee, and file a RCE with the amendment. 
+(C) Juggle watermelons (not really, but something out there) 
+(D) Pay the issue fee then file an the amendment. 
+(E) Don’t pay the issue fee, and file the amendment.
+"
+"
+
+
+Answer B, don’t pay the issue fee and file an RCE with the amendment. After the notice of allowance,
+ entry of an amendment or ADS is not a matter of right, so in order to be sure that it is entered you
+ would need to file an RCE. 
+MPEP 201.11 reads that removing a filing benefit can be done by amendment
+ (by amending specification or submitting a new application data sheet to delete any references to prior
+ applicants) before the notice of allowance, but this is a matter of grace and not a matter of right.
+ If the amendment or ADS is submitted after the application has been allowed, the amendment or ADS will
+ be treated under MPEP 714.16. 
+MPEP 714.16. To get an RCE prosecution must be CLOSED (Notice of Allowance),
+ and applicant must request RCE by filing a submission and fee PRIOR TO the earliest of the: 1) payment
+ of the issue fee (unless petition to withdraw is granted); 2) abandonment of application; or 3) filing
+ of notice of appeal or start of civil suit (unless terminated while application is still pending).
+
+
+"
+QB - 249
+"
+PCT designating USA filed in English claiming priority to Japanese application. Filing date was after
+ Nov 29, 2000. IA published in English, and entered the National Stage. US application publication was
+ published. Subsequently, the application was patented. When is the 102(e) prior art date?
+"
+"
+nan
+"
+"
+
+
+MPEP 2136 35 USC 102(e). Allows the use of certain international application publications and U.S. patent
+ application publications, and certain U.S. patents as prior art under 35 USC 102(e) as of their respective
+ U.S. filing dates, including certain international filing dates. The prior art date of a reference under
+ 35 USC 102(e) may be the international filing date if the international filing date was on or after
+ November 29, 2000, the international application designated the United States, and the international
+ application was published by the World Intellectual Property Organization (WIPO) under the Patent Cooperation
+ Treaty (PCT) Article 21(2) in the English language. 
+MPEP § 706.02(f)(1) for examination guidelines
+ on the application of 35 USC 102(e). (1) If the international application meets the following three
+ conditions: (a) an international filing date on or after November 29, 2000; (b) designated the United
+ States; and (c) published under PCT Article 21(2) in English, then the international filing date is
+ a U.S. filing date for prior art purposes under 35 USC 102(e). 
+706.02(f)(1) (3) If the international
+ application has an international filing date prior to November 29, 2000, apply the reference under the
+ provisions of 35 USC 102 and 374, prior to the AIPA amendments: (a) For U.S. patents, apply the reference
+ under 35 USC 102(e) as of the earlier of the date of completion of the requirements of 35 USC 371(c)(1),
+ (2) and (4) or the filing date of the later filed U.S. application that claimed the benefit of the international
+ application; (b) For U.S. application publications and WIPO publications directly resulting from international
+ applications under PCT Article 21(2), never apply these references under 35 USC 102(e). These references
+ may be applied as of their publication dates under 35 USC 102(a) or (b); (c) For U.S. application publications
+ of applications that claim the benefit under 35 USC 120 or 365(c) of an international application filed
+ prior to November 29, 2000, apply the reference under 35 USC 102(e) as of the actual filing date of
+ the later-filed U.S. application that claimed the benefit of the international application.
+
+
+"
+QB - 254
+"
+What responses overcome certain rejections such as when 1.131 and 1.132 affidavit appropriate?
+"
+"
+nan
+"
+"
+
+
+MPEP 715.01. When an applicant cannot swear behind a 1.131 or 1.132 affidavit. 1.131 can’t swear behind
+ 102(b) art; 1.131 can’t swear behind same patentable invention; and 1.132 “unexpected result” irrelevant
+ for 102 art. “Swearing Back or Behind” means that under some circumstances the applicant can file an
+ affidavit (under 37 CFR 1.131 or sometimes 37 CFR 1.132) that the applicant actually invented the matter
+ that is discussed in the prior art before the prior art was published (swearing back in time before
+ the prior art was published). The date sworn back to will actually be earlier than the effective filing
+ date of the patent.
+
+
+"
+QB - 258
+"
+Question on Trade secret, Proprietary, protective order materials.
+"
+"
+nan
+"
+"
+
+
+MPEP 724. Wherever possible, trade secret law and patent laws should be administered in such manner that
+ the former will not deter an inventor from seeking the benefit of the latter, because, the public is
+ most benefited by the early disclosure of the invention in consideration of the patent grant. If a patent
+ applicant is unwilling to pursue his right to a patent at the risk of certain loss of trade secret protection,
+ the two systems will conflict, the public will be deprived of knowledge of the invention in many cases,
+ and inventors will be reluctant to bring unsettled legal questions of significant current interest .
+ . . for resolution.
+
+
+"
+QB - 259
+"
+What happens to the trade secret information in reexam if the Examiner finds it material to the patentability
+ of the invention, and what if there is/or isn't a request to expunge the info?
+"
+"
+nan
+"
+"
+
+
+MPEP 724.04. Any materials submitted under MPEP § 724.02 in a reexamination file open to the public under
+ 37 CFR 1.11(d) will be treated in the following manner: (A) Materials submitted under MPEP § 724.02
+ will only be released to the public with any other papers in the reexamination file if no petition to
+ expunge (37 CFR 1.59) was filed prior to the mailing of a Notice of Intent to Issue Reexamination Certificate
+ (NIRC), or if a petition to expunge was filed and the petition was denied.< The submitted information
+ will be maintained separate from the reexamination file and will not be publicly available until a determination
+ has been made as to whether or not the information is important to a reasonable examiner in deciding
+ whether or not a claim is patentable. (B) >Prior to the mailing of a NIRC, the examiner will review
+ the reexamination file and determine if a petition to expunge is in the reexamination file but not acted
+ upon.< The examiner, or other appropriate Office official who is responsible for considering the information,
+ will make a determination as to whether or not any portion or all of the information submitted is important
+ to a reasonable examiner in deciding whether or not a claim is patentable. (C) If any portion or all
+ of the submitted information is found important to a reasonable examiner in deciding whether or not
+ a claim is patentable, **>the petition to expunge will be denied and the information< will thereafter
+ become a permanent part of the reexamination file and open to the public. (D) If any portion or all
+ of the submitted information is found not to be important to a reasonable examiner in deciding whether
+ or not a claim is patentable,>the petition to expunge will be granted and the information expunged.
+ (E) >If a petition to expunge is not filed prior to the mailing of the NIRC, the materials submitted
+ under MPEP § 724.02 will become a permanent part of the reexamination file and open to the public under
+ 37 CFR 1.11(d).<
+
+
+"
+QB - 259
+"
+What happens to the trade secret information in reexam if the Examiner finds it material to the patentability
+ of the invention, and what if there is/or isn't a request to expunge the info?
+"
+"
+nan
+"
+"
+
+
+MPEP 724.04. Any materials submitted under MPEP § 724.02 in a reexamination file open to the public under
+ 37 CFR 1.11(d) will be treated in the following manner: (A) Materials submitted under MPEP § 724.02
+ will only be released to the public with any other papers in the reexamination file if no petition to
+ expunge (37 CFR 1.59) was filed prior to the mailing of a Notice of Intent to Issue Reexamination Certificate
+ (NIRC), or if a petition to expunge was filed and the petition was denied.< The submitted information
+ will be maintained separate from the reexamination file and will not be publicly available until a determination
+ has been made as to whether or not the information is important to a reasonable examiner in deciding
+ whether or not a claim is patentable. (B) >Prior to the mailing of a NIRC, the examiner will review
+ the reexamination file and determine if a petition to expunge is in the reexamination file but not acted
+ upon.< The examiner, or other appropriate Office official who is responsible for considering the information,
+ will make a determination as to whether or not any portion or all of the information submitted is important
+ to a reasonable examiner in deciding whether or not a claim is patentable. (C) If any portion or all
+ of the submitted information is found important to a reasonable examiner in deciding whether or not
+ a claim is patentable, **>the petition to expunge will be denied and the information< will thereafter
+ become a permanent part of the reexamination file and open to the public. (D) If any portion or all
+ of the submitted information is found not to be important to a reasonable examiner in deciding whether
+ or not a claim is patentable,>the petition to expunge will be granted and the information expunged.
+ (E) >If a petition to expunge is not filed prior to the mailing of the NIRC, the materials submitted
+ under MPEP § 724.02 will become a permanent part of the reexamination file and open to the public under
+ 37 CFR 1.11(d).<
+
+
+"
+QB - 260
+"
+When is a supplemental oath or declaration treated as an amendment?
+"
+"
+nan
+"
+"
+
+
+Answer: After Notice of Allowance in reissue application. MPEP 714.16. With the exception of a supplemental
+ oath or declaration submitted in a reissue, a supplemental oath or declaration is not treated as an
+ amendment under 37 CFR 1.312. See MPEP § 603.01. A supplemental reissue oath or declaration is treated
+ as an amendment under 37 CFR 1.312 because the correction of the patent which it provides is an amendment
+ of the patent, even though no amendment is physically entered into the specification or claim(s). Thus,
+ for a reissue oath or declaration submitted after allowance to be entered, the reissue applicant must
+ comply with 37 CFR 1.312 in the manner set forth in this section.
+
+
+"
+QB - 292
+"
+Examiner finds a new prior art reference based on which the claim should be rejected - but the notice
+ of allowance has already been sent. Now what?
+"
+"
+nan
+"
+"
+
+
+MPEP 1308.01. A claim noted as allowable shall thereafter be rejected only with the approval of the primary
+ examiner. Great care should be exercised in authorizing such rejection. MPEP 706.04. When a new reference
+ is discovered, which obviously is applicable to one or more of the allowed claims in an application
+ in issue, a memorandum is addressed to the Technology Center Director, requesting that the application
+ be withdrawn from issue for the purpose of applying the new reference. This memorandum should cite the
+ reference, and, if need be, briefly state its application. The memorandum should be submitted with the
+ reference and the file wrapper, if the application file is in paper.
+
+
+"
+QB - 307
+"
+In an application having many claims, when would it be appropriate to limit the number or nature of the
+ initial inquiry. Some situations exist where examination of an application appears best accomplished
+ by limiting action on the claim thereof to a particular issue. These situations include the following:
+"
+"
+nan
+"
+"
+
+
+MPEP 707.07(g). Where an application is too informal for a complete action on the merits; where there
+ is an undue multiplicity of claims, and there has been no successful telephone request for election
+ of a limited number of claims for full examination; where there is a misjoinder of inventions and there
+ has been no successful telephone request for election; and where disclosure is directed to perpetual
+ motion.
+
+
+"
+QB - 308
+"
+Claim number 4 in a set of 6 claims in an application was canceled via a pre-examination amendment, but
+ the registered practitioner wanted to later reinstate the exact same claim. What to do?
+"
+"
+nan
+"
+"
+
+
+MPEP 714. Submit an amendment adding claim number 7 with the exact words of the original claim number
+ 4.
+
+
+"
+QB - 309
+"
+Which is not allowed – red ink?
+"
+"
+nan
+"
+"
+
+
+MPEP 1302.04.Showing the proposed changes in RED for approval by the examiner. 
+MPEP 605.04(g). When
+ the **>request is granted to add or delete inventors< under 37 CFR 1.48, the change should be noted
+ in red ink in the left margin of the original oath or declaration > MPEP 714.The proposed drawing correction
+ practice has been eliminated. No proposed changes in red ink should be submitted.
+
+
+"
+QB - 319
+"
+PCT designating USA filed in English claiming priority to JP application. Filing date was after Nov 29,
+ 2000. IA published in English, and entered the National Stage. US application publication was published.
+ Subsequently, the application was patented. When is the 102(e) prior art date?
+"
+"
+nan
+"
+"
+
+
+MPEP 2136. Revised 35 USC 102(e) allows the use of certain international application publications and
+ U.S. patent application publications, and certain U.S. patents as prior art under 35 USC 102(e) as of
+ their respective U.S. filing dates, including certain international filing dates. The prior art date
+ of a reference under 35 USC 102(e) may be the international filing date if the international filing
+ date was on or after November 29, 2000, the international application designated the United States,
+ and the international application was published by the World Intellectual Property Organization (WIPO)
+ under the Patent Cooperation Treaty (PCT) Article 21(2) in the English language. 
+MPEP § 706.02(f)(1).
+ (1) If the international application meets the following three conditions: (a) an international filing
+ date on or after November 29, 2000; (b) designated the United States; and (c) published under PCT Article
+ 21(2) in English, then the international filing date is a U.S. filing date for prior art purposes under
+ 35 USC 102(e). (3) If the international application has an international filing date prior to November
+ 29, 2000, apply the reference under the provisions of 35 USC 102 and 374, prior to the AIPA amendments:
+ (a) For U.S. patents, apply the reference under 35 USC 102(e) as of the earlier of the date of completion
+ of the requirements of 35 USC 371(c)(1), (2) and (4) or the filing date of the later filed U.S. application
+ that claimed the benefit of the international application; (b) For U.S. application publications and
+ WIPO publications directly resulting from international applications under PCT Article 21(2), never
+ apply these references under 35 USC 102(e). These references may be applied as of their publication
+ dates under 35 USC 102(a) or (b); (c) For U.S. application publications of applications that claim the
+ benefit under 35 USC 120 or 365(c) of an international application filed prior to November 29, 2000,
+ apply the reference under 35 USC 102(e) as of the actual filing date of the later-filed U.S. application
+ that claimed the benefit of the international application.
+
+
+"
+QB - 325
+"
+What happens to the trade secret information in reexam if the Examiner finds it material to the patentability
+ of the invention, and what if there is/or isn't a request to expunge the information?
+"
+"
+nan
+"
+"
+
+
+MPEP 724. That wherever possible, trade secret law and patent laws should be administered in such manner
+ that the former will not deter an inventor from seeking the benefit of the latter, because, the public
+ is most benefited by the early disclosure of the invention in consideration of the patent grant. If
+ a patent applicant is unwilling to pursue his right to a patent at the risk of certain loss of trade
+ secret protection, the two systems will conflict, the public will be deprived of knowledge of the invention
+ in many cases, and inventors will be reluctant to bring unsettled legal questions of significant current
+ interest . . . for resolution. 
+MPEP 724.04. Any materials submitted under MPEP § 724.02 in a reexamination
+ file open to the public under 37 CFR 1.11(d) will be treated in the following manner: (A) >Materials
+ submitted under MPEP § 724.02 will only be released to the public with any other papers in the reexamination
+ file if no petition to expunge (37 CFR 1.59) was filed prior to the mailing of a Notice of Intent to
+ Issue Reexamination Certificate (NIRC), or if a petition to expunge was filed and the petition was denied.<
+ The submitted information will be maintained separate from the reexamination file and will not be publicly
+ available until a determination has been made as to whether or not the information is important to a
+ reasonable examiner in deciding whether or not a claim is patentable. (B) >Prior to the mailing of a
+ NIRC, the examiner will review the reexamination file and determine if a petition to expunge is in the
+ reexamination file but not acted upon.< The examiner, or other appropriate Office official who is responsible
+ for considering the information, will make a determination as to whether or not any portion or all of
+ the information submitted is important to a reasonable examiner in deciding whether or not a claim is
+ patentable. (C) If any portion or all of the submitted information is found important to a reasonable
+ examiner in deciding whether or not a claim is patentable, **>the petition to expunge will be denied
+ and the information< will thereafter become a permanent part of the reexamination file and open to the
+ public. (D) If any portion or all of the submitted information is found not to be important to a reasonable
+ examiner in deciding whether or not a claim is patentable,>the petition to expunge will be granted and
+ the information expunged.< (E) >If a petition to expunge is not filed prior to the mailing of the NIRC,
+ the materials submitted under MPEP § 724.02 will become a permanent part of the reexamination file and
+ open to the public under 37 CFR 1.11(d).<
+
+
+"
+QB - 326
+"
+When is a supplemental oath or declaration treated as an amendment?
+"
+"
+nan
+"
+"
+
+
+MPEP 714.16. With the exception of a supplemental oath or declaration submitted in a reissue, a supplemental
+ oath or declaration is not treated as an amendment under 37 CFR 1.312. See MPEP § 603.01. A supplemental
+ reissue oath or declaration is treated as an amendment under 37 CFR 1.312 because the correction of
+ the patent which it provides is an amendment of the patent, even though no amendment is physically entered
+ into the specification or claim(s). Thus, for a reissue oath or declaration submitted after allowance
+ to be entered, the reissue applicant must comply with 37 CFR 1.312 in the manner set forth in this section.
+
+
+"
+QB - 345
+"
+What can an assignee sign, if he has never properly recorded his ownership?
+"
+"
+nan
+"
+"
+
+
+MPEP 324. Examples of situations where ownership need not be established under 37 CFR 3.73(b) are when
+ the assignee: signs a request for a continued prosecution application under 37 CFR 1.53(d), where papers
+ establishing ownership under 37 CFR 3.73(b) were filed in the prior application and ownership has not
+ changed ( MPEP § 201.06(d)); signs a small entity statement ( MPEP § 509.03); signs a statement of common
+ ownership of two inventions ( MPEP § 706.02(l)(2)); signs a NASA or DOE property rights statement (
+ MPEP § 151); signs an affidavit under 37 CFR 1.131 where the inventor is unavailable ( MPEP § 715.04);
+ signs a certificate under 37 CFR 1.8 ( MPEP § 512); or files a request for reexamination of a patent
+ under 37 CFR 1.510 ( MPEP § 2210).
+
+
+"
+EPC1 December 2014 - 2
+"
+A PCT application was submitted, but 30 months lapses and the applicant does not provide the necessary
+ requirements for the national stage due to unavoidable circumstances. What result?
+"
+"
+(A) The applicant can petition to revive 
+(B) The applicant should give up as the time period has lapsed 
+(C) File a notice of appeal requesting an extension of time. 
+(D) The applicant can petition to revive using Form PTO/SB/61PCT 
+(E) The applicant can request an interview to explain the circumstances of missing the 30 month deadline.
+"
+"
+
+
+D is correct answer. See MPEP 1893.02 and MPEP 711. If the requirements ** > for the submission of the
+ basic national fee and a copy of the international application (if necessary) prior to the expiration
+ of 30 months from the priority date are not satisfied, then the international application becomes abandoned
+ as to the United States at thirty months from the priority date. 37 CFR 1.495 (h). If the requirements
+ under 37 CFR 1.495 (b) are timely met, but the requirements under 37 CFR 1.495 (c) for an English translation
+ of the international application, oath/declaration, search fee, examination fee and application size
+ fee are not met within a time period set in a notice provided by the Office, then the application will
+ become abandoned upon expiration of the time period set in the notice. See 37 CFR 1.495 (c)(2) and 1.495
+ (h) < . Examiners and applicants should be aware that sometimes papers filed for the national stage
+ are deficient and abandonment results. For example, if the fee submitted does not include at least the
+ amount of the basic national fee that is due, the application becomes abandoned. Applicant may file
+ a petition to revive an abandoned application in accordance with the provisions of 37 CFR 1.137 . See
+ MPEP § 711.03(c) . > For applicant’s convenience, applicant may use either Form PTO/SB/61PCT (unavoidably
+ abandoned application) or Form PTO/SB/64PCT (unintentionally abandoned application), as appropriate,
+ for this purpose. These forms are available online at http://www.uspto.gov/web/forms/index.html#patent.
+ <
+
+
+"
+EPC1 August 2013 - 1
+"
+Applicant files a nonprovisional application on April 1, 2013, that claims the benefit, and is a continuation,
+ of an application filed on April 25, 2012. All requirements under 35 U.S.C. 120 have been met. During
+ the course of prosecution, the applicant deletes the domestic benefit claim to the April 25, 2013, application.
+ According to the patent laws, rules and procedures, under what provisions will the Applicant’s April
+ 1, 2013, application be examined?
+"
+"
+(A) The first-to-invent provisions. 
+(B) The first-inventor-to-file provisions. 
+(C) Both (A) and (B). 
+(D) The application will not be examined because the domestic benefit claim has been deleted. 
+(E) None of the above.
+"
+"
+
+
+Correct Answer (B): MPEP 706.02 states that the “effective filing date of a U.S. application may be determined
+ as follows: (A) If the application is a continuation or divisional of one or more earlier U.S. applications
+ or international applications and if the requirements of 35 USC 120 and 365(c), respectively, have been
+ satisfied, the effective filing date is the same as the earliest filing date in the line of continuation
+ or divisional applications."" Because the Applicant deleted the benefit claim, the effective filing date
+ is subsequent to the enactment of the first-inventor-to-file provisions, March 16, 2013.
+
+
+"
+EPC1 August 2013 - 5
+"
+Applicant files a nonprovisional application on April 1, 2013, that claims the benefit, and is a continuation,
+ of an application filed on April 25, 2012. All requirements under 35 U.S.C. 120 have been met. During
+ the course of prosecution, the applicant deletes the domestic benefit claim to the April 25, 2013, application.
+ According to the patent laws, rules and procedures, under what provisions will the Applicant’s April
+ 1, 2013, application be examined?
+"
+"
+(A) The first-to-invent provisions. 
+(B) The first-inventor-to-file provisions. 
+(C) Both (A) and (B). 
+(D) The application will not be examined because the domestic benefit claim has been deleted. 
+(E) None of the above.
+"
+"
+
+
+Correct Answer (B): MPEP 706.02 states that the “effective filing date of a U.S. application may be determined
+ as follows: (A) If the application is a continuation or divisional of one or more earlier U.S. applications
+ or international applications and if the requirements of 35 USC 120 and 365(c), respectively, have been
+ satisfied, the effective filing date is the same as the earliest filing date in the line of continuation
+ or divisional applications."" Because the Applicant deleted the benefit claim, the effective filing date
+ is subsequent to the enactment of the first-inventor-to-file provisions, March 16, 2013.
+
+
+"
+EPC1 June 2013 - 8
+"
+Inventor A submitted a PCT application in June, 2012, but was notified that the application did not meet
+ the requirements for the national stage in August. Due to illness, over 30 months have since passed
+ since the notification was sent. Under the current MPEP what are the possible options available to Inventor
+ A? 
+
+I. Inventor A can petition to revive under 37 CFR 1.113 
+II. None, Inventor A should simply withdraw
+ his application since the time period has lapsed 
+III. Inventor A can file a notice of appeal requesting
+ an extension of time. 
+IV. Inventor A can petition to revive the application using Form PTO/SB/61PCT
+"
+"
+(A) I 
+(B) IV 
+(C) I, IV 
+(D) II, III 
+(E) II, IV
+"
+"
+
+
+Correct answer is (B): See MPEP 1893.02, MPEP 711. If the requirements for the submission of the basic
+ national fee and a copy of the international application (if necessary) prior to the expiration of 30
+ months from the priority date are not satisfied, then the international application becomes abandoned
+ as to the United States at thirty months from the priority date. See 37 CFR 1.495(h). If the requirements
+ under 37 CFR 1.495 (b) are timely met, but the requirements under 37 CFR 1.495 (c) for an English translation
+ of the international application, oath/declaration, search fee, examination fee and application size
+ fee are not met within a time period set in a notice provided by the Office, then the application will
+ become abandoned upon expiration of the time period set in the notice. See 37 CFR 1.495(c)(2) and 1.495(h)
+ . Examiners and applicants should be aware that sometimes papers filed for the national stage are deficient
+ and abandonment results. For example, if the fee submitted does not include at least the amount of the
+ basic national fee that is due, the application becomes abandoned. Applicant may file a petition to
+ revive an abandoned application in accordance with the provisions of 37 CFR 1.137. See MPEP § 711.03(c).
+ For applicant’s convenience, applicant may use either Form PTO/SB/61PCT (unavoidably abandoned application)
+ or Form PTO/SB/64PCT (unintentionally abandoned application), as appropriate, for this purpose.
+
+
+"
+EPC3 July 2017 - 2
+"
+Which of the following is not required in order for a foreign application that has matured into a foreign
+ patent will qualify as a reference under pre-AIA 35 U.S.C. § 102(d)?
+"
+"
+(A) The foreign application must be filed more than 12 months before the effective filing date of the
+ United States application. 
+(B) The foreign and United States applications must be filed by the same applicant, his or her legal
+ representatives or assigns. 
+(C) The foreign application must have actually issued as a patent or inventor's certificate before the
+ filing of an application in the United States. It need not be published but the patent rights granted
+ must be enforceable. 
+(D) The foreign application must have actually been published before the filing of an application in
+ the United States, but the patent rights granted need not be enforceable 
+(E) The same invention must be involved.
+"
+"
+
+
+ANSWER: (D). 35 USC § 102(d). The foreign application need not be published, but the patent rights granted
+ must be enforceable. MPEP § 706.02(e). (A), (B), (C), and (E) are required by 35 USC § 102(d).
+
+
+"
+EPC3 August 2017 - 1
+"
+Your Japanese client, Z, came to you on August 11, 2010 with a valuable 
+invention for pulping timber.
+ Z informed you it had been successfully using the invention commercially for the past fourteen months
+ deep in the Japanese forests. The invention has not been used anywhere else by Z, and the pulped timber
+ from the Z operations has not left Japan. At least one competitor, another Japanese company, lawfully
+ observed the invention in operation during its first month of use with no restriction as to confidentiality
+ or disclosure. Z filed a Japanese patent application prior to commercial use of the invention, but (in
+ an effort to hold down expenses) chose not file a corresponding application in the United States. The
+ Japanese patent application remains pending. Z just learned that two months ago its competitor began
+ using the invention commercially in the United States. The invention was never disclosed or used in
+ the United States prior to two months ago. Z would like for you seek a United States patent on the invention
+ to block the competitor from continued use of the invention. Which of the following would be reasonable
+ advice from you to Z?
+"
+"
+(A) Since Japan is a NAFTA country, Z is precluded from getting a United States patent because the Japanese
+ application was filed more than twelve months ago and the invention was in public use more than one
+ year prior to any possible United States filing date for an Z patent application. 
+(B) Z should promptly file an application in the United States claiming the benefit of the filing date
+ of the Japanese application and should fully disclose the Japanese commercial activities, the observation
+ of the invention in Japan by Z's competitor, and the competitor's commercial activities in the United
+ States. 
+(C) Z should promptly file an application in the United States without claiming the benefit of the filing
+ date of the Japanese application and should fully disclose the Japanese commercial activities, the observation
+ of the invention in Japan by Z's competitor, and the competitor's commercial activities in the United
+ States. 
+(D) Z should abandon the pending Japanese application to avoid the possibility the Japanese application
+ could be used as prior art against a United States patent application, and then file a patent application
+ in the United States. 
+(E) Since Z's activities concerning the invention all took place in Japan, the competitor's commercial
+ use in the United States prior to any possible United States filing date for an Z patent application
+ precludes Z from obtaining a United States patent.
+"
+"
+
+
+ANSWER: The best answer is (C). With regard to Statement (A), public use in Japan is not a statutory
+ bar under 35 USC § 102(b) regardless of whether Japan is a NAFTA country. MPEP § 706.02(c). Thus, although
+ Z cannot claim priority to the Japanese application under 35 USC § 119, their commercial activity is
+ not a bar. Statement (B) is incorrect because Z cannot rely on the Japanese application for priority.
+ 35 U. S.C. § 119. Under the given facts, the Japanese application would not be prior art against a U.S.
+ application regardless of whether the Japanese application was abandoned. Thus, (D) is not reasonable
+ advice. Under 35 USC § 104, Z can rely on Japanese activities to establish a date of invention prior
+ to the competitor's commercial use in the United States. Statement (E) is therefore not reasonable advice.
+
+
+"
+EPC3 November 2017 - 1
+"
+You, a patent practitioner, receive a final rejection from the examiner allowing claims 2, 3, and 5 and
+ rejecting claims 1 and 4. Which of the proposed responses below would be entered by the examiner as
+ the applicant's matter of right?
+"
+"
+(A) An amendment canceling claims 1 and 2 and adding a new claim 6. 
+(B) An amendment canceling claim 4 only. 
+(C) An amendment canceling claims 1 and 4 and adding new claims 6 and 7. 
+(D) An amendment amending claim 4 and canceling claim 1. 
+(E) An amendment canceling claims 1 and 4 and amending claims 2 and 3.
+"
+"
+
+
+ANSWER: (B). (B) clearly reduces issues for appeal by canceling a claim, and is the most correct answer
+ in accordance with MPEP 714.13, and 37 CFR § 1.116. Choices (A), (C), (D), and (E) are wrong. By adding
+ at least one new claim, or by amending one or more claims, (A), (C), (D), and (E) require more than
+ a cursory review by the examiner, and they do not necessarily reduce the issues for appeal. Thus, such
+ amendment are not entitled to be entered. See 37 CFR § 1.116; MPEP 714.12, 714.13.
+
+
+"
+EPC3 November 2017 - 1
+"
+You, a patent practitioner, receive a final rejection from the examiner allowing claims 2, 3, and 5 and
+ rejecting claims 1 and 4. Which of the proposed responses below would be entered by the examiner as
+ the applicant's matter of right?
+"
+"
+(A) An amendment canceling claims 1 and 2 and adding a new claim 6. 
+(B) An amendment canceling claim 4 only. 
+(C) An amendment canceling claims 1 and 4 and adding new claims 6 and 7. 
+(D) An amendment amending claim 4 and canceling claim 1. 
+(E) An amendment canceling claims 1 and 4 and amending claims 2 and 3.
+"
+"
+
+
+ANSWER: (B). (B) clearly reduces issues for appeal by canceling a claim, and is the most correct answer
+ in accordance with MPEP 714.13, and 37 CFR § 1.116. Choices (A), (C), (D), and (E) are wrong. By adding
+ at least one new claim, or by amending one or more claims, (A), (C), (D), and (E) require more than
+ a cursory review by the examiner, and they do not necessarily reduce the issues for appeal. Thus, such
+ amendment are not entitled to be entered. See 37 CFR § 1.116; MPEP 714.12, 714.13.
+
+
+"
+EPC3 November 2017 - 2
+"
+A non-final Office action was mailed in a pending patent application on Friday, November 12, 2009. The
+ examiner set a three month shortened statutory period for reply. The practitioner petitioned for a one-month
+ extension of time on Monday, February 14, 2010 and paid the appropriate one-month extension fee. An
+ amendment responsive to the Office action was filed Tuesday, March 14, 2010. Each independent claim
+ in the application was revised and two dependent claims were cancelled. No claim was added by the amendment.
+ In the Remarks portion of the amendment, the practitioner express his belief that no fees are required
+ by the amendment, but nevertheless gave authorization to charge any fees to the practitioner's account,
+ nn-nnnn, if any fees are necessary, including fees for any required extension of time. A duplicate copy
+ of the amendment was filed. No fees were submitted with the amendment. Assuming nn-nnnn is a valid deposit
+ account, which of the following statements is true?
+"
+"
+(A) The amendment should be entered with no fees charged to practitioner's deposit account. 
+(B) The amendment should be entered, but the fee for a second month extension of time should be charged
+ to the practitioner's deposit account. 
+(C) The amendment should not be entered because it is untimely. 
+(D) The request to charge any required fees, including fees for any necessary extension of time, is ineffective
+ because it was not made in a separate paper. 
+(E) Statements (C) and (D) are true.
+"
+"
+
+
+ANSWER: (B). The petition for extension of time filed February 14, 2010 provided applicant with a one-month
+ extension of time from the original due date, February 12, 2010 (not from the date the petition was
+ filed). See MPEP § 710.01(a). Thus, the extended due date was Sunday, March 12, which means a reply
+ was due by Monday, March 13. Since an additional extension of time is needed, (A) is incorrect. Under
+ the provisions of 37 CFR § 1.136(a)(3), applicant's statement is treated as a constructive petition
+ for extension of time. MPEP § 710.02(e). (C) is incorrect because applicant's statement in the Remarks
+ portion of the amendment acted as a constructive petition for extension of time and, therefore, the
+ amendment is timely. There is no need for the petition to appear in a separate paper, so (D) is not
+ correct. (E) is incorrect because (C) and (D) are both incorrect.
+
+
+"
+EPC3 November 2017 - 2
+"
+A non-final Office action was mailed in a pending patent application on Friday, November 12, 2009. The
+ examiner set a three month shortened statutory period for reply. The practitioner petitioned for a one-month
+ extension of time on Monday, February 14, 2010 and paid the appropriate one-month extension fee. An
+ amendment responsive to the Office action was filed Tuesday, March 14, 2010. Each independent claim
+ in the application was revised and two dependent claims were cancelled. No claim was added by the amendment.
+ In the Remarks portion of the amendment, the practitioner express his belief that no fees are required
+ by the amendment, but nevertheless gave authorization to charge any fees to the practitioner's account,
+ nn-nnnn, if any fees are necessary, including fees for any required extension of time. A duplicate copy
+ of the amendment was filed. No fees were submitted with the amendment. Assuming nn-nnnn is a valid deposit
+ account, which of the following statements is true?
+"
+"
+(A) The amendment should be entered with no fees charged to practitioner's deposit account. 
+(B) The amendment should be entered, but the fee for a second month extension of time should be charged
+ to the practitioner's deposit account. 
+(C) The amendment should not be entered because it is untimely. 
+(D) The request to charge any required fees, including fees for any necessary extension of time, is ineffective
+ because it was not made in a separate paper. 
+(E) Statements (C) and (D) are true.
+"
+"
+
+
+ANSWER: (B). The petition for extension of time filed February 14, 2010 provided applicant with a one-month
+ extension of time from the original due date, February 12, 2010 (not from the date the petition was
+ filed). See MPEP § 710.01(a). Thus, the extended due date was Sunday, March 12, which means a reply
+ was due by Monday, March 13. Since an additional extension of time is needed, (A) is incorrect. Under
+ the provisions of 37 CFR § 1.136(a)(3), applicant's statement is treated as a constructive petition
+ for extension of time. MPEP § 710.02(e). (C) is incorrect because applicant's statement in the Remarks
+ portion of the amendment acted as a constructive petition for extension of time and, therefore, the
+ amendment is timely. There is no need for the petition to appear in a separate paper, so (D) is not
+ correct. (E) is incorrect because (C) and (D) are both incorrect.
+
+
+"
+EPC3 December 2017 - 1
+"
+In the course of prosecuting a patent application, you receive a final rejection wherein the examiner
+ has set a 3 month shortened statutory period for reply. You file an initial reply with a Certificate
+ of Mailing in accordance with 37 C.F.R. § 1.8 within 2 months of the final rejection mail date. The
+ examiner responds with an Advisory Action having a mail date before the end of the 3 month shortened
+ statutory period. In accordance with proper PTO practice and procedure, the fee for an extension of
+ time for applicant to take subsequent appropriate action in the PTO is calculated from:
+"
+"
+(A) the mail date of the Advisory Action. 
+(B) the date your reply is received by the PTO. 
+(C) the date your reply is mailed with a Certificate of Mailing in accordance with 37 C.F.R. § 1.8. 
+(D)
+ the mail date, of the Final Rejection. 
+(E) the date the shortened statutory period expires.
+"
+"
+
+
+(E) is correct and (A), (B), (C), and (D) are wrong because MPEP § 710.02(e), right column of page 700-83,
+ recites, ""If applicant initially replies within 2 months from the date of mailing of a final rejection
+ and the examiner mails an advisory action before the end of 3 months from 
+the date of mailing of the
+ final rejection, the shortened statutory period will expire at the end of 3 months from the date of
+ mailing of the final rejection. In such a case, any extension fee would then be calculated from the
+ end of the 3-month period.""
+
+
+"
+EPC3 January 2018 - 1
+"
+In a non-provisional utility patent application filed January 12, 1999, the examiner sends Applicant
+ a final Office action dated February 14, 2001, rejecting claim 1 under 35 U.S.C § 102(a), and objecting
+ as to the form of claims 2 through 10. The examiner sets a three- month shortened statutory period for
+ reply. According to USPTO rules and procedure, which of the following by Applicant ensures that the
+ application does not go abandoned on Wednesday, August 15, 2001?
+"
+"
+(A) Mailing to the USPTO, using a certificate of mailing under 37 CFR 1.8, dated August 14, 2001, a petition
+ and fee for an extension of three months, a request for a continued prosecution application, and the
+ fee for a request for a continued prosecution application. The foregoing is received by the USPTO on
+ August 17, 2001. 
+(B) Mailing to the USPTO, using a certificate of mailing under 37 CFR 1.8, dated August 14, 2001, a petition
+ and fee for an extension of three months, a request for continued examination with a submission that
+ meets the reply requirements of 37 CFR 1.111, and the fee for a request for continued examination. The
+ foregoing is received by the USPTO on August 17, 2001. 
+(C) Mailing to the USPTO, using a certificate of mailing under 37 CFR 1.8, dated August 14, 2001, a petition
+ and fee for an extension of three months. The foregoing is received by the USPTO on August 17, 2001.
+ Also, telephoning the examiner on August 14, 2001 to discuss the rejections of claims in the final Office
+ action, but without reaching an agreement with the examiner. 
+(D) Mailing to the USPTO a petition and fee for an extension of three months, a request for continued
+ examination with a reply that states, ""Applicant requests that objections as to form be held in abeyance
+ until allowable subject matter is indicated, at which time Applicant will reply to the rejection of
+ claim 1,"" and the fee for a request for continued examination. The foregoing is received by the USPTO
+ on August 14, 2001. 
+(E) Each of items (A), (B), (C) and (D) would ensure that the application does not go abandoned on Wednesday,
+ August 15, 2001.
+"
+"
+
+
+(B) is the correct answer. 37 CFR 1.8, and 1.114, effective date August 16, 2000, ""Request for Continued
+ Examination Practice and Changes to Provisional Application Practice; Final Rule,"" 65 FR 50092, 50096;
+ MPEP § 706.07(h), paragraph I. (pg. 700-69) (8th Ed.). Prosecution in the application is closed because
+ the last Office action is a final action. 37 CFR 1.114(b). In (B), the facts given indicate that the
+ submission meets the reply requirements of 37 CFR 1.111. Thus, according to 37 CFR 1.114(d), the Office
+ will withdraw the finality of the Office action and the submission in (B) will be entered and considered.
+ 65 FR 50096, columns 2-3, state, ""There are a number of additional differences between request for continued
+ examination procedure set forth in this notice with the CPA procedure set forth in § 1.53(d) resulting
+ from the fact that a CPA is the filing of a new application, whereas continued examination under § 1.114
+ merely continues the examination of the same application...(4) a request for continued examination under
+ § 1.114 is entitled to the benefit of a certificate of mailing under § 1.8 (cf. 1.8(a)(2)(i)(A))...."";
+ see also the comparison chart on pg. 700-78 to 700- 81 of MPEP § 707.07(h) (8 th Ed.).
+
+
+"
+EPC3 March 2018 - 1
+"
+In early 2007, X, a company based in Canada, developed a widget with increased reflective properties.
+ X filed a patent application in the Canadian Patent Office on January 8, 2007, and filed a corresponding
+ application in the USPTO on January 5, 2008. All research activities for the inventions disclosed and
+ claimed in the U.S. and Canadian applications took place in Canada. The U.S. patent application contains
+ five claims: 
+1. A widget comprising elements A and B. 2. A widget according to Claim I wherein the
+ widget further includes element D. 3. A widget comprising elements A and C. 4. A widget according to
+ Claim 3 wherein the widget further includes element E. 5. A widget comprising elements A, B, and C.
+ 
+The Canadian application only supports claims 1, 2, and 5 of the U.S. application. During the course
+ of prosecution of the U.S. application, the examiner properly rejected all of the claims under 35 U.S.C.
+ § 102(e) as being anticipated by a U.S. patent assigned to Z. The Z patent was granted on October 6,
+ 2008, on a U.S. application filed on June 15, 2007. The Z patent specifically describes, but does not
+ claim, the widget in claims 1-5 of the U.S. application filed by X. The subject matter of the Z patent
+ was reduced to practice in Monterey, California as of February 12, 2007. Which of the following proposed
+ arguments or actions would properly overcome the examiner's § 102(e) rejection with respect to all the
+ claims?
+"
+"
+(A) File an affidavit under 37 CFR § 1.132 swearing behind the claims of the Z patent by relying on the
+ 2007 research activities of X in Canada. 
+(B) File a claim for a right of priority based on the application filed in Canada along with a certified
+ copy of the Canadian patent application and canceling Claims 3 and 4. 
+(C) File a claim for a right of priority based on the application filed in Canada along with a certified
+ copy of the Canadian patent application. 
+(D) File an affidavit under 37 CFR § 1.132 swearing behind the February 12, 2007, reduction to practice
+ date of the Z patent. 
+(E) File a terminal disclaimer.
+"
+"
+
+
+ANSWER: (B) is the most correct answer. MPEP §§ 706.02(b); 2136.05. (A) and (D) are incorrect because
+ an affidavit under 37 CFR § 1.132 is inappropriate in this situation. MPEP § 715.01. (C) Will not result
+ in overcoming the rejection of claims 3 and 4 inasmuch as the disclosure of the Canadian patent application
+ only supported claims 1, 2, and 5. (E) is not correct because a terminal disclaimer will not overcome
+ a 35 USC § 102(e) rejection. MPEP § 2136.05.
+
+
+"
+EPC3 March 2018 - 1
+"
+In early 2007, X, a company based in Canada, developed a widget with increased reflective properties.
+ X filed a patent application in the Canadian Patent Office on January 8, 2007, and filed a corresponding
+ application in the USPTO on January 5, 2008. All research activities for the inventions disclosed and
+ claimed in the U.S. and Canadian applications took place in Canada. The U.S. patent application contains
+ five claims: 
+1. A widget comprising elements A and B. 2. A widget according to Claim I wherein the
+ widget further includes element D. 3. A widget comprising elements A and C. 4. A widget according to
+ Claim 3 wherein the widget further includes element E. 5. A widget comprising elements A, B, and C.
+ 
+The Canadian application only supports claims 1, 2, and 5 of the U.S. application. During the course
+ of prosecution of the U.S. application, the examiner properly rejected all of the claims under 35 U.S.C.
+ § 102(e) as being anticipated by a U.S. patent assigned to Z. The Z patent was granted on October 6,
+ 2008, on a U.S. application filed on June 15, 2007. The Z patent specifically describes, but does not
+ claim, the widget in claims 1-5 of the U.S. application filed by X. The subject matter of the Z patent
+ was reduced to practice in Monterey, California as of February 12, 2007. Which of the following proposed
+ arguments or actions would properly overcome the examiner's § 102(e) rejection with respect to all the
+ claims?
+"
+"
+(A) File an affidavit under 37 CFR § 1.132 swearing behind the claims of the Z patent by relying on the
+ 2007 research activities of X in Canada. 
+(B) File a claim for a right of priority based on the application filed in Canada along with a certified
+ copy of the Canadian patent application and canceling Claims 3 and 4. 
+(C) File a claim for a right of priority based on the application filed in Canada along with a certified
+ copy of the Canadian patent application. 
+(D) File an affidavit under 37 CFR § 1.132 swearing behind the February 12, 2007, reduction to practice
+ date of the Z patent. 
+(E) File a terminal disclaimer.
+"
+"
+
+
+ANSWER: (B) is the most correct answer. MPEP §§ 706.02(b); 2136.05. (A) and (D) are incorrect because
+ an affidavit under 37 CFR § 1.132 is inappropriate in this situation. MPEP § 715.01. (C) Will not result
+ in overcoming the rejection of claims 3 and 4 inasmuch as the disclosure of the Canadian patent application
+ only supported claims 1, 2, and 5. (E) is not correct because a terminal disclaimer will not overcome
+ a 35 USC § 102(e) rejection. MPEP § 2136.05.
+
+
+"
+EPC3 April 2018 - 1
+"
+Assume that conception of applicant's complex invention occurred prior to the date of the reference,
+ but reduction to practice occurred after the date of the reference. Which of the following is sufficient
+ to overcome the reference in accordance with proper pre-AIA USPTO practice and procedure?
+"
+"
+(A) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to allege that applicant or patent owner
+ has been diligent. 
+(B) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to clearly establish conception of the
+ invention prior to the effective date of the reference, and diligence from just prior to the effective
+ date of the reference to actual reduction to practice. The presence of a lapse of time between the reduction
+ to practice of an invention and the filing of an application thereon is not relevant. 
+(C) In a 37 CFR 1.131 affidavit or declaration it is sufficient to clearly establish conception of the
+ invention prior to the effective date of the reference. Diligence need not be considered. 
+(D) In a 37 CFR 1.131 affidavit or declaration, it is sufficient to show conception and reduction to
+ practice in any country. 
+(E) In a 37 CFR 1.131 affidavit or declaration, it is always sufficient to prove actual reduction to
+ practice for all mechanical inventions by showing plans for the construction of the claimed apparatus.
+"
+"
+
+
+(B) is the most correct answer. MPEP § 715.07(a).
+
+
+"
+EPC3 July 2018 - 2
+"
+X discovered that a silver insert for a metal cutting tool may be bonded (with a far superior bond strength
+ over other known methods of attachment) to a steel tool holder. X filed a patent application on his
+ invention which contained the following two claims: 
+(1) A method of bonding a silver insert to a steel
+ tool holder comprising the steps of 
+providing a layer of polystick at the interface of the holder and
+ insert, heating the holder, insert and polystick to a temperature of 250°F. and thereafter cooling the
+ holder, insert, and polystick at a rate of between 12° and 13°F. per hour until a temperature of 120°F.
+ is reached. (2) A silver insert bonded to a steel holder by the method of claim 1. 
+The examiner rejected
+ Claim 1 under 35 U.S.C. § 103 as being unpatentable over a U.S. patent to Y in view of a British patent
+ to Z. The examiner rejected Claim 2 under 35 U.S.C. § 102(b) as being anticipated by the patent to Y.
+ The patent to Y teaches that a silver insert is bonded to a steel tool holder by utilizing a layer of
+ polystick at the interface of the insert and holder, but makes no mention of any particular temperatures.
+ The patent to Z teaches that in a grinding tool, diamond chips may be ""securely fastened"" to a ceramic
+ holder by applying a layer of polystick at the interface of the diamonds and holder, heating the holder,
+ chips, and polystick to a temperature of 150°F. and thereafter ""slowly"" cooling the holder. Which of
+ the following, if any, if submitted with a reply to the Office action, would be most persuasive and
+ most likely overcome the examiner's rejection of Claim 2?
+"
+"
+(A) Evidence that a gear-cutting Chine which includes a silver insert bonded to a steel tool holder as
+ set forth in Claim 1 is outselling all other such Chines by a two-to-one margin. 
+(B) An affidavit by X that, in his opinion, the patent to Z is inoperative. 
+(C) Evidence that heavy advertising resulted in increased sales of X's invention. 
+(D) An affidavit by X showing that there is a long felt need in the industry for X's silver insert to
+ a steel tool holder. 
+(E) None of the above.
+"
+"
+
+
+ANSWER: (E) is the correct answer. MPEP §§ 2131.04; 706.02(b). Claim 2 was rejected as being anticipated
+ by the patent to Y. As set forth in MPEP § 706.02(b), a rejection based on 35 USC § 102(b) can be overcome
+ by ""(A) Persuasively arguing that the claims are patentably distinguishable from the prior art; or (B)
+ Amending the claims to patentably distinguish over the prior art."" Evidence of secondary considerations
+ is irrelevant to § 102 rejections and thus cannot overcome a rejection so based. MPEP § 2131.04, citing
+ In re Wiggins, 488 F.2d 538, 543; 179 USPQ 421, 425 (CCPA 1973).
+
+
+"
+EPC3 September 2018 - 1
+"
+A non- final Office action in a pending patent application was mailed on Friday, March 16, 2001. The
+ patent examiner set a three month shortened statutory period for reply. The applicant petitioned for
+ a one- month extension of time on Monday, June 18, 2001 and paid the appropriate one- month extension
+ fee. An Amendment responsive to the Office action was filed Tuesday, July 17, 2001. In the Remarks portion
+ of the Amendment, the applicant stated: ""It is believed that no fees are required by the present Amendment.
+ However, if any fees are necessary, including fees for any required extension of time, the Director
+ of the United States Patent and Trademark Office is hereby authorized to charge any such fees to applicant's
+ deposit account number nn- nnnn. A duplicate copy of this paper is enclosed."" No fees were submitted
+ with the Amendment. Assuming nn- nnnn is a valid deposit account with sufficient funds deposited, which
+ of the following statements is true?
+"
+"
+(A) The Amendment should not be entered because it is untimely. 
+(B) The Amendment should be entered with no fees charged to applicant's deposit account. 
+(C) The Amendment should be entered, but the fee for a second month extension of time should be charged
+ to applicant's deposit account. 
+(D) The request to charge any required fees, including fees for any necessary extension of time, is ineffective
+ because it was not made in a separate paper. 
+(E) Statements (A) and (D) are true.
+"
+"
+
+
+The most correct answer is (C). The petition for extension of time filed June 18, 2001 provided applicant
+ with a one- month extension of time from the original due date, June 16, 2001 (not from the date the
+ petition was filed). See MPEP § 710.01(a). Thus, the extended due date was Monday, July 16. Since an
+ additional extension of time is needed, (B) is incorrect. Under the provisions of 37 CFR 1.136(a)(3),
+ applicant's statement is treated as a constructive petition for extension of time. MPEP § 710.02(e).
+ (A) is incorrect because applicant's statement in the Remarks portion of the Amendment acted as a constructive
+ petition for extension of time and, therefore, the Amendment is timely. There is no need for the petition
+ to appear in a separate paper, so (D) is not correct. (E) is incorrect because (A) and (D) are both
+ incorrect.
+
+
+"
+EPC3 September 2018 - 1
+"
+A non- final Office action in a pending patent application was mailed on Friday, March 16, 2001. The
+ patent examiner set a three month shortened statutory period for reply. The applicant petitioned for
+ a one- month extension of time on Monday, June 18, 2001 and paid the appropriate one- month extension
+ fee. An Amendment responsive to the Office action was filed Tuesday, July 17, 2001. In the Remarks portion
+ of the Amendment, the applicant stated: ""It is believed that no fees are required by the present Amendment.
+ However, if any fees are necessary, including fees for any required extension of time, the Director
+ of the United States Patent and Trademark Office is hereby authorized to charge any such fees to applicant's
+ deposit account number nn- nnnn. A duplicate copy of this paper is enclosed."" No fees were submitted
+ with the Amendment. Assuming nn- nnnn is a valid deposit account with sufficient funds deposited, which
+ of the following statements is true?
+"
+"
+(A) The Amendment should not be entered because it is untimely. 
+(B) The Amendment should be entered with no fees charged to applicant's deposit account. 
+(C) The Amendment should be entered, but the fee for a second month extension of time should be charged
+ to applicant's deposit account. 
+(D) The request to charge any required fees, including fees for any necessary extension of time, is ineffective
+ because it was not made in a separate paper. 
+(E) Statements (A) and (D) are true.
+"
+"
+
+
+The most correct answer is (C). The petition for extension of time filed June 18, 2001 provided applicant
+ with a one- month extension of time from the original due date, June 16, 2001 (not from the date the
+ petition was filed). See MPEP § 710.01(a). Thus, the extended due date was Monday, July 16. Since an
+ additional extension of time is needed, (B) is incorrect. Under the provisions of 37 CFR 1.136(a)(3),
+ applicant's statement is treated as a constructive petition for extension of time. MPEP § 710.02(e).
+ (A) is incorrect because applicant's statement in the Remarks portion of the Amendment acted as a constructive
+ petition for extension of time and, therefore, the Amendment is timely. There is no need for the petition
+ to appear in a separate paper, so (D) is not correct. (E) is incorrect because (A) and (D) are both
+ incorrect.
+
+
+"
+EPC3 February 2019 - 1
+"
+Regarding amendments to the specification of an application or the claims in an application, which of
+ the following is not true?
+"
+"
+(A) If an amendment signed by the applicant is received in an application in which there is a duly appointed
+ registered patent attorney or agent, the amendment should be entered and acted upon. 
+(B) Where, by amendment under 37 C.F.R. § 1.121(a), a dependent claim is rewritten to be in independent
+ form, the subject matter from the prior independent claim is considered to be ""added"" matter and should
+ be underlined. 
+(C) Any amendment using parentheses to indicate canceled matter in a claim rewritten under 37 C.F.R.
+ 1. 12 1 (a) may be held nonresponsive. 
+(D) Amendments to the original patent drawings in a reissue application are not permitted. Any change
+ to the patent drawings must be by way of a new sheet of drawings with the amended figures identified
+ as ""amended"" and with added figures identified as ""new"" for each sheet changed. 
+(E) Amendment to the claims in a nonprovisional application, other than a reissue application may be
+ made by specifying only the exact matter to be added or deleted, and the precise point where the deletion
+ or insertion is to be made, where the change is limited to deletions and/or additions of no more than
+ ten words in any one claim.
+"
+"
+
+
+ANSWER: (E). Amendment in said manner is limited to Examiner's amendments not applicant amendments. Thus,
+ the answer is not true. (A) is true, and therefore an incorrect answer. MPEP § 714.01(d). (B) is true,
+ and therefore an incorrect answer. MPEP § 714.22. (C) is true, and therefore an incorrect answer. 37
+ CFR § 1.121(a); MPEP § 714.22. (D) is true, and therefore an incorrect answer. 37 CFR § 1.121(b)(3)(i).
+
+
+"
+EPC3 February 2019 - 2
+"
+In response to a final rejection dated February 4, 2007, with a three month shortened statutory period
+ for response, you call the examiner in charge of the patent application to schedule a first interview
+ on July 3, 2007, to discuss further narrowing the scope of claim limitations. Your request for an interview
+ should be
+"
+"
+(A) denied because your request is after the expiration of the shortened statutory period for response
+ 
+(B) granted only if applicant pays the extension fee for the expired time. 
+(C) granted. 
+(D) denied because interviews are not permitted after the final Office action. 
+(E) granted only if you have a proposed amendment and pay the extension fee.
+"
+"
+
+
+(C). Interviews may be held without charge for an extension of time during the six month statutory period
+ for responding to an Office action. MPEP 706.07(f). Choices (A), (B), and (E) are wrong because interviews
+ may be held after the expiration of the shortened statutory period and prior to the maximum permitted
+ statutory period of 6 months without charge for an extension of time. MPEP 713.09. (D) is wrong because
+ interviews are permitted after final rejection in accordance with 
+MPEP 713.09.
+
+
+"
+EPC3 February 2019 - 2
+"
+In response to a final rejection dated February 4, 2007, with a three month shortened statutory period
+ for response, you call the examiner in charge of the patent application to schedule a first interview
+ on July 3, 2007, to discuss further narrowing the scope of claim limitations. Your request for an interview
+ should be
+"
+"
+(A) denied because your request is after the expiration of the shortened statutory period for response
+ 
+(B) granted only if applicant pays the extension fee for the expired time. 
+(C) granted. 
+(D) denied because interviews are not permitted after the final Office action. 
+(E) granted only if you have a proposed amendment and pay the extension fee.
+"
+"
+
+
+(C). Interviews may be held without charge for an extension of time during the six month statutory period
+ for responding to an Office action. MPEP 706.07(f). Choices (A), (B), and (E) are wrong because interviews
+ may be held after the expiration of the shortened statutory period and prior to the maximum permitted
+ statutory period of 6 months without charge for an extension of time. MPEP 713.09. (D) is wrong because
+ interviews are permitted after final rejection in accordance with 
+MPEP 713.09.
+
+
+"
+EPC3 February 2019 - 3
+"
+You are prosecuting an application for inventor X that receives a rejection under pre-AIA 35 U.S.C. §
+ 102(b) based on a U.S. patent to Jones that discloses and claims the same invention. Which of the following,
+ if any, will overcome the rejection?
+"
+"
+(A) An affidavit or declaration showing that Jones is not the true inventor. 
+(B) An affidavit or declaration showing commercial success of the X invention. 
+(C) An affidavit or declaration containing an argument that the invention claimed in the X application
+ provides synergistic results. 
+(D) An affidavit or declaration swearing back of the Jones patent. 
+(E) None of the above.
+"
+"
+
+
+ANSWER: (E) 37 CFR §§ 131, and 1.132; and MPEP § § 706.02(b), 715, and 716.
+
+
+"
+EPC3 February 2019 - 3
+"
+You are prosecuting an application for inventor X that receives a rejection under pre-AIA 35 U.S.C. §
+ 102(b) based on a U.S. patent to Jones that discloses and claims the same invention. Which of the following,
+ if any, will overcome the rejection?
+"
+"
+(A) An affidavit or declaration showing that Jones is not the true inventor. 
+(B) An affidavit or declaration showing commercial success of the X invention. 
+(C) An affidavit or declaration containing an argument that the invention claimed in the X application
+ provides synergistic results. 
+(D) An affidavit or declaration swearing back of the Jones patent. 
+(E) None of the above.
+"
+"
+
+
+ANSWER: (E) 37 CFR §§ 131, and 1.132; and MPEP § § 706.02(b), 715, and 716.
+
+
+"
+EPC3 February 2019 - 3
+"
+You are prosecuting an application for inventor X that receives a rejection under pre-AIA 35 U.S.C. §
+ 102(b) based on a U.S. patent to Jones that discloses and claims the same invention. Which of the following,
+ if any, will overcome the rejection?
+"
+"
+(A) An affidavit or declaration showing that Jones is not the true inventor. 
+(B) An affidavit or declaration showing commercial success of the X invention. 
+(C) An affidavit or declaration containing an argument that the invention claimed in the X application
+ provides synergistic results. 
+(D) An affidavit or declaration swearing back of the Jones patent. 
+(E) None of the above.
+"
+"
+
+
+ANSWER: (E) 37 CFR §§ 131, and 1.132; and MPEP § § 706.02(b), 715, and 716.
+
+
+"
+EPC3 April 2019 - 2
+"
+Select from the following an answer which completes the following statement, such that the completed
+ statement accords with proper USPTO practice and procedure pre-AIA: ""When the reference in question
+ is a noncommonly owned U.S. patent claiming the same invention as applicant, and its issue date is ____________________""
+"
+"
+(A) less than one year prior to the presentation of claims to that invention in the application being
+ examined, applicant's remedy, if any, is by way of requesting an interference. 
+(B) exactly one year prior to the presentation of claims to that invention in the application being examined,
+ applicant's remedy, if any, is by way of requesting an interference. 
+(C) more than one year prior to the presentation of claims to that invention in the application being
+ examined, applicant's remedy, if any, is by way of requesting an interference. 
+(D) less than one year prior to the presentation of claims to that invention in the application being
+ examined, applicant's remedy, if any, is by way of affidavit or declaration ""swearing back"" of reference.
+ 
+(E) less than one year prior to the presentation of claims to that invention in the application being
+ examined, applicant's remedy, if any, is by way of affidavit or declaration traversing the ground of
+ rejection.
+"
+"
+
+
+(A) is the most correct answer, while (D) is not the most correct answer. See MPEP § 715.05, which ,
+ in pertinent part, states: When the reference in question is a noncommonly owned U.S. patent claiming
+ the same invention as applicant and its issue date is less than 1 year prior to the presentation of
+ claims to that invention in the application being examined, applicant's remedy, if any, must be by way
+ of 37 CFR § 1.608 instead of 37 CFR § 1.131... . The reference patent can then be overcome only by way
+ of interference. (B) and (C) are not the most correct answers. See MPEP § 715.05, which, in pertinent
+ part, states: If the patent is claiming the same invention as the application and its issue date is
+ 1 year or more prior to the presentation of claims to that invention in the application, a rejection
+ of the claims of the application under 35 USC § 135(b) should be made. See In re McGrew, 120 F.3d 1236,
+ 1238, 43 USPQ2d 1632, 1635 (Fed.Cir. 1997) (The court holding that application of 35 USC § 135(b) is
+ not limited to inter partes interference proceedings, but may be used as a basis for ex parte rejections.).
+ (E) is a wrong answer because an affidavit or declaration traversing a ground of rejection may be received
+ only where the reference ""substantially shows or describes but does not claim the same patentable invention.""
+ 37 CFR § 1.132.
+
+
+"
+EPC3 May 2019 - 1
+"
+You filed a patent application for a client containing a claim to a composition wherein X is defined
+ as follows: ""X is a member selected from the group consisting of elements A, B, and C."" The claim is
+ properly rejected under pre-AIA 35 U.S.C. § 102(b) as being anticipated by a reference describing the
+ same composition invention wherein X is element A. The rejection may be properly overcome by:
+"
+"
+(A) Amending the claim by canceling elements B and C because the reference is concerned only with element
+ A. 
+(B) Arguing that the reference is not relevant because it lacks elements B and C. 
+(C) Amending the claim by canceling element A from the Markus group. 
+(D) Amending the claim by changing ""consisting of"" to ""consisting essentially of."" 
+(E) Amending the claim to redefine X as ""being a member selected from the group comprising elements A,
+ B, and C.""
+"
+"
+
+
+ANSWER: (C). 35 USC 102(b); and MPEP §§ 715.03, 2111.03, and 2173.05(h). Deletion of the anticipated
+ element from the claim leaves an invention, which is no longer anticipated by the reference. (A), (D),
+ and (E) are incorrect because despite the amendments, the claim remains anticipated since the claim
+ is still directed to the invention described in the reference wherein X is element A. For example, in
+ (D) and (E), element A would still be a member of the group and the claim would still be anticipated
+ by the prior art. (B) is incorrect because the argument does not change the fact that the claim remains
+ anticipated by the same invention described in the reference wherein X is element A. (E) is incorrect
+ because 66comprising"" cannot be used in a proper Markush group.
+
+
+"
+EPC3 June 2019 - 1
+"
+A rejection based on pre-AIA 35 U.S.C. § 102(a) cannot be overcome by:
+"
+"
+(A) Filing an affidavit under 37 C.F.R. § 1. 1 32 showing that the reference invention is not by ""another.""
+ 
+(B) Perfecting a claim to priority under 35 U.S.C. § 119(a)-(d). 
+(C) Filing an affidavit under 37 C.F.R. § 1.131 ""swearing back"" of a U.S. patent which substantially
+ shows or describes, and claims the same patentable invention as the rejected invention. 
+(D) Amending the claims to patentably distinguish over the prior art. 
+(E) Persuasively arguing that the claims are patentably distinguishable from the prior art.
+"
+"
+
+
+ANSWER: (C) is the correct answer because 37 CFR § 1.131 requires that the reference not claim the same
+ patentable invention as the rejected invention. (A), (B), (D), and (E) are wrong because MPEP § 706.02(b)
+ identifies these answers as actions that can be taken to overcome a 35 USC § 102(a) rejection.
+
+
+"
+EPC3 June 2019 - 3
+"
+Today, April 12, 2010, is the last day of a three month shortened statutory period for reply to a non-final
+ rejection over references under 35 U.S.C. § 103. Today, your client, located overseas, requests in a
+ facsimile that you cancel all of the current claims in the application, and advises that a new set of
+ claims to replace the current claims will be sent to you no later than April 29, 2010. There is no deposit
+ account. The client pays all fees in a timely manner. In accordance with proper PTO practice and procedure,
+ which of the following is the most appropriate course of action to take regarding the non-final rejection?
+"
+"
+(A) Await receipt of the new claims and necessary fees, and then file the amendment, request for reconsideration,
+ and appropriate fee for an extension of time, no more than six months from the date of the non-final
+ rejection. 
+(B) File a request for a one month extension of time today and pay the fee when you file the amendment.
+ 
+(C) File an amendment today canceling all claims in accordance with your client's instructions. 
+(D) File a request for reconsideration today, stating only that ""[t]he rejection is in error because
+ the claims define a patentable invention."" 
+(E) File a request for reconsideration today, and state that a supplemental amendment will be forthcoming.
+"
+"
+
+
+ANSWER: (A). 37 CFR § 1. III; MPEP § 714.02. (B) is incorrect because the fee must be paid when the request
+ for extension of time is made. 37 CFR § 1.136(A); MPEP 710.02(E). (C) is incorrect. The client did not
+ give instructions to file the amendment today. Further, an amendment canceling all claims is non-responsive
+ to the non-formal rejection. As stated in 37 CFR § 1. III (B), ""In order to be entitled to reconsideration..,
+ the applicant ... must reply to the Office action. The reply ... must be reduced to a writing which
+ distinctly and specifically points out the supposed errors in the examiner's action and must reply to
+ every ground of objection and rejection in the prior Office action."" MPEP § 714.19, item (H). (D) is
+ incorrect. ""A general allegation that the claims define a patentable invention without specifically
+ pointing out how the language of the claims patentably distinguishes them from the references does not
+ comply with the requirements of this section."" 37 CFR § 1. I I I (B). (E) is incorrect inasmuch as it
+ does not comply with 37 CFR § 1. I I I (B).
+
+
+"
+EPC3 June 2019 - 3
+"
+Today, April 12, 2010, is the last day of a three month shortened statutory period for reply to a non-final
+ rejection over references under 35 U.S.C. § 103. Today, your client, located overseas, requests in a
+ facsimile that you cancel all of the current claims in the application, and advises that a new set of
+ claims to replace the current claims will be sent to you no later than April 29, 2010. There is no deposit
+ account. The client pays all fees in a timely manner. In accordance with proper PTO practice and procedure,
+ which of the following is the most appropriate course of action to take regarding the non-final rejection?
+"
+"
+(A) Await receipt of the new claims and necessary fees, and then file the amendment, request for reconsideration,
+ and appropriate fee for an extension of time, no more than six months from the date of the non-final
+ rejection. 
+(B) File a request for a one month extension of time today and pay the fee when you file the amendment.
+ 
+(C) File an amendment today canceling all claims in accordance with your client's instructions. 
+(D) File a request for reconsideration today, stating only that ""[t]he rejection is in error because
+ the claims define a patentable invention."" 
+(E) File a request for reconsideration today, and state that a supplemental amendment will be forthcoming.
+"
+"
+
+
+ANSWER: (A). 37 CFR § 1. III; MPEP § 714.02. (B) is incorrect because the fee must be paid when the request
+ for extension of time is made. 37 CFR § 1.136(A); MPEP 710.02(E). (C) is incorrect. The client did not
+ give instructions to file the amendment today. Further, an amendment canceling all claims is non-responsive
+ to the non-formal rejection. As stated in 37 CFR § 1. III (B), ""In order to be entitled to reconsideration..,
+ the applicant ... must reply to the Office action. The reply ... must be reduced to a writing which
+ distinctly and specifically points out the supposed errors in the examiner's action and must reply to
+ every ground of objection and rejection in the prior Office action."" MPEP § 714.19, item (H). (D) is
+ incorrect. ""A general allegation that the claims define a patentable invention without specifically
+ pointing out how the language of the claims patentably distinguishes them from the references does not
+ comply with the requirements of this section."" 37 CFR § 1. I I I (B). (E) is incorrect inasmuch as it
+ does not comply with 37 CFR § 1. I I I (B).
+
+
+"
+EPC3 June 2019 - 3
+"
+Today, April 12, 2010, is the last day of a three month shortened statutory period for reply to a non-final
+ rejection over references under 35 U.S.C. § 103. Today, your client, located overseas, requests in a
+ facsimile that you cancel all of the current claims in the application, and advises that a new set of
+ claims to replace the current claims will be sent to you no later than April 29, 2010. There is no deposit
+ account. The client pays all fees in a timely manner. In accordance with proper PTO practice and procedure,
+ which of the following is the most appropriate course of action to take regarding the non-final rejection?
+"
+"
+(A) Await receipt of the new claims and necessary fees, and then file the amendment, request for reconsideration,
+ and appropriate fee for an extension of time, no more than six months from the date of the non-final
+ rejection. 
+(B) File a request for a one month extension of time today and pay the fee when you file the amendment.
+ 
+(C) File an amendment today canceling all claims in accordance with your client's instructions. 
+(D) File a request for reconsideration today, stating only that ""[t]he rejection is in error because
+ the claims define a patentable invention."" 
+(E) File a request for reconsideration today, and state that a supplemental amendment will be forthcoming.
+"
+"
+
+
+ANSWER: (A). 37 CFR § 1. III; MPEP § 714.02. (B) is incorrect because the fee must be paid when the request
+ for extension of time is made. 37 CFR § 1.136(A); MPEP 710.02(E). (C) is incorrect. The client did not
+ give instructions to file the amendment today. Further, an amendment canceling all claims is non-responsive
+ to the non-formal rejection. As stated in 37 CFR § 1. III (B), ""In order to be entitled to reconsideration..,
+ the applicant ... must reply to the Office action. The reply ... must be reduced to a writing which
+ distinctly and specifically points out the supposed errors in the examiner's action and must reply to
+ every ground of objection and rejection in the prior Office action."" MPEP § 714.19, item (H). (D) is
+ incorrect. ""A general allegation that the claims define a patentable invention without specifically
+ pointing out how the language of the claims patentably distinguishes them from the references does not
+ comply with the requirements of this section."" 37 CFR § 1. I I I (B). (E) is incorrect inasmuch as it
+ does not comply with 37 CFR § 1. I I I (B).
+
+
+"
+EPC3 August 2019 - 1
+"
+Inventor Jones retained registered practitioner P to Prepare and file a patent application claiming Jones'
+ invention. P prepared and filed the application together with a declaration wherein Jones appointed
+ P to represent him and conduct all business before the PTO. While P was away on a vacation, Jones filed
+ a preliminary amendment in the application amending the claims, and no Office action on the merits was
+ issued by the PTO examiner. The amendment was signed by Jones, but not P. When P returned from vacation,
+ Jones provided P with a copy of the amendment. Upon review of the amendment, P realized that the scope
+ of the claims had been broadened, that the broadened claims are supported by the original disclosure,
+ and that the claims now read upon prior art which Jones disclosed to P, but which was not disclosed
+ in the specification. The prior art reference is not material to the patentability of the original claims
+ in the application. Which of the following actions of P accords with proper PTO practice and procedure
+ and is the most likely to place the application in condition for allowance?
+"
+"
+(A) File a supplemental amendment arguing that the Jones amendment should not be entered on the ground
+ that 7 CFR § 1.33 provides that ""Double correspondence with an applicant and his attorney or agent.
+ . . will not be undertaken."" 
+(B) File a supplemental amendment canceling all amendatory changes effected by the Jones amendment. 
+(C)
+ File a supplemental amendment which (1) cancels all the claims in the patent application, (2) adds the
+ original claims, and (3) argues that the newly added claims are supported by the disclosure. 
+(D) File a supplemental amendment which (1) adds the original claims, (2) cites to the examiner the prior
+ art reference disclosed by Jones to P with an explanation of how the newly added claims patentably distinguish
+ over such prior art reference, and argues that the added claims are supported by the disclosure. 
+(E) File a supplemental amendment which (1) adds the original claims, (2) cites to the examiner the prior
+ art reference disclosed by Jones to P with an explanation of how all the claims in the application patentably
+ distinguish over such prior reference, and (3) argues that all the claims in the application are supported
+ by the disclosure.
+"
+"
+
+
+ANSWER: (C). 37 CFR § 1.56; MPEP 2001.04. ""There is no duty to submit information which is not material
+ to the patentability of any existing claim."" (A) is wrong because the amendment will be entered per
+ MPEP 714.01(d). (B) is wrong because the amendment does not comply with 37 CFR §§ 1.119, 1.121, and
+ 1.124, and could not be entered. As stated in 37 CFR § 1.124, ""when an amendatory clause is to be amended,
+ it should be wholly rewritten and the original insertion canceled, so that no interlineations or deletions
+ shall appear in the clause as finally presented. Matter canceled by amendment can be reinstated only
+ by a subsequent amendment presenting the canceled matter as a new insertion."" See also MPEP 714.24.
+ (D) and (E) do not place the application in condition for allowance because the claims submitted by
+ Jones, which read upon the prior art disclosed by Jones to P, are still contained in the application.
+
+
+"
