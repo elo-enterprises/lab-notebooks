@@ -87,7 +87,7 @@ This page contains data on the individual components of the printer, as well as 
 |--------|----------|-----------------------------|------|---------|-----------------|-----------|--------|--------------|
 | 001 | ELC | Electronic Box | 1 | | [1-23 (1x)](system-assembly--repair.md#part-1--step-23-installing-the-electronics-box-and-drag-chains) | Electronic Box |
 | 002 | Motors | Motech Stepper Motor 60mm | 5 | | [1-14 (5x)](system-assembly--repair.md#part-1--step-14-installing-the-motors) | Nema 17 Motor 60mm | Modix | $50 |
-| 003 | Motors | Motech Stepper Motor 40mm | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Nema 17 Motor 40mm |
+| 003 | Motors | Motech Stepper Motor 40mm | 1 | | [1-19 (1x)](system-assembly--repair.md#part-1--step-19-assembling-the-extruder) | Nema 17 Motor 40mm | Modix | $70 |
 | 004 | Motors | X Motor Cable | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X, Y, & Z Motor Wires |
 | 005 | Motors | Y Motor Cable | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X, Y, & Z Motor Wires |
 | 006 | Motors | Z Motor Cable | 1 | | [2-01 (1x)](system-assembly--repair.md#part-2--step-1-wiring-the-motors-and-end-stops) | X, Y, & Z Motor Wires |
