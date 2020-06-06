@@ -4,6 +4,21 @@
 
 This page contains data on problems encountered in printer operation, as well as a list of troubleshooting references at the bottom of the page.
 
+
+------------
+## Current Issues
+
+EEPROM / UBL Fine-Tuning
+* produce grid of small parts across the entire bed
+
+Grinding / Stripping Filament
+
+Install Casters
+
+Test Detailed Hot End
+
+Purchase Supervolcano 3mm Hot End Package
+
 ------------
 ## Z Motors Binding Up
 [Main Page - Troubleshooting Issues List](README.md#troubleshooting-issues)
