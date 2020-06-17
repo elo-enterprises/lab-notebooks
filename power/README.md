@@ -32,15 +32,21 @@
 | [Charge regulator](#https://www.amazon.com/gp/product/B07CK2PCC7) | ~80x45x21 mm; 50v/20A max; IP68 Waterproof;  | Huine | [photo](img/huine.jpg) | Amazon user questions are a good resource here (see product page) |
 | [Distribution bus bar](https://www.amazon.com/gp/product/B07C4W7YKG/) | 180 amps @ 12 vdc | Varies | N/A | Screwable bus-bar, insulating protective caps |
 | [DIN Rail](https://www.amazon.com/gp/product/B01JH2RZWC) | 35mm x 7.5mm x 8" | Varies | N/A | Bracketing standard for industrial automation |
+| [DIN Enclosure](https://www.amazon.com/dp/B07FTXHZCC) | 5RU; 17”W x 8.7”H x 8”D, 15.8" DIN space | RLH Industries, Inc. | N/A | Durable, but heavy for non-rack (i.e. wall) mount at ~12 lbs |
 
-# System Assembly & Repair
+# Important Standards
+
+## Wiring Standards
+
+AWG (american wire gauge).  Some common ratings for ampacity:
+
+[More](https://www.iconnsystems.com/blog/ampacity) [details]()
 
 ## DIN Rail Standards
 
 Mainly 35 mm × 7.5 mm, see also [wikipedia](https://en.wikipedia.org/wiki/DIN_rail)
 
 <img src=img/din-spec.jpg>
-
 
 ## Rack Standards
 
