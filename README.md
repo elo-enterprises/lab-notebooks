@@ -17,7 +17,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <table style="width:100%;">
       <tr>
-        <th colspan=3>Public Hardware Projects</th>
+        <th colspan=4>Public Hardware Projects</th>
       </tr>
       <tr>
         <td>
@@ -36,6 +36,12 @@
           <a href="solar/">
             <img src="img/power.png" width=45px>
             Power
+          </a>
+        </td>
+        <td>
+          <a href="solar/">
+            <img src="img/sbcs.png" width=45px>
+            SBCs
           </a>
         </td>
       </tr>
