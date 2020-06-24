@@ -40,7 +40,7 @@
 
 AWG (american wire gauge).  Some common ratings for ampacity:
 
-[More](https://www.iconnsystems.com/blog/ampacity) [details]()
+[More](https://www.iconnsystems.com/blog/ampacity) [details](https://www.cerrowire.com/wp-content/uploads/2018/09/ampacity091418.pdf)
 
 ## DIN Rail Standards
 
