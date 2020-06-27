@@ -33,9 +33,10 @@
 | atomic pi | placeholder  | placeholder | placeholder) | placeholder |
 | jetson nano | placeholder  | placeholder | placeholder) | placeholder |
 | beagleboard | placeholder  | placeholder | placeholder) | placeholder |
-| intel aero | placeholder  | placeholder | placeholder) | placeholder |
 | pine64 | placeholder  | placeholder | placeholder) | placeholder |
-| asus tinker | placeholder  | placeholder | placeholder) | placeholder |
+| tinker | placeholder  | asus | placeholder) | placeholder |
+| aero | placeholder  | intel | placeholder) | placeholder |
+| revpi | placeholder  | kunbus | placeholder) | industrial, interesting analog io modules |
 
 # Base Images
 
