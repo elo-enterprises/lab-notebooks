@@ -12,7 +12,7 @@
     </th>
   </tr>
   <tr>
-    <td width=15%><img src=../img/power.png style="width:150px"></td>
+    <td width=15%><img src=../img/sbc.png style="width:150px"></td>
     <td>
     Lab Notebook for SBCs, expansion boards, sensors, etc for IoT applications.
     </td>
@@ -28,6 +28,10 @@
 | pi zero | placeholder  | placeholder | placeholder) | placeholder |
 | pi2 | placeholder  | placeholder | placeholder) | placeholder |
 | pi3 | placeholder  | placeholder | placeholder) | placeholder |
+| pi4 | placeholder  | placeholder | placeholder) | placeholder |
+| orange pi | placeholder  | placeholder | placeholder) | placeholder |
+| atomic pi | placeholder  | placeholder | placeholder) | placeholder |
+| jetson nano | placeholder  | placeholder | placeholder) | placeholder |
 
 # Base Images
 
@@ -43,6 +47,6 @@ Placeholder
 
 # Related Work & References
 
-* Placeholder
-* Placeholder
-* Placeholder
+* [cloudinit docs](https://cloudinit.readthedocs.io/en/latest/)
+* [raspberry valley](https://raspberry-valley.azurewebsites.net/)
+* [raspbian docs](https://www.raspberrypi.org/documentation/)
