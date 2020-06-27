@@ -32,6 +32,10 @@
 | orange pi | placeholder  | placeholder | placeholder) | placeholder |
 | atomic pi | placeholder  | placeholder | placeholder) | placeholder |
 | jetson nano | placeholder  | placeholder | placeholder) | placeholder |
+| beagleboard | placeholder  | placeholder | placeholder) | placeholder |
+| intel aero | placeholder  | placeholder | placeholder) | placeholder |
+| pine64 | placeholder  | placeholder | placeholder) | placeholder |
+| asus tinker | placeholder  | placeholder | placeholder) | placeholder |
 
 # Base Images
 
