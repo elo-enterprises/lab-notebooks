@@ -1,0 +1,19 @@
+# Compose file for launching an environment for octoprint development
+version: '3.7'
+
+services:
+  # a67b3fabe3ae linux/amd64
+  # 18ab08a68bcb linux/arm/v7
+  # e6a40faededb linux/arm64
+  octoprint:
+    image: octoprint/octoprint
+    ports:
+      - 5000:5000
+    # devices:
+    #  - /dev/ttyACM0:/dev/ttyACM0
+    volumes:
+     - octoprint:/home/octoprint
+     - /dev/bus/usb:/dev/bus/usb
+    privileged: yes
+volumes:
+  octoprint:
