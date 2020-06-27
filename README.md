@@ -40,7 +40,7 @@
         </td>
         <td>
           <a href="solar/">
-            <img src="img/sbcs.png" width=45px>
+            <img src="img/sbc.png" width=45px>
             SBCs
           </a>
         </td>
