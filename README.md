@@ -33,13 +33,13 @@
           </a>
         </td>
         <td>
-          <a href="solar/">
+          <a href="power/">
             <img src="img/power.png" width=45px>
             Power
           </a>
         </td>
         <td>
-          <a href="solar/">
+          <a href="sbc/">
             <img src="img/sbc.png" width=45px>
             SBCs
           </a>
