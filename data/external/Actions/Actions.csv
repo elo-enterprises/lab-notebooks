@@ -1,0 +1,113 @@
+Action Categories,"Acting 
+Agent",Action Title,"Receiving 
+Agent","Preceding 
+Action Titles","USPTO 
+Form Code","USPTO 
+Form Title","Submittal 
+Options",Fee,"Fee 
+SmallEntity?",Due Date,"Due Date 
+Extendable?","Who Can 
+Sign","Certified Owner 
+Required?","SMIndex 
+Item Name"
+3 - Ownership and Assignment,Applicant,File Assignment Document,USPTO,,,,Fax OK; NO EFS-Web (use EPAS),,,,,,,
+,Applicant,File Authorization to Charge Deposit Account,USPTO,,,,Fax OK,,,,,,,
+"2 - Types of Applications; 
+15 - Design Applications",Applicant,File Design Application,USPTO,,AIA/18,Design Patent Application Transmittal,NO FAX,,,,,,,
+"2 - Types of Applications; 
+29 - International Design Applications",Applicant,File International Design Application,"USRO; 
+WIPO",,,,NO FAX,,,,,,,
+"2 - Types of Applications; 
+18 - PCT Applications",Applicant,File International Utility Application,"USRO; 
+WIPO",,,,NO FAX,,,,,,,
+"2 - Types of Applications; 
+18 - PCT Applications",Applicant,File Submission to Enter the PCT National Stage,"USPTO; 
+WIPO",,,,NO FAX,,,,,,,
+2 - Types of Applications,Applicant,File Provisional Utility Application,USPTO,,SB/16,Provisional Application for Patent Cover Sheet,NO FAX,,,,,,,
+24 - Biotechnology,Applicant,Deposit Biological Samples,USPTO,,,,,,,,,,,
+2 - Types of Applications,Applicant,File Utility Application,USPTO,"File Provisional Utility Application; 
+Deposit Biological Samples; ",AIA/15,Utility Patent Application Transmittal,NO FAX,,,,,,,
+"2 - Types of Applications; 
+16 - Plant Applications",Applicant,File Plant Application,USPTO,File Provisional Utility Application; ,AIA/19,Plant Patent Application Transmittal,NO FAX; NO EFS-Web,,,,,,,
+"2 - Types of Applications; 
+1 - Foreign Filing",Applicant,File Utility Application in a Foreign Country,OtherCountryRO,File Provisional Utility Application; ,-,-,,,,,,,,
+7 - Examinations,USPTO,Issue Filing Receipt,Applicant,"File Design Application; 
+File Submission to Enter the PCT National Stage; 
+File Provisional Utility Application; 
+File Plant Application; 
+File Utility Application; ",-,-,-,,,,,,,
+7 - Examinations,OPAP,Issue Notice to File Corrected Application Papers,Applicant,"File Design Application; 
+File Submission to Enter the PCT National Stage; 
+File Provisional Utility Application; 
+File Plant Application; 
+File Utility Application; ",-,-,-,,,,,,,
+7 - Examinations,OPAP,Issue Notice to File Missing Parts,Applicant,"File Design Application; 
+File Submission to Enter the PCT National Stage; 
+File Provisional Utility Application; 
+File Plant Application; 
+File Utility Application; ",-,-,-,,,,,,,
+2 - Types of Applications,Applicant,File Request to Convert Provisional to Non-Provisional Application,USPTO,File Provisional Utility Application; ,,,,,,,,,,
+2 - Types of Applications,Applicant,File Request to Convert Non-Provisional to Provisional Application,USPTO,"File Plant Application; 
+File Utility Application; ",,,,,,,,,,
+7 - Examinations,Applicant,File ADS,USPTO,Issue Filing Receipt; ,AIA/14,Application Data Sheet,,,,,,,,
+7 - Oath or Declaration,Applicant,File Declaration For Utility Or Design Application Using An ADS,USPTO,File ADS; ,AIA/01,File Declaration (37 CFR 1.63) For Utility Or Design Application Using An Application Data Sheet (37 CFR 1.76),Fax OK,,,,,,,
+7 - Information Disclosure Statement,Applicant,File IDS,USPTO,File Declaration For Utility Or Design Application Using An ADS; ,SB/08a; SB/08b,Information Disclosure Statement by Applicant,Fax OK,,,,,,,
+11 - SIR,Applicant,File Request for SIR,USPTO,File IDS; ,,,-,,,,,,,
+11 - Publication,Applicant,File Nonpublication Request,USPTO,File IDS; ,SB/35,Nonpublication Request under 35 U.S.C. 122(b)(2)(B)(i),,,,,,,,
+11 - Publication,Applicant,File Rescission of Previous Nonpublication Request and Notice of Foreign Filing,USPTO,File Nonpublication Request; ,SB/36,"Rescission of Previous Nonpublication Request (35 U.S.C. 122(b)(2)(B)(ii)) and, if applicable, Notice of Foreign Filing (35 U.S.C. 122(b)(2)(B)(iii))",,,,,,,,
+11 - Publication,USPTO,Pre-Grant Publication,Public,"File IDS; 
+File Rescission of Previous Nonpublication Request and Notice of Foreign Filing; ",-,-,-,,,,,,,
+11 - Pre-issuance Submissions,ThirdParty,File Pre-issuance Submission,USPTO,File IDS; ,,,NO FAX,,,,,,,
+8 - Restrictions,USPTO,Double-Patenting Rejection,Applicant,File IDS; ,-,-,-,,,,,,,
+8 - Restrictions,USPTO,Issue Restriction,Applicant,File IDS; ,-,-,-,,,,,,,
+"2 - Types of Applications; 
+8 - Divisional Applications",Applicant,File Divisional Application,USPTO,Issue Restriction; ,,,,,,,,,,
+9 - Search,USPTO,Classification,USPTO,File IDS; ,-,-,-,,,,,,,
+9 - Search,USPTO,Search,USPTO,Classification; ,-,-,-,,,,,,,
+9 - Search,USPTO,Comparison to Prior Art,USPTO,Search; ,-,-,-,,,,,,,
+7 - Examinations,USPTO,First Office Action,Applicant,Comparison to Prior Art; ,-,-,-,,,,,,,
+7 - Examinations,Applicant,File Request for Interview,USPTO,First Office Action; ,PTOL-413A,Applicant Initiated Interview Request Form,,,,,,,,
+14 - Corrections,Applicant,File Certificate of Correction,USPTO,First Office Action; ,SB/44,Certificate of Correction,,,,,,,,
+7 - Examinations,Applicant,File Extension Request,USPTO,First Office Action; ,,,,,,,,,,
+7 - Examinations,Applicant,File Amendment,USPTO,First Office Action; ,,,Fax OK,,,,,,,
+7 - Abandonment,USPTO,Abandonment,Applicant,First Office Action; ,-,-,-,,,,,,,
+7 - Abandonment,Applicant,File Petition for Express Abandonment,USPTO,First Office Action; ,AIA/24,Petition for Express Abandonment Under 37 CFR 1.138,Fax OK,,,,,,,
+7 - Abandonment,Applicant,File Petition for Express Abandonment To Avoid Publication,USPTO,First Office Action; ,AIA/24A,Petition for Express Abandonment To Avoid Publication Under 37 CFR 1.138(c),Fax OK,,,,,,,
+7 - Abandonment,Applicant,File Petition for Express Abandonment To Obtain a Refund,USPTO,First Office Action; ,AIA/24B,Petition for Express Abandonment To Obtain a Refund,Fax OK,,,,,,,
+7 - Abandonment,Applicant,File Revival Petition,USPTO,Abandonment; ,,,Fax OK,,,,,,,
+7 - Examinations,Applicant,File Reply to Office Action,USPTO,First Office Action; ,,,,,,,,,,
+7 - Examinations,USPTO,Final Office Action,Applicant,File Reply to Office Action; ,-,-,-,,,,,,,
+19 - Protest,ThirdParty,File Protest,USPTO,Final Office Action; ,,,NO FAX,,,,,,,
+12 - Appeals,Applicant,File Notice of Appeal,PTAB,Final Office Action; ,AIA/31,Notice of Appeal,Fax OK,,,,,,,
+12 - Appeals,Applicant,File Appeal Brief,PTAB,File Notice of Appeal; ,,,Fax OK,,,,,,,
+12 - Appeals,Applicant,File Request for Oral Hearing Before the PTAB,PTAB,File Notice of Appeal; ,AIA/32,Request for Oral Hearing Before the PTAB,,,,,,,,
+12 - Appeals,Applicant,File Pre-Appeal Brief Request for Review,PTAB,File Notice of Appeal; ,AIA/33,Pre-Appeal Brief Request for Review,,,,,,,,
+12 - Appeals,Applicant,File Certification and Transmittal of Appeal Forwarding Fee,PTAB,File Notice of Appeal; ,AIA/34,Certification and Transmittal of Appeal Forwarding Fee,,,,,,,,
+Requests for Continued Examination,Applicant,File RCE,USPTO,Final Office Action; ,SB/30,Request for Continued Examination (RCE) Transmittal,Fax OK,,,,,,,
+"2 - Types of Applications; 
+2 - Continuation Applications",Applicant,File Continuation Application,USPTO,Final Office Action; ,,,NO FAX,,,,,,,
+"2 - Types of Applications; 
+15 - Design Applications",Applicant,File Continued Prosecution Application (Design),USPTO,Final Office Action; ,,,Fax OK,,,,,,,
+"2 - Types of Applications; 
+2 - CIP Applications",Applicant,File Continuation-In-Part Application,USPTO,Final Office Action; ,,,NO FAX,,,,,,,
+13 - Allowance and Issue,USPTO,Issue Notice of Allowance and Fees Due,Applicant,Final Office Action; ,-,-,-,,,,,,,
+27 - Terms and Extensions,Applicant,File Terminal Disclaimer,USPTO,Issue Notice of Allowance and Fees Due; ,,,Fax OK,,,,,,,
+27 - Terms and Extensions,Applicant,File Patent Term Adjustment Statement,USPTO,Issue Notice of Allowance and Fees Due; ,SB/133,Patent Term Adjustment Statement Under 37 CFR 1.704(d),,,,,,,,
+13 - Allowance and Issue,Applicant,Pay Issue Fee,USPTO,Issue Notice of Allowance and Fees Due; ,,,Fax OK,,,,,,,
+13 - Allowance and Issue,USPTO,Issue Patent,Applicant,Pay Issue Fee; ,-,-,-,,,,,,,
+25 - Maintenance Fees,Applicant,File Maintenance Fee,USPTO,Issue Patent; ,SB/45,Maintenance Fee Transmittal,No EFS-Web w/o petition (use Online Store),,,,,,,
+23 - Interference Proceedings,USPTO,Interference Proceedings,Applicant,Issue Patent; ,-,-,-,,,,,,,
+23 - Derivation Proceedings,USPTO,Derivation Proceedings,Applicant,Issue Patent; ,-,-,-,,,,,,,
+28 - Supplemental Examinations,Applicant,File Request For SE,USPTO,Issue Patent; ,SB/59,Request For Supplemental Examination Transmittal Form,NO FAX,,,,,,,
+28 - Supplemental Examinations,USPTO,Issue SE Certificate,Applicant,File Request For SE; ,-,-,-,,,,,,,
+22 - Post-Grant Submissions,ThirdParty,File Post-Grant Submission,USPTO,Issue Patent; ,,,NO FAX,,,,,,,
+22 - Ex Parte Reexaminations,ThirdParty,File Request for EPR,USPTO,Issue Patent; ,SB/57,Request for Ex Parte Reexamination Transmittal Form,NO FAX,,,,,,,
+22 - Ex Parte Reexaminations,USPTO,Issue EPR Certificate,Applicant,File Request for EPR; ,-,-,-,,,,,,,
+26 - Inter Partes Reexaminations,ThirdParty,File Request for IPR,USPTO,Issue Patent; ,,,NO FAX; NO EFS-Web,,,,,,,
+"2 - Types of Applications; 
+2 - Reissue Applications",Applicant,File Reissue Application,USPTO,Issue Patent; ,AIA/50,Reissue Patent Application Transmittal,NO FAX,,,,,,,
+2 - Reissue Applications,Applicant,File Reissue Application Fee,USPTO,File Reissue Application; ,SB/56,Reissue Application Fee Transmittal,,,,,,,,
+2 - Reissue Applications,Applicant,File Reissue Application Declaration By The Inventor,USPTO,File Reissue Application; ,AIA/05,Reissue Application Declaration By The Inventor,,,,,,,,
+2 - Reissue Applications,Applicant,File Reissue Application Declaration By The Assignee,USPTO,File Reissue Application; ,AIA/06,Reissue Application Declaration By The Assignee,,,,,,,,
+2 - Reissue Applications,Applicant,File Reissue Application Substitute Oath Statement,USPTO,File Reissue Application; ,AIA/07,Substitute Statement In Lieu Of An Oath Or Declaration For Reissue Patent Application (35 U.S.C. 115(d) And 37 CFR 1.64),,,,,,,,
+2 - Reissue Applications,Applicant,File Reissue Application: Consent of Assignee; Statement of Non-Assignment,USPTO,File Reissue Application; ,AIA/53,Reissue Application: Consent of Assignee; Statement of Non-Assignment,,,,,,,,

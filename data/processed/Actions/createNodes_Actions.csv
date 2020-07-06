@@ -1,0 +1,91 @@
+0,1,2,3
+File Assignment Document,nan,Applicant,USPTO
+File Authorization to Charge Deposit Account,nan,Applicant,USPTO
+File Design Application,nan,Applicant,USPTO
+File International Design Application,nan,Applicant,"USRO; 
+WIPO"
+File International Utility Application,nan,Applicant,"USRO; 
+WIPO"
+File Submission to Enter the PCT National Stage,nan,Applicant,"USPTO; 
+WIPO"
+File Provisional Utility Application,nan,Applicant,USPTO
+Deposit Biological Samples,nan,Applicant,USPTO
+File Utility Application,"File Provisional Utility Application; 
+Deposit Biological Samples;",Applicant,USPTO
+File Plant Application,File Provisional Utility Application;,Applicant,USPTO
+File Utility Application in a Foreign Country,File Provisional Utility Application;,Applicant,OtherCountryRO
+Issue Filing Receipt,"File Design Application; 
+File Submission to Enter the PCT National Stage; 
+File Provisional Utility Application; 
+File Plant Application; 
+File Utility Application;",USPTO,Applicant
+Issue Notice to File Corrected Application Papers,"File Design Application; 
+File Submission to Enter the PCT National Stage; 
+File Provisional Utility Application; 
+File Plant Application; 
+File Utility Application;",OPAP,Applicant
+Issue Notice to File Missing Parts,"File Design Application; 
+File Submission to Enter the PCT National Stage; 
+File Provisional Utility Application; 
+File Plant Application; 
+File Utility Application;",OPAP,Applicant
+File Request to Convert Provisional to Non-Provisional Application,File Provisional Utility Application;,Applicant,USPTO
+File Request to Convert Non-Provisional to Provisional Application,"File Plant Application; 
+File Utility Application;",Applicant,USPTO
+File ADS,Issue Filing Receipt;,Applicant,USPTO
+File Declaration For Utility Or Design Application Using An ADS,File ADS;,Applicant,USPTO
+File IDS,File Declaration For Utility Or Design Application Using An ADS;,Applicant,USPTO
+File Request for SIR,File IDS;,Applicant,USPTO
+File Nonpublication Request,File IDS;,Applicant,USPTO
+File Rescission of Previous Nonpublication Request and Notice of Foreign Filing,File Nonpublication Request;,Applicant,USPTO
+Pre-Grant Publication,"File IDS; 
+File Rescission of Previous Nonpublication Request and Notice of Foreign Filing;",USPTO,Public
+File Pre-issuance Submission,File IDS;,ThirdParty,USPTO
+Double-Patenting Rejection,File IDS;,USPTO,Applicant
+Issue Restriction,File IDS;,USPTO,Applicant
+File Divisional Application,Issue Restriction;,Applicant,USPTO
+Classification,File IDS;,USPTO,USPTO
+Search,Classification;,USPTO,USPTO
+Comparison to Prior Art,Search;,USPTO,USPTO
+First Office Action,Comparison to Prior Art;,USPTO,Applicant
+File Request for Interview,First Office Action;,Applicant,USPTO
+File Certificate of Correction,First Office Action;,Applicant,USPTO
+File Extension Request,First Office Action;,Applicant,USPTO
+File Amendment,First Office Action;,Applicant,USPTO
+Abandonment,First Office Action;,USPTO,Applicant
+File Petition for Express Abandonment,First Office Action;,Applicant,USPTO
+File Petition for Express Abandonment To Avoid Publication,First Office Action;,Applicant,USPTO
+File Petition for Express Abandonment To Obtain a Refund,First Office Action;,Applicant,USPTO
+File Revival Petition,Abandonment;,Applicant,USPTO
+File Reply to Office Action,First Office Action;,Applicant,USPTO
+Final Office Action,File Reply to Office Action;,USPTO,Applicant
+File Protest,Final Office Action;,ThirdParty,USPTO
+File Notice of Appeal,Final Office Action;,Applicant,PTAB
+File Appeal Brief,File Notice of Appeal;,Applicant,PTAB
+File Request for Oral Hearing Before the PTAB,File Notice of Appeal;,Applicant,PTAB
+File Pre-Appeal Brief Request for Review,File Notice of Appeal;,Applicant,PTAB
+File Certification and Transmittal of Appeal Forwarding Fee,File Notice of Appeal;,Applicant,PTAB
+File RCE,Final Office Action;,Applicant,USPTO
+File Continuation Application,Final Office Action;,Applicant,USPTO
+File Continued Prosecution Application (Design),Final Office Action;,Applicant,USPTO
+File Continuation-In-Part Application,Final Office Action;,Applicant,USPTO
+Issue Notice of Allowance and Fees Due,Final Office Action;,USPTO,Applicant
+File Terminal Disclaimer,Issue Notice of Allowance and Fees Due;,Applicant,USPTO
+File Patent Term Adjustment Statement,Issue Notice of Allowance and Fees Due;,Applicant,USPTO
+Pay Issue Fee,Issue Notice of Allowance and Fees Due;,Applicant,USPTO
+Issue Patent,Pay Issue Fee;,USPTO,Applicant
+File Maintenance Fee,Issue Patent;,Applicant,USPTO
+Interference Proceedings,Issue Patent;,USPTO,Applicant
+Derivation Proceedings,Issue Patent;,USPTO,Applicant
+File Request For SE,Issue Patent;,Applicant,USPTO
+Issue SE Certificate,File Request For SE;,USPTO,Applicant
+File Post-Grant Submission,Issue Patent;,ThirdParty,USPTO
+File Request for EPR,Issue Patent;,ThirdParty,USPTO
+Issue EPR Certificate,File Request for EPR;,USPTO,Applicant
+File Request for IPR,Issue Patent;,ThirdParty,USPTO
+File Reissue Application,Issue Patent;,Applicant,USPTO
+File Reissue Application Fee,File Reissue Application;,Applicant,USPTO
+File Reissue Application Declaration By The Inventor,File Reissue Application;,Applicant,USPTO
+File Reissue Application Declaration By The Assignee,File Reissue Application;,Applicant,USPTO
+File Reissue Application Substitute Oath Statement,File Reissue Application;,Applicant,USPTO
+File Reissue Application: Consent of Assignee; Statement of Non-Assignment,File Reissue Application;,Applicant,USPTO
