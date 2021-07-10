@@ -17,7 +17,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <table style="width:100%;">
       <tr>
-        <th colspan=2>Public Hardware Projects</th>
+        <th colspan=4>Public Hardware Projects</th>
       </tr>
       <tr>
         <td>
@@ -30,6 +30,18 @@
           <a href="water-tower/">
             <img src="img/water-tower.png" width=45px>
             WaterTower
+          </a>
+        </td>
+        <td>
+          <a href="power/">
+            <img src="img/power.png" width=45px>
+            Power
+          </a>
+        </td>
+        <td>
+          <a href="sbc/">
+            <img src="img/sbc.png" width=45px>
+            SBCs
           </a>
         </td>
       </tr>
@@ -49,3 +61,7 @@ Open design for a modular, smart, self-contained, off-grid water system / mistin
 ### [Printer](printer/)
 
 Build details, calibration notes, and test prints for a [Modix](http://www.modix3d.com/) large-format 3d printer.
+
+### [Power](power/)
+
+Low-voltage DC storage & distribution notes, plus other hackery for solar/marine/IoT applications.  This work-in-progress includes some links to hardware and kit, calibration notes, etc.
